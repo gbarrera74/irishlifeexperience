@@ -1,0 +1,204 @@
+[
+    {
+        "name": "Bottom Nav",
+        "slug": "bottom-nav",
+        "items": [
+            {
+                "id": 614,
+                "title": "Home",
+                "url": "https://irishlifeexperience.com/",
+                "parent": "0",
+                "order": 1,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "8"
+            }
+        ]
+    },
+    {
+        "name": "Home",
+        "slug": "home",
+        "items": [
+            {
+                "id": 1126,
+                "title": "Programs",
+                "url": "https://irishlifeexperience.com/programs/",
+                "parent": "0",
+                "order": 1,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "1124"
+            },
+            {
+                "id": 698,
+                "title": "Students",
+                "url": "https://irishlifeexperience.com/students/",
+                "parent": "0",
+                "order": 2,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "563"
+            },
+            {
+                "id": 728,
+                "title": "Classes",
+                "url": "https://irishlifeexperience.com/students/classes/",
+                "parent": "698",
+                "order": 3,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "722"
+            },
+            {
+                "id": 1019,
+                "title": "Workshops",
+                "url": "https://irishlifeexperience.com/students/workshops/",
+                "parent": "698",
+                "order": 4,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "1014"
+            },
+            {
+                "id": 1020,
+                "title": "Tours",
+                "url": "https://irishlifeexperience.com/students/tours/",
+                "parent": "698",
+                "order": 5,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "738"
+            },
+            {
+                "id": 3795,
+                "title": "Apply",
+                "url": "https://irishlifeexperience.com/apply/",
+                "parent": "698",
+                "order": 6,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "1299"
+            },
+            {
+                "id": 1181,
+                "title": "Parents",
+                "url": "https://irishlifeexperience.com/parents/",
+                "parent": "0",
+                "order": 7,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "1144"
+            },
+            {
+                "id": 1182,
+                "title": "Accommodations",
+                "url": "https://irishlifeexperience.com/parents/accommodations/",
+                "parent": "1181",
+                "order": 8,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "1176"
+            },
+            {
+                "id": 1183,
+                "title": "FAQ",
+                "url": "https://irishlifeexperience.com/parents/faq/",
+                "parent": "1181",
+                "order": 9,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "1149"
+            },
+            {
+                "id": 2765,
+                "title": "Travel",
+                "url": "https://irishlifeexperience.com/parents/travel/",
+                "parent": "1181",
+                "order": 10,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "2760"
+            },
+            {
+                "id": 677,
+                "title": "Alumni",
+                "url": "https://irishlifeexperience.com/alumni/",
+                "parent": "0",
+                "order": 11,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "675"
+            },
+            {
+                "id": 2655,
+                "title": "In Memoriam",
+                "url": "https://irishlifeexperience.com/in-memoriam/",
+                "parent": "677",
+                "order": 12,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "2650"
+            },
+            {
+                "id": 689,
+                "title": "Gallery",
+                "url": "https://irishlifeexperience.com/gallery/",
+                "parent": "677",
+                "order": 13,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "687"
+            },
+            {
+                "id": 1617,
+                "title": "Blog",
+                "url": "https://irishlifeexperience.com/blog/",
+                "parent": "0",
+                "order": 14,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "1584"
+            },
+            {
+                "id": 774,
+                "title": "About",
+                "url": "https://irishlifeexperience.com/about-us/",
+                "parent": "0",
+                "order": 15,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "763"
+            },
+            {
+                "id": 2547,
+                "title": "Meet the Team",
+                "url": "https://irishlifeexperience.com/meet-the-team/",
+                "parent": "774",
+                "order": 16,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "2542"
+            },
+            {
+                "id": 7426,
+                "title": "Contact",
+                "url": "https://irishlifeexperience.com/contact/",
+                "parent": "774",
+                "order": 17,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "1269"
+            },
+            {
+                "id": 8155,
+                "title": "Testimonials",
+                "url": "https://irishlifeexperience.com/testimonials/",
+                "parent": "774",
+                "order": 18,
+                "type": "post_type",
+                "object": "page",
+                "object_id": "1593"
+            }
+        ]
+    }
+]

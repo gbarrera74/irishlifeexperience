@@ -1,0 +1,144 @@
+{
+    "kit_id": 6,
+    "settings": {
+        "system_colors": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "color": "#6EC1E4"
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "color": "#54595F"
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "color": "#7A7A7A"
+            },
+            {
+                "_id": "accent",
+                "title": "Accent",
+                "color": "#61CE70"
+            }
+        ],
+        "custom_colors": [
+            {
+                "_id": "fc41b48",
+                "title": "New Item #1",
+                "color": "#FFFFFF"
+            },
+            {
+                "_id": "1fa65d1",
+                "title": "New Item #2"
+            },
+            {
+                "_id": "6b1c049",
+                "title": "Black",
+                "color": "#000000"
+            },
+            {
+                "_id": "27c3f38",
+                "title": "Dark Green",
+                "color": "#002B00"
+            },
+            {
+                "_id": "032e6ac",
+                "title": "Logo Green",
+                "color": "#74B843"
+            },
+            {
+                "_id": "5f9eadf",
+                "title": "Medium Green",
+                "color": "#477C2A"
+            },
+            {
+                "_id": "a60ae7e",
+                "title": "Red ",
+                "color": "#E4978E"
+            },
+            {
+                "_id": "baa86bb",
+                "title": "Yellow",
+                "color": "#F8DB6B"
+            },
+            {
+                "_id": "2fa0566",
+                "title": "Blue",
+                "color": "#D5E9F6"
+            },
+            {
+                "_id": "c6ef796",
+                "title": "Background Color",
+                "color": "#F2F2F2"
+            },
+            {
+                "_id": "f3735e1",
+                "title": "Logo Blue",
+                "color": "#1E3A43"
+            },
+            {
+                "_id": "920946a",
+                "title": "Background Color Orange",
+                "color": "#F4EFEB"
+            },
+            {
+                "_id": "e481d42",
+                "title": "Deep Yellow",
+                "color": "#F3C820"
+            }
+        ],
+        "system_typography": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "typography_typography": "custom",
+                "typography_font_family": "Quicksand",
+                "typography_font_weight": "600"
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "typography_typography": "custom",
+                "typography_font_family": "Nothing You Could Do"
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "typography_typography": "custom",
+                "typography_font_family": "Open Sans"
+            },
+            {
+                "_id": "accent",
+                "title": "Accent",
+                "typography_typography": "custom",
+                "typography_font_family": "Dancing Script",
+                "typography_font_weight": "500"
+            }
+        ],
+        "custom_typography": [],
+        "default_generic_fonts": "Sans-serif",
+        "site_name": "Irish Life Experience",
+        "page_title_selector": "h1.entry-title",
+        "activeItemIndex": 1,
+        "viewport_md": 768,
+        "viewport_lg": 1025,
+        "__globals__": {
+            "link_hover_color": "globals/colors?id=5f9eadf",
+            "link_normal_color": "globals/colors?id=5f9eadf"
+        },
+        "site_logo": {
+            "url": "https://irishlifeexperience.com/wp-content/uploads/2021/07/ILE-Logo-Transparent.png",
+            "id": 69,
+            "alt": "",
+            "source": "library"
+        },
+        "site_favicon": {
+            "url": "https://irishlifeexperience.com/wp-content/uploads/2021/10/ILE-Logo-Transparent-e1635272425184.png",
+            "id": 3939,
+            "alt": "",
+            "source": "library"
+        }
+    }
+}

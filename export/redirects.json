@@ -1,0 +1,3998 @@
+[
+    {
+        "url": "/6902/parents-application-and-approval/",
+        "match_url": "/6902/parents-application-and-approval",
+        "action_data": "https://irishlifeexperience.com/6902/parents-application/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/5819/wonderful-waterford/",
+        "match_url": "/5819/wonderful-waterford",
+        "action_data": "https://irishlifeexperience.com/5819/wonderful-waterford-3/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/5739/introducing-kate-vaughn-2014-female-counselor/",
+        "match_url": "/5739/introducing-kate-vaughn-2014-female-counselor",
+        "action_data": "https://irishlifeexperience.com/5739/introducing-kate-vaughn-2015-female-counselor/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "27"
+    },
+    {
+        "url": "/5116/introducing-miles-bryan-your-2013-male-counselor/",
+        "match_url": "/5116/introducing-miles-bryan-your-2013-male-counselor",
+        "action_data": "https://irishlifeexperience.com/5116/introducing-miles-bryan-your-2015-irish-american-history-teacher/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/5116/introducing-miles-bryan-your-2014-senior-male-counselor/",
+        "match_url": "/5116/introducing-miles-bryan-your-2014-senior-male-counselor",
+        "action_data": "https://irishlifeexperience.com/5116/introducing-miles-bryan-your-2015-irish-american-history-teacher/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "31"
+    },
+    {
+        "url": "/5638/introducing-casey-oconnor-your-2014-female-counselor/",
+        "match_url": "/5638/introducing-casey-oconnor-your-2014-female-counselor",
+        "action_data": "https://irishlifeexperience.com/5638/introducing-casey-oconnor-your-2015-female-counselor/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "44"
+    },
+    {
+        "url": "/about-2",
+        "match_url": "/about-2",
+        "action_data": "/about-us/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "92"
+    },
+    {
+        "url": "/about-2",
+        "match_url": "/about-2",
+        "action_data": "/about-us/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/campuses/",
+        "match_url": "/campuses",
+        "action_data": "/parents/accommodations/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "545"
+    },
+    {
+        "url": "/faqs/",
+        "match_url": "/faqs",
+        "action_data": "/parents/faq/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "58"
+    },
+    {
+        "url": "/our-staff/",
+        "match_url": "/our-staff",
+        "action_data": "/meet-the-team/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/for-parents/",
+        "match_url": "/for-parents",
+        "action_data": "/parents/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "46"
+    },
+    {
+        "url": "/the-program/",
+        "match_url": "/the-program",
+        "action_data": "/programs/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "309"
+    },
+    {
+        "url": "/irish-tours/",
+        "match_url": "/irish-tours",
+        "action_data": "/students/tours/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/classes/",
+        "match_url": "/classes",
+        "action_data": "/students/classes/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/workshops/",
+        "match_url": "/workshops",
+        "action_data": "/students/workshops/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/inclusions-and-prices/",
+        "match_url": "/inclusions-and-prices",
+        "action_data": "/inclusions-and-pricing/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/request-information/",
+        "match_url": "/request-information",
+        "action_data": "/contact/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/photo-gallery/",
+        "match_url": "/photo-gallery",
+        "action_data": "/gallery/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "26"
+    },
+    {
+        "url": "/college-tours/",
+        "match_url": "/college-tours",
+        "action_data": "/programs/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "32"
+    },
+    {
+        "url": "/faqs-college-program/",
+        "match_url": "/faqs-college-program",
+        "action_data": "/parents/faq/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "51"
+    },
+    {
+        "url": "/college-campuses/",
+        "match_url": "/college-campuses",
+        "action_data": "/parents/accommodations/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "20"
+    },
+    {
+        "url": "/itinerary-and-calendar/",
+        "match_url": "/itinerary-and-calendar",
+        "action_data": "/programs/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "15"
+    },
+    {
+        "url": "/blog-2/",
+        "match_url": "/blog-2",
+        "action_data": "/blog/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "203"
+    },
+    {
+        "url": "/home/",
+        "match_url": "/home",
+        "action_data": "/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "211"
+    },
+    {
+        "url": "/high-school/",
+        "match_url": "/high-school",
+        "action_data": "/students/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1312"
+    },
+    {
+        "url": "/about/",
+        "match_url": "/about",
+        "action_data": "/about-us/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1143"
+    },
+    {
+        "url": "/classes/",
+        "match_url": "/classes",
+        "action_data": "/students/classes/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/workshops/",
+        "match_url": "/workshops",
+        "action_data": "/students/workshops/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/tours/",
+        "match_url": "/tours",
+        "action_data": "/students/tours/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/accommodations/",
+        "match_url": "/accommodations",
+        "action_data": "/parents/accommodations/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/pricing/",
+        "match_url": "/pricing",
+        "action_data": "/programs/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/classes/",
+        "match_url": "/classes",
+        "action_data": "/students/classes/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/tours/",
+        "match_url": "/tours",
+        "action_data": "/students/tours/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/accommodations/",
+        "match_url": "/accommodations",
+        "action_data": "/parents/accommodations/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/pricing/",
+        "match_url": "/pricing",
+        "action_data": "/programs/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/safety/",
+        "match_url": "/safety",
+        "action_data": "/parents/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/faqs/",
+        "match_url": "/faqs",
+        "action_data": "/parents/faq/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/payments/",
+        "match_url": "/payments",
+        "action_data": "/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/ile-team/",
+        "match_url": "/ile-team",
+        "action_data": "/meet-the-team/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/partners/",
+        "match_url": "/partners",
+        "action_data": "/parents/travel/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/media/",
+        "match_url": "/media",
+        "action_data": "/gallery/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "579"
+    },
+    {
+        "url": "/itenary-calendar/",
+        "match_url": "/itenary-calendar",
+        "action_data": "/parents/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "346"
+    },
+    {
+        "url": "/get-involved/",
+        "match_url": "/get-involved",
+        "action_data": "/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1130"
+    },
+    {
+        "url": "/college-faqs/",
+        "match_url": "/college-faqs",
+        "action_data": "/parents/faq/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/college-irish-life/",
+        "match_url": "/college-irish-life",
+        "action_data": "/programs/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "820"
+    },
+    {
+        "url": "/make-a-donation/",
+        "match_url": "/make-a-donation",
+        "action_data": "/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "270"
+    },
+    {
+        "url": "/request-more-info/",
+        "match_url": "/request-more-info",
+        "action_data": "/apply/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1471"
+    },
+    {
+        "url": "/request-confirmation/",
+        "match_url": "/request-confirmation",
+        "action_data": "/apply/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/submit-a-testimonial/",
+        "match_url": "/submit-a-testimonial",
+        "action_data": "/testimonials/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/brochure-download-confirmation/",
+        "match_url": "/brochure-download-confirmation",
+        "action_data": "/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "29"
+    },
+    {
+        "url": "/download-irish-life-experience-brochure/",
+        "match_url": "/download-irish-life-experience-brochure",
+        "action_data": "/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "542"
+    },
+    {
+        "url": "/top-10-fundraising-ideas-download-confirmation/",
+        "match_url": "/top-10-fundraising-ideas-download-confirmation",
+        "action_data": "/6078/top-10-fundraising-ideas-study-abroad/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "26"
+    },
+    {
+        "url": "/download-the-top-10-ideas-fundraising-study-abroad/",
+        "match_url": "/download-the-top-10-ideas-fundraising-study-abroad",
+        "action_data": "/6078/top-10-fundraising-ideas-study-abroad/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "3289"
+    },
+    {
+        "url": "/thank-you-for-entering-confirmation/",
+        "match_url": "/thank-you-for-entering-confirmation",
+        "action_data": "/thank-you/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "9"
+    },
+    {
+        "url": "/high-school-application-confirmation/",
+        "match_url": "/high-school-application-confirmation",
+        "action_data": "/thank-you/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "33"
+    },
+    {
+        "url": "/download-high-school-application/",
+        "match_url": "/download-high-school-application",
+        "action_data": "/apply/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "261"
+    },
+    {
+        "url": "/college-application-confirmation/",
+        "match_url": "/college-application-confirmation",
+        "action_data": "/apply/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "22"
+    },
+    {
+        "url": "/download-college-application/",
+        "match_url": "/download-college-application",
+        "action_data": "/apply/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "51"
+    },
+    {
+        "url": "/enter-win-scholarship/",
+        "match_url": "/enter-win-scholarship",
+        "action_data": "/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "429"
+    },
+    {
+        "url": "/scholarship-nominations/",
+        "match_url": "/scholarship-nominations",
+        "action_data": "/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "197"
+    },
+    {
+        "url": "/apply-test/",
+        "match_url": "/apply-test",
+        "action_data": "/apply/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "41"
+    },
+    {
+        "url": "/request-more-info-copy/",
+        "match_url": "/request-more-info-copy",
+        "action_data": "/contact/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "140"
+    },
+    {
+        "url": "/8402/elementor-8402/",
+        "match_url": "/8402/elementor-8402",
+        "action_data": "/8402/opening-in-theatres-on-november-12th/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/8402/opening-in-theatres-on-november-12th/",
+        "match_url": "/8402/opening-in-theatres-on-november-12th",
+        "action_data": "/8402/belfast-a-must-see-movie/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/6875/the-summer-that-changed-my-life",
+        "match_url": "/6875/the-summer-that-changed-my-life",
+        "action_data": "/blog/the-summer-that-changed-my-life",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6876/the-most-enlightening-experience-of-my-life",
+        "match_url": "/6876/the-most-enlightening-experience-of-my-life",
+        "action_data": "/blog/the-most-enlightening-experience-of-my-life",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6877/when-strangers-became-lifelong-friends",
+        "match_url": "/6877/when-strangers-became-lifelong-friends",
+        "action_data": "/blog/when-strangers-became-lifelong-friends",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6878/from-student-to-counselor",
+        "match_url": "/6878/from-student-to-counselor",
+        "action_data": "/blog/from-student-to-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6885/transfer-of-participant-agreement",
+        "match_url": "/6885/transfer-of-participant-agreement",
+        "action_data": "/blog/transfer-of-participant-agreement",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/1038/32-more-days",
+        "match_url": "/1038/32-more-days",
+        "action_data": "/blog/32-more-days",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/6879/meet-kendall-drew-2009-ile-counselor",
+        "match_url": "/6879/meet-kendall-drew-2009-ile-counselor",
+        "action_data": "/blog/meet-kendall-drew-2009-ile-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6880/meet-more-ile-staff",
+        "match_url": "/6880/meet-more-ile-staff",
+        "action_data": "/blog/meet-more-ile-staff",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6881/four-more-days-until-the-ile-departs",
+        "match_url": "/6881/four-more-days-until-the-ile-departs",
+        "action_data": "/blog/four-more-days-until-the-ile-departs",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6882/we-are-excited-to-meet-you",
+        "match_url": "/6882/we-are-excited-to-meet-you",
+        "action_data": "/blog/we-are-excited-to-meet-you",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6883/the-ile-has-landed-in-eire",
+        "match_url": "/6883/the-ile-has-landed-in-eire",
+        "action_data": "/blog/the-ile-has-landed-in-eire",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6884/happy-4th-of-july",
+        "match_url": "/6884/happy-4th-of-july",
+        "action_data": "/blog/happy-4th-of-july",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2901/85-degrees-and-beautiful-weather",
+        "match_url": "/2901/85-degrees-and-beautiful-weather",
+        "action_data": "/blog/85-degrees-and-beautiful-weather",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "39"
+    },
+    {
+        "url": "/6886/up-tipperary-and-kilkenny",
+        "match_url": "/6886/up-tipperary-and-kilkenny",
+        "action_data": "/blog/up-tipperary-and-kilkenny",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6904/meet-more-ile-staff-2",
+        "match_url": "/6904/meet-more-ile-staff-2",
+        "action_data": "/blog/meet-more-ile-staff-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6905/the-ile-becomes-hurling-and-gaelic-football-pros",
+        "match_url": "/6905/the-ile-becomes-hurling-and-gaelic-football-pros",
+        "action_data": "/blog/the-ile-becomes-hurling-and-gaelic-football-pros",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6906/the-ile-has-the-gift-of-the-gab",
+        "match_url": "/6906/the-ile-has-the-gift-of-the-gab",
+        "action_data": "/blog/the-ile-has-the-gift-of-the-gab",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6907/a-few-more-pictures",
+        "match_url": "/6907/a-few-more-pictures",
+        "action_data": "/blog/a-few-more-pictures",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6908/the-winning-limerick-on-wilde",
+        "match_url": "/6908/the-winning-limerick-on-wilde",
+        "action_data": "/blog/the-winning-limerick-on-wilde",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6909/bon-voyage-waterford",
+        "match_url": "/6909/bon-voyage-waterford",
+        "action_data": "/blog/bon-voyage-waterford",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6910/leinster-finals",
+        "match_url": "/6910/leinster-finals",
+        "action_data": "/blog/leinster-finals",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6911/well-i-took-a-stroll-on-the-old-long-walk",
+        "match_url": "/6911/well-i-took-a-stroll-on-the-old-long-walk",
+        "action_data": "/blog/well-i-took-a-stroll-on-the-old-long-walk",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6912/inis-mor-bound",
+        "match_url": "/6912/inis-mor-bound",
+        "action_data": "/blog/inis-mor-bound",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2959/moher-of-ireland",
+        "match_url": "/2959/moher-of-ireland",
+        "action_data": "/blog/moher-of-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/6913/how-do-you-tell-an-ileer-is-having-a-good-time",
+        "match_url": "/6913/how-do-you-tell-an-ileer-is-having-a-good-time",
+        "action_data": "/blog/how-do-you-tell-an-ileer-is-having-a-good-time",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6914/fun-times-in-dublin",
+        "match_url": "/6914/fun-times-in-dublin",
+        "action_data": "/blog/fun-times-in-dublin",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6915/catching-up",
+        "match_url": "/6915/catching-up",
+        "action_data": "/blog/catching-up",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6916/in-dublins-fair-city",
+        "match_url": "/6916/in-dublins-fair-city",
+        "action_data": "/blog/in-dublins-fair-city",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6917/more-workshops",
+        "match_url": "/6917/more-workshops",
+        "action_data": "/blog/more-workshops",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6900/northern-ireland",
+        "match_url": "/6900/northern-ireland",
+        "action_data": "/blog/northern-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6918/drama-presentations",
+        "match_url": "/6918/drama-presentations",
+        "action_data": "/blog/drama-presentations",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6901/past-testimonials",
+        "match_url": "/6901/past-testimonials",
+        "action_data": "/blog/past-testimonials",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6902/parents-application",
+        "match_url": "/6902/parents-application",
+        "action_data": "/blog/parents-application",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6903/application-counselor",
+        "match_url": "/6903/application-counselor",
+        "action_data": "/blog/application-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6919/application-teacher",
+        "match_url": "/6919/application-teacher",
+        "action_data": "/blog/application-teacher",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6920/meet-2010-irish-life-experience-counselor-pete-ford",
+        "match_url": "/6920/meet-2010-irish-life-experience-counselor-pete-ford",
+        "action_data": "/blog/meet-2010-irish-life-experience-counselor-pete-ford",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6921/introducing-your-2010-female-counselor",
+        "match_url": "/6921/introducing-your-2010-female-counselor",
+        "action_data": "/blog/introducing-your-2010-female-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6922/irish-life-experience-t-shirts",
+        "match_url": "/6922/irish-life-experience-t-shirts",
+        "action_data": "/blog/irish-life-experience-t-shirts",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6923/failte-go-heirinn",
+        "match_url": "/6923/failte-go-heirinn",
+        "action_data": "/blog/failte-go-heirinn",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6924/wonderful-waterford",
+        "match_url": "/6924/wonderful-waterford",
+        "action_data": "/blog/wonderful-waterford",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6925/cashels-and-castles",
+        "match_url": "/6925/cashels-and-castles",
+        "action_data": "/blog/cashels-and-castles",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6926/happy-4th-of-july-2",
+        "match_url": "/6926/happy-4th-of-july-2",
+        "action_data": "/blog/happy-4th-of-july-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2683/bon-voyage-waterford-dublin-bound",
+        "match_url": "/2683/bon-voyage-waterford-dublin-bound",
+        "action_data": "/blog/bon-voyage-waterford-dublin-bound",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "62"
+    },
+    {
+        "url": "/6927/gaelic-football-and-hurling-masters",
+        "match_url": "/6927/gaelic-football-and-hurling-masters",
+        "action_data": "/blog/gaelic-football-and-hurling-masters",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6928/cork-vs-waterford-hurling",
+        "match_url": "/6928/cork-vs-waterford-hurling",
+        "action_data": "/blog/cork-vs-waterford-hurling",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6929/total-eclipse-of-the-heart",
+        "match_url": "/6929/total-eclipse-of-the-heart",
+        "action_data": "/blog/total-eclipse-of-the-heart",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6930/962",
+        "match_url": "/6930/962",
+        "action_data": "/blog/962",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6931/kilmainham-and-dublin",
+        "match_url": "/6931/kilmainham-and-dublin",
+        "action_data": "/blog/kilmainham-and-dublin",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6932/the-x-factor-ile-style",
+        "match_url": "/6932/the-x-factor-ile-style",
+        "action_data": "/blog/the-x-factor-ile-style",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6933/dublin-days",
+        "match_url": "/6933/dublin-days",
+        "action_data": "/blog/dublin-days",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6934/the-ile-and-tea-at-aras-an-uachtarain",
+        "match_url": "/6934/the-ile-and-tea-at-aras-an-uachtarain",
+        "action_data": "/blog/the-ile-and-tea-at-aras-an-uachtarain",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2728/workshops-galore",
+        "match_url": "/2728/workshops-galore",
+        "action_data": "/blog/workshops-galore",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "58"
+    },
+    {
+        "url": "/6935/prayers-for-peace",
+        "match_url": "/6935/prayers-for-peace",
+        "action_data": "/blog/prayers-for-peace",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6936/fionn-mac-cumhaill-legend-or-truth",
+        "match_url": "/6936/fionn-mac-cumhaill-legend-or-truth",
+        "action_data": "/blog/fionn-mac-cumhaill-legend-or-truth",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2749/carrick-a-rede-craic",
+        "match_url": "/2749/carrick-a-rede-craic",
+        "action_data": "/blog/carrick-a-rede-craic",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/1060/fabulous-friday",
+        "match_url": "/1060/fabulous-friday",
+        "action_data": "/blog/fabulous-friday",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "59"
+    },
+    {
+        "url": "/6937/and-the-winner-is-drum-roll-please",
+        "match_url": "/6937/and-the-winner-is-drum-roll-please",
+        "action_data": "/blog/and-the-winner-is-drum-roll-please",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/1069/greetings-from-galway",
+        "match_url": "/1069/greetings-from-galway",
+        "action_data": "/blog/greetings-from-galway",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/6938/irish-life-experience-2010-playlist",
+        "match_url": "/6938/irish-life-experience-2010-playlist",
+        "action_data": "/blog/irish-life-experience-2010-playlist",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6939/the-beautiful-burren",
+        "match_url": "/6939/the-beautiful-burren",
+        "action_data": "/blog/the-beautiful-burren",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6940/aran-rific",
+        "match_url": "/6940/aran-rific",
+        "action_data": "/blog/aran-rific",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6941/connemara-at-its-best",
+        "match_url": "/6941/connemara-at-its-best",
+        "action_data": "/blog/connemara-at-its-best",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6942/leaving-on-a-jet-plane",
+        "match_url": "/6942/leaving-on-a-jet-plane",
+        "action_data": "/blog/leaving-on-a-jet-plane",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/1143/ireland",
+        "match_url": "/1143/ireland",
+        "action_data": "/blog/ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "68"
+    },
+    {
+        "url": "/6943/welcome-home-irish-life-experience-2010",
+        "match_url": "/6943/welcome-home-irish-life-experience-2010",
+        "action_data": "/blog/welcome-home-irish-life-experience-2010",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6944/thank-you-irish-life-experience-2010-2",
+        "match_url": "/6944/thank-you-irish-life-experience-2010-2",
+        "action_data": "/blog/thank-you-irish-life-experience-2010-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6945/trip-of-a-lifetime",
+        "match_url": "/6945/trip-of-a-lifetime",
+        "action_data": "/blog/trip-of-a-lifetime",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6946/kiss-me-im-irish",
+        "match_url": "/6946/kiss-me-im-irish",
+        "action_data": "/blog/kiss-me-im-irish",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6947/happy-st-patricks-day-from-feis-america",
+        "match_url": "/6947/happy-st-patricks-day-from-feis-america",
+        "action_data": "/blog/happy-st-patricks-day-from-feis-america",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6948/sallie-sams-goes-to-ireland",
+        "match_url": "/6948/sallie-sams-goes-to-ireland",
+        "action_data": "/blog/sallie-sams-goes-to-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/3204/ann-hennessey-memorial-fund",
+        "match_url": "/3204/ann-hennessey-memorial-fund",
+        "action_data": "/blog/ann-hennessey-memorial-fund",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "63"
+    },
+    {
+        "url": "/6949/introducing-edel-coen",
+        "match_url": "/6949/introducing-edel-coen",
+        "action_data": "/blog/introducing-edel-coen",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6950/introducing-levi-morgan",
+        "match_url": "/6950/introducing-levi-morgan",
+        "action_data": "/blog/introducing-levi-morgan",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6951/helpful-advice-from-ile-2010-alumnus-pk-creedon",
+        "match_url": "/6951/helpful-advice-from-ile-2010-alumnus-pk-creedon",
+        "action_data": "/blog/helpful-advice-from-ile-2010-alumnus-pk-creedon",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6958/helpful-advice-from-2010-alumna-sydney-alexander",
+        "match_url": "/6958/helpful-advice-from-2010-alumna-sydney-alexander",
+        "action_data": "/blog/helpful-advice-from-2010-alumna-sydney-alexander",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6959/helpful-advice-from-2010-alumna-piper-martini",
+        "match_url": "/6959/helpful-advice-from-2010-alumna-piper-martini",
+        "action_data": "/blog/helpful-advice-from-2010-alumna-piper-martini",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6960/2011-irish-life-experience-t-shirt",
+        "match_url": "/6960/2011-irish-life-experience-t-shirt",
+        "action_data": "/blog/2011-irish-life-experience-t-shirt",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6961/see-you-tomorrow",
+        "match_url": "/6961/see-you-tomorrow",
+        "action_data": "/blog/see-you-tomorrow",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6962/slan-agat-usa",
+        "match_url": "/6962/slan-agat-usa",
+        "action_data": "/blog/slan-agat-usa",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6963/failte-to-ireland",
+        "match_url": "/6963/failte-to-ireland",
+        "action_data": "/blog/failte-to-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6964/wonderful-waterford-2",
+        "match_url": "/6964/wonderful-waterford-2",
+        "action_data": "/blog/wonderful-waterford-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6965/happy-birthday-connor-cassidy",
+        "match_url": "/6965/happy-birthday-connor-cassidy",
+        "action_data": "/blog/happy-birthday-connor-cassidy",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2859/tremendous-tall-ships",
+        "match_url": "/2859/tremendous-tall-ships",
+        "action_data": "/blog/tremendous-tall-ships",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "41"
+    },
+    {
+        "url": "/6966/from-castles-to-cashels",
+        "match_url": "/6966/from-castles-to-cashels",
+        "action_data": "/blog/from-castles-to-cashels",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6967/living-the-dream-in-waterford",
+        "match_url": "/6967/living-the-dream-in-waterford",
+        "action_data": "/blog/living-the-dream-in-waterford",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6968/waterford-scavenger-hunt",
+        "match_url": "/6968/waterford-scavenger-hunt",
+        "action_data": "/blog/waterford-scavenger-hunt",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2118/a-few-candids",
+        "match_url": "/2118/a-few-candids",
+        "action_data": "/blog/a-few-candids",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "24"
+    },
+    {
+        "url": "/6953/fun-with-limericks",
+        "match_url": "/6953/fun-with-limericks",
+        "action_data": "/blog/fun-with-limericks",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6955/crystal-scones-and-blindie",
+        "match_url": "/6955/crystal-scones-and-blindie",
+        "action_data": "/blog/crystal-scones-and-blindie",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6952/happy-4th-of-july-3",
+        "match_url": "/6952/happy-4th-of-july-3",
+        "action_data": "/blog/happy-4th-of-july-3",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6956/happy-4th-of-july-from-waterford-to-us",
+        "match_url": "/6956/happy-4th-of-july-from-waterford-to-us",
+        "action_data": "/blog/happy-4th-of-july-from-waterford-to-us",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6954/a-bunch-of-blarney-and-put-a-cork-in-it",
+        "match_url": "/6954/a-bunch-of-blarney-and-put-a-cork-in-it",
+        "action_data": "/blog/a-bunch-of-blarney-and-put-a-cork-in-it",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2178/fun-in-waterford",
+        "match_url": "/2178/fun-in-waterford",
+        "action_data": "/blog/fun-in-waterford",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "54"
+    },
+    {
+        "url": "/6957/goodbye-waterford-hello-dublin",
+        "match_url": "/6957/goodbye-waterford-hello-dublin",
+        "action_data": "/blog/goodbye-waterford-hello-dublin",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6969/minute-to-win-it-ile-style",
+        "match_url": "/6969/minute-to-win-it-ile-style",
+        "action_data": "/blog/minute-to-win-it-ile-style",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6970/hula-hoop-races",
+        "match_url": "/6970/hula-hoop-races",
+        "action_data": "/blog/hula-hoop-races",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6971/loving-dublin-life",
+        "match_url": "/6971/loving-dublin-life",
+        "action_data": "/blog/loving-dublin-life",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6972/letter-home",
+        "match_url": "/6972/letter-home",
+        "action_data": "/blog/letter-home",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6973/classes-trad-music-and-discothequesdeadly",
+        "match_url": "/6973/classes-trad-music-and-discothequesdeadly",
+        "action_data": "/blog/classes-trad-music-and-discothequesdeadly",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6974/irish-national-anthem",
+        "match_url": "/6974/irish-national-anthem",
+        "action_data": "/blog/irish-national-anthem",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6975/irish-promises",
+        "match_url": "/6975/irish-promises",
+        "action_data": "/blog/irish-promises",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6976/up-the-dubs",
+        "match_url": "/6976/up-the-dubs",
+        "action_data": "/blog/up-the-dubs",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6977/croker-and-howth",
+        "match_url": "/6977/croker-and-howth",
+        "action_data": "/blog/croker-and-howth",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6978/my-heart-is-dublin-for-ireland",
+        "match_url": "/6978/my-heart-is-dublin-for-ireland",
+        "action_data": "/blog/my-heart-is-dublin-for-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6980/choc-a-bloc-with-workshops",
+        "match_url": "/6980/choc-a-bloc-with-workshops",
+        "action_data": "/blog/choc-a-bloc-with-workshops",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6981/corinna-odonoghue-visits-the-ile",
+        "match_url": "/6981/corinna-odonoghue-visits-the-ile",
+        "action_data": "/blog/corinna-odonoghue-visits-the-ile",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2326/iles-got-talent",
+        "match_url": "/2326/iles-got-talent",
+        "action_data": "/blog/iles-got-talent",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "49"
+    },
+    {
+        "url": "/6979/northern-ireland-bliss",
+        "match_url": "/6979/northern-ireland-bliss",
+        "action_data": "/blog/northern-ireland-bliss",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6982/oscar-wilde-drama-group-steals-the-show",
+        "match_url": "/6982/oscar-wilde-drama-group-steals-the-show",
+        "action_data": "/blog/oscar-wilde-drama-group-steals-the-show",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6983/angies-oracle",
+        "match_url": "/6983/angies-oracle",
+        "action_data": "/blog/angies-oracle",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6984/bell-x1-concert",
+        "match_url": "/6984/bell-x1-concert",
+        "action_data": "/blog/bell-x1-concert",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6985/hello-from-galway",
+        "match_url": "/6985/hello-from-galway",
+        "action_data": "/blog/hello-from-galway",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2399/angie-wins-the-dog-and-tractor",
+        "match_url": "/2399/angie-wins-the-dog-and-tractor",
+        "action_data": "/blog/angie-wins-the-dog-and-tractor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/6986/up-the-dubs-2",
+        "match_url": "/6986/up-the-dubs-2",
+        "action_data": "/blog/up-the-dubs-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6999/girl-talk",
+        "match_url": "/6999/girl-talk",
+        "action_data": "/blog/girl-talk",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6987/ile-icebreakers-the-human-knot",
+        "match_url": "/6987/ile-icebreakers-the-human-knot",
+        "action_data": "/blog/ile-icebreakers-the-human-knot",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2460/waterford-tall-ships-festival",
+        "match_url": "/2460/waterford-tall-ships-festival",
+        "action_data": "/blog/waterford-tall-ships-festival",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/6988/ile-scavenger-hunt-cheers",
+        "match_url": "/6988/ile-scavenger-hunt-cheers",
+        "action_data": "/blog/ile-scavenger-hunt-cheers",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/2478/waterford-crystal",
+        "match_url": "/2478/waterford-crystal",
+        "action_data": "/blog/waterford-crystal",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "72"
+    },
+    {
+        "url": "/6989/en-guard",
+        "match_url": "/6989/en-guard",
+        "action_data": "/blog/en-guard",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6990/a-haon-a-do-a-tri",
+        "match_url": "/6990/a-haon-a-do-a-tri",
+        "action_data": "/blog/a-haon-a-do-a-tri",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6991/dizzy-hurl-relays",
+        "match_url": "/6991/dizzy-hurl-relays",
+        "action_data": "/blog/dizzy-hurl-relays",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6992/hurling-fun",
+        "match_url": "/6992/hurling-fun",
+        "action_data": "/blog/hurling-fun",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6993/minute-to-win-it",
+        "match_url": "/6993/minute-to-win-it",
+        "action_data": "/blog/minute-to-win-it",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6994/hula-hoop-races-2",
+        "match_url": "/6994/hula-hoop-races-2",
+        "action_data": "/blog/hula-hoop-races-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6995/gaelic-football-glory",
+        "match_url": "/6995/gaelic-football-glory",
+        "action_data": "/blog/gaelic-football-glory",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6996/learning-the-irish-national-anthem",
+        "match_url": "/6996/learning-the-irish-national-anthem",
+        "action_data": "/blog/learning-the-irish-national-anthem",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6997/ile-sessiun-music-to-our-ears",
+        "match_url": "/6997/ile-sessiun-music-to-our-ears",
+        "action_data": "/blog/ile-sessiun-music-to-our-ears",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6998/the-oracle-with-angie",
+        "match_url": "/6998/the-oracle-with-angie",
+        "action_data": "/blog/the-oracle-with-angie",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7000/tyler-krell-2",
+        "match_url": "/7000/tyler-krell-2",
+        "action_data": "/blog/tyler-krell-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7002/introducing-shona-aka-scooooones-ni-luineachain-your-2012-female-counselor",
+        "match_url": "/7002/introducing-shona-aka-scooooones-ni-luineachain-your-2012-female-counselor",
+        "action_data": "/blog/introducing-shona-aka-scooooones-ni-luineachain-your-2012-female-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7001/youre-invited-to-the-irish-life-experience-and-irish-way-reunion",
+        "match_url": "/7001/youre-invited-to-the-irish-life-experience-and-irish-way-reunion",
+        "action_data": "/blog/youre-invited-to-the-irish-life-experience-and-irish-way-reunion",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/3916/roseanna-stanfield-goes-to-ireland",
+        "match_url": "/3916/roseanna-stanfield-goes-to-ireland",
+        "action_data": "/blog/roseanna-stanfield-goes-to-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/7003/a-fun-filled-reunion-weekend-had-by-all",
+        "match_url": "/7003/a-fun-filled-reunion-weekend-had-by-all",
+        "action_data": "/blog/a-fun-filled-reunion-weekend-had-by-all",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/3975/introducing-amy-dever-your-2012-female-counselor",
+        "match_url": "/3975/introducing-amy-dever-your-2012-female-counselor",
+        "action_data": "/blog/introducing-amy-dever-your-2012-female-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/4001/helpful-advice-from-ile-2011-alumnus-ryan-cueller",
+        "match_url": "/4001/helpful-advice-from-ile-2011-alumnus-ryan-cueller",
+        "action_data": "/blog/helpful-advice-from-ile-2011-alumnus-ryan-cueller",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "74"
+    },
+    {
+        "url": "/4013/helpful-advice-from-ile-2011-alumnae-raizel-prunes-burstein-frame",
+        "match_url": "/4013/helpful-advice-from-ile-2011-alumnae-raizel-prunes-burstein-frame",
+        "action_data": "/blog/helpful-advice-from-ile-2011-alumnae-raizel-prunes-burstein-frame",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "54"
+    },
+    {
+        "url": "/4025/helpful-advice-from-ile-2011-alumnae-fiona-tomlin",
+        "match_url": "/4025/helpful-advice-from-ile-2011-alumnae-fiona-tomlin",
+        "action_data": "/blog/helpful-advice-from-ile-2011-alumnae-fiona-tomlin",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/4032/more-helpful-advice-from-ile-2011-alumnae-fiona-tomlin",
+        "match_url": "/4032/more-helpful-advice-from-ile-2011-alumnae-fiona-tomlin",
+        "action_data": "/blog/more-helpful-advice-from-ile-2011-alumnae-fiona-tomlin",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "64"
+    },
+    {
+        "url": "/4068/introducing-kevin-shpritzer-your-2012-male-counselor",
+        "match_url": "/4068/introducing-kevin-shpritzer-your-2012-male-counselor",
+        "action_data": "/blog/introducing-kevin-shpritzer-your-2012-male-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "69"
+    },
+    {
+        "url": "/4103/olympic-hopeful-melinda-owen",
+        "match_url": "/4103/olympic-hopeful-melinda-owen",
+        "action_data": "/blog/olympic-hopeful-melinda-owen",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/4114/we-cant-wait-to-see-you-tomorrow",
+        "match_url": "/4114/we-cant-wait-to-see-you-tomorrow",
+        "action_data": "/blog/we-cant-wait-to-see-you-tomorrow",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "59"
+    },
+    {
+        "url": "/4125/the-summer-of-a-lifetime-begins",
+        "match_url": "/4125/the-summer-of-a-lifetime-begins",
+        "action_data": "/blog/the-summer-of-a-lifetime-begins",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "50"
+    },
+    {
+        "url": "/4153/im-not-short",
+        "match_url": "/4153/im-not-short",
+        "action_data": "/blog/im-not-short",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "34"
+    },
+    {
+        "url": "/4141/welcome-to-waterford",
+        "match_url": "/4141/welcome-to-waterford",
+        "action_data": "/blog/welcome-to-waterford",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/4166/gaelic-football-and-hurling-wey-hey",
+        "match_url": "/4166/gaelic-football-and-hurling-wey-hey",
+        "action_data": "/blog/gaelic-football-and-hurling-wey-hey",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "64"
+    },
+    {
+        "url": "/4183/happy-birthday-rosie",
+        "match_url": "/4183/happy-birthday-rosie",
+        "action_data": "/blog/happy-birthday-rosie",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/4188/up-the-dubs-3",
+        "match_url": "/4188/up-the-dubs-3",
+        "action_data": "/blog/up-the-dubs-3",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/4210/images-of-a-lifetime-a-few-candids",
+        "match_url": "/4210/images-of-a-lifetime-a-few-candids",
+        "action_data": "/blog/images-of-a-lifetime-a-few-candids",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/4201/yoiio-youre-only-in-ireland-once",
+        "match_url": "/4201/yoiio-youre-only-in-ireland-once",
+        "action_data": "/blog/yoiio-youre-only-in-ireland-once",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "50"
+    },
+    {
+        "url": "/4243/happy-birthday-james",
+        "match_url": "/4243/happy-birthday-james",
+        "action_data": "/blog/happy-birthday-james",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "59"
+    },
+    {
+        "url": "/4229/happy-4th-of-july-from-ireland",
+        "match_url": "/4229/happy-4th-of-july-from-ireland",
+        "action_data": "/blog/happy-4th-of-july-from-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "53"
+    },
+    {
+        "url": "/4282/winning-limerick",
+        "match_url": "/4282/winning-limerick",
+        "action_data": "/blog/winning-limerick",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "61"
+    },
+    {
+        "url": "/4307/atha-cliath-bound",
+        "match_url": "/4307/atha-cliath-bound",
+        "action_data": "/blog/atha-cliath-bound",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "52"
+    },
+    {
+        "url": "/4353/images-of-a-lifetime-a-few-candids-2",
+        "match_url": "/4353/images-of-a-lifetime-a-few-candids-2",
+        "action_data": "/blog/images-of-a-lifetime-a-few-candids-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "53"
+    },
+    {
+        "url": "/4324/slainte",
+        "match_url": "/4324/slainte",
+        "action_data": "/blog/slainte",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "45"
+    },
+    {
+        "url": "/4391/away-with-the-fairies",
+        "match_url": "/4391/away-with-the-fairies",
+        "action_data": "/blog/away-with-the-fairies",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "58"
+    },
+    {
+        "url": "/4341/a-giant-of-a-day",
+        "match_url": "/4341/a-giant-of-a-day",
+        "action_data": "/blog/a-giant-of-a-day",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "35"
+    },
+    {
+        "url": "/4394/4394",
+        "match_url": "/4394/4394",
+        "action_data": "/blog/4394",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "3"
+    },
+    {
+        "url": "/4468/ile-in-killarney",
+        "match_url": "/4468/ile-in-killarney",
+        "action_data": "/blog/ile-in-killarney",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/4474/ile-2012-staff",
+        "match_url": "/4474/ile-2012-staff",
+        "action_data": "/blog/ile-2012-staff",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "58"
+    },
+    {
+        "url": "/4480/images-of-a-lifetime-a-few-candids-3",
+        "match_url": "/4480/images-of-a-lifetime-a-few-candids-3",
+        "action_data": "/blog/images-of-a-lifetime-a-few-candids-3",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "61"
+    },
+    {
+        "url": "/4499/images-of-a-lifetime-a-few-candids-4",
+        "match_url": "/4499/images-of-a-lifetime-a-few-candids-4",
+        "action_data": "/blog/images-of-a-lifetime-a-few-candids-4",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/4418/riverdance",
+        "match_url": "/4418/riverdance",
+        "action_data": "/blog/riverdance",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "54"
+    },
+    {
+        "url": "/4424/croker-aras-and-drama-perfect-day",
+        "match_url": "/4424/croker-aras-and-drama-perfect-day",
+        "action_data": "/blog/croker-aras-and-drama-perfect-day",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/4516/dublin-day-and-music-workshop",
+        "match_url": "/4516/dublin-day-and-music-workshop",
+        "action_data": "/blog/dublin-day-and-music-workshop",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "58"
+    },
+    {
+        "url": "/4443/a-bunch-of-blarney",
+        "match_url": "/4443/a-bunch-of-blarney",
+        "action_data": "/blog/a-bunch-of-blarney",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "63"
+    },
+    {
+        "url": "/4450/leprechaun-crossing",
+        "match_url": "/4450/leprechaun-crossing",
+        "action_data": "/blog/leprechaun-crossing",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "63"
+    },
+    {
+        "url": "/4585/ile-student-playlist-1",
+        "match_url": "/4585/ile-student-playlist-1",
+        "action_data": "/blog/ile-student-playlist-1",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/4587/ile-student-playlist-2",
+        "match_url": "/4587/ile-student-playlist-2",
+        "action_data": "/blog/ile-student-playlist-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "64"
+    },
+    {
+        "url": "/4604/celtic-warriors",
+        "match_url": "/4604/celtic-warriors",
+        "action_data": "/blog/celtic-warriors",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "63"
+    },
+    {
+        "url": "/4615/yolo",
+        "match_url": "/4615/yolo",
+        "action_data": "/blog/yolo",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "59"
+    },
+    {
+        "url": "/5065/amanda-harrod-goes-to-ireland",
+        "match_url": "/5065/amanda-harrod-goes-to-ireland",
+        "action_data": "/blog/amanda-harrod-goes-to-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "66"
+    },
+    {
+        "url": "/7004/jaiden-toth-goes-to-ireland",
+        "match_url": "/7004/jaiden-toth-goes-to-ireland",
+        "action_data": "/blog/jaiden-toth-goes-to-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/5085/dublin-rock-n-roll-half-marathon-donation",
+        "match_url": "/5085/dublin-rock-n-roll-half-marathon-donation",
+        "action_data": "/blog/dublin-rock-n-roll-half-marathon-donation",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "50"
+    },
+    {
+        "url": "/5105/introducing-aubrey-alexander-your-2013-female-counselor",
+        "match_url": "/5105/introducing-aubrey-alexander-your-2013-female-counselor",
+        "action_data": "/blog/introducing-aubrey-alexander-your-2013-female-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "63"
+    },
+    {
+        "url": "/7005/go-raibh-maith-agaibh",
+        "match_url": "/7005/go-raibh-maith-agaibh",
+        "action_data": "/blog/go-raibh-maith-agaibh",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/5125/the-craic-begins",
+        "match_url": "/5125/the-craic-begins",
+        "action_data": "/blog/the-craic-begins",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "69"
+    },
+    {
+        "url": "/5191/harlem-shakin-in-waterford",
+        "match_url": "/5191/harlem-shakin-in-waterford",
+        "action_data": "/blog/harlem-shakin-in-waterford",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/5231/oh-my-my-my-oh-my-my-my-oh-my-my-my-july",
+        "match_url": "/5231/oh-my-my-my-oh-my-my-my-oh-my-my-my-july",
+        "action_data": "/blog/oh-my-my-my-oh-my-my-my-oh-my-my-my-july",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/5255/the-real-capital",
+        "match_url": "/5255/the-real-capital",
+        "action_data": "/blog/the-real-capital",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "54"
+    },
+    {
+        "url": "/5281/happy-students",
+        "match_url": "/5281/happy-students",
+        "action_data": "/blog/happy-students",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "24"
+    },
+    {
+        "url": "/5271/life-is-good",
+        "match_url": "/5271/life-is-good",
+        "action_data": "/blog/life-is-good",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "54"
+    },
+    {
+        "url": "/5293/happy-4th-of-july-4",
+        "match_url": "/5293/happy-4th-of-july-4",
+        "action_data": "/blog/happy-4th-of-july-4",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/5319/all-smiles",
+        "match_url": "/5319/all-smiles",
+        "action_data": "/blog/all-smiles",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "55"
+    },
+    {
+        "url": "/5341/green-lightening",
+        "match_url": "/5341/green-lightening",
+        "action_data": "/blog/green-lightening",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "50"
+    },
+    {
+        "url": "/5352/winning-limericks",
+        "match_url": "/5352/winning-limericks",
+        "action_data": "/blog/winning-limericks",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "50"
+    },
+    {
+        "url": "/5376/hip-hip-hooray-for-a-great-day",
+        "match_url": "/5376/hip-hip-hooray-for-a-great-day",
+        "action_data": "/blog/hip-hip-hooray-for-a-great-day",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "73"
+    },
+    {
+        "url": "/5388/up-the-dubs-4",
+        "match_url": "/5388/up-the-dubs-4",
+        "action_data": "/blog/up-the-dubs-4",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "52"
+    },
+    {
+        "url": "/5413/5413",
+        "match_url": "/5413/5413",
+        "action_data": "/blog/5413",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "8"
+    },
+    {
+        "url": "/5436/voice-of-an-angel",
+        "match_url": "/5436/voice-of-an-angel",
+        "action_data": "/blog/voice-of-an-angel",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "35"
+    },
+    {
+        "url": "/5427/deadly-days",
+        "match_url": "/5427/deadly-days",
+        "action_data": "/blog/deadly-days",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "40"
+    },
+    {
+        "url": "/5429/a-giant-of-a-day-2",
+        "match_url": "/5429/a-giant-of-a-day-2",
+        "action_data": "/blog/a-giant-of-a-day-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "38"
+    },
+    {
+        "url": "/5433/cool-wow-awesome",
+        "match_url": "/5433/cool-wow-awesome",
+        "action_data": "/blog/cool-wow-awesome",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "26"
+    },
+    {
+        "url": "/5435/the-craic-is-mighty",
+        "match_url": "/5435/the-craic-is-mighty",
+        "action_data": "/blog/the-craic-is-mighty",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "74"
+    },
+    {
+        "url": "/5647/introducing-brigid-lundy-your-2014-irish-studies-teacher",
+        "match_url": "/5647/introducing-brigid-lundy-your-2014-irish-studies-teacher",
+        "action_data": "/blog/introducing-brigid-lundy-your-2014-irish-studies-teacher",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "44"
+    },
+    {
+        "url": "/5692/introducing-pk-creedon-your-2014-male-counselor",
+        "match_url": "/5692/introducing-pk-creedon-your-2014-male-counselor",
+        "action_data": "/blog/introducing-pk-creedon-your-2014-male-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "74"
+    },
+    {
+        "url": "/5731/introducing-alex-mckinnon-2014-male-counselor",
+        "match_url": "/5731/introducing-alex-mckinnon-2014-male-counselor",
+        "action_data": "/blog/introducing-alex-mckinnon-2014-male-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "62"
+    },
+    {
+        "url": "/5745/helpful-advice-2013-alumna-kate-lanagan",
+        "match_url": "/5745/helpful-advice-2013-alumna-kate-lanagan",
+        "action_data": "/blog/helpful-advice-2013-alumna-kate-lanagan",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "58"
+    },
+    {
+        "url": "/5750/timetravel",
+        "match_url": "/5750/timetravel",
+        "action_data": "/blog/timetravel",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "44"
+    },
+    {
+        "url": "/5776/slan-go-foil-usa-spain",
+        "match_url": "/5776/slan-go-foil-usa-spain",
+        "action_data": "/blog/slan-go-foil-usa-spain",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "64"
+    },
+    {
+        "url": "/5819/wonderful-waterford-3",
+        "match_url": "/5819/wonderful-waterford-3",
+        "action_data": "/blog/wonderful-waterford-3",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "44"
+    },
+    {
+        "url": "/5833/us-prevails-iles-world-cup",
+        "match_url": "/5833/us-prevails-iles-world-cup",
+        "action_data": "/blog/us-prevails-iles-world-cup",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "61"
+    },
+    {
+        "url": "/5784/cool",
+        "match_url": "/5784/cool",
+        "action_data": "/blog/cool",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/5786/extraordinary-day-along-coast-waterford",
+        "match_url": "/5786/extraordinary-day-along-coast-waterford",
+        "action_data": "/blog/extraordinary-day-along-coast-waterford",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/5807/set-free",
+        "match_url": "/5807/set-free",
+        "action_data": "/blog/set-free",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "62"
+    },
+    {
+        "url": "/5840/castle-craze",
+        "match_url": "/5840/castle-craze",
+        "action_data": "/blog/castle-craze",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "20"
+    },
+    {
+        "url": "/5865/dubs",
+        "match_url": "/5865/dubs",
+        "action_data": "/blog/dubs",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "26"
+    },
+    {
+        "url": "/5869/craic-tastic",
+        "match_url": "/5869/craic-tastic",
+        "action_data": "/blog/craic-tastic",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "72"
+    },
+    {
+        "url": "/5879/exploring-capital",
+        "match_url": "/5879/exploring-capital",
+        "action_data": "/blog/exploring-capital",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "30"
+    },
+    {
+        "url": "/5895/famine-letters",
+        "match_url": "/5895/famine-letters",
+        "action_data": "/blog/famine-letters",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "38"
+    },
+    {
+        "url": "/5898/adventures-dublin",
+        "match_url": "/5898/adventures-dublin",
+        "action_data": "/blog/adventures-dublin",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/5919/riverdancefail",
+        "match_url": "/5919/riverdancefail",
+        "action_data": "/blog/riverdancefail",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/5938/giant-tale",
+        "match_url": "/5938/giant-tale",
+        "action_data": "/blog/giant-tale",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/5950/wb-yeats-steals-show",
+        "match_url": "/5950/wb-yeats-steals-show",
+        "action_data": "/blog/wb-yeats-steals-show",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "70"
+    },
+    {
+        "url": "/5962/gift-gab",
+        "match_url": "/5962/gift-gab",
+        "action_data": "/blog/gift-gab",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "10"
+    },
+    {
+        "url": "/5969/delfies",
+        "match_url": "/5969/delfies",
+        "action_data": "/blog/delfies",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "69"
+    },
+    {
+        "url": "/5967/kingdom",
+        "match_url": "/5967/kingdom",
+        "action_data": "/blog/kingdom",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "63"
+    },
+    {
+        "url": "/5989/galway-bound",
+        "match_url": "/5989/galway-bound",
+        "action_data": "/blog/galway-bound",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "76"
+    },
+    {
+        "url": "/6078/top-10-fundraising-ideas-study-abroad",
+        "match_url": "/6078/top-10-fundraising-ideas-study-abroad",
+        "action_data": "/blog/top-10-fundraising-ideas-study-abroad",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "29"
+    },
+    {
+        "url": "/7006/give-the-gift-of-a-lifetime-this-holiday-season",
+        "match_url": "/7006/give-the-gift-of-a-lifetime-this-holiday-season",
+        "action_data": "/blog/give-the-gift-of-a-lifetime-this-holiday-season",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/6093/top-10-bad-excuses-not-to-study-abroad",
+        "match_url": "/6093/top-10-bad-excuses-not-to-study-abroad",
+        "action_data": "/blog/top-10-bad-excuses-not-to-study-abroad",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "86"
+    },
+    {
+        "url": "/6048/top-ten-reasons-to-study-abroad",
+        "match_url": "/6048/top-ten-reasons-to-study-abroad",
+        "action_data": "/blog/top-ten-reasons-to-study-abroad",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "870"
+    },
+    {
+        "url": "/6090/top-10-study-abroad-tips-for-parents",
+        "match_url": "/6090/top-10-study-abroad-tips-for-parents",
+        "action_data": "/blog/top-10-study-abroad-tips-for-parents",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "12"
+    },
+    {
+        "url": "/5739/introducing-kate-vaughn-2015-female-counselor",
+        "match_url": "/5739/introducing-kate-vaughn-2015-female-counselor",
+        "action_data": "/blog/introducing-kate-vaughn-2015-female-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "58"
+    },
+    {
+        "url": "/6304/introducing-kent-luetzen-your-2015-male-counselor",
+        "match_url": "/6304/introducing-kent-luetzen-your-2015-male-counselor",
+        "action_data": "/blog/introducing-kent-luetzen-your-2015-male-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "61"
+    },
+    {
+        "url": "/6338/byefelicia",
+        "match_url": "/6338/byefelicia",
+        "action_data": "/blog/byefelicia",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "51"
+    },
+    {
+        "url": "/6344/jet-lag-joys",
+        "match_url": "/6344/jet-lag-joys",
+        "action_data": "/blog/jet-lag-joys",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/6360/i-love-one-direction",
+        "match_url": "/6360/i-love-one-direction",
+        "action_data": "/blog/i-love-one-direction",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/6370/waterford-i-cant-afford-that-crystal",
+        "match_url": "/6370/waterford-i-cant-afford-that-crystal",
+        "action_data": "/blog/waterford-i-cant-afford-that-crystal",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "48"
+    },
+    {
+        "url": "/6381/castles-and-counselor-olympics",
+        "match_url": "/6381/castles-and-counselor-olympics",
+        "action_data": "/blog/castles-and-counselor-olympics",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "50"
+    },
+    {
+        "url": "/6398/a-day-in-the-life-of-an-ile15-student",
+        "match_url": "/6398/a-day-in-the-life-of-an-ile15-student",
+        "action_data": "/blog/a-day-in-the-life-of-an-ile15-student",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "73"
+    },
+    {
+        "url": "/6404/happy-4th-of-july-5",
+        "match_url": "/6404/happy-4th-of-july-5",
+        "action_data": "/blog/happy-4th-of-july-5",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "61"
+    },
+    {
+        "url": "/6415/terrific-tramore",
+        "match_url": "/6415/terrific-tramore",
+        "action_data": "/blog/terrific-tramore",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "59"
+    },
+    {
+        "url": "/6424/up-the-dubs-5",
+        "match_url": "/6424/up-the-dubs-5",
+        "action_data": "/blog/up-the-dubs-5",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "38"
+    },
+    {
+        "url": "/6435/dublin-days-2",
+        "match_url": "/6435/dublin-days-2",
+        "action_data": "/blog/dublin-days-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "44"
+    },
+    {
+        "url": "/6445/a-fun-filled-day",
+        "match_url": "/6445/a-fun-filled-day",
+        "action_data": "/blog/a-fun-filled-day",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "24"
+    },
+    {
+        "url": "/6459/accordingtoangie",
+        "match_url": "/6459/accordingtoangie",
+        "action_data": "/blog/accordingtoangie",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/6473/ile15-adventures",
+        "match_url": "/6473/ile15-adventures",
+        "action_data": "/blog/ile15-adventures",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/6457/to-arthur",
+        "match_url": "/6457/to-arthur",
+        "action_data": "/blog/to-arthur",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "63"
+    },
+    {
+        "url": "/6447/we-have-niall",
+        "match_url": "/6447/we-have-niall",
+        "action_data": "/blog/we-have-niall",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/6496/dublin-comes-to-a-close",
+        "match_url": "/6496/dublin-comes-to-a-close",
+        "action_data": "/blog/dublin-comes-to-a-close",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "37"
+    },
+    {
+        "url": "/6504/a-bunch-of-blarney-2",
+        "match_url": "/6504/a-bunch-of-blarney-2",
+        "action_data": "/blog/a-bunch-of-blarney-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "88"
+    },
+    {
+        "url": "/6509/dingle-done-right",
+        "match_url": "/6509/dingle-done-right",
+        "action_data": "/blog/dingle-done-right",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "81"
+    },
+    {
+        "url": "/6520/ile15-spirit-names",
+        "match_url": "/6520/ile15-spirit-names",
+        "action_data": "/blog/ile15-spirit-names",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "75"
+    },
+    {
+        "url": "/6533/galway-bound-2",
+        "match_url": "/6533/galway-bound-2",
+        "action_data": "/blog/galway-bound-2",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/6539/periwinkle-anyone",
+        "match_url": "/6539/periwinkle-anyone",
+        "action_data": "/blog/periwinkle-anyone",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "52"
+    },
+    {
+        "url": "/6553/conne-mar-velous",
+        "match_url": "/6553/conne-mar-velous",
+        "action_data": "/blog/conne-mar-velous",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/6563/cows-with-guns",
+        "match_url": "/6563/cows-with-guns",
+        "action_data": "/blog/cows-with-guns",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "18"
+    },
+    {
+        "url": "/6569/ile15-draw-to-a-close",
+        "match_url": "/6569/ile15-draw-to-a-close",
+        "action_data": "/blog/ile15-draw-to-a-close",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "55"
+    },
+    {
+        "url": "/6729/next-stop-ireland",
+        "match_url": "/6729/next-stop-ireland",
+        "action_data": "/blog/next-stop-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "78"
+    },
+    {
+        "url": "/6736/up-the-deise",
+        "match_url": "/6736/up-the-deise",
+        "action_data": "/blog/up-the-deise",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/6755/newtown-boarding-school",
+        "match_url": "/6755/newtown-boarding-school",
+        "action_data": "/blog/newtown-boarding-school",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "31"
+    },
+    {
+        "url": "/6752/a-day-in-the-life",
+        "match_url": "/6752/a-day-in-the-life",
+        "action_data": "/blog/a-day-in-the-life",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "66"
+    },
+    {
+        "url": "/6777/up-galway",
+        "match_url": "/6777/up-galway",
+        "action_data": "/blog/up-galway",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "61"
+    },
+    {
+        "url": "/6779/gummy-bananas-anyone",
+        "match_url": "/6779/gummy-bananas-anyone",
+        "action_data": "/blog/gummy-bananas-anyone",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/6808/happy-4th-july-ireland",
+        "match_url": "/6808/happy-4th-july-ireland",
+        "action_data": "/blog/happy-4th-july-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "66"
+    },
+    {
+        "url": "/6825/the-flour-crusade",
+        "match_url": "/6825/the-flour-crusade",
+        "action_data": "/blog/the-flour-crusade",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "50"
+    },
+    {
+        "url": "/6838/castle-magic",
+        "match_url": "/6838/castle-magic",
+        "action_data": "/blog/castle-magic",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "62"
+    },
+    {
+        "url": "/6849/bye-bye-waterford",
+        "match_url": "/6849/bye-bye-waterford",
+        "action_data": "/blog/bye-bye-waterford",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "53"
+    },
+    {
+        "url": "/6851/a-giant-of-a-tale",
+        "match_url": "/6851/a-giant-of-a-tale",
+        "action_data": "/blog/a-giant-of-a-tale",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "67"
+    },
+    {
+        "url": "/6868/coldplays-tissue",
+        "match_url": "/6868/coldplays-tissue",
+        "action_data": "/blog/coldplays-tissue",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/7007/ile-adventures",
+        "match_url": "/7007/ile-adventures",
+        "action_data": "/blog/ile-adventures",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7008/were-going-on-an-adventure",
+        "match_url": "/7008/were-going-on-an-adventure",
+        "action_data": "/blog/were-going-on-an-adventure",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7009/its-always-sunny-in-glendalough",
+        "match_url": "/7009/its-always-sunny-in-glendalough",
+        "action_data": "/blog/its-always-sunny-in-glendalough",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7010/game-faces",
+        "match_url": "/7010/game-faces",
+        "action_data": "/blog/game-faces",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7011/the-chain-of-events",
+        "match_url": "/7011/the-chain-of-events",
+        "action_data": "/blog/the-chain-of-events",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7012/baking-you-crazy",
+        "match_url": "/7012/baking-you-crazy",
+        "action_data": "/blog/baking-you-crazy",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7013/the-fort-of-july",
+        "match_url": "/7013/the-fort-of-july",
+        "action_data": "/blog/the-fort-of-july",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7014/cashel-me-outside",
+        "match_url": "/7014/cashel-me-outside",
+        "action_data": "/blog/cashel-me-outside",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7015/sticking-it-to-the-man",
+        "match_url": "/7015/sticking-it-to-the-man",
+        "action_data": "/blog/sticking-it-to-the-man",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7016/hey-big-spender",
+        "match_url": "/7016/hey-big-spender",
+        "action_data": "/blog/hey-big-spender",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7017/howth-it-going",
+        "match_url": "/7017/howth-it-going",
+        "action_data": "/blog/howth-it-going",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7018/a-giant-of-a-day-3",
+        "match_url": "/7018/a-giant-of-a-day-3",
+        "action_data": "/blog/a-giant-of-a-day-3",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7019/tiny-dancer",
+        "match_url": "/7019/tiny-dancer",
+        "action_data": "/blog/tiny-dancer",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/7021/my-goodness-my-guinness",
+        "match_url": "/7021/my-goodness-my-guinness",
+        "action_data": "/blog/my-goodness-my-guinness",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "23"
+    },
+    {
+        "url": "/7023/connections",
+        "match_url": "/7023/connections",
+        "action_data": "/blog/connections",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "48"
+    },
+    {
+        "url": "/7030/forever-hold-your-pearse",
+        "match_url": "/7030/forever-hold-your-pearse",
+        "action_data": "/blog/forever-hold-your-pearse",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "54"
+    },
+    {
+        "url": "/7034/thats-all-blarney",
+        "match_url": "/7034/thats-all-blarney",
+        "action_data": "/blog/thats-all-blarney",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "58"
+    },
+    {
+        "url": "/7041/the-ring",
+        "match_url": "/7041/the-ring",
+        "action_data": "/blog/the-ring",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "50"
+    },
+    {
+        "url": "/7047/weekend-at-murphys",
+        "match_url": "/7047/weekend-at-murphys",
+        "action_data": "/blog/weekend-at-murphys",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "71"
+    },
+    {
+        "url": "/7053/castles-counselors-and-other-antiques",
+        "match_url": "/7053/castles-counselors-and-other-antiques",
+        "action_data": "/blog/castles-counselors-and-other-antiques",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/7058/gimme-moher",
+        "match_url": "/7058/gimme-moher",
+        "action_data": "/blog/gimme-moher",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "73"
+    },
+    {
+        "url": "/7065/on-our-turf",
+        "match_url": "/7065/on-our-turf",
+        "action_data": "/blog/on-our-turf",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "59"
+    },
+    {
+        "url": "/7074/here-we-go-again",
+        "match_url": "/7074/here-we-go-again",
+        "action_data": "/blog/here-we-go-again",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "62"
+    },
+    {
+        "url": "/7081/wrapping-up",
+        "match_url": "/7081/wrapping-up",
+        "action_data": "/blog/wrapping-up",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "58"
+    },
+    {
+        "url": "/7090/the-end-of-the-line",
+        "match_url": "/7090/the-end-of-the-line",
+        "action_data": "/blog/the-end-of-the-line",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "57"
+    },
+    {
+        "url": "/5116/introducing-miles-bryan-your-2015-irish-american-history-teacher",
+        "match_url": "/5116/introducing-miles-bryan-your-2015-irish-american-history-teacher",
+        "action_data": "/blog/introducing-miles-bryan-your-2015-irish-american-history-teacher",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/5638/introducing-casey-oconnor-your-2015-female-counselor",
+        "match_url": "/5638/introducing-casey-oconnor-your-2015-female-counselor",
+        "action_data": "/blog/introducing-casey-oconnor-your-2015-female-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "62"
+    },
+    {
+        "url": "/6648/introducing-michael-meaney-your-2016-gaelic-and-irish-history-teacher",
+        "match_url": "/6648/introducing-michael-meaney-your-2016-gaelic-and-irish-history-teacher",
+        "action_data": "/blog/introducing-michael-meaney-your-2016-gaelic-and-irish-history-teacher",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "68"
+    },
+    {
+        "url": "/7112/introducing-jaiden-toth-your-2019-blogger-and-female-counselor",
+        "match_url": "/7112/introducing-jaiden-toth-your-2019-blogger-and-female-counselor",
+        "action_data": "/blog/introducing-jaiden-toth-your-2019-blogger-and-female-counselor",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "42"
+    },
+    {
+        "url": "/7115/arrival-to-the-great-isle",
+        "match_url": "/7115/arrival-to-the-great-isle",
+        "action_data": "/blog/arrival-to-the-great-isle",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "45"
+    },
+    {
+        "url": "/7130/stepping-into-day-two",
+        "match_url": "/7130/stepping-into-day-two",
+        "action_data": "/blog/stepping-into-day-two",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "54"
+    },
+    {
+        "url": "/7137/a-hurling-good-time",
+        "match_url": "/7137/a-hurling-good-time",
+        "action_data": "/blog/a-hurling-good-time",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "77"
+    },
+    {
+        "url": "/7144/so-many-activities",
+        "match_url": "/7144/so-many-activities",
+        "action_data": "/blog/so-many-activities",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "68"
+    },
+    {
+        "url": "/7168/a-beautiful-day-in-cork",
+        "match_url": "/7168/a-beautiful-day-in-cork",
+        "action_data": "/blog/a-beautiful-day-in-cork",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "68"
+    },
+    {
+        "url": "/7193/happy-fourth-of-july-from-ireland",
+        "match_url": "/7193/happy-fourth-of-july-from-ireland",
+        "action_data": "/blog/happy-fourth-of-july-from-ireland",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/7202/on-the-road-again",
+        "match_url": "/7202/on-the-road-again",
+        "action_data": "/blog/on-the-road-again",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "56"
+    },
+    {
+        "url": "/7210/an-epic-day",
+        "match_url": "/7210/an-epic-day",
+        "action_data": "/blog/an-epic-day",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "65"
+    },
+    {
+        "url": "/7223/a-day-for-the-dead",
+        "match_url": "/7223/a-day-for-the-dead",
+        "action_data": "/blog/a-day-for-the-dead",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "42"
+    },
+    {
+        "url": "/7228/a-croke-of-genius",
+        "match_url": "/7228/a-croke-of-genius",
+        "action_data": "/blog/a-croke-of-genius",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "60"
+    },
+    {
+        "url": "/7237/a-giant-day-of-exploration",
+        "match_url": "/7237/a-giant-day-of-exploration",
+        "action_data": "/blog/a-giant-day-of-exploration",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "43"
+    },
+    {
+        "url": "/7247/irelands-got-talent",
+        "match_url": "/7247/irelands-got-talent",
+        "action_data": "/blog/irelands-got-talent",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "82"
+    },
+    {
+        "url": "/7257/farewell-dublin",
+        "match_url": "/7257/farewell-dublin",
+        "action_data": "/blog/farewell-dublin",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "24"
+    },
+    {
+        "url": "/7264/7264",
+        "match_url": "/7264/7264",
+        "action_data": "/blog/7264",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "9"
+    },
+    {
+        "url": "/7274/dingle-dolphins-and-drives",
+        "match_url": "/7274/dingle-dolphins-and-drives",
+        "action_data": "/blog/dingle-dolphins-and-drives",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "79"
+    },
+    {
+        "url": "/7285/the-final-stretch",
+        "match_url": "/7285/the-final-stretch",
+        "action_data": "/blog/the-final-stretch",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "49"
+    },
+    {
+        "url": "/7292/not-a-burren-day",
+        "match_url": "/7292/not-a-burren-day",
+        "action_data": "/blog/not-a-burren-day",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "70"
+    },
+    {
+        "url": "/7319/a-slean-day",
+        "match_url": "/7319/a-slean-day",
+        "action_data": "/blog/a-slean-day",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "21"
+    },
+    {
+        "url": "/7320/let-the-rain-pour-down",
+        "match_url": "/7320/let-the-rain-pour-down",
+        "action_data": "/blog/let-the-rain-pour-down",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "49"
+    },
+    {
+        "url": "/7331/its-the-final-countdown",
+        "match_url": "/7331/its-the-final-countdown",
+        "action_data": "/blog/its-the-final-countdown",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "72"
+    },
+    {
+        "url": "/8402/belfast-a-must-see-movie",
+        "match_url": "/8402/belfast-a-must-see-movie",
+        "action_data": "/blog/belfast-a-must-see-movie",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/blog/elementor-8482/",
+        "match_url": "/blog/elementor-8482",
+        "action_data": "/blog/top-10-fundraising-ideas/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/blog/elementor-8444/",
+        "match_url": "/blog/elementor-8444",
+        "action_data": "/blog/iles-reel-review/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/blog/elementor-8512/",
+        "match_url": "/blog/elementor-8512",
+        "action_data": "/blog/top-10-bad-excuses-not-to-study-abroad-2/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/blog/top-10-bad-excuses-not-to-study-abroad-2/",
+        "match_url": "/blog/top-10-bad-excuses-not-to-study-abroad-2",
+        "action_data": "/blog/top-10-bad-excuses-not-to-study-abroad/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "105"
+    },
+    {
+        "url": "/blog/elementor-8570/",
+        "match_url": "/blog/elementor-8570",
+        "action_data": "/blog/irish-music-our-forte/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-8597/",
+        "match_url": "/blog/elementor-8597",
+        "action_data": "/blog/irish-books-a-novel-ty/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-8649/",
+        "match_url": "/blog/elementor-8649",
+        "action_data": "/blog/spud-tacular-recipe/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-8673/",
+        "match_url": "/blog/elementor-8673",
+        "action_data": "/blog/give-the-gift-of-travel/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/high-school-flight-information/",
+        "match_url": "/high-school-flight-information",
+        "action_data": "/flight-information/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "4"
+    },
+    {
+        "url": "/blog/elementor-8791/",
+        "match_url": "/blog/elementor-8791",
+        "action_data": "/blog/festive-cards-with-an-iris-flare/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/blog/elementor-8810/",
+        "match_url": "/blog/elementor-8810",
+        "action_data": "/blog/christmas-cheer-with-limericks/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "22"
+    },
+    {
+        "url": "/blog/elementor-8829/",
+        "match_url": "/blog/elementor-8829",
+        "action_data": "/blog/old-ireland-in-color-perfect-gift/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "22"
+    },
+    {
+        "url": "/blog/hur-leys-and-hisleys-the-perfect-irish-keepsake/",
+        "match_url": "/blog/hur-leys-and-hisleys-the-perfect-irish-keepsake",
+        "action_data": "/blog/hurleys-and-hisleys-the-perfect-irish-keepsake/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/participant_and_parent_release/",
+        "match_url": "/participant_and_parent_release",
+        "action_data": "/participant-and-parent-release/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "26"
+    },
+    {
+        "url": "/passport_information/",
+        "match_url": "/passport_information",
+        "action_data": "/passport-information/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "23"
+    },
+    {
+        "url": "/elementor-9410/",
+        "match_url": "/elementor-9410",
+        "action_data": "/sitemap/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-9728/",
+        "match_url": "/blog/elementor-9728",
+        "action_data": "/blog/meet-miles-bryan/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10366/",
+        "match_url": "/blog/elementor-10366",
+        "action_data": "/blog/an-international-perspective/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10455/",
+        "match_url": "/blog/elementor-10455",
+        "action_data": "/blog/meet-natalie-helser/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "disabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/meet-natalie-helser/",
+        "match_url": "/blog/meet-natalie-helser",
+        "action_data": "/blog/elementor-10455/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "disabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10455/",
+        "match_url": "/blog/elementor-10455",
+        "action_data": "/blog/meet-natalie-helser/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10582/",
+        "match_url": "/blog/elementor-10582",
+        "action_data": "/blog/lets-indepen-dance-the-day-away/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10609/",
+        "match_url": "/blog/elementor-10609",
+        "action_data": "/blog/you-kin-say-le-that-was-a-good-day/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10627/",
+        "match_url": "/blog/elementor-10627",
+        "action_data": "/blog/watery-day-in-waterford/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "1"
+    },
+    {
+        "url": "/blog/elementor-10636/",
+        "match_url": "/blog/elementor-10636",
+        "action_data": "/blog/from-newtown-to-a-new-town/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10650/",
+        "match_url": "/blog/elementor-10650",
+        "action_data": "/blog/irish-you-the-best-of-days/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10677/",
+        "match_url": "/blog/elementor-10677",
+        "action_data": "/blog/a-giant-cause-for-celebration/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10664/",
+        "match_url": "/blog/elementor-10664",
+        "action_data": "/blog/up-the-cats/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10704/",
+        "match_url": "/blog/elementor-10704",
+        "action_data": "/blog/an-epic-day-2/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10722/",
+        "match_url": "/blog/elementor-10722",
+        "action_data": "/blog/iles-got-talent-3/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10731/",
+        "match_url": "/blog/elementor-10731",
+        "action_data": "/blog/were-dublin-our-luck-today/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10744/",
+        "match_url": "/blog/elementor-10744",
+        "action_data": "/blog/glad-for-trad/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10752/",
+        "match_url": "/blog/elementor-10752",
+        "action_data": "/blog/how-fab-is-the-gift-of-the-gab/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10761/",
+        "match_url": "/blog/elementor-10761",
+        "action_data": "/blog/ken-mare-you-believe-this-awesome-day/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10771/",
+        "match_url": "/blog/elementor-10771",
+        "action_data": "/blog/inch-by-inch-through-ireland/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10781/",
+        "match_url": "/blog/elementor-10781",
+        "action_data": "/blog/all-5-days-in-the-gorgeous-galway/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-10803/",
+        "match_url": "/blog/elementor-10803",
+        "action_data": "/blog/a-final-farewell/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11005/",
+        "match_url": "/blog/elementor-11005",
+        "action_data": "/blog/new-things-in-newtown/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "7"
+    },
+    {
+        "url": "/blog/elementor-10995/",
+        "match_url": "/blog/elementor-10995",
+        "action_data": "/blog/welcome-ile-2024/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "266"
+    },
+    {
+        "url": "/blog/elementor-11030/",
+        "match_url": "/blog/elementor-11030",
+        "action_data": "/blog/crystal-clear-we-love-the-ile/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11058/",
+        "match_url": "/blog/elementor-11058",
+        "action_data": "/blog/a-reign-y-day/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11090/",
+        "match_url": "/blog/elementor-11090",
+        "action_data": "/blog/a-fair-ly-fun-day-what-tra-more-could-you-want/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/put-a-cork-in-it/",
+        "match_url": "/blog/put-a-cork-in-it",
+        "action_data": "/blog/a-fortunate-day-you-couldnt-even-put-a-cork-in-it/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11126/",
+        "match_url": "/blog/elementor-11126",
+        "action_data": "/blog/today-was-so-da-bomb/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11139/",
+        "match_url": "/blog/elementor-11139",
+        "action_data": "/blog/a-tree-mendous-day/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11149/",
+        "match_url": "/blog/elementor-11149",
+        "action_data": "/blog/no-treble-whistlin-today/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11157/",
+        "match_url": "/blog/elementor-11157",
+        "action_data": "/blog/a-giant-cause-for-a-great-day/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11176/",
+        "match_url": "/blog/elementor-11176",
+        "action_data": "/blog/guinness-what/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11190/",
+        "match_url": "/blog/elementor-11190",
+        "action_data": "/blog/an-epic-day-3/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11208/",
+        "match_url": "/blog/elementor-11208",
+        "action_data": "/blog/dancing-the-night-away/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11220/",
+        "match_url": "/blog/elementor-11220",
+        "action_data": "/blog/croke-aint-no-joke/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "4"
+    },
+    {
+        "url": "/blog/elementor-11252/",
+        "match_url": "/blog/elementor-11252",
+        "action_data": "/blog/dublin-the-fun/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11260/",
+        "match_url": "/blog/elementor-11260",
+        "action_data": "/blog/what-a-fab-gift-of-the-gab/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11269/",
+        "match_url": "/blog/elementor-11269",
+        "action_data": "/blog/kissaint-no-joke-today/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11279/",
+        "match_url": "/blog/elementor-11279",
+        "action_data": "/blog/a-slea-day/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11291/",
+        "match_url": "/blog/elementor-11291",
+        "action_data": "/blog/a-bunratty-day/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11303/",
+        "match_url": "/blog/elementor-11303",
+        "action_data": "/blog/anything-but-burren/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11316/",
+        "match_url": "/blog/elementor-11316",
+        "action_data": "/blog/could-you-ask-for-a-kylemore-perfect-day/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11325/",
+        "match_url": "/blog/elementor-11325",
+        "action_data": "/blog/a-wheely-drizzly-delightful-day/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11334/",
+        "match_url": "/blog/elementor-11334",
+        "action_data": "/blog/on-our-merry-galway/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11341/",
+        "match_url": "/blog/elementor-11341",
+        "action_data": "/blog/a-letter-to-ile-2024/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11347/",
+        "match_url": "/blog/elementor-11347",
+        "action_data": "/blog/im-home-now-what/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11410/",
+        "match_url": "/blog/elementor-11410",
+        "action_data": "/blog/meet-clare-konen/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11420/",
+        "match_url": "/blog/elementor-11420",
+        "action_data": "/blog/meet-connor-mulvaney/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11429/",
+        "match_url": "/blog/elementor-11429",
+        "action_data": "/blog/meet-sarah-klaus/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11438/",
+        "match_url": "/blog/elementor-11438",
+        "action_data": "/blog/meet-helen-tonra/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    },
+    {
+        "url": "/blog/elementor-11530/",
+        "match_url": "/blog/elementor-11530",
+        "action_data": "/blog/meet-liam-bevan/",
+        "action_code": "301",
+        "regex": "0",
+        "status": "enabled",
+        "last_count": "0"
+    }
+]
