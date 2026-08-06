@@ -1,0 +1,108 @@
+{
+ "slug": "new-things-in-newtown",
+ "title": "New Things in Newtown",
+ "path": "/blog/new-things-in-newtown/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "722488e",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "605de7d",
+     "style": {},
+     "children": [
+      {
+       "type": "google_maps",
+       "id": "7082a7d",
+       "style": {}
+      },
+      {
+       "type": "image",
+       "id": "1b2ab7c",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0117-scaled.jpg",
+       "alt": "",
+       "link": null,
+       "caption": "Waterford Quays"
+      },
+      {
+       "type": "image",
+       "id": "fb1965d",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_5429-scaled.jpg",
+       "alt": "",
+       "link": null,
+       "caption": "The Millennium Plaza, Mark's Tour"
+      }
+     ],
+     "width": 16
+    },
+    {
+     "type": "column",
+     "id": "a885dfa",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "e270268",
+       "style": {
+        "": {
+         "max-width": "116.216%",
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Ar maidin mhaith!! Good morning!! So dawns another lovely day in the lovely Ireland...the students were greeted with the soft gray light and dewy grass as they trodded on down to breakfast. The amazing Newtown kitchen ladies had our normal breakfast arrangement for us--various cereals, juices, milk, yogurt, toast (brown bread!!! And a fun toaster!!) , fruits, tea, and coffee. Then everyone headed off to their first day of classes. Though not everyone was the most particularly thrilled, t<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">his morning was so wonderfully exciting, as today was the first class day!! At 9, the kids headed down to the classroom, ready for Irish-American History with Kaylee, Irish History with Mark, and Irish Studies and Literature with Helen. They learned about all sorts of Irish things--folklore (Alex was particularly knowledgeable in this subject), the history of religion and cultures, and famous Irish authors were among some of the many other topics broached. </span></p><p>After a delicious lunch, everyone was wonderfully excited for our first outing into town!!! Waterford!! As we strolled down the street, everyone was glancing around in awe at the long, winding streets of stone or pastel houses, or out at the quay lined with bunting and ships. <span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Mark treated us to a fantastic walking tour of Waterford. Mark is basically a celebrity here, and is truly quite knowledgeable about the area! He showed us Reginald’s Tower, Ireland’s oldest civic building–built in 914 by Vikings, it forms the apex of Waterford (which is shaped like a triangle). It can often be found described as “a massive hinge of stone connecting the two outstretched wings of the city.” Next to the tower is also a viking longship on display. </span></p><p>The Montana folks were also very excited to discover a statue of Thomas Meagher, who was a governor for Montana! He came to Montana after leading the Young Irelanders in the Rebellion of 1848. Meagher also has a statue in Helena, Montana’s state capital. </p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Finally, students were allowed free time to wander around the city, where you can meander down the cobbled road in the City Centre and explore shops like “The Book Centre,” a bright yellow book shop in the building of an old record store, “Carter’s,” a chocolate shop, “Dunnes,” a department store favored for snacks, and “Penneys,” a reasonably priced clothing store. Some of the students got clothes, books, and gifts for family, but others are saving their money. </span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Everyone then headed back up to Newtown at 6 to indulge in some wonderful tea (dinner) before our evening activities. </span></p><p>At 7, we had our first Drama and Dance classes! We started off with drama, where everyone divided up into groups to write a limerick about a famous Irish person. The limericks were written about W.B. Yeats, James Joyce, Bram Stoker, and Samuel Beckett. Then our AMAZING Clare (who toured with Riverdance!!) taught the students all about Irish jigging. They're amazing, great job everybody! </p><p>Then to cap the day, Taryn and Natalie put on the ILE OLYMPICS! Teams Patrick, Mark, Winn3rs (yes it's spelled that way), and Guinness all went head-to-head (seriously guys, they're really competitive) in human tic-tac-toe, balloon walk, wheelbarrow/leapfrog, and dizzy bat (everyone's fave). It was a close call, but Team Patrick won. Yay to all! </p><p>Everyone spent the last few hours of their day hanging out on campus--Alex and Theo wildly impressed everyone with their music skills, and the rest played a huge game of Sardines and cards. <span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Then, exhausted, everyone collapsed into bed at 10:45, minds and hearts full of Ireland, ready for the stories they’re bound to create.</span></p><p> </p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "f160bc8",
+     "style": {},
+     "children": [
+      {
+       "type": "google_maps",
+       "id": "e85ea55",
+       "style": {}
+      },
+      {
+       "type": "image",
+       "id": "f32c23f",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_5421-scaled.jpg",
+       "alt": "",
+       "link": null,
+       "caption": "Reginald's Tower, Mark's Tour"
+      },
+      {
+       "type": "image",
+       "id": "6fcca89",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0114-scaled.jpg",
+       "alt": "",
+       "link": null,
+       "caption": "Waterford Quays, Mark's Tour"
+      },
+      {
+       "type": "image",
+       "id": "e876ac7",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_5423-scaled.jpg",
+       "alt": "",
+       "link": null,
+       "caption": "Parker, Olivia, Kaylee, Liam, and Natalie with the Thomas Meagher Statue!"
+      }
+     ],
+     "width": 16
+    }
+   ],
+   "structure": "34"
+  }
+ ]
+}

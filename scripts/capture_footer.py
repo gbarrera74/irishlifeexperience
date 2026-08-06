@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Capture the live irishway.org footer verbatim — markup and CSS.
+"""Capture the irishlifeexperience.com footer verbatim — markup and CSS.
 
 The footer is reproduced exactly rather than rebuilt: the Elementor markup is
 taken as-is and rendered with the same stylesheets the live site loads for it.
@@ -20,7 +20,7 @@ import urllib.request
 from html.parser import HTMLParser
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-SITE = "https://irishway.org"
+SITE = "https://irishlifeexperience.com"
 UA = {"User-Agent": "Mozilla/5.0 (footer-capture)"}
 
 # Only what the footer actually needs. Deliberately excludes the page/kit CSS
@@ -35,7 +35,6 @@ CSS_PARTS = [
     "/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css",
     "/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css",
     "/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css",
-    "/wp-content/uploads/elementor/css/post-622.css",
 ]
 
 # Matches absolute and root-relative upload URLs. Root-relative matters because
@@ -166,7 +165,8 @@ def self_host_fonts(css: str) -> str:
 
 
 def main():
-    page = fetch(SITE + "/")
+    # From the harvest, not the live site: NitroPack rewrites served markup.
+    page = (ROOT / "export/html/about-us.html").read_text(errors="replace")
     ex = Extract()
     ex.feed(page)
     html = "".join(ex.out)
@@ -184,7 +184,7 @@ def main():
                   lambda m: unmask(m).replace("mailto:", ""), html, flags=re.S)
     html = re.sub(r'<span[^>]*class="__cf_email__"[^>]*data-cfemail="([0-9a-f]+)"[^>]*>.*?</span>',
                   lambda m: unmask(m).replace("mailto:", ""), html, flags=re.S)
-    html = html.replace("https://irishway.org/", "/")
+    html = html.replace("https://irishlifeexperience.com/", "/")
     html = localise(html)
 
     # Deliberate content corrections to the captured markup.
@@ -217,9 +217,13 @@ def main():
     # the site kit (post-45.css). Pull just those declarations across — including
     # the whole kit would restyle the rest of the site — and hang them off :root
     # so they resolve without the .elementor-kit-45 class on <body>.
+    css_parts.append("/* export/pagecss/_footer.css (post-622) */\n"
+                     + (ROOT / "export/pagecss/_footer.css").read_text())
+    print(f"  + _footer.css (post-622)")
+
     try:
         # The kit is post 6 (post-45 is the header template).
-        kit = fetch(SITE + "/wp-content/uploads/elementor/css/post-6.css")
+        kit = (ROOT / "export/pagecss/_kit.css").read_text()
         decls: list[str] = []
         for sel, body in re.findall(r"([^{}]+)\{([^{}]+)\}", kit):
             if "--e-global-" in body:

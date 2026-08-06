@@ -1,0 +1,124 @@
+{
+ "slug": "meet-clare-broderick",
+ "title": "Meet Clare Broderick",
+ "path": "/blog/meet-clare-broderick/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "fe00737",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "3a9f7ae",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "8b62740",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/05/IMG_6666.jpg",
+       "alt": "Headshot-Clare Broderick",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "0d03119",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "c9a25a8",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Hi Y'all!&nbsp;</p>\n<p>I am Clare Broderick, originally from Chicago and now living in New York City.&nbsp; I went to Vanderbilt University to get a degree in biomedical engineering before moving to New York City four years ago to work in life sciences strategy consulting.</p>\n<p>In my free time, I am the captain of my intramural kickball team, the office expert on happy hours and social events, and an avid Taylor Swift fan.&nbsp;</p>\n<p>My first experience with the Irish Life Experience was in 2015 after my junior year of high school. I absolutely loved getting to travel and see the country my dad talks so highly about.&nbsp; My sisters had gone on the program before me and I could not believe it was finally my turn!&nbsp; I made incredible friends and have been eternally grateful for the program that changed my life.</p>\n<p>I was thrilled to come back last summer as the Irish Dance Teacher and continue that role this year!&nbsp; I love teaching the students to dance, especially those who have no experience.&nbsp; I grew up dancing with the Mullane Godley School and competed at the regional, national, and world levels.&nbsp; This past year, I found the New York Studio of Irish Step Dance to continue dancing!&nbsp; I love to perform for St. Paddy's Day and have absolutely loved getting back into dancing as an adult.&nbsp; I hope I can pass just some of the joy dancing gives me onto the students in a short few weeks.</p>\n<p>I absolutely cannot wait for Irish Life Experience 2025!&nbsp; It is going to be an amazing summer and I am honored to return to experience it again.</p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "4c955da",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "2aafdc2",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "767e621",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2023/05/IMG_2436.jpg",
+       "alt": "Giant's Causeway-Clare 2015",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "be489c6",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "173631b",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2023/05/48EB1283-7671-4AD7-B07B-8312B41751FE.jpg",
+       "alt": "Giant's Causeway-Clare 2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "005b6ef",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "7bcf985",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2023/05/IMG_5407-rotated.jpeg",
+       "alt": "Irish Dancing-Clare and Sisters",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  }
+ ]
+}

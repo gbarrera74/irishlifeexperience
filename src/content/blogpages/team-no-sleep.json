@@ -1,0 +1,95 @@
+{
+ "slug": "team-no-sleep",
+ "title": "Team No Sleep",
+ "path": "/blog/team-no-sleep/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "ee21e23",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "21a0f1d",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "8204615",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/image1.jpeg",
+       "alt": "Glendalough Monastery-Small Group 2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "5a063b0",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/image3-scaled.jpeg",
+       "alt": "Glendalough-2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "610b379",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "11a89a4",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">After saying goodbye to everyone's families in Boston, the Irish Life Experience 2022 students made their way through Security, got some snacks for the flight, and departed for their flight to Ireland!</span></p>\n<p><span style=\"font-weight: 400;\">They arrived bright and early at 8:05 AM and were greeted by Angie, our lovely Irish Coordinator and Teacher from Belfast.&nbsp; They hopped on a bus and visited the beautiful Glendalough-tucked away in the Wicklow mountains.&nbsp; It used to be an old monastery from the 6</span><span style=\"font-weight: 400;\">th-</span><span style=\"font-weight: 400;\">century and now serves as a national park and historic site.&nbsp; The students had a chance to see the monastery, an old cemetery, and hike along a beautiful trail.&nbsp; The big lake at the end was an incredible introduction to Ireland and its lush greenery.&nbsp; The students also had a picnic with their packed lunches, took a few photos, and got back on the bus to continue their journey to Waterford.&nbsp; Amelia said that the scenery made her think of a fairytale and Morgan thought it reminded her of a gorgeous desktop Most students were doing their best to fight the jet lag, but we did see a few catch some much need shut eye.</span></p>\n<p><span style=\"font-weight: 400;\">Upon arrival to Newtown Boarding School, they took a quick tour of the grounds and had dinner.&nbsp; The students were pleasantly surprised with how delicious it was!&nbsp; They played a few quick ice-breaker games to get to know one another better.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">We learned that Amelia rides horses and Joey recently got his Irish citizenship-among many other incredible things about our talented group.&nbsp;&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">The students were excited to be in Waterford, but maybe more excited to finally sleep, so we had an early bedtime to get ready for our first day of class.</span></p>\n<p></p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "9c84dbe",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "4dd6358",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "4b7f341",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/image2.jpeg",
+       "alt": "Glendalough-Hands in the Air Group 2022",
+       "link": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

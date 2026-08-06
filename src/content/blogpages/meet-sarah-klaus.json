@@ -1,0 +1,69 @@
+{
+ "slug": "meet-sarah-klaus",
+ "title": "Meet Sarah Klaus",
+ "path": "/blog/meet-sarah-klaus/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "76a6fb3",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "3296f7d",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "f49af64",
+       "style": {
+        "": {
+         "max-width": "100%",
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<div>Hi Everyone! </div><div> </div><div>Sarah Klaus here!  Originally from Colorado, but I now reside in Western Montana, where I teach 4th Grade.</div><div> </div><div>In my free time, I enjoy biking, crafting, napping, and skiing.  I consider myself a semi-professional bad-joke-teller with a long-term life goal of never growing up.</div><div> </div><div>I am honored and excited to Irish-up my summer with Irish Life Experience. I can't wait to meet everyone in a few short weeks!</div>"
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "0427b6b",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "b528ffe",
+       "style": {},
+       "src": "/images/wp/2025/05/IMG_2461-scaled.jpeg",
+       "alt": "Sarah Candid",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "f506161",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "23c4ba9",
+       "style": {},
+       "src": "/images/wp/2025/05/received_320131662698077-scaled.jpg",
+       "alt": "Sarah Headstand",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  }
+ ]
+}

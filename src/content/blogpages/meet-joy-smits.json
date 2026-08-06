@@ -1,0 +1,180 @@
+{
+ "slug": "meet-joy-smits",
+ "title": "Meet Joy Smits",
+ "path": "/blog/meet-joy-smits/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "cf90a8f",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "7cfd2eb",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "3cd4c1d",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p class=\"isSelectedEnd\">Hi!</p><p class=\"isSelectedEnd\">My name is Joy Smits, and I went on the Irish Life Experience in 2024 and will be returning this summer as one of your Junior Counselors.</p><p class=\"isSelectedEnd\">I am originally from Shoreline, Washington, and I am going to be a Junior at Gonzaga University, where I am studying Marketing. I have always been really interested in sports and entertainment, and after I graduate, I hope to work in the sports industry in some capacity.</p><p class=\"isSelectedEnd\">I love going to concerts, spending time with friends, and watching basketball-especially when I get to cheer on my favorite teams with people I love. I am so excited to head back to Ireland with the ILE, reconnect with the program, and make even more amazing memories this summer.</p><p class=\"isSelectedEnd\">A few fun facts about me: I love hot dogs, I have set a goal to read 25 books this year, and I really enjoy watercolor painting in my free time. My go-to karaoke song is “Valerie,” and one of my long-term dreams is to learn how to do a backflip (Safely, of course!).</p><p>I can not wait to meet everyone, share this experience, and help make this summer just as special as the last one!</p><p>Go Zags!</p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "1d60522",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "5d38467",
+       "style": {},
+       "src": "/images/wp/2026/05/92A068DC-E5B7-48F8-AADB-3BEDD261F35D.jpg",
+       "alt": "Joy S. at the Rock of Cashel",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  },
+  {
+   "type": "section",
+   "id": "3a6c86f",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b7e2014",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "1460c59",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_1509-scaled.jpg",
+       "alt": "Joy S. at the Poulnabrone Dolmen",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "3dffb72",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "f6c73b2",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_1249-scaled.jpg",
+       "alt": "Joy S. at Croke Park",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "b4bc89f",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "bb2d63f",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_0893-scaled.jpg",
+       "alt": "Joy S. at the Giant's Causeway",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  },
+  {
+   "type": "section",
+   "id": "bba6427",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "da63972",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "00a1374",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_0955-scaled.jpg",
+       "alt": "Joy S. at Gonzaga",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "2c8eeb9",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "e5f5dcb",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_6464-preview-scaled.jpg",
+       "alt": "Joy S. and Friend at Gonzaga",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "a144d54",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "e56f2d5",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_6367-preview-scaled.jpg",
+       "alt": "Joy S. Selfie",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "52d08f1",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "0c2b44a",
+       "style": {},
+       "src": "/images/wp/2026/05/DSC02719-scaled.jpg",
+       "alt": "Joy S. and Friends at Gonzaga",
+       "link": null
+      }
+     ],
+     "width": 25
+    }
+   ],
+   "structure": "40"
+  }
+ ]
+}

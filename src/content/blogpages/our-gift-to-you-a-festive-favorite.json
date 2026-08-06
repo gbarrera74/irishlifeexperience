@@ -1,0 +1,68 @@
+{
+ "slug": "our-gift-to-you-a-festive-favorite",
+ "title": "Our Gift to You-A Festive Favorite",
+ "path": "/blog/our-gift-to-you-a-festive-favorite/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "68adb88",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "82bfde1",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "eef274d",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>For those of you over the ripe age of 21, the Irish Life Experience has a festive favorite.  </p><p>Baileys is an Irish cream liqueur that is the perfect marriage of cream, finest spirts of whiskey, and a unique chocolatey blend.  </p><p>This Holiday Season we are going to give you our lip-smackingly delicious recipe to introduce to your family and friends.  </p><p>It will be the perfect beverage to bring to a Christmas party or to give out as gifts to loved ones. </p><p>Ingredients:</p><ul><li>1 cup of heavy cream or half and half.</li><li>1 14 oz can of sweetened condensed milk.</li><li>3 tablespoons of chocolate syrup.</li><li>1 teaspoon of instant coffee.</li><li>1 teaspoon of pure vanilla extract.</li><li>1 2/3 cup of Irish whiskey.  We prefer Bushmills or Jameson.  </li></ul><p>Instructions:</p><ul><li>Place the cream, sweetened condensed milk, instant coffee, chocolate syrup, and vanilla and mix on low speed for 30 seconds.  </li><li>Add the whiskey with the bender going at give it a whirl on a slow speed for a few more seconds.</li><li>Transfer the Baileys to glasses and enjoy!  Delish!</li></ul><p> </p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "fbd0332",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "3733e0d",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/dreamstime_m_43527260.jpg",
+       "alt": "Baileys",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "7f60240",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Irish-Cream-Recipe-Reverse-Engineered-sw.jpg",
+       "alt": "Baileys Glasses",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  }
+ ]
+}

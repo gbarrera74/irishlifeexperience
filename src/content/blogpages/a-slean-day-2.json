@@ -1,0 +1,107 @@
+{
+ "slug": "a-slean-day-2",
+ "title": "A Slean Day",
+ "path": "/blog/a-slean-day-2/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "0c9f9c6",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "60d4224",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "99675f8",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">Today there was a weather advisory for extreme heat.&nbsp; It was a beautiful clear day with highs in the 70's complementing the natural beauty of Connemara.&nbsp; The group took a pit stop near a lake so that they could capture some of the beauty.&nbsp; Connemara is not a county but a cultural region in County Galway.&nbsp; It is predominantly Gaeltacht (An area where the primary language spoken is Irish Gaelic.).</span></p>\n<p><span style=\"font-weight: 400;\">The Irish Life Experience drove to Kylemore Abbey.&nbsp; &nbsp;This picturesque castle was built in 1868 as a private home for the family of Mitchell Henry, a wealthy doctor from London.&nbsp; He and his wife, Margret. moved to Ireland after traveling here on their honeymoon in the mid-1840'</span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">s.&nbsp; Margret fell in love with Ireland's land and culture, so he promptly built her the acropolis.&nbsp; &nbsp;Amelia and Maeve walked to the gardens and said they were absolutely stunning.&nbsp;&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">For the remainder of the 1800's, the Castle was used as a primary home for the Henry family.&nbsp; It was then sold to the Duke of Manchester at the turn of the century.&nbsp; It was purchased by the Irish Benedict Nuns in 1920 and then used as an all-girls school until 2010.&nbsp; It is now used as a museum and picture destination.</span></p>\n<p><span style=\"font-weight: 400;\">After exploring the grounds and enjoying a treat at the cafe, the group drove out into the hillside to visit Clifden-a lovely town and then our final stop for the day:&nbsp; Dan O’Hara’s Homestead.&nbsp; The cottage here is a rebuilt replica of the original, which was a pre-famine farm destroyed by an angry landlord.</span></p>\n<p><span style=\"font-weight: 400;\">Martin, the owner of the homestead, drove the students in his tractor up the hill to the cottage and told us about the region's history in great detail.&nbsp; He discussed technology, emigration, and language, and it was enthralling.&nbsp; Before entering the cottage, he demonstrated the art of cutting turf using a slean (Pronounced “Schlong.),\" which is a traditional tool.&nbsp; Inside the cottage, Martin told the group what life would have been like for Dan and his family.&nbsp; &nbsp;Natalie picked some rushes for making more St. Bridgid’s Crosses with the help of Martin, and then they drove back to the main building with Keira in the passenger seat of the tractor.&nbsp; &nbsp;At this point, they were able to go see the sheep and horse near the gift shop.&nbsp; &nbsp;On the way back to Galway, Natalie was our tour guide filling the time with fun facts about Montana and observations along the drive.&nbsp; Many students walked into town, and others went to their apartments to cook dinner.</span></p>\n<p></p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "e1594bf",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "a390aa3",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/07/DSC04663-scaled.jpg",
+       "alt": "Kylemore Abbey-2013",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "448eaef",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/image-4.png",
+       "alt": "Kylemore Abbey-Rock Skipping 2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "86e9891",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/image.png",
+       "alt": "Dan O'Hara's-Group Walking 2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  },
+  {
+   "type": "section",
+   "id": "0d4b9f7",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "24875ac",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "27e2298",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/image-3.png",
+       "alt": "Dan O'Hara's-Group 2022",
+       "link": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

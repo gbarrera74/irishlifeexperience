@@ -1,0 +1,776 @@
+{
+ "slug": "students",
+ "title": "Students",
+ "path": "/students/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f2e8833",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "15px 15px 15px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "555ce17",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "6cfe6ed",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -18px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Student",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "19d7424",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Overview",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "8b53609",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/10/DSC00607-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "dc5d42f",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "500px"
+    },
+    "": {
+     "padding": "0px 30px 0px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "bff4c08",
+     "style": {
+      ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+       "background-color": "#F2F2F2"
+      },
+      "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+       "background-color": "#F2F2F2"
+      },
+      "> .elementor-element-populated": {
+       "border-radius": "12px 12px 12px 12px",
+       "margin": "0px 0px 20px 0px",
+       "padding": "0px 0px 0px 0px"
+      },
+      "> .elementor-element-populated > .elementor-background-overlay": {
+       "border-radius": "12px 12px 12px 12px"
+      },
+      "> .elementor-background-slideshow": {
+       "border-radius": "12px 12px 12px 12px"
+      }
+     },
+     "children": [
+      {
+       "type": "image",
+       "id": "727e102",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/09/F0B73DC2-3CD5-474D-BF32-AE8980870FDE.png",
+       "alt": "Ireland Map #1",
+       "link": null
+      },
+      {
+       "type": "heading",
+       "id": "80b99a9",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "23px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Classes",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "45bff16",
+       "style": {},
+       "size": 30
+      },
+      {
+       "type": "button",
+       "id": "845f008",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "40px 40px 40px 40px"
+        },
+        ".elementor-button:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "#FFFFFF",
+         "color": "#61CE70"
+        },
+        "> .elementor-widget-container": {
+         "margin": "13px 0px 13px 0px"
+        }
+       },
+       "text": "Learn More",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "4cbcf51",
+     "style": {
+      ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+       "background-color": "#F2F2F2"
+      },
+      "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+       "background-color": "#F2F2F2"
+      },
+      "> .elementor-element-populated": {
+       "border-radius": "12px 12px 12px 12px",
+       "margin": "0px 0px 20px 0px",
+       "padding": "0px 0px 0px 0px"
+      },
+      "> .elementor-element-populated > .elementor-background-overlay": {
+       "border-radius": "12px 12px 12px 12px"
+      },
+      "> .elementor-background-slideshow": {
+       "border-radius": "12px 12px 12px 12px"
+      }
+     },
+     "children": [
+      {
+       "type": "image",
+       "id": "d8689c2",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/07/AF387BFA-7F95-4933-BF02-1E672D05BD88.png",
+       "alt": "Cliffs of Moher Flowers",
+       "link": null
+      },
+      {
+       "type": "heading",
+       "id": "ef9040f",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "23px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Tours",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "96df254",
+       "style": {},
+       "size": 30
+      },
+      {
+       "type": "button",
+       "id": "8c3231e",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#E4978E",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "40px 40px 40px 40px"
+        },
+        ".elementor-button:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#E4978E"
+        },
+        ".elementor-button:focus": {
+         "background-color": "#FFFFFF",
+         "color": "#E4978E"
+        },
+        "> .elementor-widget-container": {
+         "margin": "13px 0px 13px 0px"
+        }
+       },
+       "text": "Learn More",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "1b4cea0",
+     "style": {
+      ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+       "background-color": "#F2F2F2"
+      },
+      "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+       "background-color": "#F2F2F2"
+      },
+      "> .elementor-element-populated": {
+       "border-radius": "12px 12px 12px 12px",
+       "margin": "0px 0px 20px 0px",
+       "padding": "0px 0px 0px 0px"
+      },
+      "> .elementor-element-populated > .elementor-background-overlay": {
+       "border-radius": "12px 12px 12px 12px"
+      },
+      "> .elementor-background-slideshow": {
+       "border-radius": "12px 12px 12px 12px"
+      }
+     },
+     "children": [
+      {
+       "type": "image",
+       "id": "8a37023",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/09/IMG_2557-scaled.jpg",
+       "alt": "St. Brigid's Cross Workshop-Katie 2010",
+       "link": null
+      },
+      {
+       "type": "heading",
+       "id": "fa5dc8d",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "23px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "2em",
+         "font-weight": "bold",
+         "line-height": "1.2em",
+         "letter-spacing": "-1.2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Workshops",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "6590082",
+       "style": {},
+       "size": 30
+      },
+      {
+       "type": "button",
+       "id": "81299c3",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#F3C820",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "40px 40px 40px 40px"
+        },
+        ".elementor-button:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#F3C820"
+        },
+        ".elementor-button:focus": {
+         "background-color": "#FFFFFF",
+         "color": "#F3C820"
+        },
+        "> .elementor-widget-container": {
+         "margin": "13px 0px 13px 0px"
+        }
+       },
+       "text": "Learn More",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "bb3c66b",
+     "style": {
+      ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+       "background-color": "#F2F2F2"
+      },
+      "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+       "background-color": "#F2F2F2"
+      },
+      "> .elementor-element-populated": {
+       "border-radius": "12px 12px 12px 12px",
+       "margin": "0px 0px 20px 0px",
+       "padding": "0px 0px 0px 0px"
+      },
+      "> .elementor-element-populated > .elementor-background-overlay": {
+       "border-radius": "12px 12px 12px 12px"
+      },
+      "> .elementor-background-slideshow": {
+       "border-radius": "12px 12px 12px 12px"
+      }
+     },
+     "children": [
+      {
+       "type": "image",
+       "id": "a849912",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/10/The-Gleneagle-Apartment-Living-room.jpg",
+       "alt": "Gleneagle Living Room-2021",
+       "link": null
+      },
+      {
+       "type": "heading",
+       "id": "44a4f8a",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "23px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "2em",
+         "font-weight": "bold",
+         "line-height": "1.2em",
+         "letter-spacing": "-1.2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Accommodations",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "1491cbf",
+       "style": {},
+       "size": 30
+      },
+      {
+       "type": "button",
+       "id": "0d51e0b",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#6EC1E4",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "40px 40px 40px 40px"
+        },
+        ".elementor-button:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#6EC1E4"
+        },
+        ".elementor-button:focus": {
+         "background-color": "#FFFFFF",
+         "color": "#6EC1E4"
+        },
+        "> .elementor-widget-container": {
+         "margin": "13px 0px 13px 0px"
+        }
+       },
+       "text": "Learn More",
+       "link": null
+      }
+     ],
+     "width": 25
+    }
+   ],
+   "structure": "40"
+  },
+  {
+   "type": "section",
+   "id": "e006770",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.45"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "0px"
+    },
+    "": {
+     "padding": "50px 15px 50px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "87445b0",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "695ffc1",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "start"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "3.1em",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "-5px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "The Adventure",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "85aecad",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "-34px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "start"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Dancing Script\", Sans-serif",
+         "font-size": "70px",
+         "font-weight": "bold",
+         "color": "#ffffff",
+         "line-height": "1.7em"
+        }
+       },
+       "text": "awaits...",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "text-editor",
+       "id": "fe6c842",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "-19px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "start",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "20px",
+         "font-weight": "normal",
+         "line-height": "2em",
+         "letter-spacing": "0.2px",
+         "color": "#ffffff"
+        }
+       },
+       "html": "<p>Experience the world and make lifelong friends!</p>"
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "050f36f",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "spacer",
+       "id": "9373b2d",
+       "style": {},
+       "size": null
+      },
+      {
+       "type": "button",
+       "id": "f4788cc",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "Request Info",
+       "link": ""
+      },
+      {
+       "type": "spacer",
+       "id": "ce94c95",
+       "style": {},
+       "size": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "bgImage": "/images/wp/2021/10/IMG_3256-scaled.jpg",
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "ee0a5df",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "1150px"
+    },
+    "": {
+     "padding": "0px 0px 0px 0px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "d6bc75c",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "6b16aea",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 09px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "30px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "What People Say About Us",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "testimonial-carousel",
+       "id": "c3335ef",
+       "style": {
+        ".swiper-pagination-bullet-active": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-progressbar-fill": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-fraction": {
+         "color": "#74B843"
+        },
+        ".elementor-swiper-button": {
+         "font-size": "20px"
+        },
+        ".elementor-testimonial__text": {
+         "color": "#1E3A43",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "16px",
+         "text-transform": "none"
+        },
+        ".elementor-testimonial__name": {
+         "color": "#E4978E",
+         "font-size": "20px",
+         "font-weight": "900",
+         "text-transform": "uppercase"
+        },
+        ".elementor-testimonial__title": {
+         "color": "#1E3A43",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "text-transform": "uppercase"
+        }
+       },
+       "slides": [
+        {
+         "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
+         "name": "Sean K.",
+         "detail": "Seekonk, MA-Parent of Ian 2019",
+         "image": "/images/wp/2021/10/IMG_0029.png"
+        },
+        {
+         "quote": "Thank you Irish Life Experience and Taryn for an amazing life-changing experience for my daughter.",
+         "name": "Peggy L.",
+         "detail": "Canton, GA-Parent of Elizabeth 2019",
+         "image": "/images/wp/2021/10/IMG_0091.png"
+        },
+        {
+         "quote": "The summer of 2019 was my favorite summer.  There was never a dull moment during the whole trip.",
+         "name": "Daniel S.",
+         "detail": "Brielle, NJ-Student 2019",
+         "image": "/images/wp/2021/10/IMG_9343.png"
+        },
+        {
+         "quote": "To say this program is amazing is an understatement. There are not enough words to describe this once is a lifetime opportunity.",
+         "name": "Hannah B.",
+         "detail": "Channahon, IL-Student 2017",
+         "image": "/images/wp/2021/10/20841156_1913146842235965_4210053887803783594_n.png"
+        }
+       ],
+       "slidesPerView": "2"
+      },
+      {
+       "type": "button",
+       "id": "a0bed01",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "See More Testimonials",
+       "link": ""
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

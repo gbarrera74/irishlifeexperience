@@ -1,0 +1,35 @@
+{
+ "slug": "a-final-farewell",
+ "title": "A Final Farewell",
+ "path": "/blog/a-final-farewell/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "db727d2",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "a869515",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "2f81ceb",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>...And so dawns the last day on this magical island. It's strange how just three and a half weeks can change this small group of incredible human beings, but it's true. I could easily write an entire novel per every amazing person on ILE 23, though I'm afraid it might take a bit too long (But I promise, if I ever have the time to do that, I will). These amazing people have become nothing short of a huge family, and coupled with the fact that we were gathered together on arguably the most incredible place on planet earth (or possibly the universe), it made the experience all that more special. From Strider's genuine kindness, to Lydia's outgoing joy, to Maddie's kind curiosity, and Denny's humorous wit, everyone here became--and will forever stay--the most magical group of friends.</p><p>So, as we take this final, bittersweet plane ride together--I offer a thank-you. </p><p>To the amazing students of ILE 23--you guys were truly the best ever. Everyone was always so curious, positive, and genuine about everything--it was just incredible. From the silly antics to late-night haircuts, from Barbie shopping and guitar sessions--the memories created were some of the best yet.</p><p>To Taryn, Kaylee, Mark, Clare, and Carlos--you guys were just wonderful, and the ILE will never be complete without you guys. The incredibly hard work you put into this program is just astounding, we love and dearly appreciate you all SO much! </p><p>And finally, to Ireland--the Motherland! Thank you for holding host to our little group, and proving to be a source of incredible fascination and wonder and enchantment to each soul that visits. We love you!</p><p>And so, 23 students embark on that fanciful journey back home, scattered once more across the states. But this time it's different. On the way here, just 3 and a half weeks ago, everyone was a group of strangers, unsure of who to talk to or what exactly they had just signed up for. But now, they return home as the dearest of friends, greatest of travellers, and utterly changed people. </p><p>We love you, ILE 23! </p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

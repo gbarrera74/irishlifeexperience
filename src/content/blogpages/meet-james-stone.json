@@ -1,0 +1,108 @@
+{
+ "slug": "meet-james-stone",
+ "title": "Meet James Stone",
+ "path": "/blog/meet-james-stone/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f6f8a48",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b77f301",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "20ff9fc",
+       "style": {},
+       "src": "/images/wp/2026/05/3f308e8a-7f20-4d23-bd92-28d187f66061.jpg",
+       "alt": "James S. Hiking",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "ebafc6e",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "d40441c",
+       "style": {},
+       "src": "/images/wp/2026/05/7e8710fa-1063-4727-a3ca-e3e8bccffda5.jpg",
+       "alt": "James S. Skiing",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "7cd8ccc",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "970c019",
+       "style": {},
+       "src": "/images/wp/2026/05/22b14cae-117f-4811-8e12-a6866e653323.jpg",
+       "alt": "James S. in New York",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  },
+  {
+   "type": "section",
+   "id": "b0fd92e",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "5a669a3",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "77bd459",
+       "style": {},
+       "src": "/images/wp/2026/05/2aed101a-bf74-4253-9378-6c969a65bf74.jpg",
+       "alt": "James S. at Machu Picchu",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "e821490",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "37ef674",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix elementor-inline-editing\" data-elementor-setting-key=\"editor\" data-elementor-inline-editing-toolbar=\"advanced\"><p class=\"isSelectedEnd\">Hi Everyone!</p><p class=\"isSelectedEnd\">My name is James, and I am from Waterford City in Ireland. I’m a primary school teacher based in the seaside town of Tramore in County Waterford, and I have been teaching for the past seven years.</p><p class=\"isSelectedEnd\">I am very passionate about fitness and love staying active. If I am not in the gym, you will probably find me running, swimming, or out walking my dog, Bruno. I am also a musician and spend a lot of time practicing both the bagpipes and the uilleann pipes. Over the years, I have been lucky enough to win several All-Ireland titles, and in 2025, I achieved a world title as well.</p><p class=\"isSelectedEnd\">I have a huge love for GAA and really enjoy coaching and training the teams at my school. Being involved in sport and music has always been a big part of my life, and I love sharing that passion with others.</p><p class=\"isSelectedEnd\">My journey with the Irish Life Experience began back in 2014 with my friend Eddie, and it has been an incredible part of my life ever since. I truly enjoy seeing students experience Irish culture, step outside their comfort zones, and form lifelong friendships along the way. Every summer brings new memories, and I have certainly collected plenty of great stories over the years!</p><p>Fun fact: I am a big fan of coffee and saunas, and I love traveling around Ireland in search of the best spots for both. Can you guess my coffee order?</p></div></div>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  }
+ ]
+}

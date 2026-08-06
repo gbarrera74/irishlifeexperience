@@ -1,0 +1,131 @@
+{
+ "slug": "old-ireland-in-color-perfect-gift",
+ "title": "Old Ireland in Color-Perfect Gift!",
+ "path": "/blog/old-ireland-in-color-perfect-gift/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "18b959a",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "e727211",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "dc40d04",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><em>Old Ireland in Colour</em> celebrates the rich history of Ireland and the Irish through a color restoration of stunning images of all walks of Irish life, and the Irish abroad, throughout the nineteenth and twentieth centuries.  </p><p>With over 170 photographs from all four provinces meticulously colorized by John Breslin through a combination of cutting-edge artificial intelligence technology and his own historical research, each image has been exquisitely transformed and brought to life.  Each breathtaking picture has been captioned by historian, Sarah-Ann-Buckley, and revitalizes scenes we thought we knew.</p><p>Since the project began, it has gone viral on social media-gaining more than 45,000 followers on Facebook and 55,000 followers on Instagram.</p><p>If you are looking for the perfect Irish gift, then look no further.  You can purchase it on Amazon for about $25.  I guarantee it will bring you a lot of visual joy and make someone in your life very happy.  </p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "49f04d7",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "f998133",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "4f4b572",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/35468482-8929173-image-a-21_1604927683046.jpg",
+       "alt": "Boys",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "225b4b2",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "5ca58a6",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/61XPQUdx0VL.jpg",
+       "alt": "Irish Ladies in Claddagh",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "5725157",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "a455d2f",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "047a91e",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/57abe9c3b44b810ef53ed7516ae2a0f1.png",
+       "alt": "Irish Ladies with Cart",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "4675c5c",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "8d7cf99",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/619h4wpK0EL.jpg",
+       "alt": "Hurling Team",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

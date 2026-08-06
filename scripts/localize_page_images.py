@@ -75,11 +75,14 @@ def walk(node):
 
 
 def main():
-    for f in sorted(PAGES.glob("*.json")):
-        if f.name.startswith("_"):
-            continue
-        doc = json.loads(f.read_text())
-        f.write_text(json.dumps(walk(doc), indent=1, ensure_ascii=False))
+    # Elementor-built blog posts are rendered from block trees too, so their
+    # images need localising by the same pass.
+    for d in (PAGES, ROOT / "src/content/blogpages"):
+        for f in sorted(d.glob("*.json")):
+            if f.name.startswith("_"):
+                continue
+            doc = json.loads(f.read_text())
+            f.write_text(json.dumps(walk(doc), indent=1, ensure_ascii=False))
 
     print(f"localized {len(copied)} unique images into {DEST.relative_to(ROOT)}")
     if missing:

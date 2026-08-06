@@ -1,0 +1,104 @@
+{
+ "slug": "happy-birthday-cameron",
+ "title": "Happy Birthday, Cameron!",
+ "path": "/blog/happy-birthday-cameron/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "e6c7d84",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "64b4a2f",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "a605eb5",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_6913.jpg",
+       "alt": "Soda Bread Workshop-2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "8d1e3e1",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "3645ce5",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">Hello, Everyone!</span></p><p><span style=\"font-weight: 400;\">Another day.  The kids munched on plain cereal and toast, wishing for waffles and pancakes.  Afterward, Micheal, Miles, and Taryn taught a couple of morning classes- continuing to study Gaelic, Irish History, Irish American History, and Irish Studies.   Natalie has been learning Gaelic online for about a year and is delighted to finally be able to speak it in person.</span></p><p><span style=\"font-weight: 400;\">The kids met for lunch and then had several choices for how to spend their afternoon-including attending workshops and exploring Waterford.  The first workshop was making Irish soda bread with Kaylee.  Rowan said, “Afternoon soda bread baking is a vibe.”   What a relaxing way to spend part of the afternoon!  The cafeteria staff complimented the loaves of bread and said they were very impressed with the recipe  They turned out great and the kids shared them with everyone at dinner.   </span></p><p><span style=\"font-weight: 400;\">The second workshop available was creating St. Brigid's Crosses with Taryn.  John-the caretaker at Newtown Boarding School got the kids rushes to make the crosses this year, which was a real treat.   After dinner, the group celebrated Cameron’s 15th birthday with some delicious cake.  </span></p><p><span style=\"font-weight: 400;\">After dinner, students had an Irish dance class with Clare, which was held outside.  The weather was beautiful, so we are taking full advantage of the sunshine.  Next, the kids met with their drama groups and finished their music videos-stay tuned, as we will be posting them soon.  </span></p><p><span style=\"font-weight: 400;\">Finally, students attended a disco with students from other camps staying at Newtown.  What a fun last night before heading to our next campus in Dublin!</span></p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "cc42cd8",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "ced3b80",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "0423727",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_6902.jpg",
+       "alt": "Soda Bread Workshop-Grace and Sofia 2022",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "2bc4b13",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "b36444f",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_6918.jpg",
+       "alt": "Happy Birthday Candles-Cameron",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

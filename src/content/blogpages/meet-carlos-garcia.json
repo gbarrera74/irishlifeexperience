@@ -1,0 +1,105 @@
+{
+ "slug": "meet-carlos-garcia",
+ "title": "Meet Carlos Garcia",
+ "path": "/blog/meet-carlos-garcia/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "eda388f",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "777bed1",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "624c59a",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<div id=\":di\" class=\"ii gt\"><div id=\":dh\" class=\"a3s aiL \"><div dir=\"auto\"><div dir=\"auto\">¡Hola!</div><div dir=\"auto\"> </div><div dir=\"auto\">Carlos Perez joins the Irish Life Experience as a Counselor this summer.</div><div dir=\"auto\"> </div><div dir=\"auto\">Carlos is a remote digital freelancer with a passion for traveling and playing video games.  He was born in Chihuahua, Mexico, and grew up in Tijuana and the Sacramento, California area.  In 2016, he had the opportunity to participate in the Irish Life Experience program, which ignited his passion for exploring new cultures and countries.</div><div dir=\"auto\"> </div><div dir=\"auto\">After finishing high school, Carlos pursued a degree in Mechanical Engineering at a local university.  During his studies, he discovered his unrelated passion for Digital Marketing and started working on freelance projects for real estate companies across the US.  In 2020, he established himself as a digital marketing service provider for various real estate businesses.</div><div dir=\"auto\"> </div><div dir=\"auto\">When he is not working he loves spending time outdoors, whether it be fishing, horseback riding, or off-roading in the Tarahumara Sierra.  He is always looking forward to new adventures and experiences, and he is excited to see where his freelance career and travels will take him in the future.</div><div dir=\"auto\"> </div><div dir=\"auto\">Carlos is thrilled to be returning to Ireland with the Irish Life Experience Program.  He had an amazing time in 2016 and is excited to create an unforgettable experience for new students.</div></div></div></div>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "0e26a26",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "34759ed",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2023/05/IMG_20210629_212137_2-scaled.jpg",
+       "alt": "Mexico-Carlos 2023",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  },
+  {
+   "type": "section",
+   "id": "03e774d",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "54ed4db",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "7a34d8f",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2023/05/14196181_10154193141989130_5320173448148361594_o.jpg",
+       "alt": "Giant's Causeway-Carlos 2016",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "9bb8ca8",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "877eba7",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2023/05/14231948_10154196340779130_3924746938594169003_o.jpg",
+       "alt": "Dingle Peninsula-Carlos 2016",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

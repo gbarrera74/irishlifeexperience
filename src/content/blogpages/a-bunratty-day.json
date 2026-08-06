@@ -1,0 +1,93 @@
+{
+ "slug": "a-bunratty-day",
+ "title": "A Bun(ratty) Day",
+ "path": "/blog/a-bunratty-day/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "8ef91e2",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "8cb8353",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "e7ebfdc",
+       "style": {
+        "": {
+         "max-width": "64%"
+        }
+       },
+       "src": "/images/wp/2024/07/20240719_124112_Original-scaled.jpg",
+       "alt": "Bunratty Castle Guy--2024",
+       "link": null,
+       "caption": "Bunratty Castle!"
+      },
+      {
+       "type": "image",
+       "id": "ecd589d",
+       "style": {
+        "": {
+         "max-width": "82.727%"
+        }
+       },
+       "src": "/images/wp/2024/07/20240719_125620_Original-scaled.jpg",
+       "alt": "Bunratty Castle Group--2024",
+       "link": null,
+       "caption": "Yay!"
+      },
+      {
+       "type": "image",
+       "id": "0e2247d",
+       "style": {
+        "": {
+         "max-width": "84.182%"
+        }
+       },
+       "src": "/images/wp/2024/07/20240719_132021_Original-scaled.jpg",
+       "alt": "Errol, Grace, and Cat at Bunratty--2024",
+       "link": null,
+       "caption": "You'll have to ask these guys for this story..."
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "85cc31d",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "ddf4b34",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Good morrrrning! Farewell to Killarney and our dear Gleneagle...students started off the morning strong with some delicious homemade breakfasts--ranging from full fries to cereal. Then it was a packing frenzy, and we were leaving by 10:30! Woo-hoo! We had a lovely drive full of naps and tunes, then stopped halfway for a quick tour of Bunratty Castle and Folk Park. After exploring the castle (and a 20-minute tour), students had an hour or so to wander around the folk park. And, in the Medieval Market, the students stumbled across Eoin Reordan--a TikTok sensation! He's a big deal, and the kids were very excited to get pictures with him. He even autographed Lauren's map! Students also enjoyed wandering around the many parts of the living history, including stone cottages, a high street with shops and cafes, a petting zoo, and Victorian walled garden. Then, after some snacks and 99s from the cafe, we boarded the bus once more for Gort na Coiribe!&nbsp;</p><p>We arrived in Galway (hello to our last home), and students dispersed into their apartments. They were also given stipends to purchase their groceries. We've been very impressed with their budgeting skills! Some meals so far have been ravioli, pizza, and pastas. Yum!&nbsp;</p><p>In the apartments, students have to check-in and stay on campus by 8, then be in their own apartments by midnight. But besides that, they're allowed to stay up as long as they like! Though we do encourage a reasonable amount of sleep. Lots of games, napping, movies, and general shennanigans ensued before a good night's rest in the lovely Galway.&nbsp;</p>"
+      },
+      {
+       "type": "google_maps",
+       "id": "7380970",
+       "style": {}
+      },
+      {
+       "type": "google_maps",
+       "id": "bd8c7aa",
+       "style": {}
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

@@ -1,0 +1,1057 @@
+{
+ "slug": "about-us",
+ "title": "About Us",
+ "path": "/about-us/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "59bfee2",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "3285f14",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "eefa1f0",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "0.8em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "About",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "8d67dea",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Us",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "a0ecf18",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/09/20232822_10155603969914939_3120689033503150462_o.jpg"
+  },
+  {
+   "type": "section",
+   "id": "5a890c2",
+   "style": {
+    "": {
+     "padding": "20px 20px 20px 20px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "3a67b3c",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "80a4b3c",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "20px 0px 20px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "2.7em",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "-1.5px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Why Us?",
+       "tag": "h4",
+       "link": null,
+       "size": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "5507095",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px"
+    },
+    "": {
+     "padding": "15px 15px 15px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "f0fa991",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "3052a52",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#61CE70"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#61CE70"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#61CE70"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "var( --e-global-typography-primary-font-family ), Sans-serif",
+         "font-weight": "var( --e-global-typography-primary-font-weight )",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "var( --e-global-typography-primary-font-family ), Sans-serif",
+         "font-weight": "var( --e-global-typography-primary-font-weight )"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "icon": "hm hm-compass",
+       "title": "Discover a\nCulture",
+       "description": "Learn the language, cooking techniques, dancing, and more genuine ways of life.",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "af15eed",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "10px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "4c25b3a",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#E4978E"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#E4978E"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#E4978E"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "var( --e-global-typography-primary-font-family ), Sans-serif",
+         "font-weight": "var( --e-global-typography-primary-font-weight )",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "var( --e-global-typography-primary-font-family ), Sans-serif",
+         "font-weight": "var( --e-global-typography-primary-font-weight )"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "icon": "hm hm-direction-both",
+       "title": "Explore Your Heritage",
+       "description": "Join our program to discover how your ancestors lived, worked, and played.",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "47d3234",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "10px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "3af3486",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#F8DB6B"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#F8DB6B"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#F8DB6B"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "var( --e-global-typography-primary-font-family ), Sans-serif",
+         "font-weight": "var( --e-global-typography-primary-font-weight )",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "var( --e-global-typography-primary-font-family ), Sans-serif",
+         "font-weight": "var( --e-global-typography-primary-font-weight )"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "icon": "hm hm-team-member",
+       "title": "Make Lifelong Friends",
+       "description": "Journey with a group of young people and find friends you will have for life.",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "e533a2b",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "10px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "ba510ba",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#6EC1E4"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#6EC1E4"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#6EC1E4"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "var( --e-global-typography-primary-font-family ), Sans-serif",
+         "font-weight": "var( --e-global-typography-primary-font-weight )",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "var( --e-global-typography-primary-font-family ), Sans-serif",
+         "font-weight": "var( --e-global-typography-primary-font-weight )"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "icon": "hm hm-map-marker",
+       "title": "Experience Life Abroad",
+       "description": "Travel with us to see and appreciate all the beauty the world has to offer.",
+       "link": null
+      }
+     ],
+     "width": 25
+    }
+   ],
+   "structure": "40"
+  },
+  {
+   "type": "section",
+   "id": "4301663a",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#ffffff"
+    },
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "7381a6e2",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "677f9bd3",
+       "style": {
+        "": {
+         "padding": "0px 0px 0px 0px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "575952aa",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "10px 10px 10px 10px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "29a61b8a",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Nothing You Could Do\", Sans-serif",
+             "font-size": "30px",
+             "font-weight": "bold",
+             "text-transform": "capitalize",
+             "line-height": "1.5em",
+             "letter-spacing": "2px",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Our Passion Led Us Here!",
+           "tag": "h3",
+           "link": null,
+           "size": "small"
+          },
+          {
+           "type": "text-editor",
+           "id": "28444c97",
+           "style": {
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43",
+             "text-align": "center"
+            },
+            "> .elementor-widget-container": {
+             "padding": "1px 1px 1px 1px"
+            }
+           },
+           "html": "<p>The Irish Life Experience was founded on the belief that cultural exploration can play an important role in helping to develop a young adult's identity.  Since 1998, our executives, managers, teachers, and counselors have successfully led countless groups of students abroad.</p><p>Our experienced team is dedicated to helping students learn about different cultures and traditions, as well as maintaining the highest level of education, safety, and fun.  The superior experience and safety that the Irish Life Experience provides is only matched by the selection of educational classes, workshops, and fun-filled Irish tours provided to each student. </p><p>We look forward to meeting you soon!</p><p> </p>"
+          },
+          {
+           "type": "heading",
+           "id": "734e35b",
+           "style": {
+            ".elementor-heading-title": {
+             "font-family": "\"Dawning of a New Day\", Sans-serif",
+             "color": "#1E3A43"
+            },
+            "": {
+             "text-align": "center"
+            }
+           },
+           "text": "Taryn Harrison",
+           "tag": "h2",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "id": "37af13ac",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-14px 0px 0px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Taryn Harrison, President",
+           "tag": "span",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "34c66e15",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "3a24065d",
+       "style": {},
+       "children": [
+        {
+         "type": "column",
+         "id": "7fde5bf9",
+         "style": {},
+         "children": [
+          {
+           "type": "image",
+           "id": "3695fd5",
+           "style": {
+            "> .elementor-widget-container": {
+             "background-color": "#FFFFFF"
+            },
+            "img": {
+             "max-width": "100%",
+             "border-radius": "20px 20px 20px 20px"
+            }
+           },
+           "src": "/images/wp/2021/09/941326_10154035231419939_7315699141603895601_n.jpg",
+           "alt": "Skellig Michael-Taryn 1991",
+           "link": null
+          },
+          {
+           "type": "image",
+           "id": "eb81751",
+           "style": {
+            "> .elementor-widget-container": {
+             "background-color": "#FFFFFF"
+            },
+            "img": {
+             "max-width": "100%",
+             "border-radius": "20px 20px 20px 20px"
+            }
+           },
+           "src": "/images/wp/2021/09/242478566_10159663291284939_2580436875972580326_n.jpg",
+           "alt": "Killargue-Gramz and TBonz 2015",
+           "link": null
+          }
+         ],
+         "width": 50
+        },
+        {
+         "type": "column",
+         "id": "5285e4fb",
+         "style": {},
+         "children": [
+          {
+           "type": "image",
+           "id": "6791e6dc",
+           "style": {
+            "> .elementor-widget-container": {
+             "background-color": "#FFFFFF"
+            },
+            "img": {
+             "max-width": "100%",
+             "border-radius": "20px 20px 20px 20px"
+            }
+           },
+           "src": "/images/wp/2021/07/IMG_3256-scaled.jpg",
+           "alt": "Slieve League and Converse-2015",
+           "link": null
+          },
+          {
+           "type": "image",
+           "id": "22624d4a",
+           "style": {
+            "> .elementor-widget-container": {
+             "background-color": "#FFFFFF"
+            },
+            "img": {
+             "max-width": "100%",
+             "border-radius": "20px 20px 20px 20px"
+            }
+           },
+           "src": "/images/wp/2021/09/IMG_7289-scaled.jpg",
+           "alt": "Camino-Siempre Contigo",
+           "link": null
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "85ce518",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "ee86400",
+     "style": {},
+     "children": [
+      {
+       "type": "shortcode",
+       "id": "6ec5423",
+       "style": {},
+       "shortcode": "[trustindex no-registration=google]"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "296cb9b4",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.33"
+    },
+    "": {
+     "padding": "60px 60px 60px 60px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "45b36d09",
+     "style": {
+      "> .elementor-element-populated": {
+       "padding": "0% 0% 0% 0%"
+      }
+     },
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "472b25b2",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -20px 0px"
+        },
+        "": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "normal",
+         "text-transform": "uppercase",
+         "line-height": "1.5em",
+         "letter-spacing": "1px",
+         "color": "#ffffff",
+         "text-align": "center"
+        }
+       },
+       "html": "<p>Trust Us to</p>"
+      },
+      {
+       "type": "heading",
+       "id": "4c47aee7",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 60px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "59px",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Dream, Discover, and Travel",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "1b1c4a61",
+     "style": {},
+     "children": [
+      {
+       "type": "button",
+       "id": "6a27e517",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "Apply Now",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "bgImage": "/images/wp/2021/11/30727297_10155840810949130_8651115417584009216_o.jpeg",
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "b397003",
+   "style": {
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "307f384",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "741143b",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "64px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "-1.5px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Mission",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "5bf184e4",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px"
+    },
+    "": {
+     "padding": "36px 15px 40px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "5699d543",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "ae62037",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#1E3A43"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#1E3A43"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "17px",
+         "font-weight": "400",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "17px",
+         "font-weight": "400"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "icon": "hm hm-globe4",
+       "title": "To provide students with the opportunity of living and learning in a different cultural environment.",
+       "description": "",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "4d01d776",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "0493799",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#1E3A43"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#1E3A43"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "17px",
+         "font-weight": "400",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "17px",
+         "font-weight": "400"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "icon": "hm hm-group",
+       "title": "To provide each student with a broad understanding of the cultural, economic, political, and social life in a contemporary country.",
+       "description": "",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "2d242977",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "ef81e5f",
+       "style": {
+        ".elementor-icon-box-title": {
+         "color": "#1E3A43",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "16px"
+        },
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#1E3A43"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#1E3A43"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#1E3A43"
+        },
+        ".elementor-icon": {
+         "font-size": "52px"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "16px"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "icon": "hm hm-compass",
+       "title": "To provide an international travel experience which inspires students to explore other areas of the world.",
+       "description": "",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  },
+  {
+   "type": "section",
+   "id": "3b66b19",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "810px"
+    },
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "6627470",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "5b69e2c",
+       "style": {},
+       "children": [
+        {
+         "type": "column",
+         "id": "f87523f",
+         "style": {},
+         "children": [
+          {
+           "type": "text-editor",
+           "id": "9ab07d7",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px -16px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>By the end of the Irish Life Experience, each participant will have:</p>"
+          },
+          {
+           "type": "icon-list",
+           "id": "1d4de94",
+           "style": {
+            ".elementor-icon-list-icon i": {
+             "color": "#6EC1E4"
+            },
+            ".elementor-icon-list-item > .elementor-icon-list-text": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+            },
+            ".elementor-icon-list-item > a": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+            },
+            ".elementor-icon-list-text": {
+             "color": "#1E3A43"
+            }
+           },
+           "items": [
+            {
+             "text": "Experienced  campus living with their peers from all over North America.",
+             "link": null
+            },
+            {
+             "text": "Developed  an understanding of the evolution of Irish social and political history from early AD to the present day, as well as how developments in Ireland have affected and influenced the rest of the world.",
+             "link": null
+            },
+            {
+             "text": "Read and reflected  on the works of several authors from both contemporary and past Irish and Anglo-Irish literature.",
+             "link": null
+            },
+            {
+             "text": "Learned  and been able to participate in the joys of Irish folk dancing.",
+             "link": null
+            },
+            {
+             "text": "Been introduced  to the basics of the Irish language.",
+             "link": null
+            },
+            {
+             "text": "Working knowledge  of Irish drama, music, and song.",
+             "link": null
+            },
+            {
+             "text": "Engaged in  and have a general understanding of Irish sports; such as Gaelic football, hurling, and rugby.",
+             "link": null
+            }
+           ]
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "a315f47",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#F4EFEB"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#F4EFEB"
+    },
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "eae1fa6",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "d3ed793",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 5px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "30px",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "In The Meantime Check Out Our Instagram",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "shortcode",
+       "id": "e89045a",
+       "style": {},
+       "shortcode": "[instagram-feed feed=1]"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

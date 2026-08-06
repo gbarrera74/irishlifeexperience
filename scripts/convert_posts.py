@@ -16,19 +16,19 @@ from html.parser import HTMLParser
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "src/content/blog"
 SIZE_SUFFIX = re.compile(r"-\d+x\d+(?=\.[A-Za-z]+$)")
-# The blog links images on both irishway.org and its sister site
-# irishlifeexperience.com. Most of the sister-site URLs are already 404 on the
-# live web, but a good share of the same files exist in this site's own uploads,
-# so they get rewritten locally and only the genuinely absent ones stay remote.
+# The blog links images on both irishlifeexperience.com and its sister site
+# irishway.org. Most of the sister-site URLs already 404 on the live web, but a
+# good share of the same files exist in this site's own uploads, so they get
+# rewritten locally and only the genuinely absent ones stay remote.
 UPLOADS = re.compile(
     r"^(?:https?://(?:www\.)?(?:irishway\.org|irishlifeexperience\.com))?/wp-content/uploads/"
 )
 
 # Two media sources: this site's own uploads, and the files rescued from the
-# irishlifeexperience.com server (which the blog hot-links). The rescued files
-# often sit at a different path than the post references, so a basename index
-# backs up the exact-path lookup.
-_SOURCES = [("export/uploads", ""), ("export/ile_uploads", "ile/")]
+# irishway.org server (which the blog hot-links). The rescued files often sit at
+# a different path than the post references, so a basename index backs up the
+# exact-path lookup.
+_SOURCES = [("export/uploads", ""), ("export/iw_uploads", "iw/")]
 _LOCAL: dict[str, str] = {}
 _BY_NAME: dict[str, str] = {}
 for _dir, _prefix in _SOURCES:
@@ -44,6 +44,14 @@ for _dir, _prefix in _SOURCES:
 
 UNRESOLVED: Counter = Counter()
 RECOVERED: Counter = Counter()
+
+
+def featured(value):
+    """featured_image is {'id','url','alt'} in this export, a bare URL in older
+    ones. Returns (url, alt)."""
+    if isinstance(value, dict):
+        return value.get("url") or "", value.get("alt") or ""
+    return value or "", ""
 
 
 def to_asset(url: str) -> str:
@@ -238,8 +246,11 @@ def main():
         ]
         if p["excerpt"]:
             fm.append(f'excerpt: {yaml_str(p["excerpt"])}')
-        if p["featured_image"]:
-            fm.append(f'featuredImage: {yaml_str(to_asset(p["featured_image"]))}')
+        fi_url, fi_alt = featured(p["featured_image"])
+        if fi_url:
+            fm.append(f"featuredImage: {yaml_str(to_asset(fi_url))}")
+            if fi_alt:
+                fm.append(f"featuredImageAlt: {yaml_str(fi_alt)}")
         if p.get("categories"):
             fm.append("categories: [" + ", ".join(yaml_str(c) for c in p["categories"]) + "]")
         if p.get("tags"):
@@ -270,13 +281,13 @@ def main():
         print(f"   /{s}")
     print(f"\ntags dropped during conversion: {dict(dropped.most_common(10)) or 'none'}")
     if RECOVERED:
-        print(f"\nimages resolved by filename from the ILE server rescue: "
+        print(f"\nimages resolved by filename from the irishway.org server rescue: "
               f"{len(RECOVERED)} unique ({sum(RECOVERED.values())} references)")
     if UNRESOLVED:
         print(f"\nimages referenced but not available locally: "
               f"{len(UNRESOLVED)} unique ({sum(UNRESOLVED.values())} references)")
         print("  these stay as absolute URLs. They already 404 on the live site and are")
-        print("  absent from both the irishway.org and irishlifeexperience.com servers —")
+        print("  absent from both the irishlifeexperience.com and irishway.org servers —")
         print("  the originals appear to be lost. The Internet Archive is the only")
         print("  remaining recovery route.")
         years = Counter(k.split("/")[0] for k in UNRESOLVED)

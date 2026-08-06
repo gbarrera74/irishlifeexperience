@@ -1,0 +1,1523 @@
+{
+ "slug": "workshops",
+ "title": "Workshops",
+ "path": "/students/workshops/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f2e8833",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "555ce17",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "6cfe6ed",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -30px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Student",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "19d7424",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Workshops",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "8b53609",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/09/IMG_0223-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "c58ed5f",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "0px 0px 0px 0px"
+    },
+    "> .elementor-container": {
+     "max-width": "500px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "56a0231",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "67a5ede",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "27c8987",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "2c3442c",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-6px -6px -6px -6px",
+             "padding": "0px 0px 0px 0px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/07/IMG_2611-scaled.jpg",
+           "alt": "Blarney Castle and Irish Dancers-2016",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "7b4f21c",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "76e6e4c",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Advanced Irish Dance",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "47527b1",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "bf742db",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "27ac1b7",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "d2d5cc9",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/69FCE20B-F247-4F3E-80BF-F81C1CD19E63.png",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "5c68375",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "47e4b59",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Boxty",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "be788f4",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "fd0b11d",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "970b878",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "908f974",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/IMG_9541-scaled.jpg",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "01d8fdb",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "4526f1a",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Celtic Cards",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  },
+  {
+   "type": "section",
+   "id": "1d34548",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "0px 0px 0px 0px"
+    },
+    "> .elementor-container": {
+     "max-width": "500px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "dcb198c",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "f51e258",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "89854f6",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "34df129",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/DSC03734-scaled.jpg",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "4b9b67e",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "8d8e37e",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Celtic Frames",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "a1024b0",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "98bdc36",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "529610d",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "8c748a8",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/FA769EBE-9968-4B6B-8FB5-D1BBCA8893B7.png",
+           "alt": "County T-Shirt Workshop-2021",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "95e2449",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "69b57ae",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "County T-Shirts",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "82e9aee",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "b69da2a",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "362b100",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "0a85f91",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/D52421E4-480D-42EB-BEED-B38DD0DEDEC5.png",
+           "alt": "Dublin Sign-2019",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "71e7149",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "44d5127",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Dublin Walking Tour",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  },
+  {
+   "type": "section",
+   "id": "eb48ad7",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "0px 0px 0px 0px"
+    },
+    "> .elementor-container": {
+     "max-width": "500px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "f16154a",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "fba7bbc",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "7b86a8e",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "907c002",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/IMG_2195-scaled.jpg",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "e2f4ca1",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "bbc73d9",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Gaelic Football",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "02fc28b",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "43441ff",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "6829d25",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "a496331",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/DSC05786-scaled.jpg",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "423a211",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "44f1794",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Hurling",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "b3e6c16",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "39a17b9",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "a308c45",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "313c055",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/IMG_1997-scaled.jpg",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "8f25403",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "33a39d1",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Irish Music Session",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  },
+  {
+   "type": "section",
+   "id": "64b6e7d",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "0px 0px 0px 0px"
+    },
+    "> .elementor-container": {
+     "max-width": "500px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "b67b94d",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "97e59a8",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "b116b92",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "b295bf2",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/09/DSC05769-scaled.jpg",
+           "alt": "Scone Workshop-Group 2014",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "b8f0a17",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "68e587f",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Scones",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "461d63e",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "beeb192",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "c30e007",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "5cd16e4",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/C05602D9-0BFC-4546-9397-1691FE2AC176.png",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "a263307",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "7e874d0",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Soda Bread",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "afb082e",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "57dddf0",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "3a68c18",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "eaa47f0",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/07/DSC05991-scaled.jpg",
+           "alt": "St. Brigid's Cross-Ana",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "19c91b9",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "4d126f7",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "St. Brigid's Cross",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  },
+  {
+   "type": "section",
+   "id": "7209fbb",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "0px 0px 0px 0px"
+    },
+    "> .elementor-container": {
+     "max-width": "500px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "638ed99",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "4ef0d2b",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "41443ed",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "2c9e9c4",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/DSC06333-scaled.jpg",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "c3d0cd5",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "afe0f28",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Tin Whistle",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "f194a13",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "f695fb5",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "359dfc6",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "c1db540",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/IMG_3177-scaled.jpg",
+           "alt": "Peace Wall in Belfast-Scarlett 2010",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "789df31",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "9836fe4",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Troubles",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "c8958c5",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "c201032",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "max-width": "902px",
+         "min-height": "40px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "d6d8c1b",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "6px 6px 6px 6px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "8d43733",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "-5px -5px -5px -5px"
+            },
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/IMG_5281-scaled.jpg",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "spacer",
+           "id": "5c0f980",
+           "style": {},
+           "size": 10
+          },
+          {
+           "type": "heading",
+           "id": "722a6f4",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "2px 0px 2px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Waterford Walking Tour",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  }
+ ]
+}

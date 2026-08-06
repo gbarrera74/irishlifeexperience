@@ -1,0 +1,216 @@
+{
+ "slug": "clare-b-ile-2015-2",
+ "title": "Clare B.-ILE 2015",
+ "path": "/clare-b-ile-2015-2/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "7f4325b",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "dfd9b18",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "9af9ae7",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -30px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "50px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Our",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "b84bc1f",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "50px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Ambassadors",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "2568ae0",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/10/14125698_10154187665089130_7139650306129370242_o.jpg"
+  },
+  {
+   "type": "section",
+   "id": "4a7520f",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "882b914",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "7dba6c8",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/10/DSC02261-scaled.jpg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "b12532e",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "1aae8ba",
+       "style": {
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Clare B.-ILE 2015",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "text-editor",
+       "id": "bc2f0fb",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>I'm Clare Broderick and I live in Chicago. I'm an Irish dancer at Mullane Healy Godley Academy and attend Regina Dominican High School.</p><p>This past summer I was lucky enough to go on #ILE15.  I had heard about the trip when my sisters went on it in '08 and '09.  For the past two years I had put off going on the ILE because of Nationals for Irish dance.  Thankfully, I came to my senses this year and decided to go on #ILE15.  It truly changed my life.  I went into the program incredibly nervous. </p><p>I come from a small high school with about 80 people in my grade.  I had never left the country before. I knew no one going on the trip and I thought the counselors would be super strict and scary.  Everything about the ILE was out of my comfort zone.  I could not have been more wrong!  From the minute I stepped off the plane, I knew I was at home.  There was not a single moment that I was lonely or uncomfortable.  Everything about the people and the country was perfect.</p><p>Every day was a new adventure!  I woke up every morning and was excited for the day ahead.  I loved the day spent in Northern Ireland at the Giant's Causeway and the day spent biking around the Aran Islands.  Even the rain at the Cliffs of Moher could not deter my excitement.  Although the sites were beautiful, my favorite part was the people.  I loved meeting teenagers from across the country and some even from Ireland.  I loved making friends with the counselors, even though they were ten years older than us.  I loved having my second family with me every single second of every single day.  I remember the nights we laughed until we cried or baked cookies together or just hung out. There was not a single minute that I was homesick.  I was constantly surrounded by people I loved and going on a new adventure every day.</p><p>I miss everything about the ILE, even the bus rides.  No matter how big or small an activity, everything on the ILE was exciting and memorable.  I encourage anyone interested in the program to apply because you are guaranteed to have a summer of a lifetime.  You will make new friends that will last forever and become at home in Ireland.  The #ILE15 was definitely the best summer I ever had and I can not wait to go back as a counselor!  If you have any questions at all, feel free to reach out to me!  I can talk about the ILE for hours and will answer any questions you have about the program!</p>"
+      },
+      {
+       "type": "heading",
+       "id": "f546e87",
+       "style": {
+        ".elementor-heading-title": {
+         "font-family": "\"Open Sans Condensed\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "bold",
+         "color": "#6EC1E4"
+        }
+       },
+       "text": "Visit on Facebook»",
+       "tag": "p",
+       "link": "https://www.facebook.com/clare.broderick.1",
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "a0d016e",
+       "style": {
+        ".elementor-heading-title": {
+         "font-family": "\"Open Sans Condensed\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "bold",
+         "color": "#61CE70"
+        }
+       },
+       "text": "E-Mail»cbroderick@rdhs.org",
+       "tag": "p",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "button",
+       "id": "45debe2",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "Go Back",
+       "link": ""
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

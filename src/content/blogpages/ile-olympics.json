@@ -1,0 +1,99 @@
+{
+ "slug": "ile-olympics",
+ "title": "ILE Olympics!",
+ "path": "/blog/ile-olympics/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "3306714",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "f9dc314",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "9a1ea09",
+       "style": {},
+       "html": "<p><span style=\"font-weight: 400;\">Today the students woke up and had their first breakfast at King's Hospital.  The breakfast consisted of a scone with raisins and custard, fruit, and their choice of juice or water.  Everyone was very pleased with the breakfast.  After breakfast students had a full morning of classes starting at 9:00 AM.  Students started off with Irish Literature taught by Our Angie which was then followed by Gaelic  and Irish History with an Irish Life Experience icon, Dan.  Students had a great time with Dan and they even played some twister in class!  After classes students had about an hour of time to relax before lunch.  At 1:00 PM students gathered in line for lunch.  For lunch they had a heavier meal of chicken with sauce, potatoes, veggies, and soup.  There was also a shelf with extra things to add to a meal, whether it was potato salad, cabbage salad, or fruit.  As everyone was eating their lunch they all conversed and enjoyed the meal. </span></p><p><span style=\"font-weight: 400;\">Once lunch was over Our Dan had a Rugby Workshop planned for students.  He took all the students out to the big field in the back of the school to learn about Rugby.  A little background on Rugby is that it was founded around 1879 in Ireland and is the third oldest Rugby union. In Ireland Rugby is a very popular team sport.  It is a</span><span style=\"font-weight: 400;\"> union that is organized on an all-Ireland basis with one national team, governing body, and league for both the Republic of Ireland and Northern Ireland.</span><span style=\"font-weight: 400;\"> </span></p><p><span style=\"font-weight: 400;\">This workshop is to allow students to understand what Rugby is and how to play it.  Dan went over some quick rules and split the students into groups for some exercises.  The first exercise was used to show students how to properly pick up and place the rugby ball.  The next exercise showed students how to throw and pass the ball to others while running.  After going over these exercises enough that students understood the basics of Rugby, they then split everyone up into a team of two with captains.  Now that students were in teams, Dan explained to them that their last exercise was going to be a small Rugby match against each other.  As the match started, both teams worked really hard to communicate and pass the ball to their teammates.  As they say, “Teamwork makes the dream work!”  That is why it is important for students to connect and work together to create a beautiful outcome.  After the workshop everyone was all worn out, but luckily they had some free-time to go to the Liffey Valley Shopping Center for two hours.  Here there is a two story mall with a movie theater, sports shops, cafes and more!  Some students came back and showed what they bought during their free-time.  Joey went to the sports shop and found a nice long sleeve Dublin Jersey.  He said it was on sale and looked nice, so he bought it!  Other students went to the donut shop at the mall and got some delicious donuts.  Amelia bought the donuts and cut them in half to share with others.  This was very sweet and an easy way to finish the donuts before dinner. </span></p><p><span style=\"font-weight: 400;\">Once all the students were back from their free-time it was dinner!  For dinner they had a choice of three different pastas, garlic bread, and fruit or salad on the side with a glass of water.  After dinner, students had Irish Dance and Drama, and then Kylene and Miles had an evening activity planned.  For this evening's activity, they had our traditional ILE Olympics!  This activity had a range of games for students to play.  Starting off the students put everyone into groups and then played a game of human tic-tac-toe.  After this, they did a dizzy bat relay race, egg balancing race, bubblegum race, and lastly a sack relay race.  The greatest one of all was the dizzy bat relay race because everyone was trying so hard and cheering each other on.  Students also really enjoyed this game while watching each other spin around and get dizzy, making them run in the wrong direction, or falling.  To end the night on a good note, students had some time to go to the disco at the school and were eventually all tired and went to their rooms ready for bed check!</span></p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "aab7514",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "10e5b70",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_0669-scaled.jpg",
+       "alt": "Rugby-2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "50238df",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_0731-scaled.jpg",
+       "alt": "Rugby-ILE 2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "8a14a6a",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_0843-scaled.jpg",
+       "alt": "ILE Olympics-Sarah 2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "32d1ba1",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_0818-scaled.jpg",
+       "alt": "ILE Olympics-Grace 2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "0ec8b34",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_0841-scaled.jpg",
+       "alt": "Counselor Olympics-Amelia 2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  }
+ ]
+}

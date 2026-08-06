@@ -1,0 +1,91 @@
+{
+ "slug": "in-dublins-fair-city-2",
+ "title": "In Dublin’s Fair City",
+ "path": "/blog/in-dublins-fair-city-2/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "70052f8",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "f7617bc",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "2ff85d4",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/July-15.jpg",
+       "alt": "Padraig Pearse Drama Group-2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "e9f82c3",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/July-15.jpg",
+       "alt": "Michael Collins Drama Group-2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "86bc06d",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "c5f6560",
+       "style": {},
+       "html": "<p><span style=\"font-weight: 400;\">Today was the students’ free day to explore everything Dublin has to offer, and they absolutely loved the city!  After a King’s Hospital breakfast of cereal, pastries, and coffee, the students were off for the day!  The group was free to roam from 10:00 AM until 5:00 PM, and they really packed their days.</span></p><p><span style=\"font-weight: 400;\">Joey and Morgan toured Trinity College as they are interested in attending in a few years.  Eva and Natalie got dim sum, pop in some shops, and went to a bookstore.  Ava, Grace, Nora, and Sarah spent their day shopping, hitting up Carroll’s Irish gifts for some souvenirs and Urban Outfitters for new clothes.  The counselors took a walking food tour of Dublin and enjoyed sausage rolls, toasties, fish and chips, cheesecake, and ice cream.  Morgan also got to meet up with her great aunt and spend some time with family! </span></p><p><span style=\"font-weight: 400;\">After a fun filled day in the city, the group returned to King’s Hospital for a special barbecue dinner and evening activities.  Tonight, the students presented their drama presentations on Michael Collins, Eamon de Valera, and Padraig Pearse.  The Padraig Pearse group created a slide show with facts, photos, and a music video about his life and impact.  The Michael Collins and Eamon de Valera groups each did a skit, focusing on each man’s role in the Easter Rising and the Irish Revolution.  It was great to see all their hard work pulling together!  The Eamon de Valera group won best presentation based on creativity, historical accuracy, and teamwork and were rewarded with a medieval dinner later this week.  Amelia, Eva, Joey, Natalie, Sarah, and Tom are looking forward to it!</span></p><p><span style=\"font-weight: 400;\">As tonight was the last night in Dublin, the students spent the evening packing up and cleaning their rooms.  It was a great last day in the Fair City!  Off to Galway tomorrow!</span></p><p> </p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "5f53d0a",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "973eefe",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "d67ca99",
+       "style": {
+        "img": {
+         "max-width": "40%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/July-15-1-e1658185576675.jpg",
+       "alt": "Grafton Street-2022",
+       "link": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

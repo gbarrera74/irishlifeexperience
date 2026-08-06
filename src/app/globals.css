@@ -1,0 +1,107 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens lifted from the WordPress site's Elementor global kit.
+ *
+ * Counted across all 43 pages, the four Elementor "system" colours are in heavy
+ * use despite still carrying their factory values — accent #61CE70 alone has 384
+ * references and is the second most-used colour on the site. They are tokens
+ * here like any other.
+ */
+@theme {
+  /* brand greens */
+  --color-green: #74b843; /* Logo Green */
+  --color-green-mid: #477c2a; /* Medium Green */
+  --color-green-dark: #002b00; /* Dark Green */
+  --color-accent: #61ce70; /* Elementor Accent — icons, highlights */
+
+  /* blues */
+  --color-navy: #1e3a43; /* Logo Blue — nearly all body copy and headings */
+  --color-navy-deep: #001c31;
+  --color-sky: #d5e9f6;
+  --color-sky-blue: #6ec1e4; /* Elementor Primary */
+
+  /* neutrals */
+  --color-muted: #7a7a7a; /* Elementor Text */
+  --color-slate: #54595f; /* Elementor Secondary */
+  --color-mist: #f2f2f2;
+  --color-sand: #f4efeb;
+
+  /* home page audience-card panels */
+  --color-card-green: #85e792;
+  --color-card-yellow: #e7d27f;
+  --color-card-blue: #b3d5ec;
+
+  /* warm accents */
+  --color-coral: #e4978e; /* also the Students card panel */
+  --color-coral-bright: #ff7f50;
+  --color-butter: #f8db6b;
+  --color-gold: #f3c820;
+
+  --font-display: var(--font-quicksand), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-open-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-script: var(--font-dancing-script), cursive;
+
+  /*
+   * Breakpoints are deliberately left at Tailwind's defaults. Elementor used
+   * md 768 / lg 1025, which are md 48rem / lg 64rem here give or take a pixel.
+   * Overriding them in px made Tailwind emit the media queries out of order
+   * (lg before sm), so smaller-breakpoint utilities won over larger ones.
+   */
+}
+
+/*
+ * These must live in @layer base. Unlayered rules are applied after Tailwind's
+ * utilities, so a bare `h2 { font-weight: 600 }` silently beats `font-bold`
+ * on every heading.
+ */
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    color: var(--color-navy);
+    background: #fff;
+  }
+
+  /* Matches hello-elementor's reset.css, which is what the source site's
+   * headings actually inherit: weight 500, and these sizes in rem. Measured off
+   * the live site rather than assumed — an unstyled h4 there is 24px/500, and
+   * our previous 600 made every heading a step too heavy. */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-display);
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+  h2 {
+    font-size: 2rem;
+  }
+  h3 {
+    font-size: 1.75rem;
+  }
+  h4 {
+    font-size: 1.5rem;
+  }
+  h5 {
+    font-size: 1.25rem;
+  }
+  h6 {
+    font-size: 1rem;
+  }
+}
+
+@layer components {
+  /* The hero and section eyebrows use wide tracking throughout the old site. */
+  .eyebrow {
+    font-family: var(--font-display);
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+  }
+}

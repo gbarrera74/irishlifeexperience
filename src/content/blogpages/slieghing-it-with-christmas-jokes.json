@@ -1,0 +1,80 @@
+{
+ "slug": "slieghing-it-with-christmas-jokes",
+ "title": "Sleighing it with Christmas Jokes",
+ "path": "/blog/slieghing-it-with-christmas-jokes/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "5df15f7",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b316dad",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "e8e760e",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>When you need to get in to the holly, jolly spirit, enjoy a few of our Christmas jokes for a good chuckle. </p><p>Q:  <strong>What do you call an obnoxious reindeer?</strong></p><p>A:  <em>Rude-olph.</em></p><p>Q:  <strong>Why don't you ever see Santa in the hospital?  </strong></p><p>A:  <em>Because he has private elf care.  </em></p><p>Q:  <strong>What's the difference between the Christmas alphabet and the ordinary alphabet?</strong></p><p>A:  <em>The Christmas alphabet has No-el's.  </em></p><p>Q:  <strong>How do you know when Santa's around?</strong></p><p>A:  <em>You can always sense his presents.  </em></p><p>Q:  <strong>What do you call a broke Santa?  </strong></p><p>A:  <em>Saint Nickel-less.  </em></p><p>Q:  <strong>How does a sheep say Merry Christmas?</strong></p><p>A:  <em>Fleece Navidad.</em></p><p>Q:  <strong>What does an elf study in school?</strong></p><p>A:  <em>The elf-abet. </em> </p><p>Q:  <strong>What is the Grinch's least favorite band?</strong></p><p>A:  <em>The Who!</em></p><p>Q:  <strong>What happened to Miles when he stole the Advent Calendar?</strong></p><p>A:  <em>He got 25 days.</em>  </p><p>Q:  <strong>What is Santa's favorite detergent?</strong></p><p>A:  <em>Yule-Tide.</em></p><p>Q:  <strong>How do the elves clean Santa's sleigh the day after Christmas during Covid?</strong></p><p>A:  <em>They use Santa-tizer.  </em></p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "555c1ab",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "8830365",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Santa-Claus.jpg",
+       "alt": "Santa Claus #2",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "4a181fd",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/istockphoto-1285980067-170667a.jpg",
+       "alt": "Christmas Tree",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "cb51d8f",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/christmas-gettyimages.jpg",
+       "alt": "Stockings",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  }
+ ]
+}

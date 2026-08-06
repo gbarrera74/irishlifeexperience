@@ -1,0 +1,56 @@
+{
+ "slug": "meet-miles-bryan",
+ "title": "Meet Miles Bryan",
+ "path": "/blog/meet-miles-bryan/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "b7cca0b",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "5c19e20",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "e2ef39f",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/06/IMG_2178-scaled.jpg",
+       "alt": "Newgrange-Miles 2017",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "4b6ae84",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "74f54cd",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Hey Everybody!&nbsp; I am Miles Bryan from Greenville, South Carolina.&nbsp; I have been a Spanish Teacher at a local high school for the past five years, and when I am not teaching, I love to run, play volleyball, go to concerts, and serve in student ministry at my church.&nbsp;</span><br></p>\n<p>My love for Ireland began when my grandparents sent me on the Irish Life Experience as a student in 2008.&nbsp; After graduating from college in 2013, I have enjoyed spending my summers on the Irish Life Experience as a Counselor and Irish American History Teacher.&nbsp;</p>\n<p>My favorite thing about being in Ireland is that I get to watch nervous high school students blossom into independent young adults in real time.&nbsp; It is incredible to see young people from diverse backgrounds thrive in settings that seem so foreign, and to see how much they grow individually, and as a group, through a life-changing month of life in another country.&nbsp;</p>\n<p>I am honored and grateful to be a part of such an amazing program, and I can not wait to meet everyone for the 2022 Irish Life Experience Program!&nbsp;&nbsp;</p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  }
+ ]
+}

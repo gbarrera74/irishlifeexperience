@@ -1,0 +1,110 @@
+{
+ "slug": "a-slea-day",
+ "title": "A Slea Day!",
+ "path": "/blog/a-slea-day/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "75a3481",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "477f0a9",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "20b8c21",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0605-scaled.jpg",
+       "alt": "View on Dingle--2024",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "57fc627",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0622-scaled.jpg",
+       "alt": "Slea Head--2024",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "f356da7",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0626-scaled.jpg",
+       "alt": "Cat, Danny, and Finola--2024",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "5648da0",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "71d7b8d",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Hey hey hey!!! Though a drizzly rain greeted us this morning, the sun shone bright the rest of the day, which was a good thing, as today is such a fantastic day. The Dingle Peninsula!!!! Students had time for a bit of a lie-in, and lots of the apartments deigned to make a delicious breakfast spread. This included both Irish breakfasts and Cuban breakfasts! Then it was time to skiddaddle onto the bus. Our first stop was Dingle Town, an hour's drive away, and the home to a very famous dolphin! Colorful shops lined the quay, and as the sun made a happy appearance, students opted for a fried Mars Bar, Murphy's ice cream (brown bread and Dingle Sea Salt being some of the best flavors!), or other fun treats and souvenirs.&nbsp;</p><p>Then the drive continued on, and the views were nothing short of extraordinary. Below hundred-foot drops of sheer cliffs, the ocean churned and swelled. Wildflowers lined the roadway, swaying in the perpetual Irish breeze. There were occasional photo stops, each one more amazing than the last.&nbsp;</p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Then it was time for Inch Beach! Almost all of the kids jumped in (yay!) and the views from the ocean were incredible.&nbsp;</span></p><p>Optional free time in Killarney followed, though most deigned for a hot shower and time to fix dinner. Then, one final surprise...the Michael Collins drama group got to go watch Celtic Steps as their prize for winning the drama presentations! Go them!! Danny, Finola, Tim, Cece, Theo, Mary, and Joy all enjoyed watching the amazing Irish dancers, musicians, and singers.&nbsp;</p><p>Then it was time for bed. Sleep well! Tomorrow...Galway!</p>"
+      },
+      {
+       "type": "google_maps",
+       "id": "a9ac2d0",
+       "style": {}
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "f6359b9",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "cf256fa",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0643-scaled.jpg",
+       "alt": "Michael Collins winner group at Celtic Steps--2024",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "5e7dfa9",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0641-scaled.jpg",
+       "alt": "Celtic Steps--2024",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "b29e53a",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0640-1-scaled.jpg",
+       "alt": "Celtic Steps group--2024",
+       "link": null
+      },
+      {
+       "type": "google_maps",
+       "id": "a02199a",
+       "style": {}
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  }
+ ]
+}

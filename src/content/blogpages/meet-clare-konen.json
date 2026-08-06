@@ -1,0 +1,108 @@
+{
+ "slug": "meet-clare-konen",
+ "title": "Meet Clare Konen",
+ "path": "/blog/meet-clare-konen/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "95d85dc",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b5e8c3a",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "d081522",
+       "style": {},
+       "src": "/images/wp/2025/05/20230727_175132_740A51.jpeg",
+       "alt": "Clare K. on Bus",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "9960bd8",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "bf2be10",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">Hi!  </span></p><p><span style=\"font-weight: 400;\">My name is Clare Konen, and I was born and raised in Montana with a huge family.  I did not have many traveling opportunities until the Irish Life Experience of 2023. </span></p><p><span style=\"font-weight: 400;\">I was encouraged to sign up for the Program by my dad, who wanted me to explore more of the world and find a passion. </span></p><p><span style=\"font-weight: 400;\">I graduated Polson High School last year, and I am currently a Barista at Starbucks in Kalispell, Montana.  </span></p><p><span style=\"font-weight: 400;\">I am going to be starting school and would like to pursue a degree to become a Surgical Technologist.  In the meantime, I enjoy spending my time reading, with my KitchenAid, friends, and family. </span></p><p><span style=\"font-weight: 400;\">Other than the perfect camping spot on a river, Ireland became one of my safe spaces, and I cannot wait to return with all these wonderful people and meet the 2025 Irish Life Experience students!</span></p>"
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "c46794a",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "48d2f6a",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "895e260",
+       "style": {},
+       "src": "/images/wp/2025/05/IMG_6231-rotated.jpg",
+       "alt": "Clare K. with Brother and Dad",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "94fa68a",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "b040f40",
+       "style": {},
+       "src": "/images/wp/2025/05/IMG_6302-scaled.jpeg",
+       "alt": "Princess Clare K.",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "86a7454",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "e497de3",
+       "style": {},
+       "src": "/images/wp/2025/05/IMG_5792-preview-1-scaled.jpg",
+       "alt": "Clare K. with Cowboy Hat",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  }
+ ]
+}

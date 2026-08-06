@@ -1,0 +1,216 @@
+{
+ "slug": "hannah-b-ile-2017",
+ "title": "Hannah B.-ILE 2017",
+ "path": "/hannah-b-ile-2017/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "fd78fd4",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "b5c37e3",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "0653ca9",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -30px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "50px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Our",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "4d32ddf",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "50px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Ambassadors",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "1f8844a",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/10/14125698_10154187665089130_7139650306129370242_o.jpg"
+  },
+  {
+   "type": "section",
+   "id": "4a7520f",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "882b914",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "7dba6c8",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/10/20841156_1913146842235965_4210053887803783594_n.jpg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "b12532e",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "1aae8ba",
+       "style": {
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Hannah B.-ILE 2017",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "text-editor",
+       "id": "bc2f0fb",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>My name is Hannah Borgra and I am from Joliet, IL-a town about an hour south of Chicago.  I am currently a senior at Joliet West High School.</p><p>I was so lucky to be able to attend the Irish Life Experience this past summer thanks to the Irish American Society of County Will and some amazing family and friend support.  From the moment I found out I was going to be attending, I knew it would be a journey of a lifetime!</p><p>I did not know what to expect going into a trip with a bunch of strangers, but I instantly made connections with each and every student and I knew those friendships would last a lifetime.  We were all there to be immersed in the Irish culture and learn everything from Irish literature to the best sights to the little things like traditional Irish terms-the whole experience was life-changing.  The counselors and teachers were amazing and were always there to make you feel safe and make the trip more exciting.  There is not another group of amazing people I would have rather taken this journey with and I am so grateful for everyone who helped make my summer in Ireland probably the most amazing adventure of my life.</p><p>I could go on for days talking about the experience.  It is crazy going into such a unique and unfamiliar situation and I am sure anyone will have a million and one questions about the program (I know I did.) so if you have any questions or just want to hear more about the trip feel free to reach out to me. (I could talk for hours about ILE)!  The Irish Life Experience is for sure the best experience for any student who loves to travel, make new friends, and learn so much about the truly amazing country of Ireland, so apply today!</p>"
+      },
+      {
+       "type": "heading",
+       "id": "f546e87",
+       "style": {
+        ".elementor-heading-title": {
+         "font-family": "\"Open Sans Condensed\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "bold",
+         "color": "#6EC1E4"
+        }
+       },
+       "text": "Visit on Facebook»",
+       "tag": "p",
+       "link": "hborgra@comcast.net",
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "a0d016e",
+       "style": {
+        ".elementor-heading-title": {
+         "font-family": "\"Open Sans Condensed\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "bold",
+         "color": "#61CE70"
+        }
+       },
+       "text": "E-Mail»hborgra@comcast.net",
+       "tag": "p",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "button",
+       "id": "45debe2",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "Go Back",
+       "link": ""
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

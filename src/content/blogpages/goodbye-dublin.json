@@ -1,0 +1,56 @@
+{
+ "slug": "goodbye-dublin",
+ "title": "Goodbye, Dublin!",
+ "path": "/blog/goodbye-dublin/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "2a749b6",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "a298686",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "cc07425",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/07/denis-oliveira-8694E4jvOF4-Galway-Ireland-unsplash.jpg",
+       "alt": "Claddagh Village",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "c6c4ce5",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "8c2844f",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">Today, the students said goodbye to King's Hospital.  Students enjoyed their final breakfast and then loaded up their belongings to begin the journey to Galway.  Joe, the ILE's fantastic bus driver, also acted as a tour guide.  For lunch, the group stopped at a gas station and had our final packed lunch from the kitchen staff at King's Hospital.  </span></p><p><span style=\"font-weight: 400;\">Many students cheered as we pulled into the vibrant city.  They get to experience the funky and hip city, which has the youngest population in Ireland due to the university of NUIG.  In addition, an Galway Art's Festival is being held in the town center bringing street performers and electric energy to the town folk.  As the group arrived, the city was bustling with people enjoying the beautiful weather.  </span></p><p><span style=\"font-weight: 400;\">Upon arrival, the students were given their keys to their rooms and money to budget for their week of meals. Eva and Natalie were excited to go to the local farmers' market, and Amelia offered to cook dinner for all the kids.  Nora made cowboy caviar for her roommates and shared it with the staff.  It was delicious and she shared the recipe on TikTok with Taryn!  My goodness, these kids are great cooks!</span></p><p><span style=\"font-weight: 400;\">The ILE Staff can't wait to sample more menus during their stay in Galway. </span></p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "slug": "riverdance-the-animated-adventure",
+ "title": "Riverdance:  The Animated Adventure",
+ "path": "/blog/riverdance-the-animated-adventure/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "97b0831",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "02061cd",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "e6b52dd",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>We have all fallen in love with Riverdance, right?  This theatrical stage show which debuted in 1994 during the Eurovision Song Contest recently had its 26th anniversary.  And now after many years of this cultural phenomenon spreading joy throughout the world, <em>Riverdance:  The Animated Adventure</em> is captivating a new generation. </p><p>Available on Netflix on January 14th, 2022, Riverdance is a beautifully animated story following an Irish boy, named Keegan, and a Spanish girl, named Moya.  After the loss of Keegan's grandfather, he and Moya learn to dance with a magical herd of spirit deer.  They learn to appreciate Riverdance as a celebration of life.  </p><p>Not only does it feature spectacular Irish dancing and a new score by Grammy winner, Bill Whelan, but it is honoring the art of tradition.  It recognizes heritage-both culturally and spiritually and how values are passed down through generations.  It emphasizes how strength in community is important and teaches young adults some important life lessons.  </p><p>It will be an uplifting film to watch with younger children and encourage us to focus on the celebrations of life..., and dance.  Grab the popcorn and enjoy.  </p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "b300549",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "ba3dce0",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/maxresdefault.jpg",
+       "alt": "Riverdance #1",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "0d1a71d",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Riverdance-Animated-Adventure.jpg",
+       "alt": "Riverdance #2",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  },
+  {
+   "type": "section",
+   "id": "76756e2",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b273109",
+     "style": {},
+     "children": [
+      {
+       "type": "video",
+       "id": "24f658d",
+       "style": {},
+       "url": "https://www.youtube.com/watch?v=ZN6TgXnNVGQ"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

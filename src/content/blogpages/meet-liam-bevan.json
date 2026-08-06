@@ -1,0 +1,95 @@
+{
+ "slug": "meet-liam-bevan",
+ "title": "Meet Liam Bevan",
+ "path": "/blog/meet-liam-bevan/",
+ "seo": {
+  "title": "%%title%% %%page%% %%sep%% %%sitename%%",
+  "description": "This is my third year doing the Irish Life Experience and I can't wait to meet you all this summer..."
+ },
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "a977f40",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "2d4faf8",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "d6656d5",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_2977-scaled.jpg",
+       "alt": "Liam B. at Ladies View",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "d53866b",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "fa605b1",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Hi Everyone! </p><p>I’m Liam, and I will be one of your Junior Counselors helping you adjust to Ireland! I will be 17 at the time that we leave for Ireland, and I am super excited to meet you all! </p><p>I am from southwest Montana, and have been doing the Irish Life Experience Program for two years, making this my third. I am super excited to see everyone going to a new (Or familiar) place! </p><p>I am currently a Ski Patroller in training and am a certified Wilderness First Responder. I like to ski, go driving, and play games with my friends. A fun fact about me is that although I am from Montana, I go to school on the East Coast.</p><p>And a personal tip from me is to make sure to bring a card game so that you can find common interests with some of the other travelers! </p><p>See you soon!</p>"
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "ae0f9bd",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "0918559",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "5c96a8c",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_3089-scaled.jpg",
+       "alt": "Joey and Liam at Inch Beach",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "4920443",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "df1fd6e",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_3358-scaled.jpg",
+       "alt": "Liam and Taryn at the Cliffs of Moher",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "slug": "not-a-burren-day-2",
+ "title": "Not a “Burren” Day!",
+ "path": "/blog/not-a-burren-day-2/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "3c8c7e8",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "2c874a9",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "6a23e19",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_1266-scaled.jpg",
+       "alt": "Birds of Prey Center-Rowan 2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "9835271",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_1270-scaled.jpg",
+       "alt": "Poulnabrone Dolmen-Group 2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "291abb2",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_1277-scaled.jpg",
+       "alt": "Poulnabrone Dolmen-John 2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "5a67e57",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "8b04b4c",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">We traveled deep into the Burren of County Clare.  The Burren is a very distinctive landscape of exposed rock, mainly limestone.  Many plant species and wildflowers grow  in this unique area.  Underneath the Burren's surface, we got the chance to do a little cave exploring.</span></p><p><span style=\"font-weight: 400;\">Aillwee is one of the oldest caves in Ireland but was only opened to the public in the late 1970's, despite being discovered by a farmer chasing his dog in to this fascinating area in the 1940's.  According to our guide, Aillwee was used as an ancient bear den until the brown bears became extinct in Ireland.  Indeed, there are still some bones on display from three-thousand-year-old skeletons and the nesting depressions in the earth from the bears remain to this day.  After the tour was over, the group headed right next door to the Birds of Prey Center.  They were booked in to see a flying exhibition which was an incredible experience.</span></p><p><span style=\"font-weight: 400;\">The separate handlers flew a Bateleur Eagle, a Falcon, and a Barn Owl for us.  All three birds flew around the audience, prompted by treats and lures.  While showing off the birds’ skills, the handlers educated the Irish Life Experience on the habits and distinctions of the animals.  Then, Lilli and Rowan were given a chance to hold them.</span></p><p><span style=\"font-weight: 400;\">Our next stop in Clare was the Poulnabrone Dolmen.  The students brought their packed lunches, had a picnic close by, and then made their way to the site once they finished their food.   While there are over a hundred other tombs across the Burren alone, this one is famously known for its folklore tale that is associated. </span></p><p><span style=\"font-weight: 400;\">Because no Ireland trip would be complete without seeing the Cliffs of Moher, the next stop was this iconic destination.  It was a beautiful, clear, and sunny day making the views from every angle completely spectacular.  The group had a couple of hours to walk up and down the paved paths to O’Brien’s Tower.  However, once they all had their fill of the views, the took a respite from the hot weather with a 99 ice cream cone from the cafe.</span></p><p><span style=\"font-weight: 400;\">At 4:30, the group set off back for Galway and dropped the winners of the Eamon De Valera Drama Group off at the Dunguaire Medieval Banquet.  It was a wonderful dinner and entertainment that the students thoroughly enjoyed.  </span></p><p><span style=\"font-weight: 400;\">The rest of the group had the night for free time or to make dinner and get much-needed rest.</span></p><p> </p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "1baeeb3",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "68b6cc6",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "b5c7e28",
+       "style": {
+        "img": {
+         "border-radius": "13px 13px 13px 13px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_1317-scaled.jpg",
+       "alt": "Cliffs of Moher-2022",
+       "link": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

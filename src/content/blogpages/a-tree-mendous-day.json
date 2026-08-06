@@ -1,0 +1,108 @@
+{
+ "slug": "a-tree-mendous-day",
+ "title": "A Tree-mendous Day",
+ "path": "/blog/a-tree-mendous-day/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f523359",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "42e6cec",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "c8e67b1",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Good morning to all! Students had a bit of a lie-in today, as breakfast appearance wasn't mandatory. Today we leave Newtown for King's Hospital in Dublin, and there are some heavy hearts around here. After making sure everyone was packed and ready (the rooms were spotless! Great job, loves!), we loaded up for the hour-and-a-half drive to Beyond the Trees Avondale. Farewell, dear Newtown! We love you! </p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\"> Beyond the Trees Avondale is an incredible experience. Located in County Wicklow, it's a 1.4km walkway 38M above and through the trees, which include Yew, Spruce, Oak, Larch, and Giant Redwood. At the end is a massive spiral tower that gives you a 360 degree view of County Wicklow--then you can take a huge slide down to the bottom. Before heading off on our treetop stroll, we dug into our last packed lunch from Newtown, then set off. The walk was gorgeous, and at the top, almost everyone opted to slide (and scream) on down. </span></p><p>Then we hopped back into the bus and headed on an hour-long drive to our new home for the week! </p>"
+      },
+      {
+       "type": "image",
+       "id": "b0948e6",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0274-scaled.jpg",
+       "alt": "Group at Tree Walk--2024",
+       "link": null,
+       "caption": "Group Picture at the Tree Walk!"
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "837c76d",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "d278a86",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_1974_Original-scaled.jpg",
+       "alt": "Treetop Walk--2024",
+       "link": null,
+       "caption": "The Spiral Walk and Slide"
+      },
+      {
+       "type": "image",
+       "id": "2f93d29",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_1968_Original-scaled.jpg",
+       "alt": "Treetop Walk Group--2024",
+       "link": null,
+       "caption": "Look how high up they are!"
+      },
+      {
+       "type": "image",
+       "id": "ce09f35",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0276-scaled.jpg",
+       "alt": "View from treetop walk--2024",
+       "link": null,
+       "caption": "The View! Holy Cow."
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "5d16d4f",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "505c60c",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>King's Hospital--a more modern (yet still lovely) boarding school than our favorite Newtown--soon came into view. Everyone hopped off, grabbed their things, and wheeled their suitcases on into their dorms. They had a while to unpack and recuperate before orientation and tea at 6. Tea was a delicious rice/beans/meat/veg/chips/crisps combo, with a fantastic salad and fruit bar to pick from.&nbsp;</p><p>Then there was time for everyone to just chillax, explore the maze-like campus, and hang out, soaking up their time in Ireland. Goodnight everyone, hope you sleep well in your comfy new homes. :)</p>"
+      },
+      {
+       "type": "image",
+       "id": "9125df7",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0282-scaled.jpg",
+       "alt": "Taryn and Nolan--2024",
+       "link": null,
+       "caption": "Our Taryn and Nolan"
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  }
+ ]
+}

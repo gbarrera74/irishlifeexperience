@@ -1,0 +1,96 @@
+{
+ "slug": "irish-christmas-cake",
+ "title": "Irish Christmas Cake",
+ "path": "/blog/irish-christmas-cake/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "200060c",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "5756b07",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "912bcd8",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<h4><strong>For the Cake:</strong></h4><ul><li>1 cup of flour.</li><li>3/4 cups of butter.</li><li>3/4 grams of Muscovado sugar.</li><li>4 eggs.</li><li>1/2 teaspoon of salt.</li></ul><h4><strong>For the Fruit Mix:</strong></h4><ul><li>The peel of a lemon.</li><li>The peel of an orange.</li><li>1 teaspoon of cinnamon.</li><li>1 teaspoon of powder cloves.</li><li>1/2 cup of almond flour.</li><li>1 teaspoon of powder ginger.</li><li>1 teaspoon of nutmeg.</li><li>6 tablespoons of Irish whiskey.</li><li>1 cup of sultanas.</li><li>2/3 cup of raisins.</li><li>1/2 cup of currants.</li><li>1/2 cup of candied lemon and orange.</li><li>1/2 cup of chopped almonds.</li></ul>"
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "e96d359",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "779ee42",
+       "style": {
+        "img": {
+         "max-width": "70%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/687474703a2f2f316b726563697065732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31312f4368726973746d61732d43616b652d5265636970652e6a7067.jpg",
+       "alt": "Irish Christmas Cake",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "99a28e3",
+       "style": {
+        "img": {
+         "max-width": "70%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Christmas-Cake.jpg",
+       "alt": "Irish Christmas Cake Frosted #1",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "5af6931",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "1983883",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "dd99f7a",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<h4><strong>Directions:</strong></h4><ol><li> Put the currants, raisins, and sultanas in a large bowl.  Add 4 tablespoons of brandy and mix well.  Then cover and let the brandy absorb for 12 hours.  </li><li>Turn on the oven to 270°F and line a 7/3\" round tin with a double layer of parchment paper.</li><li>Pour the butter, eggs, flour, lemon and orange peels, mixed spices, nutmeg, and sugar into a bowl and beat until a creamy and smooth mixture is obtained.</li><li>Pour the almond flour, almonds, candied fruits, and raisins in the mix and stir well using a wooden spoon until all the ingredients are combined.  The mixture will be extremely sticky.  </li><li>Transfer the mixture into the pan and level the surface.  Then bake for about 5 hours.  The cooking can be checked by using a toothpick.  </li><li>Let it cool completely.  Wet it slightly with whiskey and wrap it in three sheets of parchment paper.  Store the cake in an airtight container, letting it soak in the whiskey and wetting it every 3-4 days with more whiskey, so it stays longer.  </li><li>If you want to decorate the cake, take some honey and spread it on the surface, then put a marzipan layer first, followed by a layer of white icing.  You can add other Christmas themed decorations.  </li></ol><p> </p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

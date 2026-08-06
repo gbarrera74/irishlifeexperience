@@ -1,0 +1,68 @@
+{
+ "slug": "a-special-livestream",
+ "title": "A Special Livestream",
+ "path": "/blog/a-special-livestream/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "40330ba",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "55cbfaa",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "907c591",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Newgrange is a 5,200-year-old passage tomb located in the Boyne Valley, County Meath.  It is said to be the highlight of Ireland's Ancient East and a must-see.  It was built by Stone Age farmers and has a mound that is about 279 feet in diameter and about 43 feet in height.  The passage and chamber itself are about 62 feet and are aligned with the rising sun on mornings of the Winter Solstice. </p><p>Newgrange is older than the Great Pyramids of Giza and Stonehenge and is said to be a place for astrological, ceremonial, religious, and spiritual importance.  It is a fascinating experience for anyone lucky enough to visit.</p><p>Every year from December 18th-23rd, people who win a competitive lottery will gather together for the shortest day of the year.  For almost 20 minutes, direct sunlight can enter the Newgrange monument to illuminate the chamber through a small opening above the entrance.  However, it is not a guarantee, as weather is always a factor.  </p><p>Minister of State for the Office of Public Works (OPW), Patrick O'Donovan said, \"Watching the light creep into the 5,000-year-old passage tomb in real time is a moving event that has the power to fill us both with wonder at the ancient architects' ingenuity and with hope for the future.\"</p><p>Through <a href=\"https://heritageireland.ie/\">Heritage Ireland</a>, you can also now be a part of this special experience.  Mark your calendars and tune in for the livestream and see the magic unfold before your eyes.  </p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "47d23dd",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "ef48176",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/images.jpg",
+       "alt": "Newgrange",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "fae4c46",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/ca_0619nid_newgrange_online.jpg",
+       "alt": "Newgrange Passage #1",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  }
+ ]
+}

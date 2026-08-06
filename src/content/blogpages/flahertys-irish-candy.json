@@ -1,0 +1,68 @@
+{
+ "slug": "flahertys-irish-candy",
+ "title": "Flaherty’s Irish Candy",
+ "path": "/blog/flahertys-irish-candy/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "fcff4bf",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "66edabd",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "07d752e",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/269801880_4374809742645216_2539745448059850430_n.jpg",
+       "alt": "Tom and Jerry Batter",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "05b3d65",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/269607784_4362984633827727_4350108722635258112_n.jpg",
+       "alt": "Flaherty's Irish Candy #3",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "2e9efda",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "37388a5",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><a href=\"https://flahertyscandy.com/\">Flaherty's Irish Candy</a> is the perfect gift for any loved one and a delicious sweet treat to enjoy during the Holiday Season-and even throughout the year.</p><p>Dennis and Joy Flaherty are two very dear friends of the Irish Life Experience and have been making incredible confections for over 20 years.  Taryn has put together several trips for them to Ireland and they have continued to learn about their heritage and studied recipes, which has resulted in some very tasty products.  </p><p>They believe it is all about the Irish butter.  The creamy and remarkable flavor adds to a lot of their recipes, so they pride themselves in staying true to their Irish roots and using only the highest ratio of butter, decadent chocolate, pure cane sugar, and toasted nuts.  They also intend to keep the essence and identity of their roots, as they only use pure ingredients.  No preservatives.  </p><p>Some of our favorites include the Ashford Castle Salted Cashew Butter Brittle, Darby O'Gill Dark Chocolate, Emerald Isle Toffee, and the Molly Malone Mint Créme.  And if you are looking for a great drink, why not try their Tom and Jerry batter?</p><p>So order your special treats today when you shop on <a href=\"https://flahertyscandy.com/\">Flaherty Irish Candy</a> and know that you are also supporting two of the kindest people.  It is a win-win.  I promise you will not be disappointed and will be always craving more of their incredible deserts.  </p><p>Which one will you order?</p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  }
+ ]
+}

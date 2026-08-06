@@ -1,0 +1,186 @@
+{
+ "slug": "irish-christmas-blessings",
+ "title": "Irish Christmas Blessings",
+ "path": "/blog/irish-christmas-blessings/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "c582452",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "03ad145",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "941194b",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Pinterest-Size-May-the-Blessings-of-Christmas-be-With-You.jpg",
+       "alt": "Irish Christmas Blessing #1",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "03d515a",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "babf66b",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Pinterest-Size-The-Light-of-the-Christmas-Star-to-you.jpg",
+       "alt": "Irish Christmas Blessing #2",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "65abf4b",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "e653fbe",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "2ebfad5",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Pinterest-Size-May-you-be-blessed-with-the-spirit-of-the-season.jpg",
+       "alt": "Irish Christmas Blessing #3",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "5fb5cb2",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "78da041",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Pinterest-Size-This-Christmas-may-you-have…-Walls-for-the-wind-.jpg",
+       "alt": "Irish Christmas Blessing #4",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "f2bbd15",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "c353fd0",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "d6a889c",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Pinterest-Size-The-Magic-of-Christmas-Lingers-On.jpg",
+       "alt": "Irish Christmas Blessing #5",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "f73b0dc",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "28a4c41",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Pinterest-Size-May-you-never-forget-what-is-worth-remembering-Portrait-Greeting-Card.jpg",
+       "alt": "Irish Christmas Blessing #6",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "4296bb1",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b3af8ec",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "f26d49f",
+       "style": {
+        "": {
+         "text-align": "center",
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Thank you, Irish American Mom!</p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

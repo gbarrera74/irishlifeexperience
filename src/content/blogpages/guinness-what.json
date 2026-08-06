@@ -1,0 +1,96 @@
+{
+ "slug": "guinness-what",
+ "title": "Guinness What?",
+ "path": "/blog/guinness-what/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "3ba988d",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "eabf80b",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "aac02a3",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0411-scaled.jpg",
+       "alt": "View from Gravity Bar--2024",
+       "link": null,
+       "caption": "View from Guinness skybar"
+      },
+      {
+       "type": "image",
+       "id": "61ec429",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0410-scaled.jpg",
+       "alt": "Fish on Bike, Guinness--2024",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "1c3eded",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0408-scaled.jpg",
+       "alt": "Guinness Barrels--2024",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "5f644e9",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0407-scaled.jpg",
+       "alt": "Nitrogen Lights, Guinness--2024",
+       "link": null,
+       "caption": "The Nitrogen Bubble Display in Guinness..so relaxing"
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "68aaaf1",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "f119ee0",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Goooooood Morning! Greetings from the Emerald Isle...and our weather sure has been quite emerald-y too. We've been blessed with perfect gray skies and green fields, with the occasional cool breeze or drizzly storm. Perfect Irish weather.&nbsp;</p>\n<p>The day dawned bright and sunny, with a breakfast of croissants, fruit, cereal, toast, and yogurt. Then it was class time!! We only have a few left...sad... (some don't agree with that particular sentiment though). Students were tasked to research and create a presentation on a famous Irish-American, so some kids began presenting today. We also had or lovely Máire with Gaelic! Mhaith thú!</p>\n<p>Then it was time for dinner and Máire's Gaelic football workshop. SO fabulous. She's such a star!!! After practicing their solos and hand passes, the kids got really into a competitive throw-and-catch game. I mean, <i>really</i> competitive. After a while, it was free time! Most deigned for a quick stroll up to Liffey Valley for some shopping, but some went for a quick lil nap or playing with the sports equipment.</p>\n<p>Then...congrats to the county quiz winners! For those that got 100% (an incredible number of 8 kids!!! The most we've ever had!! Olivia, Nolan, Logan, Brogan, Liam, Parker, Aiden (who gave his place to Joy), and Lauren), they were able to go to the Guinness Factory Tour! They took a taxi up with some of the counselors and enjoyed the 7-floor self-guided tour. It was SO fascinating and relaxing, with so many cool facts and features.&nbsp;</p><p>Then it was back to KH for<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">&nbsp;a delicious tea of pasta bolognese, dance and drama (the drama groups were shuffled around, so everyone has new partners to work with for their skits!!), and a hang-out type of evening. Nearly everyone got together to play a fabulously riotous game of Werewolf before heading off to bed. Night!&nbsp;</span></p>"
+      },
+      {
+       "type": "image",
+       "id": "cbfde98",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0416-scaled.jpg",
+       "alt": "Guinness Winners Group--2024",
+       "link": null,
+       "caption": "Congrats to the County Winners!"
+      },
+      {
+       "type": "image",
+       "id": "bd21add",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0402-scaled.jpg",
+       "alt": "Barley, Guinness, 2024",
+       "link": null,
+       "caption": "The Barley Display in Guinness Factory."
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  }
+ ]
+}

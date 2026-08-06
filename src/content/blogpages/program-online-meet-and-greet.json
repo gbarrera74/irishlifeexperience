@@ -1,0 +1,56 @@
+{
+ "slug": "program-online-meet-and-greet",
+ "title": "Program Meet and Greet",
+ "path": "/blog/program-online-meet-and-greet/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "a059a85",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "eb22d3f",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "5a44554",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>With the 2023 Irish Life Experience just around the corner, we would like to invite parents and students to a very special online \"Meet and Greet.\"</p><p><strong>What</strong>:  Join the Irish Life Experience Team and meet your ILE Staff and fellow participants from around the country.  </p><p><strong>When</strong>:   <span style=\"text-decoration: underline;\"><strong>June 12th at 6:00 PM Eastern Standard Time.</strong></span></p><p><strong>Where</strong>:  Zoom (An invitation will be sent out to parents' and participants' e-mails prior.)</p><p><strong>Why</strong>:  This will be a wonderful way to meet some of the students who will be attending the program and a good time to have any of your questions answered before the program departs.  </p><p><strong>Schedule</strong>:  Brief Introductions (Name, age, where you live, hobbies, and why you are looking forward to traveling to Ireland.) followed by Q &amp; A's.  </p><p>Pretty soon we will be zooming all around Ireland, so what better way to get the trip started, then by zooming at home.  </p>"
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "e1671d4",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "41e1162",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/03/zoom.jpg",
+       "alt": "Zoom",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

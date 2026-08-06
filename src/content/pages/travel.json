@@ -1,0 +1,656 @@
+{
+ "slug": "travel",
+ "title": "Travel",
+ "path": "/parents/travel/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f2e8833",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "555ce17",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "19d7424",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Travel",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "8b53609",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/09/1EBFBFF5-D4BF-423A-A6AB-0A821D6E9B80.png",
+   "slideshow": [
+    "/images/wp/2021/07/IMG_8254-scaled.jpg"
+   ]
+  },
+  {
+   "type": "section",
+   "id": "f280586",
+   "style": {
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "04afe0b",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "3210f98",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "35px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Our Premiere European Partnership",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "section",
+       "id": "c2d0b9e",
+       "style": {
+        "": {
+         "padding": "0px 0px 0px 0px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "976f22c",
+         "style": {},
+         "children": [
+          {
+           "type": "image",
+           "id": "9edd439",
+           "style": {},
+           "src": "/images/wp/2021/10/juniper.png",
+           "alt": "Juniper Tours Logo",
+           "link": null
+          }
+         ],
+         "width": 50
+        },
+        {
+         "type": "column",
+         "id": "5a930ca",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "10px 10px 10px 10px",
+           "margin": "0px 0px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "text-editor",
+           "id": "0d13979",
+           "style": {
+            "": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-weight": "normal",
+             "line-height": "1.5em",
+             "color": "#1E3A43",
+             "text-align": "center",
+             "font-size": "16px"
+            }
+           },
+           "html": "<p><a href=\"http://www.JuniperTours.com\">Juniper Tours</a> is a boutique, custom tour operator that specializes in Europe's finest destinations.  Each tour package includes accommodations, transportation, and day tours and experiences all tailored to the individual traveler's preferences.  Our emphasis is on culturally immersive and authentic experiences that lean toward luxury.  </p><p>At <a href=\"http://www.JuniperTours.com\">Juniper Tours</a>, we strive to be a travel brand with integrity and heart for the people we serve.  All of our partners abroad are headquartered, owned, and operated by locals to ensure the best experience for our travelers, and that each <a href=\"http://www.JuniperTours.com\">Juniper Tour's</a> custom package gives back to the people who call your destination home.  </p><p>Schedule a FREE TRAVEL CONSULTATION today and receive a special Irish Life Experience discount when you have a child participate in the program with the code <strong>ILEPARENT</strong>.  Please call 877-774-3256 for more information.  </p>"
+          },
+          {
+           "type": "button",
+           "id": "78229f9",
+           "style": {
+            ".elementor-button": {
+             "background-color": "#61CE70",
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-weight": "bold",
+             "text-transform": "uppercase",
+             "border-radius": "100px 100px 100px 100px",
+             "padding": "1em 3em 1em 3em"
+            },
+            ".elementor-button:hover": {
+             "background-color": "rgba(54,244,133,0)",
+             "color": "#61CE70"
+            },
+            ".elementor-button:focus": {
+             "background-color": "rgba(54,244,133,0)",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Take Me There  ",
+           "link": "https://junipertours.com/"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "b6f8747",
+   "style": {
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "d995a90",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "f3c14d3",
+       "style": {
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "36px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Our Premiere United States Partnership",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "section",
+       "id": "39a09a2",
+       "style": {
+        "": {
+         "padding": "0px 0px 0px 0px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "1946e5a",
+         "style": {},
+         "children": [
+          {
+           "type": "image",
+           "id": "5f6832f",
+           "style": {},
+           "src": "/images/wp/2021/10/landmark.png",
+           "alt": "Landmark Educational Tours Logo",
+           "link": null
+          }
+         ],
+         "width": 50
+        },
+        {
+         "type": "column",
+         "id": "3da9eef",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "10px 10px 10px 10px",
+           "margin": "0px 0px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "text-editor",
+           "id": "1d2e8ef",
+           "style": {
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p><a href=\"http://www.LandmarkEducationalTours.com\">Landmark Educational Tours</a> passion is travel to help others along the way to explore the landmarks of the world.  It is an experiential education that remains a unique, but impactful experience for students.  </p><p>When you choose to embark with <a href=\"http://www.LandmarkEducationalTours.com\">Landmark Educational Tours</a>, they are committed to providing a safe and memorable experience for all travelers.  They offer elite service from their seasoned travelers to leaders that provide a solution to group trip organizers' travel needs.  </p><p>Schedule a FREE TRAVEL CONSULTATION today.  Please call 888-886-2781 for more information.</p>"
+          },
+          {
+           "type": "button",
+           "id": "f6538ba",
+           "style": {
+            ".elementor-button": {
+             "background-color": "#61CE70",
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-weight": "bold",
+             "text-transform": "uppercase",
+             "border-radius": "100px 100px 100px 100px",
+             "padding": "1em 3em 1em 3em"
+            },
+            ".elementor-button:hover": {
+             "background-color": "rgba(54,244,133,0)",
+             "color": "#61CE70"
+            },
+            ".elementor-button:focus": {
+             "background-color": "rgba(54,244,133,0)",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Take me there  ",
+           "link": "https://landmarkeducationaltours.com/"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "f9acf24",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.56"
+    },
+    "> .elementor-container": {
+     "max-width": "1045px",
+     "min-height": "0px"
+    },
+    "": {
+     "padding": "10px 10px 10px 10px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "4f05553",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "e6ed42a",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 09px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#FFFFFF"
+        }
+       },
+       "text": "Testimonials",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "testimonial-carousel",
+       "id": "6776239",
+       "style": {
+        ".swiper-pagination-bullet-active": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-progressbar-fill": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-fraction": {
+         "color": "#74B843"
+        },
+        ".elementor-swiper-button": {
+         "font-size": "20px"
+        },
+        ".elementor-testimonial__text": {
+         "color": "#FFFFFF",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "16px",
+         "text-transform": "none"
+        },
+        ".elementor-testimonial__name": {
+         "color": "#E4978E",
+         "font-size": "20px",
+         "font-weight": "900",
+         "text-transform": "uppercase"
+        },
+        ".elementor-testimonial__title": {
+         "color": "#FFFFFF",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "text-transform": "uppercase"
+        }
+       },
+       "slides": [
+        {
+         "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
+         "name": "Sean K.",
+         "detail": "Seekonk, MA-Parent of Ian 2019",
+         "image": "/images/wp/2021/10/IMG_0029.png"
+        },
+        {
+         "quote": "Thank you Irish Life Experience and Taryn for an amazing life-changing experience for my daughter.",
+         "name": "Peggy L.",
+         "detail": "Canton, GA-Parent of Elizabeth 2019",
+         "image": "/images/wp/2021/10/IMG_0091.png"
+        },
+        {
+         "quote": "The summer of 2019 was my favorite summer.  There was never a dull moment during the whole trip.",
+         "name": "Daniel S.",
+         "detail": "Brielle, NJ-Student 2019",
+         "image": "/images/wp/2021/10/IMG_9343.png"
+        },
+        {
+         "quote": "To say this program is amazing is an understatement. There are not enough words to describe this once is a lifetime opportunity.",
+         "name": "Hannah B.",
+         "detail": "Channahon, IL-Student 2017",
+         "image": "/images/wp/2021/10/20841156_1913146842235965_4210053887803783594_n.png"
+        }
+       ],
+       "slidesPerView": "2"
+      },
+      {
+       "type": "spacer",
+       "id": "590f41b",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/11/IMG_8245-scaled.jpeg",
+   "slideshow": [
+    "/images/wp/2021/07/IMG_1879-2-scaled.jpeg",
+    "/images/wp/2021/07/30727297_10155840810949130_8651115417584009216_o.jpeg",
+    "/images/wp/2021/07/A83E2C8F-18C2-4948-AA99-583FD34C59B7.png",
+    "/images/wp/2021/07/IMG_2820-scaled.jpg"
+   ]
+  },
+  {
+   "type": "section",
+   "id": "db10ed6",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "850px"
+    },
+    "": {
+     "padding": "10px 10px 10px 10px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "0b9aabc",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "e353a86",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 5px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Learn More About Our Program",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "form",
+       "id": "3d341fb",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px"
+        },
+        ".elementor-field-group > label": {
+         "color": "#1E3A43",
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+        },
+        ".elementor-field-subgroup label": {
+         "color": "#1E3A43",
+         "font-family": "\"Lato\", Sans-serif"
+        },
+        ".dce-signature-wrapper": {
+         "text-align": "left"
+        },
+        ".dce-signature-canvas": {
+         "border-radius": "3px 3px 3px 3px",
+         "background-color": "#ffffff"
+        },
+        ".dce-signature-button-clear": {
+         "color": "#e62626"
+        },
+        ".dce-signature-button-clear i": {
+         "color": "#e62626",
+         "font-size": "16px"
+        },
+        ".elementor-field-group .elementor-field": {
+         "color": "#000000",
+         "font-family": "\"Lato\", Sans-serif"
+        },
+        ".select2-container--default .select2-selection--single .select2-selection__rendered": {
+         "color": "#000000"
+        },
+        "..select2-container--default .select2-selection--multiple .select2-selection__rendered": {
+         "color": "#000000"
+        },
+        ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-field-group .elementor-select-wrapper select": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-field-group .elementor-select-wrapper .select2": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".mce-panel": {
+         "background-color": "#ffffff"
+        },
+        ".elementor-field-group .elementor-select-wrapper::before": {
+         "color": "#BEBEBE"
+        },
+        ".elementor-field-group .mce-panel": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-button": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "16px 16px 16px 16px"
+        },
+        ".e-form__buttons__wrapper__button-next": {
+         "background-color": "#61CE70",
+         "color": "#ffffff"
+        },
+        ".elementor-button[type=\"submit\"]": {
+         "background-color": "#61CE70",
+         "color": "#ffffff"
+        },
+        ".e-form__buttons__wrapper__button-previous": {
+         "background-color": "#FFFFFF",
+         "color": "#ffffff"
+        },
+        ".e-form__buttons__wrapper__button-next:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#61CE70"
+        },
+        ".elementor-button[type=\"submit\"]:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#61CE70"
+        },
+        ".e-form__buttons__wrapper__button-previous:hover": {
+         "color": "#ffffff"
+        },
+        ".elementor-field-label-description:after": {
+         "border-radius": "50%",
+         "padding": "2px 0",
+         "line-height": "1",
+         "font-size": "80%",
+         "text-align": "center",
+         "color": "#ffffff",
+         "background-color": "#777777"
+        },
+        ".elementor-message": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+        },
+        ".elementor-field-type-amount.elementor-field-group .dce-amount-visible": {
+         "opacity": "1"
+        },
+        ".elementor-field-type-dce_range input": {
+         "opacity": "1"
+        }
+       },
+       "formName": "Learn More",
+       "fields": [
+        {
+         "label": "First Name",
+         "type": "text",
+         "required": true,
+         "placeholder": "First Name",
+         "options": null,
+         "html": null,
+         "id": "name"
+        },
+        {
+         "label": "Last Name",
+         "type": "text",
+         "required": true,
+         "placeholder": "Last Name",
+         "options": null,
+         "html": null,
+         "id": "field_a0e0761"
+        },
+        {
+         "label": "Mobile Phone",
+         "type": "tel",
+         "required": true,
+         "placeholder": "Mobile Phone",
+         "options": null,
+         "html": null,
+         "id": "field_5f8be52"
+        },
+        {
+         "label": "E-Mail",
+         "type": "email",
+         "required": true,
+         "placeholder": "E-Mail",
+         "options": null,
+         "html": null,
+         "id": "email"
+        },
+        {
+         "label": "Message",
+         "type": "textarea",
+         "required": false,
+         "placeholder": "Message",
+         "options": null,
+         "html": null,
+         "id": "message"
+        }
+       ],
+       "submit": "Send"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

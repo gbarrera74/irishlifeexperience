@@ -1,0 +1,216 @@
+{
+ "slug": "mesa-m-ile-2019",
+ "title": "Mesa M.-ILE 2019",
+ "path": "/mesa-m-ile-2019/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "ffdb110",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "69043c1",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "fa3326d",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -30px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "50px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Our",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "dc9cc29",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "50px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Ambassadors",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "f54e37a",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/10/14125698_10154187665089130_7139650306129370242_o.jpg"
+  },
+  {
+   "type": "section",
+   "id": "4a7520f",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "882b914",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "7dba6c8",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/IMG_9941-scaled.jpg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "b12532e",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "1aae8ba",
+       "style": {
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Mesa M.-ILE 2019",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "text-editor",
+       "id": "bc2f0fb",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>My name is Mesa McKee and I was a part of the Irish Life Experience in 2019.  I have always loved traveling and this trip was an amazing experience that shaped me as a person.  The joy and confidence that this trip gave me is something that I still cherish to this day.  I am still deeply connected with the friends I made on this trip, a community of people for which I have an incredibly profound love. </p><p>I am now in college and my ILE experience has continued to influence my life in many ways.  The education I received while in Ireland inspired me to do political science research in the United Kingdom, a project which has me traveling to Europe to present my research findings.  This research project is in no small part inspired by the way I learned to look at the world and analyze the relations between countries on the ILE.  This trip showed me how histories, cultures, and people are woven together to create the world that we live in.  The curiosity to understand the nuances of these global connections stems from the incredible experiences I had while in Ireland.  I met a diverse array of people, saw a multitude of places, and learned about the rich history in Ireland and of Irish Americans.  Beyond teaching me about my heritage, this culmination of experiences instilled a passionate curiosity in me, a feeling that has made me interested in the intricate links of history, people, and culture and led to some of the defining parts of my college education and hopefully something I can continue into my adult career. </p><p>My memories of my time in Ireland are ones that I look back on with fondness and love.  I remember playing frisbee with one of my best friends in the courtyard of the school in Waterford.  I remember the amazing chocolates and coffee from shops around Dublin.  I will always laugh about the dinner escapades in the apartments in Galway after a full day of exploring the city.  Still today my heart lights up when I think about the plethora of castles, amazing countryside views, and the many joyous bus rides singing along to the radio.  I think about the 99’s from the tiny shop off of Grafton Street every time I get an ice cream cone in America. </p><p>This trip imprinted Ireland on my heart and I have thought about it every day since my plane back to the United States landed.  Please don't hesitate to contact me with any questions you might have.  </p>"
+      },
+      {
+       "type": "heading",
+       "id": "f546e87",
+       "style": {
+        ".elementor-heading-title": {
+         "font-family": "\"Open Sans Condensed\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "bold",
+         "color": "#6EC1E4"
+        }
+       },
+       "text": "Visit on Facebook»",
+       "tag": "p",
+       "link": "https://www.facebook.com/mesa.mckee",
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "a0d016e",
+       "style": {
+        ".elementor-heading-title": {
+         "font-family": "\"Open Sans Condensed\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "bold",
+         "color": "#61CE70"
+        }
+       },
+       "text": "E-Mail»mesa.mckee@gmail.com",
+       "tag": "p",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "button",
+       "id": "900ed80",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "Go Back",
+       "link": ""
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

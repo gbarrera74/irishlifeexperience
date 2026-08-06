@@ -1,0 +1,83 @@
+{
+ "slug": "go-with-the-flow",
+ "title": "Go with the Flow!",
+ "path": "/blog/go-with-the-flow/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "b8808e6",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "de51097",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "e61b292",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Tucked away in Largy, Donegal is an incredible secret waterfall.  It is one of the most natural and unique attractions in Ireland.  It can be found far off the beaten track and it is nestled deeply below the majestic Slieve Leauge cliffs.  </p><p>The waterfall is about 3 miles from Killybegs and about 3 1/2 miles east of the town of Kilcar.  It is in a cave near the Atlantic Ocean, so it is <strong>VERY</strong> important to check the timetable for tides, as it can be dangerous.  However, if you time it just right, then the scenery will be well worth it. </p><p>The waterfall is about 165 feet and while it is not a huge cascade, you can sometimes see how the sun finds a perfect breakthrough in the cave's opening and highlights this beautiful masterpiece.  And as always, one of the most important things to remember is to preserve the area and leave no trace behind.  </p><p>If you are lucky and patient enough to find it on your next trip with <a href=\"https://junipertours.com/\">Juniper Tours</a>, then you will see why this is such a magical destination and a sight to behold.  Good and luck and do not listen to TLC when you are trying to discover this amazing waterfall.  </p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "56b85be",
+     "style": {},
+     "children": [
+      {
+       "type": "spacer",
+       "id": "114141f",
+       "style": {},
+       "size": 25
+      },
+      {
+       "type": "image",
+       "id": "b678842",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/Donegal-Waterfall.jpg",
+       "alt": "Secret Waterfall",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  },
+  {
+   "type": "section",
+   "id": "b9a340d",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "a260a25",
+     "style": {},
+     "children": [
+      {
+       "type": "video",
+       "id": "95af44c",
+       "style": {},
+       "url": "https://www.youtube.com/watch?v=-cYCSwjMbRc&t=6s"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

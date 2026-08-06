@@ -1,0 +1,99 @@
+{
+ "slug": "derry-girls",
+ "title": "Derry Girls",
+ "path": "/blog/derry-girls/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "e04304e",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "eca9742",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "45e776e",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "img": {
+         "max-width": "85%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/image.jpg",
+       "alt": "Derry Girls",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "b5bfd83",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "img": {
+         "max-width": "85%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/2020-05-24_sun_59082772_I1.jpg",
+       "alt": "Derry Girls Walking",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "45bf009",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "edc2743",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>For those of you who have yet to see <em>Derry Girls</em>, you need to wise up.  It is a critically acclaimed comedy that has Seasons 1 and 2 on Netflix.  It is about a coming of age story set in the 1990's; following five teenagers in Northern Ireland when it was gripped by sectarian violence between the Catholics and the Protestants.</p><p>Created and written by Lisa McGee, the show is inspired by her own childhood growing up in Derry during the Troubles.  It is a smart sitcom where its characters are richly detailed and its understanding of teenage awkwardness profound.  McGee has an incredible <span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; font-size: 1rem;\">ability to perfectly balance hilarious moments of teenage humor, wholesome meditations on friendship and love, and coming-out stories alongside a serious engagement with politics of the era.  </span></p><p>Be patient, because once you understand the <em>Derry Girls</em> frame of mind-you can find yourself watching the whole show differently:  The betrayals, insults, threats are all, in another accent-ways of speaking love.<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; font-size: 1rem;\"><br /></span></p><p>As many of us have fallen in love with <em>Derry Girls</em>, McGee has announced that Season 3 will be the last.  While all good things must come to an end, she has also revealed her plan to possibly make a film on it in the near future.  Happy days!</p><p>So grab your remote, get caught up, and enjoy the brilliant moments of craic this heartwarming show entails.  Ma Mary will be proud.    </p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "ea30252",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "f62937f",
+     "style": {},
+     "children": [
+      {
+       "type": "video",
+       "id": "e05fcff",
+       "style": {},
+       "url": "https://www.youtube.com/watch?v=UFmFuXH0IRY"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

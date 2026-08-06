@@ -1,0 +1,59 @@
+{
+ "slug": "anything-but-burren",
+ "title": "Anything but Burren",
+ "path": "/blog/anything-but-burren/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "775ec3a",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "3fd2a25",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "9d51df6",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Good morning from Galway!&nbsp;<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Yay yay yay! Today is a very fun, much-awaited day by many. The Burren! The Burren is an absolutely jaw-dropping landscape in County Clare that consists of wild rolling hills dotted with slabs of weathered limestone, grazing sheep, elegant little brooks, and swaying wildflowers. Even though everyone usually likes to take naps on the bus, it was nearly impossible to when surrounded by such beauty.&nbsp;</span></p>\n<p>Our first stop was the Ailwee Caves, where we walked several miles under the Burren in a naturally formed cave from the Ice Age. This was also the location where scientists found remmanants of bear bones, which are extinct in Ireland now!&nbsp;</p>\n<p>We then emerged into the sunlight and drove to the Birds of Prey Center, where we had a fascinating display of two birds–a falcon who was very snarky and funny, and Jess, the adorable little barn owl. Eva, Theo, and Cash even got to hold a bird! Afterwards, everyone had a chance to shop in the little Farmstore, where they make homemade cheese (including an intriguing nettle variety), and fudge.&nbsp;</p>\n<p>We then hit the road once more and drove to The Polnabroune Dolmen–one of the best-preserved tombs in Ireland. Here, the wildflowers and ferns grow in abundance, and accompanied with the warm sunshine and gentle breeze, it was a very calming place.&nbsp;</p>\n<p>Everyone then had their packed lunches on the drive to a much-awaited place–The Cliffs of Moher!!! Although the drizzling had picked up a bit, it didn’t spoil anyone’s mood as we trekked along the clifftop pathways, glanicing nervously over the edge at the churning and swelling ocean 700 feet below. (Don’t worry, parents–there’s a barricade).&nbsp;</p>\n<p>After an hour and a half of exploring the cliffs and gazing out at the gorgeous view, we had one more special spot on this busy but wonderful day–St. Brigid’s Well. Here, those who wished could leave momentos or letters or say a few words to loved ones who had passed. It was a quick stop, but a very meaningful and special one nonetheless.&nbsp;</p>\n<p>The drive home was full of Taryn and Clare’s wonderful DJ-ing, and all too soon, we were pulling into Gort na Coribe for another wonderful night of dinner and free time! Goodnight!</p>"
+      },
+      {
+       "type": "image",
+       "id": "093bfb4",
+       "style": {
+        "": {
+         "max-width": "48.571%"
+        }
+       },
+       "src": "/images/wp/2024/07/IMG_0696-scaled.jpg",
+       "alt": "ILE24 rock--2024",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "0c7e653",
+       "style": {
+        "": {
+         "max-width": "50.357%"
+        }
+       },
+       "src": "/images/wp/2024/07/IMG_0672-1-scaled.jpg",
+       "alt": "cliffs of Moher--2024",
+       "link": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "covid-19-protocol",
+ "title": "Covid-19 Protocol",
+ "path": "/blog/covid-19-protocol/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "72a45a8",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "3870262",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "95822ef",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Safety will always be at the forefront of our programs to ensure the well-being of our students and staff, so we will do our best to keep all of our participants and their families informed with current Covid-19 travel protocol and to help them prepare for their upcoming travels. </p><ul><li>As of February 1st, 2022, Ireland is requiring vaccinated or recovered travelers into Ireland.  Each Irish Life Experience student will be <strong>required</strong> to present evidence of acceptable proof of vaccination/and or recent recovery.</li><li>Vaccine certificates will <b>only</b> be accepted if the final dose (In the primary series.) was received within 270 days (9 months.) before the date of travel.  There is currently no time limit for vaccine certificates based on the booster or additional doses.</li><li>For peace of mind before the program departs, Aer Lingus and the Irish Life Experience highly recommend downloading the VeriFly app to manage required travel documentation in one place.  With VeriFly, your travel documentation is approved before you travel to the airport.  This allows you to then check-in online and removes the requirement for your Covid-19 related documents to be checked again at the airport.  </li><li>The Government is sponsoring FREE <a href=\"https://www.covidtests.gov/\">Covid-19 tests</a> and you can order them to be delivered directly to you.  Therefore, we will also be requesting that students bring at least three at-home Covid tests to Ireland, just as a precaution.  </li><li>Masks will be required in all enclosed spaces when requested by the vendors and when social distancing is not possible.  Our staff will carry extra masks and hand sanitizer should anyone require a spare.  We highly encourage all travelers to frequently use hand sanitizer and wash their hands throughout the trip to prevent any virus spread.</li><li>If a student becomes ill or tests positive for COVID during the trip, the Irish Life Experience will immediately help coordinate the movement of the passenger to a safe location separate from the group and help provide the student arrangements for a COVID test. Until the results of a COVID test are provided negative, the student and a designated chaperone must quarantine in their provided accommodations. </li><li>The Irish Life Experience also encourages students/families to purchase <a href=\"https://www.travelinsured.com/\">Travel Insurance</a> as a way to protect their investment.  While we are confident that nothing will arise, it is always better to be safe than sorry.  </li></ul><p>We will do our best to keep everyone updated on any changes in the tourism industry in the next few months.  Please do not hesitate to contact the Irish Life Experience Team with any questions you might have in the meantime.  </p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "21dc49a",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "3d11f0e",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/03/IMG_5325.jpg",
+       "alt": "",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "743f90f",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/03/IMG_5324.jpg",
+       "alt": "",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "3848302",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/03/IMG_5321.jpg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  }
+ ]
+}

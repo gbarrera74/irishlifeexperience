@@ -78,7 +78,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "545"
+        "last_count": "546"
     },
     {
         "url": "/faqs/",
@@ -375,7 +375,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "579"
+        "last_count": "580"
     },
     {
         "url": "/itenary-calendar/",
@@ -411,7 +411,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "820"
+        "last_count": "821"
     },
     {
         "url": "/make-a-donation/",
@@ -429,7 +429,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "1471"
+        "last_count": "1472"
     },
     {
         "url": "/request-confirmation/",
@@ -483,7 +483,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "3289"
+        "last_count": "3290"
     },
     {
         "url": "/thank-you-for-entering-confirmation/",
@@ -1995,7 +1995,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "58"
+        "last_count": "59"
     },
     {
         "url": "/4341/a-giant-of-a-day",
@@ -2400,7 +2400,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "44"
+        "last_count": "45"
     },
     {
         "url": "/5833/us-prevails-iles-world-cup",
@@ -2472,7 +2472,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "30"
+        "last_count": "31"
     },
     {
         "url": "/5895/famine-letters",
@@ -2589,7 +2589,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "870"
+        "last_count": "871"
     },
     {
         "url": "/6090/top-10-study-abroad-tips-for-parents",
@@ -2616,7 +2616,7 @@
         "action_code": "301",
         "regex": "0",
         "status": "enabled",
-        "last_count": "61"
+        "last_count": "62"
     },
     {
         "url": "/6338/byefelicia",

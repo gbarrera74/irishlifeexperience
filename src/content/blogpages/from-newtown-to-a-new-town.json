@@ -1,0 +1,116 @@
+{
+ "slug": "from-newtown-to-a-new-town",
+ "title": "From Newtown to a new town…",
+ "path": "/blog/from-newtown-to-a-new-town/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "5691e2a",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "915090b",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "ee32fa1",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Good-bye sweet Waterford, and hello Dublin!!! After a few drizzly days, the morning welcomed us with warm golden sunlight for our last day at Newtown. Sad...but everyone was so very excited for Dublin!&nbsp;</p>\n<p>We had our last breakfast here--just the norm--various cereals, yogurt, fruit, brown bread/white bread toast, wheaties, and a selection of meats and cheeses.</p>\n<p>Then, everyone had about an hour to pack up and get ready for Dublin. Our bus pulled up, everyone waved goodbye to Newtown, and we hopped on for the 2-hour trip there. Although, as per usual, the view was lovely--everyone still couldn't resist the pull of drowsiness. Our days are packed so full with so much excitement, that everyone is always bordering more on the sleepy side.&nbsp;</p>\n<p>Our first stop in Dublin was a walking tour!!! But not just any walking tour, a food walking tour! This was great, because everyone was getting quite hungry. Our wonderful tour guide, Kevin, greeted us outside of Saint Katherine's Cathedral. (I know I keep saying that we have had WONDERFUL tour guides, but it's so true! The guides we've had have been so great.)&nbsp;</p>\n<p>Anyways, Kevin first started off by taking us to the very famous Guinness Gate, where we learned some history about Guinness (and saw Ireland's oldest pear tree), then walked us to our first stop--Container Coffee. We took 4 stops on this tour--small meals each of breakfast, lunch, dinner, and dessert. At Container Coffee (it's a shop in an old shipping container), we got coffee and sausage rolls--some people were even brave enough to try black pudding (blood sausage) in their rolls.<br></p>\n<p>We next went to Gorilladh (Irish for \"grilled\"), where we got toasties, a popular dish here. Most people got the 'beefo--' toasted sourdough with local cheese, brisket, homemade gravy mayo, and chiles. Of all the dishes we tried on the tour, this seemed to be the favorite.&nbsp;<br></p>"
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "62d2b7c",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "39a5b50",
+       "style": {},
+       "src": "/images/wp/2023/07/20230707_100148_844331.jpeg",
+       "alt": "",
+       "link": null,
+       "caption": "Goodbye Newtown, hello Dublin!"
+      },
+      {
+       "type": "image",
+       "id": "3795b71",
+       "style": {},
+       "src": "/images/wp/2023/07/20230708_084726_8D8F80.jpeg",
+       "alt": "",
+       "link": null,
+       "caption": "Shawn teaching everyone how to do cheer stunts."
+      },
+      {
+       "type": "google_maps",
+       "id": "53212f2",
+       "style": {
+        "": {
+         "max-width": "103.396%"
+        }
+       }
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "5daef50",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "261c0fd",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Next, we headed off to Leo Burdock's, the oldest chipper (shop that sells fish and chips), in Ireland. </span></p><p>Finally (everyone was SO full at this point), we headed off to have Bailey's cheesecake for dessert, though some people did vie for some lighter ice cream (fun fact--in the US, cheesecakes are baked, and in Ireland, the cheesecakes are refrigerated to set).</p><p>Taryn then gave us a wonderful little tour through the main streets we would be walking through during our free day in Dublin, showing us a few things like the Molly Malone statue, the Stiffey by the Liffey (a statue), Temple Bar, and finally ending on Nassau Street, where our bus was waiting. </p><p>And here we are...King's Hospital! The campus here is much larger than in Newtown, and there are other large groups of students from Spain, Italy, and France staying here as well. It's a bit overwhelming at first, but everyone seems to be settling in. </p><p>Everyone put their things away in their dorms, then headed off to Tea--which is at the same time as it was in Newtown. We had lasagna, a cookie, garlic bread, and a wonderful choice of fresh salads and pastas in the salad bar. </p><p>The rest of the evening was simply for getting adjusted (Taryn gave everyone a quick tour of the facilities), though there was some free time to go shopping at the Liffey Valley Shopping Centre across the road, in case anyone wanted to go. Shawn, Dennis, Aspen, and Adi even did some cheer stunts. </p><p>Although some people seem to be missing Newtown, we all settled down happily enough in our rooms, ready for another spectacular day on this spectacular trip. </p>"
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "8f83e51",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "c264d19",
+       "style": {},
+       "src": "/images/wp/2023/07/20230708_083415_F675C7.jpeg",
+       "alt": "",
+       "link": null,
+       "caption": "...They're really good cheerleaders, I must say!"
+      },
+      {
+       "type": "image",
+       "id": "4b3896e",
+       "style": {},
+       "src": "/images/wp/2023/07/20230707_162301_9B4A21.jpeg",
+       "alt": "",
+       "link": null,
+       "caption": "Clare and Cass eating a toastie on the food tour."
+      }
+     ],
+     "width": 25
+    }
+   ],
+   "structure": "40"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "slug": "im-home-now-what",
+ "title": "I’m Home…Now What?",
+ "path": "/blog/im-home-now-what/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "905e507",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "7dd15ec",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "457e938",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>There's truly nothing like coming home. Returning to your loved ones, hugging your friends, basking in familiar sights and places. But it can be difficult, too--especially when your home now feels divided. You've just spent 4 life-changing weeks in arguably the most incredible place on Earth, along with dozens of other students who quickly became your family. Now what?&nbsp;<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Well, it can be a difficult time for adjustment. But you know what's amazing? You now have two homes! Ireland will always be there, ready and waiting to welcome you back--and you'll always have people there who love you. Think of everything you've done in the past month--you're pretty amazing! But the adjustment period can be so difficult--especially when everything that used to feel so familiar now feels so foreign. So, here's a little list of some hot tips to help in adjusting.&nbsp;</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">1) Treat yourself with kindness, and take it easy! Traveling is hard on your body, so make sure to drink lots of water, eat some yummy food, and get lots of rest. Don't forget to treat your mind to some love, too. Mindfulness, meditation, yoga, naps, deep breathing, a good book or comfort movie, listening to your favorite songs--focus on ways to relax and calm your mind--especially if you have a whirlwind of emotions.&nbsp;</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">2) Share the love of Ireland with your friends and family! Take some time to give out gifts, show off your souvenirs, and share your memories. Cuddle up with your loved ones and show them pictures of all your adventures--maybe have a good cry, then a good laugh when you retell a funny memory.&nbsp;</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">3) Reminisce on your adventures. Maybe print off some photos and make an album or scrapbook, or journal/sketch about your favorite moments on the ILE! Have your friends and family help, or FaceTime some of your ILE buddies and have a virtual storytelling and crafting sesh!&nbsp;</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">4) Bring Ireland's culture home to you! Cook some scones or soda bread, teach your loved ones a jig or cáilí, learn more songs on the bodhrán and tin whistle, make a Brigid's Cross with your local flora. The options are endless...and if you look around, the magic of Ireland is everywhere.&nbsp;</span></p>\n<p>Don't forget...you're not alone. There are so many people that love you--your friends and family--both from Ireland and back home--and they're all here for you. They might also be going through the same thing you are! So give them a call or a hug...and remember--Ireland is never more than a thought away.&nbsp;</p><p>We love you all!</p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

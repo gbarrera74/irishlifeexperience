@@ -1,0 +1,108 @@
+{
+ "slug": "meet-helen-tonra",
+ "title": "Meet Helen Tonra",
+ "path": "/blog/meet-helen-tonra/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "1d04d0c",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "eeadeb4",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "3c649f2",
+       "style": {},
+       "src": "/images/wp/2024/02/1.jpg",
+       "alt": "Helen Candid #2",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "729b000",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "ef89d8b",
+       "style": {
+        "": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Hi Everyone!</p><p>I was born and raised in Dublin but have strong family connections to Mayo and Kerry where I was lucky to spend a lot of time growing up.  I took a year out of my studies in University College Dublin before my third year and worked abroad in the US in Chicago and then on Catalina Island, which was amazing.</p><p>I also spent some time after graduation living in Seville, Spain, where I worked with American High School Students on a Study Abroad Program.</p><p>I am now pursuing a Master's Degree to be a Secondary School Teacher and hope to qualify in 2025. I currently live in a boarding school in Dublin and help out with the students, which I love.</p><p>Travel, both long-term and short-term, has opened my eyes to the world, and I have enjoyed making friends from all over. For me, though, there is no place like home, and I have a real love for Irish history and culture. There’s nowhere more beautiful than Ireland in the sunshine!</p><p>Looking forward to meeting all of the 2025 ILE Students very soon.</p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "11c466a",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "8206994",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "fd797bd",
+       "style": {},
+       "src": "/images/wp/2024/02/1.jpg",
+       "alt": "Helen Candid #4",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "8c26426",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "224cf17",
+       "style": {},
+       "src": "/images/wp/2024/02/1.jpg",
+       "alt": "Helen Candid #1",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "c5db49f",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "7eb83b6",
+       "style": {},
+       "src": "/images/wp/2024/02/1.jpg",
+       "alt": "Helen Candid #3",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  }
+ ]
+}

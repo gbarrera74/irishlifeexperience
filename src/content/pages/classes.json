@@ -1,0 +1,989 @@
+{
+ "slug": "classes",
+ "title": "Classes",
+ "path": "/students/classes/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f2e8833",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "555ce17",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "6cfe6ed",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Student",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "19d7424",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Classes",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "8b53609",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/09/6C9B02E3-5FE1-4EE6-9CC0-2D7258335D93.png"
+  },
+  {
+   "type": "section",
+   "id": "c979c62",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "26861fe",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "1fdaa79",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "0px",
+         "max-width": "500px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "bc87aea",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "4e52edd",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/river.jpg"
+        },
+        {
+         "type": "column",
+         "id": "5f5e4d5",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "c21827a",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "25px",
+             "font-weight": "900",
+             "color": "#61CE70"
+            },
+            "": {
+             "text-align": "center"
+            }
+           },
+           "text": "Gaelic Language-8 Hours",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "7632c3d",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Study basic Irish language, grammar, and vocabulary.  You will also have the chance to hear Gaelic spoken firsthand throughout your journey, especially when you visit the Aran Islands where Gaelic is still their first language.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "bgImage": null,
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "7d3b1a7",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "d209810",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "cf037c5",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "18vw"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "9750745",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "024834b",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_2875.jpg"
+        },
+        {
+         "type": "column",
+         "id": "45320da",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "7a20a27",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "25px",
+             "font-weight": "900",
+             "color": "#E4978E"
+            },
+            "": {
+             "text-align": "center"
+            }
+           },
+           "text": "Irish American History-8 Hours",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "192b084",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Learn how Ireland and its historic culture was formed, dating back to 2500 BC including:  Pre-Celtic Ireland (c. 2500 BC)-Early Christian Ireland to the Vikings (c. 458-900)-The Normans and Ireland (c. 1200-1400)-Daniel O’Connell and Catholic Emancipation-The English and the Anglo Irish in Ireland-The Famine and Emigration (c. 1850)-From Rising to Independence (c. 1916-1922).</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "721d7f3",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "2707a68",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "102be08",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "18vw"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "60af3aa",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "47b82e6",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/B4C7A22A-C7CE-444B-B4FC-E31C7258AA13.png"
+        },
+        {
+         "type": "column",
+         "id": "9a853f7",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "4cf8072",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "25px",
+             "font-weight": "900",
+             "color": "#F3C820"
+            },
+            "": {
+             "text-align": "center"
+            }
+           },
+           "text": "Irish History-8 Hours",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "5101615",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Learn how the Irish originally helped American settlements and how it still affects American culture, with a focus on:  Ulster Men and Women Emigrate to Colonies (c. 1750)-The Famine and Mass Emigration (c.1860-1900)-The Irish and the Towns (New York, Boston, Chicago)-“From Shanty to Lace Curtains”-The Irish Join the Middle Classes-The Irish Contributions to the United States-Famous Irish Men and Women.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "b019673",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "1455603",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "c3eff8c",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "18vw"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "55d6830",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "745d0dc",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/BA913254-7D93-430E-BA19-960FB8C04A7B.png"
+        },
+        {
+         "type": "column",
+         "id": "606f748",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "f5b89bc",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "25px",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            },
+            "": {
+             "text-align": "center"
+            }
+           },
+           "text": "Irish Literature-8 Hours",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "21d0116",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "16px"
+            }
+           },
+           "html": "<p>Study of the Irish writers, playwrights, and poets including:  Paul Durcan, Brian Friel,  Seamus Heaney,  James Joyce, Hugh Leonard, Frank O’Connor, Liam O’Flaherty, JM Synge, Oscar Wilde, and WB Yeats.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "0813ee3",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "1c137a7",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "0479042",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "18vw"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "9e6a1f0",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "b206625",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/09/46E64024-A371-4E5C-AFBF-2D6DD0873665.png"
+        },
+        {
+         "type": "column",
+         "id": "e295af9",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "a203cfe",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "25px",
+             "font-weight": "900",
+             "color": "#61CE70"
+            },
+            "": {
+             "text-align": "center"
+            }
+           },
+           "text": "Irish Studies-8 Hours",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "9c7811b",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "16px"
+            }
+           },
+           "html": "<p>Study of the currency, education, and genealogy, geography of Ireland; the European community, law, media, politics, and social concerns.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "0e40b3e",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "1b0fec0",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "a66e856",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "18vw"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "dcfab4c",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "ddcaff4",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/09/DSC05711-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "6d71acd",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "bfe25e1",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "25px",
+             "font-weight": "900",
+             "color": "#E4978E"
+            },
+            "": {
+             "text-align": "center"
+            }
+           },
+           "text": "Dance-5 Hours",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "f9fb4a5",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "16px"
+            }
+           },
+           "html": "<p>Learn, participate in, and enjoy the traditional folk dances of Ireland.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "c78092b",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "6ea7edc",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "6fe8e38",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "18vw"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "e3317fc",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "73244bf",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/DSC00467-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "fb3d1ed",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "19c3072",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "25px",
+             "font-weight": "900",
+             "color": "#F3C820"
+            },
+            "": {
+             "text-align": "center"
+            }
+           },
+           "text": "Drama-5 Hours",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "2324df8",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "16px"
+            }
+           },
+           "html": "<p>A study of contemporary Irish drama.&nbsp; Students will be assigned to groups and given historical Irish figures, study them, write a limerick, and prepare a creative group performance.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "on-our-merry-galway",
+ "title": "On Our Merry (Gal)Way",
+ "path": "/blog/on-our-merry-galway/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "23fc825",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "a56c8d5",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "4659079",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>And so comes, like every trip, the end. Today is our final, beautiful, perfect day in Galway. Everyone enjoyed a wonderful free day in Galway City today! The girls went in search for Claddagh Rings, Patrick, Hauk, and Tim (AKA the Three Munchketeers) went in search of some more cafes (They've so far been to McDonald's 22 times), and the others spent their day purusing the various streets and buscars and shops, getting in some last-minute gift shopping, and in general just enjoying each others company.&nbsp;</p>\n<p>And then, at 7, we all made the final trip to Maldron Hotel, where we are having our final banquet together. It was a wonderful dinner, consisting of appetizer choices of chowder, falafel, Caesar salad or catch of the day. The main meal was a choice of Tandoori chicken, spaghetti bolognese, a chicken burger, or tortellini, then followed by apple pie, cheesecake, or chocolate fondant for dessert. Then, absolutely stuffed, we headed into one of the private rooms for a final trip overview. Here, many many tears were shed and laughs were shared as Taryn showed everyone an incredible mix of videos and photos (including a fabulously embarrassing album of everyone falling asleep on the bus) and handed out awards and gifts. Then, we all had a surprise for Taryn!! Some of the staff rewrote \"Wagon Wheel,\" Taryn's favorite song, to lyrics all about the ILE and Taryn. We've been secretly learning it and finally got to sing it. We LOVE and appreciate you, Taryn!&nbsp;</p>\n<p>Then it was time for a walk home, and time to spend our final, glorious night hanging out together, savoring our last few moments as an ILE family, and packing up for the plane ride tomorrow.</p>\n<p>It’s not goodbye yet! Goodnight from our final, wonderful, perfectly bittersweet night in the most amazing place in the World.&nbsp;</p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "dc3761a",
+     "style": {},
+     "children": [
+      {
+       "type": "google_maps",
+       "id": "f6b4d6e",
+       "style": {}
+      },
+      {
+       "type": "image",
+       "id": "d6d75bd",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0782.jpg",
+       "alt": "Wagon Wheel (Taryn's Version)--2024",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  }
+ ]
+}

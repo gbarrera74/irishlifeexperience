@@ -1,0 +1,594 @@
+{
+ "slug": "accommodations",
+ "title": "Accommodations",
+ "path": "/parents/accommodations/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f2e8833",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "555ce17",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "6cfe6ed",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "35px",
+         "font-weight": "bold",
+         "letter-spacing": "2px",
+         "color": "#ffffff",
+         "line-height": "1.5em"
+        }
+       },
+       "text": "Student",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "19d7424",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "35px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Accommodations",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "8b53609",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/09/6715277B-C52D-49C2-952A-BD639701CA01.png"
+  },
+  {
+   "type": "section",
+   "id": "d61cf9d",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "2c8d845",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "997850c",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "201c232",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "50d903d",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/250034082_576352070144405_3959401402691301211_n.jpg"
+        },
+        {
+         "type": "column",
+         "id": "3ca05a9",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "35d5d4b",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Newtown School-Waterford, Ireland",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "66ff2ed",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p><span style=\"color: #333333;\">At Newtown School, students will be assigned to rooms that sleep up to five.  Both dorms have shared bathrooms.  Students will have access to football fields, outdoor/indoor basketball courts, a lecture hall where the Irish Life Experience will show movies from their media library, as well as access to a pool that has designated swim times.  Newtown School is located within a 15-minute walk to Waterford's city center.</span></p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "c979c62",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "26861fe",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "a702fb9",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "23230ca",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "d2bed4a",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/isi-dublin-the-kings-hospital-1.jpg"
+        },
+        {
+         "type": "column",
+         "id": "bd0e709",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "13a2dcf",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "King's Hospital-Dublin, Ireland",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "2615f31",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p><span style=\"color: #333333;\">King's Hospital is regarded as one of Ireland's leading boarding schools and offers exceptionally comfortable, healthy, and welcoming facilities.  Rooms are typically self-contained and offer two-six beds in each with ensuite bathrooms to provide privacy and flexibility.  While at King's Hospital, students will have access to football fields, an outdoor/indoor basketball court and gym, student lounges, and a pool with designated swim times.  </span><span style=\"color: #333333; font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">The campus is about a fifteen-minute drive from Dublin city center and a five-minute walk to the Liffey Valley Shopping Center.</span></p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "c749f9b",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "215a4ac",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "67fc610",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "00df428",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "2cc1149",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/The-Gleneagle-Apartment-Living-room.jpg"
+        },
+        {
+         "type": "column",
+         "id": "cd3d6bc",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "22ff6b8",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Gleneagle Apartments-Killarney, Ireland",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "d8047e6",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p><span style=\"color: #333333;\">Gleneagle Apartments sit ten minutes of a walk outside the adorable town of Killarney.  Accommodations are two-bedroom apartments consisting of twin and quad rooms.  The apartments are nestled in Killarney National Park and a stone's throw from the Killarney Lakes, Muckross House, Ross Castle, and Torc Waterfall.  It is a great location and spring board for the Dingle Peninsula and Ring of Kerry Tours.  </span></p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "a2fb587",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "76820d8",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "45b60b2",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "e99c73b",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "cbb8d6c",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/198206123.jpg"
+        },
+        {
+         "type": "column",
+         "id": "4910ecd",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "7bd751f",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Gort na Coiribe-Galway, Ireland",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "27a2ea2",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p><span style=\"color: #333333;\">Gort na Coiribe is a development of apartments and townhouses situated in a prime location in the center of Galway and just a short distance from the popular Eyre Square.  Accommodations range from two-six bedroom apartments consisting of both single and twin rooms.  The housing is situated in a beautiful residential setting that is safe and comfortable.  Most apartments are used as student housing for the National University in Galway during the school year.  </span></p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

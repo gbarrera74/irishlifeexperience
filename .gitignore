@@ -57,3 +57,9 @@ next-env.d.ts
 # Private key
 *.pem
 *.ppk
+
+# Rescued media from the sister site (re-fetchable; see MIGRATION.md)
+/export/iw_uploads/
+
+# Built media — regenerate with the localize_* and optimize_* scripts
+/public/images/

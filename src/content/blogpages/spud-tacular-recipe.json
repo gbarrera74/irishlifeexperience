@@ -1,0 +1,78 @@
+{
+ "slug": "spud-tacular-recipe",
+ "title": "Spud-tacular Recipe",
+ "path": "/blog/spud-tacular-recipe/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "abf5396",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b947442",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "9bb9b47",
+       "style": {},
+       "html": "<p>Thanksgiving is tomorrow and may be an American holiday, but have you always wanted to add an Irish twist to your meal?&nbsp;&nbsp;</p>\n<p>Here is your chance.&nbsp; We have a traditional potato dish called, colcannon, with the whole family will love.&nbsp;&nbsp;</p>\n<p>Colcannon potatoes are Irish mashed potatoes with mixed greens of cabbage or kale and scallions.&nbsp;&nbsp;</p>\n<p><strong>PREP TIME=10 minutes</strong></p>\n<p><strong>COOK TIME=25 minutes</strong></p>\n<p><strong>TOTAL TIME=35 minutes</strong></p>\n<p><strong>SERVINGS=4</strong></p>\n<h4><strong>Ingredients</strong></h4>\n<ul>\n<li>4 Russet Potatoes (2 to 2 1/2 pounds), peeled and cut into large chunks.</li>\n<li>Salt.</li>\n<li>4-6 tablespoons of unsalted butter, plus more for serving.</li>\n<li>3 lightly packed cups of cabbage, chard, kale, or other leafy green.</li>\n<li>3 green onions, minced (About 1/2 cup).</li>\n<li>1 cup cream or milk.&nbsp;</li>\n</ul>\n<h4><strong>Directions</strong></h4>\n<ol>\n<li>Boil the potatoes in a medium pot and cover with cold water by at least an inch.&nbsp; Add 2 tablespoons of salt and bring to a boil.&nbsp; Boil until the potatoes are fork tender-15-20 minutes.&nbsp; Drain in a colander.</li>\n<li>Return the pot to the stove and set over medium-high heat.&nbsp; Melt the butter in the pot and once it is hot, add the greens.&nbsp; Cook the greens for 3-4 minutes or until they are wilted and have given off some of their water.&nbsp; Add the green onions and cook 1 minute more.&nbsp;&nbsp;</li>\n<li>Pour in the cream or milk, mix well, and add the potatoes.&nbsp; Reduce the heat to medium.&nbsp; Use a fork or potato masher and mash the potatoes, mixing them up with the greens.&nbsp;</li>\n<li>Add salt and a dollop of butter to taste.&nbsp;&nbsp;</li>\n</ol>\n<p>Enjoy!</p>\n<p><em>Written by Taryn Harrison</em></p>\n<div>&nbsp;</div>"
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "1fc9f21",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "442a43d",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/Colcannon-Ingredients.jpg",
+       "alt": "Colcannon Ingredients",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "e3c6163",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/COLCANNON-SOUP.jpg",
+       "alt": "Colcannon Cooking",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "f3b7760",
+       "style": {
+        "img": {
+         "max-width": "100%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/11/opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2015__03__colcannon-horiz-a-1200-ebbf636d726c4d8384a3d216c341e499.jpg",
+       "alt": "Colcannon",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

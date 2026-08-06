@@ -1,0 +1,47 @@
+{
+ "slug": "save-big-gift-of-travel",
+ "title": "Save Big-Gift of Travel",
+ "path": "/blog/save-big-gift-of-travel/",
+ "seo": {},
+ "hasCss": false,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "845b71b",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "7cddcdb",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "3e16862",
+       "style": {},
+       "html": "<p>Are you looking to travel to an amazing destination after the new year?  We have a very exciting offer for you.  <a href=\"https://junipertours.com/\">Juniper Tours</a>, our premiere European partner would like to present you with a gift of travel.  </p><p>Save up to $250 per person with a minimum purchase through December 23rd and any Irish Life Experience alumni or future students and their families are eligible for an additional offer of a FREE day tour (Up to a €75 per person value.) by referencing their booking number or provided proof of participation.  </p><p><a href=\"http://www.junipertours.com/\">Juniper Tours</a> is a boutique, custom tour operator that specializes in Europe’s finest destinations.  Each tour package includes accommodations, transportation, and day tours and experiences all tailored to the individual traveler’s preferences.  Their emphasis is on culturally immersive and authentic experiences that lean toward luxury.  </p><p>At <a href=\"http://www.junipertours.com/\">Juniper Tours</a>, they strive to be a travel brand with integrity and heart for the people they serve.  All of their partners abroad are headquartered, owned, and operated by locals to ensure the best experience for their travelers, and that each <a href=\"http://www.junipertours.com/\">Juniper Tour’s</a> custom package gives back to the people who call your destination home.  </p><p>Please call 877-774-3256 for more information.  </p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "99446cc",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "1e8ab49",
+       "style": {},
+       "src": "/images/wp/2021/10/juniper.png",
+       "alt": "Juniper Tours Logo",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

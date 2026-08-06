@@ -1,0 +1,68 @@
+{
+ "slug": "forever-grateful",
+ "title": "Forever Grateful",
+ "path": "/blog/forever-grateful/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "3bc0965",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "4c5f140",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "59fe709",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>To say the Irish Life Experience program changed my life would be a massive understatement.&nbsp; It is no exaggeration to say my time with this group has transformed my life since the day I left and has set me on the path I currently walk.&nbsp;&nbsp;</p>\n<p>The first time I left the United States of America was in 2015 with the ILE.&nbsp; Like many students my year, I have close familial connections in Ireland and relished the opportunity to travel abroad for a month as a teenager.&nbsp; Scary?&nbsp; Sure, a little bit.&nbsp; But taking that leap was one of the best things I have ever done for myself.&nbsp; Aside from the tight bonds of friendship that were formed (Hey Amelia, Alice, and Eddie!) the experience was fun, educational, informative, and thrilling.&nbsp; In my not at all humble opinion this was the best introduction to the island.&nbsp;</p>\n<p>We explored as scholars, not just tourists.&nbsp; We were young people eager to explore, learn, and grow.&nbsp; When it was over..., well that was sad.&nbsp; Awful, even.&nbsp; I messaged Taryn on several separate occasions throughout the years begging to let me be a counselor at 16, 17, 18, 19...&nbsp; I would do anything to recapture the magic and get back to the Emerald Isle.</p>\n<p>Angie, Taryn, Kate, Miles, Scones and all the other counselors on the trip were so passionate, not only about education and not only about Ireland, but about thinking and acting globally that I could not help but agree.&nbsp; They showed me the joy in making international connections, forging international relationships, and appreciating life outside of my humble small town.&nbsp; And that is when it really hit me.&nbsp; The ILE had already given me the tools I needed to get back.&nbsp; It really was about taking myself there.&nbsp;</p>\n<p>When it came time to apply for college, I knew where I wanted to go.&nbsp; Anywhere in Ireland.&nbsp; Very luckily I secured a spot at University College Cork and obtained my BA in History and Philosophy there.&nbsp; Living in Cork was an absolute dream in so many ways.&nbsp; So much so that when I was looking into furthering my education and pursuing a Masters degree, I could not picture myself anywhere else but Ireland.&nbsp; And that is how I ended up at Trinity College Dublin.</p>\n<p>I have been living in Ireland for almost five years.&nbsp; It is hard to say what I love most about it as my life has so fundamentally changed since my first visit in 2015.&nbsp; My interests in politics, international relations, philosophy, history, art and more have forever been altered and enriched by going on this journey.&nbsp; I am confident that the only reason I am standing here today is because the Irish Life Experience, and all of the wonderful people involved, helped me find my way.&nbsp; I will be forever grateful.</p>\n<p>What are you waiting for?&nbsp; Sign up for the<a href=\"https://irishlifeexperience.com/apply/\"> Irish Life Experience</a> and have the summer of a lifetime or contact a <a href=\"https://junipertours.com/about-us/\">Destination Specialist</a> to book a trip to Ireland and beyond with <a href=\"https://junipertours.com/\">Juniper Tours</a> to see the world.&nbsp; You will not regret your decision.&nbsp;</p>\n<p><em>Written by Benjamin Costa</em></p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "ae95b14",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "02deaed",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/07/IMG_8319-scaled.jpg",
+       "alt": "Dingle Peninsula-Ben 2015",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "cbba625",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/01/unnamed.jpg",
+       "alt": "Benjamin Costa",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  }
+ ]
+}

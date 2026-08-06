@@ -1,0 +1,72 @@
+{
+ "slug": "elementor-9873",
+ "title": "ILE Music Videos",
+ "path": "/blog/elementor-9873/",
+ "seo": {},
+ "hasCss": false,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "acf8622",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "3d1d037",
+     "style": {},
+     "children": [
+      {
+       "type": "video",
+       "id": "050a4a2",
+       "style": {},
+       "url": "https://www.youtube.com/watch?v=ZZ5UI1B6sCg"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "260387c",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "43d821b",
+     "style": {},
+     "children": [
+      {
+       "type": "video",
+       "id": "ccbb663",
+       "style": {},
+       "url": "https://youtu.be/3OBTC8HhKXw"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "8a4b51d",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "cb05f14",
+     "style": {},
+     "children": [
+      {
+       "type": "video",
+       "id": "65c32ec",
+       "style": {},
+       "url": "https://youtu.be/CUcBHJ8X_M4"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

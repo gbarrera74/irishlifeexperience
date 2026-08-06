@@ -1,0 +1,126 @@
+{
+ "slug": "kissaint-no-joke-today",
+ "title": "Kissain’t no Joke Today",
+ "path": "/blog/kissaint-no-joke-today/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "2ac65bc",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "cfa550b",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "2ee5b93",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Goooood moooorning from Killarney!!! What a fab day we have ahead of us! The Ring of Kerry, a fantastic drive. <span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Everyone made their breakfast and packed their lunches, then hopped on the bus. Our first stop </span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">was Ross Castle, a lovely castle perched on the edge of an island-strewn lake. Some of the students had a lovely time skipping rocks, and Aidan had a fantastic time throwing huge rocks and making the biggest splash he could. </span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">After some pictures and a bit more marveling, we set off to Muckross House and Gardens! Here, everyone enjoyed the sweeping expanse of soft velvety lawn, then headed down to the gorgeous lake, where most waded in a few inches and resumed their rock skipping. </span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">We also had to say goodbye to our amazing, wonderful Mark—he has to head home to Waterford for his wedding! Whoop! He has really impacted the students, so it is an understatement to say that everyone was very sad to see him go. We LOVE you, Mark!!!!</span></p><div><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\"> </span></div><p> </p>"
+      }
+     ],
+     "width": 20
+    },
+    {
+     "type": "column",
+     "id": "db36aad",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "289692c",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Then, we set off to our next destination—Torc Waterfall! It was a grueling, sweaty, difficult hike to get to—an entire 65 feet of trail! Once there, everyone marveled at the rushing cascades of water bursting forth from the ferns and boulders, watching as it churned and fell into the twining stream down the hillside, then vanished into the wild bracken. The kids also enjoyed clambering all over the slippery rocks and making the counselors nervous.</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Then it was onto the next stop! (There's lots today)--The Kenmare Stone Circle in the charming little village of, well, you guessed it—Kenmare. The ILE has a tradition here where everyone receives their ‘earth names’ at the Stone Circle, and we all do a chant to ‘lock it in.’ It was very fun, to say the least. There were also several hawthorns here, and, per tradition, you write down your wish and tie it to the tree.</span></p>\n<p>We had a little bit of free time in Kenmare as well, and most kids deigned for some coffee, ice cream, or a little wool, lace, and linen shop called ‘Quills.’</p>"
+      }
+     ],
+     "width": 20
+    },
+    {
+     "type": "column",
+     "id": "16a2aa6",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "7802c76",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Our final stop was at the end of a fantastically scenic drive--Kissane Sheep Farm! Spanning thousands of acres and tucked among the MacGillyCuddy's Reeks, students got to watch a sheepherding and shearing demonstration. It was fantastic!</p><p>There was also a lovely scenic photo opportunity at the Lady's View, a little overlook point. It was fab! This group is also very adventurous and spent some time clambering among the rushes.&nbsp;</p>\n<p>After a fantastic afternoon of all the touring, we returned to our apartments, where everyone could either go to Killarney or hang around campus and swim, play games, watch a movie, socialize…the options are endless, really!&nbsp;<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Goodnight from our little corner of Ireland!</span></p>"
+      }
+     ],
+     "width": 20
+    },
+    {
+     "type": "column",
+     "id": "f365109",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "56069b0",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0534-scaled.jpg",
+       "alt": "Torc Waterfall--2024",
+       "link": null,
+       "caption": "Torc Waterfall!"
+      },
+      {
+       "type": "image",
+       "id": "010305f",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0554-scaled.jpg",
+       "alt": "View from Kerry--2024",
+       "link": null,
+       "caption": "One of the many fab views from the bus"
+      }
+     ],
+     "width": 20
+    },
+    {
+     "type": "column",
+     "id": "a62ac51",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "916c64a",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0569-scaled.jpg",
+       "alt": "Group Pic--Ladies View--2024",
+       "link": null,
+       "caption": "Group pic at Lady's View! We love group pics."
+      },
+      {
+       "type": "image",
+       "id": "ac70f54",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0563-scaled.jpg",
+       "alt": "View from Kissane--2024",
+       "link": null,
+       "caption": "View from Kissane Farm, and Mr. Sweep."
+      }
+     ],
+     "width": 20
+    }
+   ],
+   "structure": "50"
+  }
+ ]
+}

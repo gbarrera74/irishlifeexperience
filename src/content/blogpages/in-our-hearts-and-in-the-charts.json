@@ -1,0 +1,56 @@
+{
+ "slug": "in-our-hearts-and-in-the-charts",
+ "title": "#1 in Our Hearts and in the Charts",
+ "path": "/blog/in-our-hearts-and-in-the-charts/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "d95710f",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "e8f2dbf",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "1aad165",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Recorded in the summer of 1987, \"Fairytale of New York\" has been topping the charts every Holiday Season for over 30 years and shows no sign of losing its appeal.&nbsp; The song<span style=\"font-size: 1rem;\">&nbsp;was written by The Pogues and the late Kirsty MacCool.&nbsp; It seems to fascinate many people, because it feels more emotionally real than the traditional cheerful Christmas tune.&nbsp;&nbsp;</span></p>\n<p>The story in the song is a long fanciful tale that is rooted in all kinds of history.&nbsp; It is an Irish folk-style ballad and that follows an Irish immigrant's Christmas Eve nostalgic stories about holidays past while sleeping off a drinking binge in a New York City \"drunk tank.\"&nbsp; An old man in the next cell starts singing \"The Rare Old Mountain Dew,\" and the narrator begins to dream about the song's female character.&nbsp;&nbsp;<span style=\"font-size: 1rem;\">The rest of the song becomes a call and response between a couple and how their hopes were crushed by alcohol and drug addiction.&nbsp;&nbsp;</span></p>\n<p><span style=\"font-size: 1rem;\">Underpinning it all is a richly-layered mix of accordion, banjo, French horns, mandolin, piano, and tin whistle.&nbsp; Add lead singer, Shane MacGowan's characteristically slurred vocals, it becomes a moving Irish folk singalong.&nbsp; It is a tune that is bitter, hopeful, rousing, and wistful-emotions we can all relate to at Christmas time.&nbsp;&nbsp;</span></p>\n<p>Add it to your playlist and see why \"Fairytale of New York,\" continues to endure as one of the world's most favorite Christmas song.&nbsp;&nbsp;</p>\n<p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "d3df853",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "12cb95e",
+     "style": {},
+     "children": [
+      {
+       "type": "video",
+       "id": "4727870",
+       "style": {},
+       "url": "https://www.youtube.com/watch?v=j9jbdgZidu8"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

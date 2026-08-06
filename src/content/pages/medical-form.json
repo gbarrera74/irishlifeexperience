@@ -1,0 +1,1549 @@
+{
+ "slug": "medical-form",
+ "title": "Medical Form",
+ "path": "/medical-form/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "44a59de3",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#001c31"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#001c31"
+    },
+    "> .elementor-background-overlay": {
+     "background-color": "#001c31",
+     "opacity": "0.84"
+    },
+    "> .elementor-container": {
+     "max-width": "800px"
+    },
+    "": {
+     "padding": "100px 0px 100px 0px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "5a47be59",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "4dc9c41d",
+       "style": {
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#FFFFFF"
+        }
+       },
+       "text": "Medical Information",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "section",
+       "id": "2892d24",
+       "style": {
+        "> .elementor-container": {
+         "max-width": "800px"
+        },
+        "": {
+         "padding": "1em 1em 1em 1em"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "99d2318",
+         "style": {
+          ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+           "background-color": "#FFFFFF"
+          },
+          "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+           "background-color": "#FFFFFF"
+          },
+          "> .elementor-element-populated": {
+           "border-radius": "10px 10px 10px 10px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "10px 10px 10px 10px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "10px 10px 10px 10px"
+          }
+         },
+         "children": [
+          {
+           "type": "text-editor",
+           "id": "01360d6",
+           "style": {
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p class=\"fsSectionHeading\">Completion of this form is required for participation in the Irish Life Experience.&nbsp; Please submit this form by June 1st, 2026.</p>\n<p>Participant and Participant's Parents Please Note:</p>\n<ul>\n<li>Every item in every section must be completed.</li>\n<li>Mark N/A if any section is not applicable to you.</li>\n<li>Any item or section that is not completed will require written or telephone follow-up and a follow-up fee.</li>\n<li>You can avoid any additional expense of a medical follow-up fee by answering the questions thoroughly.</li>\n<li>Please supply the Irish Life Experience with a double-sided copy of the insurance card under which the participant is covered.</li>\n<li>Please supply the Irish Life Experience with a $100 medical deposit/check, preferably.</li>\n<li>Your place on the Irish Life Experience is confirmed when we receive all forms.&nbsp; This medical form is a particularly important way to ensure a safe and enjoyable experience for you.&nbsp; The physical examination must take place within twelve months of the Irish Life Experience start date.</li>\n</ul>\n<p><strong>If your child is/has been on any medication-including for ADD/ADHD, they must continue to take it while on the Irish Life Experience</strong>.&nbsp; The Irish Life Experience Staff will also collect and distribute all medication to students during the program to ensure that students are taking their medication on time and with the proper dosage.</p>\n<p>By signing this, you will also grant permission to the Irish Life Experience and/or its assigns, to hospitalize, treat, and order injections, anesthesia, or surgery of the child/ward.&nbsp; You will further authorize the Irish Life Experience to use non-prescription medicine in the event of minor injuries and/or ailments.&nbsp; You understand and agree to pay all costs associated with medical care and transportation, including the cost of any evacuation, treatment, or medications.&nbsp; All information will remain confidential.&nbsp; If the applicant has a pre-existing condition or injury that is not indicated on the medical form, and they are subsequently forced to leave the program because of that condition, then the applicant/parent and/or guardian will be responsible for an exit fee and will not receive any refund.</p>"
+          }
+         ],
+         "width": 100
+        }
+       ]
+      },
+      {
+       "type": "section",
+       "id": "3d2a62d",
+       "style": {
+        "> .elementor-container": {
+         "max-width": "800px"
+        },
+        "": {
+         "padding": "1em 1em 1em 1em"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "a2dfc0d",
+         "style": {
+          ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+           "background-color": "#ffffff"
+          },
+          "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+           "background-color": "#ffffff"
+          },
+          "> .elementor-element-populated": {
+           "border-radius": "10px 10px 10px 10px",
+           "margin": "0% 2% 0% 2%",
+           "padding": "20px 20px 20px 20px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "10px 10px 10px 10px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "10px 10px 10px 10px"
+          }
+         },
+         "children": [
+          {
+           "type": "form",
+           "id": "d1ef6a9",
+           "style": {
+            ".elementor-field-group > label": {
+             "color": "#1E3A43",
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+            },
+            ".elementor-field-subgroup label": {
+             "color": "#1E3A43",
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+            },
+            ".elementor-field-type-html": {
+             "font-family": "\"Open Sans\", Sans-serif"
+            },
+            ".dce-signature-wrapper": {
+             "text-align": "left"
+            },
+            ".dce-signature-canvas": {
+             "border-radius": "3px 3px 3px 3px",
+             "background-color": "#ffffff"
+            },
+            ".dce-signature-button-clear": {
+             "color": "#e62626"
+            },
+            ".dce-signature-button-clear i": {
+             "color": "#e62626",
+             "font-size": "16px"
+            },
+            ".elementor-field-group .elementor-field": {
+             "color": "#1E3A43",
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+            },
+            ".select2-container--default .select2-selection--single .select2-selection__rendered": {
+             "color": "#1E3A43"
+            },
+            "..select2-container--default .select2-selection--multiple .select2-selection__rendered": {
+             "color": "#1E3A43"
+            },
+            ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-field-group .elementor-select-wrapper select": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-field-group .elementor-select-wrapper .select2": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".mce-panel": {
+             "background-color": "#ffffff"
+            },
+            ".elementor-field-group .elementor-select-wrapper::before": {
+             "color": "#DDDDDD"
+            },
+            ".elementor-field-group .mce-panel": {
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-button": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-weight": "bold",
+             "text-transform": "uppercase",
+             "border-radius": "100px 100px 100px 100px",
+             "padding": "16px 16px 16px 16px"
+            },
+            ".e-form__buttons__wrapper__button-next": {
+             "background-color": "#61CE70",
+             "color": "#ffffff"
+            },
+            ".elementor-button[type=\"submit\"]": {
+             "background-color": "#61CE70",
+             "color": "#ffffff"
+            },
+            ".e-form__buttons__wrapper__button-previous": {
+             "color": "#ffffff"
+            },
+            ".e-form__buttons__wrapper__button-next:hover": {
+             "background-color": "#E4978E00",
+             "color": "#61CE70"
+            },
+            ".elementor-button[type=\"submit\"]:hover": {
+             "background-color": "#E4978E00",
+             "color": "#61CE70"
+            },
+            ".e-form__buttons__wrapper__button-previous:hover": {
+             "color": "#ffffff"
+            },
+            ".elementor-field-label-description:after": {
+             "border-radius": "50%",
+             "padding": "2px 0",
+             "line-height": "1",
+             "font-size": "80%",
+             "text-align": "center",
+             "color": "#ffffff",
+             "background-color": "#777777"
+            },
+            ".elementor-field-type-amount.elementor-field-group .dce-amount-visible": {
+             "opacity": "1"
+            },
+            ".elementor-field-type-dce_range input": {
+             "opacity": "1"
+            }
+           },
+           "formName": "New Form",
+           "fields": [
+            {
+             "label": "Participant's Name",
+             "type": "text",
+             "required": true,
+             "placeholder": "First Name",
+             "options": null,
+             "html": null,
+             "id": "name"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": true,
+             "placeholder": "Last Name",
+             "options": null,
+             "html": null,
+             "id": "be51549"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Address",
+             "options": null,
+             "html": null,
+             "id": "field_150450d"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "City",
+             "options": null,
+             "html": null,
+             "id": "field_b0ac35d"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "State",
+             "options": null,
+             "html": null,
+             "id": "field_e778dc8"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "City",
+             "options": null,
+             "html": null,
+             "id": "field_3ab0e0a"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Zip",
+             "options": null,
+             "html": null,
+             "id": "field_32c726c"
+            },
+            {
+             "label": "Parent's/Guardian's Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "First Name",
+             "options": null,
+             "html": null,
+             "id": "field_f7cddc4"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_9e8a06b"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Address",
+             "options": null,
+             "html": null,
+             "id": "field_e35f211"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "City",
+             "options": null,
+             "html": null,
+             "id": "field_0827f0e"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "State",
+             "options": null,
+             "html": null,
+             "id": "field_8874ecc"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Zip",
+             "options": null,
+             "html": null,
+             "id": "field_1854293"
+            },
+            {
+             "label": "",
+             "type": "tel",
+             "required": false,
+             "placeholder": "Home Phone",
+             "options": null,
+             "html": null,
+             "id": "field_33594d4"
+            },
+            {
+             "label": "",
+             "type": "tel",
+             "required": false,
+             "placeholder": "Mobile Phone",
+             "options": null,
+             "html": null,
+             "id": "field_4b2812c"
+            },
+            {
+             "label": "Person other than parent to be notified",
+             "type": "text",
+             "required": false,
+             "placeholder": "First Name",
+             "options": null,
+             "html": null,
+             "id": "field_d771a95"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_c0bd48b"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Address",
+             "options": null,
+             "html": null,
+             "id": "field_50fe788"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "City",
+             "options": null,
+             "html": null,
+             "id": "field_9ce3581"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "State",
+             "options": null,
+             "html": null,
+             "id": "field_9747b0b"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Zip",
+             "options": null,
+             "html": null,
+             "id": "field_af091b4"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Home Phone",
+             "options": null,
+             "html": null,
+             "id": "field_1716285"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Mobile Phone",
+             "options": null,
+             "html": null,
+             "id": "field_de4504c"
+            },
+            {
+             "label": "Health/Hospitalization Plan",
+             "type": "text",
+             "required": false,
+             "placeholder": "Health/Hospitalization Plan",
+             "options": null,
+             "html": null,
+             "id": "field_3be0dfe"
+            },
+            {
+             "label": "Policy Number/Group Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "Policy Number/Group Name",
+             "options": null,
+             "html": null,
+             "id": "field_42d7334"
+            },
+            {
+             "label": "Phone of Company or Agent",
+             "type": "text",
+             "required": false,
+             "placeholder": "Phone of Company or Agent",
+             "options": null,
+             "html": null,
+             "id": "field_ef68732"
+            },
+            {
+             "label": "Does the participant have valid overseas insurance/medical coverage?",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_c6a980d"
+            },
+            {
+             "label": "Medical History",
+             "type": "html",
+             "required": false,
+             "placeholder": null,
+             "options": null,
+             "html": "Medical History",
+             "id": "field_27fc2f0"
+            },
+            {
+             "label": "High Blood Pressure",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_e1fde14"
+            },
+            {
+             "label": "Heart Disease",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes \nNo",
+             "html": null,
+             "id": "field_3f741df"
+            },
+            {
+             "label": "Heart Murmur",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_59c30fe"
+            },
+            {
+             "label": "Irregular Heartbeat",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_ee7a5c4"
+            },
+            {
+             "label": "Family History of Heart Attack",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_98f6a05"
+            },
+            {
+             "label": "Tuberculosis",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_1470c8c"
+            },
+            {
+             "label": "Recent Exposure to TB",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_17c9e73"
+            },
+            {
+             "label": "Positive TB Test",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_099cde1"
+            },
+            {
+             "label": "Active Hepatitis",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_55d0d69"
+            },
+            {
+             "label": "History of Hepatitis",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_3873c0c"
+            },
+            {
+             "label": "Seizure Disorder",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_4cf2be4"
+            },
+            {
+             "label": "Seizure with the Year",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_894d9df"
+            },
+            {
+             "label": "Bleeding Disorder",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_d10b242"
+            },
+            {
+             "label": "Anemia/Sickle Cell Trait",
+             "type": "radio",
+             "required": false,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_60bbfc7"
+            },
+            {
+             "label": "Chronic Cough",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_499515f"
+            },
+            {
+             "label": "Asthma",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_0f62a24"
+            },
+            {
+             "label": "Diabetes",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_8837fb9"
+            },
+            {
+             "label": "Hypoglycemia",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_29ee835"
+            },
+            {
+             "label": "Anorexia",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_6ade879"
+            },
+            {
+             "label": "Bulimia",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_ff6f117"
+            },
+            {
+             "label": "Cancer",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_76dca7c"
+            },
+            {
+             "label": "Depression",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_7284f7f"
+            },
+            {
+             "label": "Skin Problem",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_5d35b2b"
+            },
+            {
+             "label": "Circulation Problem",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_b459a33"
+            },
+            {
+             "label": "Headaches",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_17ed07f"
+            },
+            {
+             "label": "Stomach Ulcers",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_534603e"
+            },
+            {
+             "label": "Heatstroke",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_eb1ae55"
+            },
+            {
+             "label": "Bladder Infection",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_002c397"
+            },
+            {
+             "label": "Kidney Problems",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_51e1c37"
+            },
+            {
+             "label": "Thyroid Problems",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_ce9c2e9"
+            },
+            {
+             "label": "Hearing Impairment",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_1c34797"
+            },
+            {
+             "label": "Vision Impairment",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_430db12"
+            },
+            {
+             "label": "Motion Sickness",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_18df208"
+            },
+            {
+             "label": "Sleep Walking",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_68ec006"
+            },
+            {
+             "label": "Broken Bones",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_fb13991"
+            },
+            {
+             "label": "Neck Problems",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_94e1720"
+            },
+            {
+             "label": "Back Problems",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_09fea0c"
+            },
+            {
+             "label": "Knee Problems",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_1f1dc50"
+            },
+            {
+             "label": "Special Diet",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_75c89cc"
+            },
+            {
+             "label": "Dyslexia",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_d74b797"
+            },
+            {
+             "label": "ADD/ADHD",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_a6a70e0"
+            },
+            {
+             "label": "Turrets",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_5fbcaa5"
+            },
+            {
+             "label": "Medical Equipment Devices",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_7e62210"
+            },
+            {
+             "label": "PMS",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_a8bf6b1"
+            },
+            {
+             "label": "If you have answered yes to any of the above items, please explain.",
+             "type": "textarea",
+             "required": false,
+             "placeholder": "Please give a detailed description of specific conditions/symptoms (Including restrictions if any.). ",
+             "options": null,
+             "html": null,
+             "id": "field_e9277a9"
+            },
+            {
+             "label": "Allergies",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_1e10f54"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Allergy",
+             "options": null,
+             "html": null,
+             "id": "field_480ea17"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Reaction",
+             "options": null,
+             "html": null,
+             "id": "field_9ac02d9"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Medication Required",
+             "options": null,
+             "html": null,
+             "id": "field_da7b0e1"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Allergy",
+             "options": null,
+             "html": null,
+             "id": "field_a887a3d"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Reaction",
+             "options": null,
+             "html": null,
+             "id": "field_680a0e3"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Medication Required",
+             "options": null,
+             "html": null,
+             "id": "field_98fcd8b"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Allergy",
+             "options": null,
+             "html": null,
+             "id": "field_47d7549"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Reaction",
+             "options": null,
+             "html": null,
+             "id": "field_01bb3a9"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Medication Required",
+             "options": null,
+             "html": null,
+             "id": "field_26961ac"
+            },
+            {
+             "label": "Additional Information",
+             "type": "textarea",
+             "required": false,
+             "placeholder": "Additional Information",
+             "options": null,
+             "html": null,
+             "id": "field_41a53ec"
+            },
+            {
+             "label": "Medications",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_97828be"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Medication",
+             "options": null,
+             "html": null,
+             "id": "field_9c04189"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Condition",
+             "options": null,
+             "html": null,
+             "id": "field_9285eb3"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Dosage",
+             "options": null,
+             "html": null,
+             "id": "field_0948820"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Side Effect",
+             "options": null,
+             "html": null,
+             "id": "field_4a6509a"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Medication",
+             "options": null,
+             "html": null,
+             "id": "field_07459a8"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Condition",
+             "options": null,
+             "html": null,
+             "id": "field_94f535b"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Dosage",
+             "options": null,
+             "html": null,
+             "id": "field_39c6015"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Side Effect",
+             "options": null,
+             "html": null,
+             "id": "field_5d4c59e"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Medication",
+             "options": null,
+             "html": null,
+             "id": "field_4654844"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Condition",
+             "options": null,
+             "html": null,
+             "id": "field_cd169ba"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Dosage",
+             "options": null,
+             "html": null,
+             "id": "field_eee872c"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Side Effect",
+             "options": null,
+             "html": null,
+             "id": "field_bd427d3"
+            },
+            {
+             "label": "Additional Information",
+             "type": "textarea",
+             "required": false,
+             "placeholder": "Additional Information",
+             "options": null,
+             "html": null,
+             "id": "field_9ca7879"
+            },
+            {
+             "label": "Tetanus Immunization",
+             "type": "date",
+             "required": true,
+             "placeholder": "Date",
+             "options": null,
+             "html": null,
+             "id": "field_b2c8632"
+            },
+            {
+             "label": "Have you been in counseling with a psychiatrist, psychologist, or other counselor within the past two years?",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_2c3aa75"
+            },
+            {
+             "label": "Are you currently in counseling/treatment?",
+             "type": "radio",
+             "required": true,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_35745be"
+            },
+            {
+             "label": "Reason for counseling/treatment?",
+             "type": "radio",
+             "required": false,
+             "placeholder": null,
+             "options": "Academic\nCancer\nDepression\nDivorce\nFamily Issues\nSubstance Abuse\nSuicide\nOther",
+             "html": null,
+             "id": "field_e54561f"
+            },
+            {
+             "label": "How long have you been seeing this counselor?",
+             "type": "text",
+             "required": false,
+             "placeholder": "Duration",
+             "options": null,
+             "html": null,
+             "id": "field_e779ce6"
+            },
+            {
+             "label": "Please arrange for a release of information with your counselor so we may contact her/him.  Have you done so?",
+             "type": "radio",
+             "required": false,
+             "placeholder": null,
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_439b368"
+            },
+            {
+             "label": "Counselor's Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "First Name",
+             "options": null,
+             "html": null,
+             "id": "field_3385ab2"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_1bcb22d"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Clinic/Hospital Name",
+             "options": null,
+             "html": null,
+             "id": "field_9fe0896"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": false,
+             "placeholder": "Phone Number",
+             "options": null,
+             "html": null,
+             "id": "field_6fd589d"
+            },
+            {
+             "label": "Participant's Name",
+             "type": "text",
+             "required": true,
+             "placeholder": "First Name",
+             "options": null,
+             "html": null,
+             "id": "field_9515c8e"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": true,
+             "placeholder": "Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_9ef5a41"
+            },
+            {
+             "label": "",
+             "type": "date",
+             "required": true,
+             "placeholder": "Today's Date",
+             "options": null,
+             "html": null,
+             "id": "field_2dfe5e4"
+            },
+            {
+             "label": "Parent's Name",
+             "type": "text",
+             "required": true,
+             "placeholder": "First Name",
+             "options": null,
+             "html": null,
+             "id": "field_84f3e97"
+            },
+            {
+             "label": "",
+             "type": "text",
+             "required": true,
+             "placeholder": "Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_eee291e"
+            },
+            {
+             "label": "",
+             "type": "date",
+             "required": true,
+             "placeholder": "Today's Date",
+             "options": null,
+             "html": null,
+             "id": "field_b91035a"
+            }
+           ],
+           "submit": "Submit"
+          }
+         ],
+         "width": 100
+        }
+       ]
+      },
+      {
+       "type": "spacer",
+       "id": "6bdcdcb3",
+       "style": {},
+       "size": 10
+      },
+      {
+       "type": "section",
+       "id": "7a73b8ee",
+       "style": {},
+       "children": [
+        {
+         "type": "column",
+         "id": "f9e95db",
+         "style": {},
+         "children": [
+          {
+           "type": "icon-box",
+           "id": "493b014",
+           "style": {
+            ".elementor-view-stacked .elementor-icon": {
+             "background-color": "#61CE70",
+             "color": "#ffffff"
+            },
+            ".elementor-view-framed .elementor-icon": {
+             "color": "#61CE70",
+             "background-color": "#ffffff"
+            },
+            ".elementor-view-default .elementor-icon": {
+             "color": "#61CE70"
+            },
+            ".elementor-icon": {
+             "font-size": "30px",
+             "padding": "17px"
+            },
+            ".elementor-icon-box-title": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "color": "#ffffff"
+            },
+            ".elementor-icon-box-title a": {
+             "font-family": "\"Open Sans\", Sans-serif"
+            },
+            ".elementor-icon-box-description": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "1em",
+             "font-weight": "400",
+             "color": "#ffffff"
+            }
+           },
+           "icon": "fas fa-map",
+           "title": "Address",
+           "description": "1 Central Street\n Suite 205\n\n  Middleton, MA 01949",
+           "link": null
+          }
+         ],
+         "width": 33
+        },
+        {
+         "type": "column",
+         "id": "11bbe6dd",
+         "style": {},
+         "children": [
+          {
+           "type": "icon-box",
+           "id": "6ae0b0aa",
+           "style": {
+            ".elementor-view-stacked .elementor-icon": {
+             "background-color": "#61CE70",
+             "color": "#ffffff"
+            },
+            ".elementor-view-framed .elementor-icon": {
+             "color": "#61CE70",
+             "background-color": "#ffffff"
+            },
+            ".elementor-view-default .elementor-icon": {
+             "color": "#61CE70"
+            },
+            ".elementor-view-framed:has(:hover) .elementor-icon": {
+             "background-color": "#ffffff"
+            },
+            ".elementor-view-framed:has(:focus) .elementor-icon": {
+             "background-color": "#ffffff"
+            },
+            ".elementor-view-stacked:has(:hover) .elementor-icon": {
+             "color": "#ffffff"
+            },
+            ".elementor-view-stacked:has(:focus) .elementor-icon": {
+             "color": "#ffffff"
+            },
+            ".elementor-icon": {
+             "font-size": "30px",
+             "padding": "17px"
+            },
+            ".elementor-icon-box-title": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#ffffff"
+            },
+            ".elementor-icon-box-title a": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+            },
+            ".elementor-icon-box-description": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "1em",
+             "color": "#ffffff"
+            }
+           },
+           "icon": "fas fa-envelope",
+           "title": "E-Mail Address",
+           "description": "Info@IrishLifeExperience.com",
+           "link": null
+          }
+         ],
+         "width": 33
+        },
+        {
+         "type": "column",
+         "id": "329090eb",
+         "style": {},
+         "children": [
+          {
+           "type": "icon-box",
+           "id": "3ac30757",
+           "style": {
+            ".elementor-view-stacked .elementor-icon": {
+             "background-color": "#61CE70",
+             "color": "#ffffff"
+            },
+            ".elementor-view-framed .elementor-icon": {
+             "color": "#61CE70",
+             "background-color": "#ffffff"
+            },
+            ".elementor-view-default .elementor-icon": {
+             "color": "#61CE70"
+            },
+            ".elementor-icon": {
+             "font-size": "30px",
+             "padding": "17px"
+            },
+            ".elementor-icon-box-title": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "color": "#ffffff"
+            },
+            ".elementor-icon-box-title a": {
+             "font-family": "\"Open Sans\", Sans-serif"
+            },
+            ".elementor-icon-box-description": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "1em",
+             "color": "#ffffff"
+            }
+           },
+           "icon": "fas fa-phone",
+           "title": "Call Us",
+           "description": "855-IRISH-LIFE",
+           "link": null
+          }
+         ],
+         "width": 33
+        }
+       ],
+       "structure": "30"
+      },
+      {
+       "type": "divider",
+       "id": "3d99a7cb",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 0px 10px"
+        },
+        ".elementor-divider-separator": {
+         "margin": "0 auto"
+        },
+        ".elementor-divider": {
+         "text-align": "center"
+        }
+       }
+      },
+      {
+       "type": "section",
+       "id": "6e1e0b20",
+       "style": {},
+       "children": [
+        {
+         "type": "column",
+         "id": "454937e1",
+         "style": {},
+         "children": [
+          {
+           "type": "heading",
+           "id": "41968361",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 15px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Open Sans Condensed\", Sans-serif",
+             "font-size": "1.5em",
+             "font-weight": "bold",
+             "text-transform": "uppercase",
+             "letter-spacing": "2px",
+             "color": "#ffffff"
+            },
+            "": {
+             "text-align": "center"
+            }
+           },
+           "text": "Our Social Media",
+           "tag": "h4",
+           "link": null,
+           "size": null
+          }
+         ],
+         "width": 50
+        },
+        {
+         "type": "column",
+         "id": "6144d3f0",
+         "style": {},
+         "children": [
+          {
+           "type": "social-icons",
+           "id": "b5ca42",
+           "style": {
+            ".elementor-widget-container": {
+             "text-align": "center"
+            },
+            ".elementor-social-icon": {
+             "background-color": "rgba(33,33,33,0)"
+            },
+            ".elementor-social-icon i": {
+             "color": "#ffffff"
+            },
+            ".elementor-social-icon:hover": {
+             "background-color": "rgba(255,255,255,0)"
+            },
+            ".elementor-social-icon:hover i": {
+             "color": "#ff7f50"
+            }
+           },
+           "icons": [
+            {
+             "name": "fab fa-facebook-f",
+             "link": null
+            },
+            {
+             "name": "fab fa-instagram",
+             "link": null
+            }
+           ]
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/07/198C3239-A205-4959-A506-79DA46D7B579.png"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "glad-for-trad",
+ "title": "Glad for Trad",
+ "path": "/blog/glad-for-trad/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "64b27ad",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "e2b8ee1",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "83e8ad2",
+       "style": {},
+       "src": "/images/wp/2023/07/IMG_3794-scaled.jpg",
+       "alt": "",
+       "link": null,
+       "caption": "The drama groups!!!"
+      },
+      {
+       "type": "image",
+       "id": "0f35c0a",
+       "style": {},
+       "src": "/images/wp/2023/07/IMG_5227.png",
+       "alt": "",
+       "link": null,
+       "caption": "The fantastic Trad players!"
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "bc1b449",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "cc2c264",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Hello dear friends! Today is our LAST day of classes!! Wow, it's crazy how speedily this trip has flown by! Once again, our morning started with a yummy breakfast and classes with our dear Máire. Máire has a quarter-finals game coming up tomorrow, so everyone is getting ready to root for Meath! After several wonderful final classes, everybody turned in their notebooks for grading...fingers crossed that the notes were good!!!!</p>\n<p>We had dinner, as per normal at 1, then two optional workshops--Advanced Irish Dance with our lovely Clare, who taught everyone a new type of step and \"The Walls of Limerick\" céilí, and Rugby, which we had with one of Taryn's wonderful friends, Dan! He was an awesome teacher and everyone who took the workshop agreed that it was great. Such an ILE classic! He also brought along his adorable kids and everyone had a blast hanging with them.&nbsp;</p>\n<p>As a fun surprise today, we had a BBQ instead of our normal tea! The wonderful King's Hospital chefs made us sausages, hamburgers, various salads, coleslaw, and cookies! They are the nicest.&nbsp;</p>\n<p>Then...we had an hour left to practice for our skits! Everyone was busy prepping for the performance when our judges arrived...some amazing trad players that are also great friends of Taryn's.</p>\n<p>The three groups put on AMAZING skits, everyone was very impressed. The teams had to each do a 5-10 minute play on a famous Irish person--Patrick Pearse, Éamonn de Valera, or Michael Collins. After a narrow judging, the Patrick Pearse group won!!! Good job, guys! Now Isaac, Orion, Aiden, Cassidy, Clare, Paul Boyle, and Strider get to go to 'Trad on the Prom' in Galway!!&nbsp;</p><p>Finally, we rounded off the evening with a fantastic trad session. The trad group performed some wonderful songs, including Rattlin' Bog, Molly Malone, Galway Girl, and Tell Me Ma. Everyone even got up and did a WONDERFUL céilí dance to the live music!! Thanks again, Clare!&nbsp;</p><p>Finally, after a fun-filled evening of dance and song, everyone headed back to their dorms for a night of well-deserved rest. Good night from our last night in Dublin!</p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "b803d70",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "92841bc",
+     "style": {},
+     "children": [],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "eac2178",
+     "style": {},
+     "children": [],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "483c55c",
+     "style": {},
+     "children": [],
+     "width": 25
+    }
+   ],
+   "structure": "33"
+  }
+ ]
+}

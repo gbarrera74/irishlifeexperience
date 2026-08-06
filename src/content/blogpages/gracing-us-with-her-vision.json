@@ -1,0 +1,95 @@
+{
+ "slug": "gracing-us-with-her-vision",
+ "title": "Gracing Us With Her Vision",
+ "path": "/blog/gracing-us-with-her-vision/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "255c335",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "09f4d86",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "b188c2b",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Many people are not aware, but the Irish Life Experience and the Irish Way have a very special connection in history.  </p><p>Grace Kelly was born on November 12th, 1921 in Philadelphia to Margaret and John Kelly.  Her Irish roots run deep, as her grandfather, John Kelly, was a bricklayer from Newport, County Mayo.  He left Ireland in 1887 and went to Philadelphia where he founded a construction company and made his family's fortune. </p><p>Grace discovered modeling at a young age in New York and went on to act in quite a few feature films.  One of her most notable films was <em>High Noon and High Society</em>, which people said she was the epitome of glamor on screen.  Alfred Hitchcock even chose her to star in three of his movies.  She eventually won an Academy Award for her role as Georgie in <em>The Country Girl</em> in 1954.  </p><p>On April 19th, 1956 she married Prince Rainer III of Monaco and had three children-Albert, Caroline, and Stephanie.  Kelly made several trips to Ireland to reconnect with her heritage and bought her ancestral home in 1976 for £7,500. </p><p>During this time, the Irish American Cultural Institute was founded by Dr. Eoin McKiernan in 1962.  The Irish American Cultural Institute originated to help promote an intelligent appreciation of Ireland and the role and contributions in Irish American culture.  </p><p>McKiernan and Princess Grace were good friends and she was asked to be the international chairman of the organization in 1972.  In discussions about how to propel the organization, Princess Grace thought that a month of studying Irish culture and history and some elementary Gaelic phrases would be a beneficial lesson in international citizenship for American high school students.  With much preparation and many connections in Ireland, the Irish Life Experience and the Irish Way were born as a vision of Princess Grace.  </p><p>Since 1975, the programs have had over 5,000 alumni participate from all states, Canada, Italy, and Spain.  This amazing program continues to transform the lives of teenagers and instills a hunger to learn more about other cultures and explore the world.  It is truly the summer of a lifetime.  We owe the success to Princess Grace of Monaco, all of the alumni, families, and donors who have supported her special vision throughout the years. </p><p><em>Written by Taryn Harrison</em> </p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "d2fd1a1",
+     "style": {},
+     "children": [
+      {
+       "type": "spacer",
+       "id": "793affe",
+       "style": {},
+       "size": 110
+      },
+      {
+       "type": "image",
+       "id": "9c786b8",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/01/Grace-Kelly-in-Green.jpg",
+       "alt": "Grace Kelly #2",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "cbef39b",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/01/tumblr_p4o8d4aism1s4l6g8o5_1280.jpg",
+       "alt": "Grace Kelly and Eoin McKiernan",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  },
+  {
+   "type": "section",
+   "id": "a5738e2",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "284450e",
+     "style": {},
+     "children": [
+      {
+       "type": "video",
+       "id": "9ca769e",
+       "style": {},
+       "url": "https://www.youtube.com/watch?v=jAn6FrouCTU"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

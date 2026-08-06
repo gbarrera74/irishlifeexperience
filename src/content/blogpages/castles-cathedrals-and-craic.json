@@ -1,0 +1,104 @@
+{
+ "slug": "castles-cathedrals-and-craic",
+ "title": "Castles, Cathedrals, and Craic!",
+ "path": "/blog/castles-cathedrals-and-craic/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "44dec84",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "e031f7f",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "6ff8512",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_6680-scaled.jpg",
+       "alt": "Rock of Cashel-Matt 2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "ce09dd8",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "af1746c",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">The students had a fun-filled day on the 4th of July, starting with breakfast and a bus trip to our first destination.  Cahir Castle overlooks the River Suir and is encased by thick stone walls.  This castle is beautifully preserved, so it is frequently used as a set for various films and television shows.</span></p><p><span style=\"font-weight: 400;\">Next up, the group toured the Rock of Cashel.  This site is located on a promontory that local legends say was uprooted from the nearby hills by the Devil himself and spat out onto the land.  The grounds contain a series of Medieval buildings-from the 12th-century round tower, High Cross and Romanesque Chapel, 13th-century Gothic cathedral, 15th-century Castle, and the restored Hall of the Vicars Choral.   Our tour guide shared that according to legend, if you can hug the cross of Saint Patrick and your hands reach around and touch, you will never need to go to the dentist again.  We had a few excited students ready to test the legend.  Delia says her favorite part of the day was the Rock of Cashel.  </span></p><p><span style=\"font-weight: 400;\">For our final stop of the day, we loaded back onto the bus and drove to Kilkenny.  Unfortunately, we bypassed the Kilkenny Castle Tour, as most of the Castle has been modernized and refurbished.  However, we did stop in the castle’s rose garden for a group picture.   The kids then had time to explore Kilkenny for a little while before heading back to Waterford.  The weather today was beautiful.   </span></p><p><span style=\"font-weight: 400;\">Some of the students made friends with a group of kids from Spain and played soccer.   Finally, the Irish Life Experience held a  4th of July celebration, including a pizza party and classic American movie-called Ferris Bueller's Day Off.  Bueller, anyone?  It was a great way to end the evening.</span></p><p><span style=\"font-weight: 400;\">At the end of the night, we were told that today was the best day of the trip.  The ILE Staff hears this reaction every couple of days.  Hopefully, we can continue to amaze and inspire children.</span></p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "4968162",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "2056855",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "1a69960",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_6688-scaled.jpg",
+       "alt": "Rock of Cashel and St. Patrick's Rock-2022",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "bf65503",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "3c0268e",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_6706-scaled.jpg",
+       "alt": "Rock of Cashel-Group 2022",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

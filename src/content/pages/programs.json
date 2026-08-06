@@ -1,0 +1,746 @@
+{
+ "slug": "programs",
+ "title": "Programs",
+ "path": "/programs/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "7528f6d",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.41"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "c8da67a",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "fb8dff0",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -27px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "43px",
+         "font-weight": "bold",
+         "text-transform": "none",
+         "line-height": "1em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "The best",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "b29a9c5",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "3.7em",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "-1.5px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Adventure of a Lifetime",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "ad4ed09",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "-13px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "1.8em",
+         "font-weight": "bold",
+         "text-transform": "none",
+         "line-height": "1.2em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "starts in",
+       "tag": "h3",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "countdown",
+       "id": "5739db2",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        ".elementor-countdown-wrapper": {
+         "max-width": "18%"
+        },
+        ".elementor-countdown-item": {
+         "padding": "10px 10px 10px 10px",
+         "background-color": "#FFFFFF",
+         "border-radius": "65px 65px 65px 65px"
+        },
+        ".elementor-countdown-digits": {
+         "color": "#000000",
+         "font-size": "35px"
+        },
+        ".elementor-countdown-label": {
+         "color": "#000000",
+         "font-size": "14px"
+        }
+       }
+      },
+      {
+       "type": "spacer",
+       "id": "686a38e",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/11/DSC03916-scaled.jpeg"
+  },
+  {
+   "type": "section",
+   "id": "2b4b4fc",
+   "style": {
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "2b8d795",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "cbaa8f0",
+       "style": {
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "-1.5px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "June 28-July 23, 2026",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "4301663a",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#ffffff"
+    },
+    "": {
+     "padding": "0px 0px 0px 0px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "7381a6e2",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "677f9bd3",
+       "style": {
+        "": {
+         "padding": "0px 0px 0px 0px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "575952aa",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "2em 2em 2em 2em"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "29a61b8a",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Nothing You Could Do\", Sans-serif",
+             "font-size": "40px",
+             "font-weight": "bold",
+             "text-transform": "capitalize",
+             "line-height": "1.5em",
+             "letter-spacing": "2px",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Ireland",
+           "tag": "h3",
+           "link": null,
+           "size": "small"
+          },
+          {
+           "type": "text-editor",
+           "id": "28444c97",
+           "style": {
+            "": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "1rem",
+             "font-weight": "500",
+             "line-height": "1.6em",
+             "color": "#1E3A43",
+             "text-align": "center"
+            }
+           },
+           "html": "<p>Our Irish Life Experience Team have a deep affinity with Ireland and have created the ultimate itinerary to make each students' journey-not only unique, but unforgettable.  </p><p>Students will discover unmissable experiences when they choose to travel to the Emerald Isle with our program.  A small island with a memorable punch, Ireland's breathtaking landscapes and friendly, welcoming people make everyone wanting to return for more craic.  </p><p>We encourage you to apply as soon as possible to guarantee your spot for the summer of a lifetime.   </p>"
+          }
+         ],
+         "width": 100
+        }
+       ]
+      },
+      {
+       "type": "button",
+       "id": "eb93620",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        "> .elementor-widget-container": {
+         "margin": "0px 15px 35px 15px"
+        }
+       },
+       "text": "Apply Now",
+       "link": ""
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "34c66e15",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "0d7c536",
+       "style": {
+        "": {
+         "padding": "0px 20px 2px 20px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "485437f",
+         "style": {},
+         "children": [
+          {
+           "type": "image",
+           "id": "992684d",
+           "style": {
+            "img": {
+             "max-width": "100%",
+             "border-radius": "20px 20px 20px 20px"
+            },
+            "> .elementor-widget-container": {
+             "border-radius": "20px 20px 20px 20px"
+            }
+           },
+           "src": "/images/wp/2021/10/D2D8FE29-89CD-4F01-B9D7-BF11876036C5.png",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "image",
+           "id": "b9c957f",
+           "style": {
+            "img": {
+             "opacity": "1",
+             "border-radius": "20px 20px 20px 20px"
+            }
+           },
+           "src": "/images/wp/2021/07/198C3239-A205-4959-A506-79DA46D7B579.png",
+           "alt": "Giant's Causeway Sunset #2",
+           "link": null
+          }
+         ],
+         "width": 50
+        },
+        {
+         "type": "column",
+         "id": "1e82807",
+         "style": {},
+         "children": [
+          {
+           "type": "image",
+           "id": "a287d64",
+           "style": {
+            "img": {
+             "max-width": "100%",
+             "opacity": "1",
+             "border-radius": "20px 20px 20px 20px"
+            }
+           },
+           "src": "/images/wp/2021/10/60583E78-6F98-4B33-9FE7-4A0FB84BA130.png",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "image",
+           "id": "5a21a7c",
+           "style": {
+            "img": {
+             "max-width": "100%",
+             "border-radius": "20px 20px 20px 20px"
+            }
+           },
+           "src": "/images/wp/2021/07/DSC02461-scaled.jpg",
+           "alt": "Kylemore Abbey-2015",
+           "link": null
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "0f00785",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.56"
+    },
+    "> .elementor-container": {
+     "max-width": "1045px",
+     "min-height": "0px"
+    },
+    "": {
+     "padding": "10px 10px 10px 10px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "a7380b9",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "0c96eb4",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 09px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#FFFFFF"
+        }
+       },
+       "text": "Testimonials",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "testimonial-carousel",
+       "id": "65c4819",
+       "style": {
+        ".swiper-pagination-bullet-active": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-progressbar-fill": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-fraction": {
+         "color": "#74B843"
+        },
+        ".elementor-swiper-button": {
+         "font-size": "20px"
+        },
+        ".elementor-testimonial__text": {
+         "color": "#FFFFFF",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "16px",
+         "text-transform": "none"
+        },
+        ".elementor-testimonial__name": {
+         "color": "#E4978E",
+         "font-size": "20px",
+         "font-weight": "900",
+         "text-transform": "uppercase"
+        },
+        ".elementor-testimonial__title": {
+         "color": "#FFFFFF",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "text-transform": "uppercase"
+        }
+       },
+       "slides": [
+        {
+         "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
+         "name": "Sean K.",
+         "detail": "Seekonk, MA-Parent of Ian 2019",
+         "image": "/images/wp/2021/10/IMG_0029.png"
+        },
+        {
+         "quote": "Thank you Irish Life Experience and Taryn for an amazing life-changing experience for my daughter.",
+         "name": "Peggy L.",
+         "detail": "Canton, GA-Parent of Elizabeth 2019",
+         "image": "/images/wp/2021/10/IMG_0091.png"
+        },
+        {
+         "quote": "The summer of 2019 was my favorite summer.  There was never a dull moment during the whole trip.",
+         "name": "Daniel S.",
+         "detail": "Brielle, NJ-Student 2019",
+         "image": "/images/wp/2021/10/IMG_9343.png"
+        },
+        {
+         "quote": "To say this program is amazing is an understatement. There are not enough words to describe this once is a lifetime opportunity.",
+         "name": "Hannah B.",
+         "detail": "Channahon, IL-Student 2017",
+         "image": "/images/wp/2021/10/20841156_1913146842235965_4210053887803783594_n.png"
+        }
+       ],
+       "slidesPerView": "2"
+      },
+      {
+       "type": "spacer",
+       "id": "e9e56f0",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/11/IMG_8245-scaled.jpeg",
+   "slideshow": [
+    "/images/wp/2021/07/IMG_1879-2-scaled.jpeg",
+    "/images/wp/2021/07/30727297_10155840810949130_8651115417584009216_o.jpeg",
+    "/images/wp/2021/07/A83E2C8F-18C2-4948-AA99-583FD34C59B7.png",
+    "/images/wp/2021/07/IMG_2820-scaled.jpg"
+   ]
+  },
+  {
+   "type": "section",
+   "id": "6980d6b",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "850px"
+    },
+    "": {
+     "padding": "10px 10px 10px 10px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "b42916e",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "0f0a53a",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 5px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Still Have Questions?",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "form",
+       "id": "e169acb",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px"
+        },
+        ".elementor-field-group > label": {
+         "color": "#1E3A43",
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+        },
+        ".elementor-field-subgroup label": {
+         "color": "#1E3A43",
+         "font-family": "\"Lato\", Sans-serif"
+        },
+        ".dce-signature-wrapper": {
+         "text-align": "left"
+        },
+        ".dce-signature-canvas": {
+         "border-radius": "3px 3px 3px 3px",
+         "background-color": "#ffffff"
+        },
+        ".dce-signature-button-clear": {
+         "color": "#e62626"
+        },
+        ".dce-signature-button-clear i": {
+         "color": "#e62626",
+         "font-size": "16px"
+        },
+        ".elementor-field-group .elementor-field": {
+         "color": "#000000",
+         "font-family": "\"Lato\", Sans-serif"
+        },
+        ".select2-container--default .select2-selection--single .select2-selection__rendered": {
+         "color": "#000000"
+        },
+        "..select2-container--default .select2-selection--multiple .select2-selection__rendered": {
+         "color": "#000000"
+        },
+        ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-field-group .elementor-select-wrapper select": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-field-group .elementor-select-wrapper .select2": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".mce-panel": {
+         "background-color": "#ffffff"
+        },
+        ".elementor-field-group .elementor-select-wrapper::before": {
+         "color": "#BEBEBE"
+        },
+        ".elementor-field-group .mce-panel": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-button": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "16px 16px 16px 16px"
+        },
+        ".e-form__buttons__wrapper__button-next": {
+         "background-color": "#61CE70",
+         "color": "#ffffff"
+        },
+        ".elementor-button[type=\"submit\"]": {
+         "background-color": "#61CE70",
+         "color": "#ffffff"
+        },
+        ".e-form__buttons__wrapper__button-previous": {
+         "background-color": "#FFFFFF",
+         "color": "#ffffff"
+        },
+        ".e-form__buttons__wrapper__button-next:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#61CE70"
+        },
+        ".elementor-button[type=\"submit\"]:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#61CE70"
+        },
+        ".e-form__buttons__wrapper__button-previous:hover": {
+         "color": "#ffffff"
+        },
+        ".elementor-field-label-description:after": {
+         "border-radius": "50%",
+         "padding": "2px 0",
+         "line-height": "1",
+         "font-size": "80%",
+         "text-align": "center",
+         "color": "#ffffff",
+         "background-color": "#777777"
+        },
+        ".elementor-message": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+        },
+        ".elementor-field-type-amount.elementor-field-group .dce-amount-visible": {
+         "opacity": "1"
+        },
+        ".elementor-field-type-dce_range input": {
+         "opacity": "1"
+        }
+       },
+       "formName": "Learn More",
+       "fields": [
+        {
+         "label": "First Name",
+         "type": "text",
+         "required": true,
+         "placeholder": "First Name",
+         "options": null,
+         "html": null,
+         "id": "name"
+        },
+        {
+         "label": "Last Name",
+         "type": "text",
+         "required": true,
+         "placeholder": "Last Name",
+         "options": null,
+         "html": null,
+         "id": "field_a0e0761"
+        },
+        {
+         "label": "Mobile Phone",
+         "type": "tel",
+         "required": true,
+         "placeholder": "Mobile Phone",
+         "options": null,
+         "html": null,
+         "id": "field_5f8be52"
+        },
+        {
+         "label": "E-Mail",
+         "type": "email",
+         "required": true,
+         "placeholder": "E-Mail",
+         "options": null,
+         "html": null,
+         "id": "email"
+        },
+        {
+         "label": "Message",
+         "type": "textarea",
+         "required": false,
+         "placeholder": "Message",
+         "options": null,
+         "html": null,
+         "id": "message"
+        }
+       ],
+       "submit": "Send"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

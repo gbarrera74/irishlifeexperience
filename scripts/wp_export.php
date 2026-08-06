@@ -93,15 +93,33 @@ function export_post($p) {
         'menu_order'           => (int) $p->menu_order,
         'permalink'            => get_permalink($p),
         'author'               => get_the_author_meta('user_login', $p->post_author),
-        // The post body with shortcodes/blocks left intact; tags stripped of
-        // attributes so it stays readable as a text reference.
-        'content_raw'          => wp_strip_all_tags(
-                                      apply_filters('the_content', $p->post_content), false),
+        // The rendered post body as HTML — shortcodes and blocks expanded, markup
+        // intact. It must stay HTML: scripts/convert_posts.py parses it to build
+        // MDX, so stripping tags here silently discards every image in the post
+        // (and on image-only posts leaves the body empty).
+        'content_raw'          => apply_filters('the_content', $p->post_content),
         'built_with_elementor' => (bool) $tree,
         'elementor_data'       => $tree,
         'seo'                  => seo_meta($p->ID),
         'featured_image'       => featured($p->ID),
+        // Every taxonomy, not just category/post_tag. Elementor's posts widget
+        // filters on these, including plugin-defined ones — /alumni/ lists the
+        // pages in the Wicked Folders term "Alumni Pages".
+        'terms'                => all_terms($p->ID),
     ];
+}
+
+/** taxonomy => [{id, name, slug}] for every taxonomy on this post. */
+function all_terms($id) {
+    $out = [];
+    foreach (get_post_taxonomies($id) as $tax) {
+        $terms = wp_get_post_terms($id, $tax);
+        if (is_wp_error($terms) || !$terms) continue;
+        $out[$tax] = array_map(function ($t) {
+            return ['id' => (int) $t->term_id, 'name' => $t->name, 'slug' => $t->slug];
+        }, $terms);
+    }
+    return $out;
 }
 
 // ---------------------------------------------------------------- site

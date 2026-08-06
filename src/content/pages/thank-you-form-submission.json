@@ -1,0 +1,321 @@
+{
+ "slug": "thank-you-form-submission",
+ "title": "Thank You Form Submission",
+ "path": "/thank-you-form-submission/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "7528f6d",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "c8da67a",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "56936ea",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Thank You",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/07/DSC01615-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "28dea2b",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-container": {
+     "max-width": "1033px",
+     "min-height": "350px"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.1"
+    },
+    "": {
+     "padding": "10px 10px 10px 10px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "fd98283",
+     "style": {
+      "> .elementor-element-populated": {
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "c719382",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Thank you for filling out the form!",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "47623da",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 5px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "22px",
+         "font-weight": "600",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "We received your form. Please, feel free to contact us with any additional questions.",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "9b3b8cf",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "1148px"
+    },
+    "": {
+     "padding": "0px 0px 0px 0px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "65c40b2",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "eb55a42",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 09px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Testimonials",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "testimonial-carousel",
+       "id": "b14d787",
+       "style": {
+        ".swiper-pagination-bullet-active": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-progressbar-fill": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-fraction": {
+         "color": "#74B843"
+        },
+        ".elementor-swiper-button": {
+         "font-size": "20px"
+        },
+        ".elementor-testimonial__text": {
+         "color": "#1E3A43",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "16px",
+         "text-transform": "none"
+        },
+        ".elementor-testimonial__name": {
+         "color": "#E4978E",
+         "font-size": "20px",
+         "font-weight": "900",
+         "text-transform": "uppercase"
+        },
+        ".elementor-testimonial__title": {
+         "color": "#1E3A43",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "text-transform": "uppercase"
+        }
+       },
+       "slides": [
+        {
+         "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
+         "name": "Sean K.",
+         "detail": "Seekonk, MA-Parent of Ian 2019",
+         "image": "/images/wp/2021/10/IMG_0029.png"
+        },
+        {
+         "quote": "Thank you Irish Life Experience and Taryn for an amazing life-changing experience for my daughter.",
+         "name": "Peggy L.",
+         "detail": "Canton, GA-Parent of Elizabeth 2019",
+         "image": "/images/wp/2021/10/IMG_0091.png"
+        },
+        {
+         "quote": "The summer of 2019 was my favorite summer.  There was never a dull moment during the whole trip.",
+         "name": "Daniel S.",
+         "detail": "Brielle, NJ-Student 2019",
+         "image": "/images/wp/2021/10/IMG_9343.png"
+        },
+        {
+         "quote": "To say this program is amazing is an understatement. There are not enough words to describe this once is a lifetime opportunity.",
+         "name": "Hannah B.",
+         "detail": "Channahon, IL-Student 2017",
+         "image": "/images/wp/2021/10/20841156_1913146842235965_4210053887803783594_n.png"
+        }
+       ],
+       "slidesPerView": "2"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "4c55190",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#F4EFEB"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#F4EFEB"
+    },
+    "": {
+     "padding": "10px 0px 10px 0px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "eda9035",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "2191d6de",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 5px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "33px",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "In The Meantime Check Out Our Instagram",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "shortcode",
+       "id": "62dff6c",
+       "style": {},
+       "shortcode": "[instagram-feed num=3 cols=3]"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "slug": "a-legend-of-a-day",
+ "title": "A Legend of a Day",
+ "path": "/blog/a-legend-of-a-day/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f6d5cea",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "1547aad",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "6bf8c75",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/July-14-1-e1658184240727.jpg",
+       "alt": "Dark Hedges-Students Walking 2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "9edca0c",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "0148fc8",
+       "style": {},
+       "html": "<p><span style=\"font-weight: 400;\">Today started with an early wake up, but the students said it was one of their favorite days so far.  The students were introduced to the beauty of the Antrim coast in Northern Ireland.  The bus loaded up at 8:00 AM to set off for a busy day of exploration.</span></p><p><span style=\"font-weight: 400;\">The group started with the Dark Hedges, a beautiful path of beech trees that were featured in HBO’s </span><i><span style=\"font-weight: 400;\">Game of Thrones.  </span></i><span style=\"font-weight: 400;\">The kids had a chance to walk the path, stretch their legs, and get some photos.  There was a field of cows along the path, and some students even fed the cows some grass.   Keira said seeing the cows reminded her of home and was so happy to feed them. </span></p><p><span style=\"font-weight: 400;\">The students enjoyed a picnic lunch at the site of Dunluce Castle.  Dunluce was originally built in the 13</span><span style=\"font-weight: 400;\">th-</span><span style=\"font-weight: 400;\">century, but the current remaining structure dates back to the 16</span><span style=\"font-weight: 400;\">th</span><span style=\"font-weight: 400;\"> and 17</span><span style=\"font-weight: 400;\">th-</span><span style=\"font-weight: 400;\">century.  After filling their bellies and getting some photos of the historic site, they continued on their tour of Northern Ireland.</span></p><p><span style=\"font-weight: 400;\">Next up was the Giant’s Causeway, a favorite stop for every ILE'er.  Legend has it that Irish hero Fionn mac Cumhaill created the bridge to fight a giant in Scotland, but upon realizing his size Fionn ran back along the Causeway so fast it disintegrated under his feet.  The students had time to walk along the coast and relax on the rocks. </span></p><p><span style=\"font-weight: 400;\">After all of the hiking today, the kids were rewarded with free time in the small town of Ballycastle.  They were given a stipend for dinner, and they were off to explore.  It was another exhausting day, but the students boarded the bus back to Dublin with smiles on their faces.  </span></p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "e535f42",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "cbdcabb",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "597b328",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/July-14.jpg",
+       "alt": "Dunluce Castle-2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "159330c",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "6811531",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/July-14.jpg",
+       "alt": "Giant's Organ-Group 2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "64fb4d7",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "d14229e",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/July-14.jpg",
+       "alt": "Giant's Causeway-2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  }
+ ]
+}

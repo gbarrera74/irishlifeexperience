@@ -1,0 +1,5423 @@
+{
+ "slug": "tours",
+ "title": "Tours",
+ "path": "/students/tours/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "99171af",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "500px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "9843e4a",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "746d32e",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -30px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "4em",
+         "font-weight": "bold",
+         "line-height": "1.4em",
+         "letter-spacing": "0px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Student",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "ab72de8",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "4em",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Tours",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "94809a9",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/07/IMG_8896-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "8a9024d",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "780d47e",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "67e0d52",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "ce7167a",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "5a1f63e",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/30FD5051-E9D3-47D3-95A4-7C58F3A9FD00.png"
+        },
+        {
+         "type": "column",
+         "id": "a31ac46",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "9a8d84c",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Aillwee Caves",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "3ed0680",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Located in the heard of the Burren, students will visit the Aillwee Caves and be introduced to the dramatic underworld of this area.  Students will have a tour through the beautiful caverns-over bridged chasms, under weird formations, and alongside a thunderous waterfall which sometimes gently sprays the unsuspecting visitor.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "7ade646",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "3e86e44",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "959a6ba",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "9099c87",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "dd699fb",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_3036-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "5a252c2",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "50df7da",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Aran Islands",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "c51e119",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will visit the Aran Islands, the westernmost point of Europe, where they will be able to practice their Gaelic language skills with the local residents.  </p><p>The Aran Islands offer some of the country’s most historic sites such as Dun Aengus and the Seven Churches.  Limestone landscapes and stretches of majestic cliffs border these beautiful islands.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "7d3b1a7",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "d209810",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "1a3f6e4",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "223f1ab",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "f608639",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_9937-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "d23f040",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "69d0a69",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Birds of Prey",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "d159167",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>The Burren Birds of Prey Center is home to one of the largest and most varied collection of eagles, falcons, hawks, and owls in the country.  </p><p>Daily flying displays afford a unique opportunity to see these magnificent birds in dramatic free flight.  Students may even get an opportunity to handle the birds and participate in the shows.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "8a012fc",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "6a8decc",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "0ce19bd",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "b05ce1a",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "e3c8f4b",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/B7B6E915-28B0-4138-A560-6742A3D72ACC.png"
+        },
+        {
+         "type": "column",
+         "id": "fd856f5",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "783244c",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Book of Kells",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "0a81771",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will be able to shine a light on Irish history when you visit the Book of Kells, Ireland's greatest cultural treasure, and marvel at the Long Room, one of the world's most beautiful libraries. </p><p>The manuscript's celebrity derives largely from the impact of its lavish decoration, the extent and artistry of which is incomparable.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "9abf759",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "eff0f50",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "c3eff8c",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "55d6830",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "745d0dc",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/09/IMG_0303-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "606f748",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "f5b89bc",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Blarney Castle and Stone",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "21d0116",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will visit medieval Blarney Castle in County Cork, one of Ireland's most impressive castles.  Kiss the Blarney Stone to get the gift of the gab, wander around unique rock formations, and see the rare plans in the enchanting gardens.  </p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var( --e-global-color-c6ef796 ); font-size: 1rem;\">Students will have time to shop at the popular Blarney Woolen Mills where they can choose from many traditional souvenirs.  </span></p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "da61fd2",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "c85838e",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "1dfd0e1",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "7de7455",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "f2985f2",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_3037-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "d57f16b",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "04f8824",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Bunratty Castle and Folk Park",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "5bd8b31",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Bunratty Castle and Folk Park in Bunratty, County Clare, is one of Ireland's most iconic landmarks.&nbsp; From the elegance and attention to detail of the careful restoration within the castle walls, to the charm and authenticity of the village street and farmhouses, it is easy to see why so many are impressed with this unique attraction.&nbsp;&nbsp;</p><p>Students will feel like they stepped back in time touring Bunratty!</p>\n<p></p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "0e028ec",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "4c93e1c",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "2a9d98d",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "c840b75",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "192a97f",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/60583E78-6F98-4B33-9FE7-4A0FB84BA130.png"
+        },
+        {
+         "type": "column",
+         "id": "92f1288",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "b013587",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Burren",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "e9b3a39",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will get to experience the enthralling beauty of the Burren with its limestone pavements and curious rock formations.  The distinctive region has a unique ecosystem, with rare native Irish plants and flowers.  </p><p>Students will explore fascinating fairy forts and stone dolmens dotted across the karst landscape.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "961d81d",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "11b0c9c",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "3cf5237",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "cdbc75c",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "1c9989d",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_2287-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "ea82a87",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "c131f26",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Burren Walking Tour",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "ed98198",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will be able to trek off the beaten path across isolated regions of the Burren.  Walking takes place over panoramic views which give a sense of peace and timelessness to the explorer. </p><p>These rambles are an ideal introduction to the geology, natural history, agriculture, archaeology, botany, history, and conservation of the region.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "53a7c8c",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "2200c1d",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "0c8fe6f",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "155px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "43c946d",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "4474ea1",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_9573-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "d97ba9b",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "500ad59",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Cahir Castle",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "e93e5ec",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Cahir Castle is located on a rocky island on the River Suir in the center of Cahir town in County Tipperary.  It is one of Ireland's largest and best preserved castles and students will have the opportunity to explore the grounds. </p><p>The castle retains its impressive keep, tower, and much of its original defensive structure.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "7832c45",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "ba2e830",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "480ecf1",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "beb4769",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "6b89d93",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_9892-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "18a72f9",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "adcb17b",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Carrick-a-rede Rope Bridge",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "fc075c9",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Situated near the village of Ballintoy, Carrick-a-rede is one of Northern Ireland's most loved attractions.&nbsp; It is a rope suspension bridge that connects the mainland to Sheep Island, a tiny island primarily used for fishing.&nbsp; The bridge and its surrounds are absolutely gorgeous and on a clear day, you can actually see Scotland.&nbsp;</p>\n<p>Students will have many photo opportunities, as they carefully cross this bridge.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "81676b7",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "37ae742",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "40eb23e",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "c2bb356",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "996be83",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/DSC01259-1-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "bbed0fc",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "9f9ab17",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Charles Fort",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "f7af6ba",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will visit this unique star-shaped military fortress that has stood guard over Kinsale Harbour for over three hundred years.  Charles Fort has been associated with some of the most momentous events in Irish history.      </p><p>Its dimensions are awe-inspiring and the views from the ramparts of Kinsale Harbour are breathtaking.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "77f9067",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "08e7078",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "843833f",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "ebda4ac",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "751e0e3",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/07/AF387BFA-7F95-4933-BF02-1E672D05BD88.png"
+        },
+        {
+         "type": "column",
+         "id": "3450d35",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "cdc68d1",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Cliffs of Moher",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "f807f60",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will discover the spectacular Cliffs of Moher in County Clare, one of Ireland's top visitor attractions.  The impressive cliffs stretch five miles and reach a height of 702 feet. </p><p>Stand still and marvel at the towering heights of the soaring cliffs-their sheer scale and incredible impact amaze all who visit.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "cd6dac4",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "4546e20",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "47debd9",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "84bc090",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "a67374c",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_9409-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "242b560",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "efc8aad",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Croke Park Match",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "acee38c",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>GAA Football and hurling will be brought to life for the students, when they are immersed in workshops and taught the basics of the sports.</p><p>They will then have the privilege of attending a spine-tingling and completely unique game at Croke Park.  Students will vividly understand how the GAA has contributed to the cultural, social, and sporting heritage of Ireland.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "9ce2d4f",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "1cc4d1b",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "25588d4",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "d058add",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "6f79613",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_3042-2-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "eaf472a",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "182f9d3",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Croke Park Museum",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "f6c7b60",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Croke Park is an iconic stadium, which has been at the heart of Irish cultural and sporting life for over 100 years.  Not only will students learn about Ireland's national games-hurling and GAA football, but they will also enjoy an unrivaled state-of-the-art interactive visitor experience where they can put their own skills to the test.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "d16de4a",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "3c683b4",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "869530d",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "9614005",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "8ffbcd3",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_9220-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "d53af79",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "7688b65",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Dan O'Hara's Cottage",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "b6dfd02",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Nestling under the Twelve Bens mountain range, is the restored pre-famine cottage of Dan O'Hara, a man made famous in song and story.  </p><p>Dan O'Hara's story illustrates the life of a typical 19th century Connemara tenant farmer-from his eviction to his subsequent emigration to New York.  </p><p>It's a lively and entertaining tour, which students will remember forever.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "f4957fe",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "f9d3345",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "f77841b",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "f69687f",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "da1e35b",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_3039.jpg"
+        },
+        {
+         "type": "column",
+         "id": "c997edc",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "05a2f42",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Dingle Peninsula",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "e86a324",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>It's easy to fall in love with the sensationally beautiful Dingle Peninsula.  Students will soak in the jaw-dropping scenery, the rugged cliffs, and the seaside trails.  </p><p>National Geographic once called the Dingle Peninsula \"the most beautiful place on earth.\"  It suffered the Vikings and welcomed Hollywood stars from a Galaxy far, far away.  Students will witness every turn leading down meandering country lanes to wild hedgerows and endless skies and see why the reputable magazine approved so much!</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "7be2d88",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "19e8322",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "099356d",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "e7fe41e",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "2d6a458",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/D52421E4-480D-42EB-BEED-B38DD0DEDEC5.png"
+        },
+        {
+         "type": "column",
+         "id": "40eb6b1",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "73cd4a3",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Dublin City Tour",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "133a604",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>A local guide will bring to life Dublin's most important landmarks, but also its finest squares, liveliest quarters, and hidden gems.  </p><p>The capital is steeped in history, but has a modern and vibrant outlook.  </p><p>Students will be able to get their bearings, so when they do have time in the city they will be able to walk it, live it, and love it.  Up the Dubs!</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "137c7aa",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "a6758fc",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "89d6007",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "8d6c2f4",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "4455208",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/5557D922-1B19-48FA-814E-445ECDB39251.png"
+        },
+        {
+         "type": "column",
+         "id": "3f38e7e",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "4138527",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Dunluce Castle",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "0bab46e",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Dunluce is one of the most picturesque and romantic of Irish castles.  With evidence of settlement from the first millennium, the present castle dates back to the 16th and 17th centuries.  </p><p>Students will have an opportunity to stop at the incredible ruins hanging spectacularly over the edge of the cliffs.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "f4b85eb",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "bae2bdd",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "188d24a",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "a0cb6a0",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "75d0d59",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_5497-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "6973a97",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "7b5616c",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "EPIC",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "4d3002b",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will explore, engage, and connect with Irish history and culture in 20 interactive galleries at EPIC.  </p><p>They won't find leprechauns or pots of gold here, but students will discover that what it means to be Irish expands far beyond the borders of Ireland through the stories of Irish emigrants who became artists, poets, politicians, and even outlaws all over the world.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "0630504",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "a669792",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "85c6344",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "f59d95a",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "21bed2a",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_3053-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "8fd230b",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "6fc2e58",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Facebook",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "598a3d7",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students have the ability to connect with their Irish heritage and see how the Irish have impacted the world throughout the Irish Life Experience.  </p><p>At Facebook, they will also learn about a similar connection and see how a social media platform has built communities, grown businesses, and brought the world closer together.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "4ee971d",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "dd11836",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "c1145ea",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "2f1fd46",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "993a04d",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/DSC00376-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "d4ed272",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "e1f6055",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Giant's Causeway",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "de11edd",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Flanked by the wild North Atlantic Ocean and a landscape of dramatic cliffs, the Giant's Causeway is a geological wonder and home to a wealth of history and legend.&nbsp;&nbsp;</p>\n<p>Whether students believe the giant, Fionn mac Cumhaill, or a volcanic eruption 60 million years ago created the causeway, they will be able to explore the 40,000 basalt stone columns and see why this amazing attraction is a favorite for many.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "31abe62",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "fd4b4f0",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "e854be4",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "66e71ee",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "57c8ebb",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/DSC05630-1-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "2798ac2",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "76af880",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Gleandalough",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "71c4a24",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will experience Glendalough, a spectacular glacial valley in the heart of County Wicklow.&nbsp;&nbsp;<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; background-color: var( --e-global-color-c6ef796 ); font-size: 1rem;\">They will discover the church ruins and decorative crosses of the ancient monastic settlement founded by St. Kevin in the 6th century, and then be able to explore the beautiful oak forest.</span></p><p>Glendalough is a remarkable place that will still your mind, inspire your heart, and fill your soul.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "68c5e75",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "026b82f",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "d3a8ff7",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "578eeb0",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "eaeb44d",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_5585-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "0c1c236",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "008d21c",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Guinness",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "2f83fe4",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Located in the heart of St. James' Gate in Dublin, students will be able to explore the rich culture and history that tell the Guinness story.&nbsp;&nbsp;</p>\n<p>While only 18 year olds will be able to sample a taste of the brew with parent permission, other students will revel at 360 degree views of Dublin at the end of the tour.&nbsp; They will say \"slainte\" with a soft drink in hand from the Gravity Bar.&nbsp;&nbsp;</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "3b2f643",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "22bbeeb",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "f42527d",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "032043a",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "699eab3",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_8338-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "e3f5691",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "de89a2a",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Howth Hill Walk",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "78903c8",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Setting off from the pretty harbour village of Howth, students will be able to explore some of Dublin's most spectacular coastline.  </p><p>Along the way, students will enjoy stunning views of Bailey Lighthouse, Ireland's Eye, Lambay Island, and embrace great expanses of Dublin Bay. </p><p>They will finish their jaunt in the adorable village of Howth.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "9d119a7",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "f3793d0",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "025f9ad",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "c112746",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "02eaab8",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_0202-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "4d17631",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "7428267",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Irish National Heritage Park",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "b33cb31",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will explore an authentic recreation through 9,000 years of Ireland's heritage at the National Heritage Park in County Wexford.</p><p>Students will experience what Ireland looked like to our Stone Age ancestors and discover the trades and traditions during those times from an engaging and interactive tour guide.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "b30ad6f",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "b15f27c",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "5fcb70b",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "9919eae",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "a12948c",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_1876-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "2919e82",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "74c441f",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Kenmare Stone Circle",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "4522363",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>This stone circle lies in the town of Kenmare in County Kerry.  Unlike any other ring in Munster, this one is egg shaped.  </p><p>Such chapes are unusual and their design could be a late geometrical development.  Students will visit this stone circle, one of the largest in southwest Ireland.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "5074f35",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "4a26e99",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "61df1ef",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "6e704a8",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "fa4e17e",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/07/Kilkenny-Castle-scaled.jpeg"
+        },
+        {
+         "type": "column",
+         "id": "4fd069b",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "272fb32",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Kilkenny Castle",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "1106c8f",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Few buildings in Ireland can boast a longer history of continuous occupation than Kilkenny Castle.  Founded soon after the Norman conquest of Ireland, the castle has been rebuilt, extended and adapted over a period of 800 years.  </p><p>Students will explore the ancestral home of the Butler family and take in amazing views of the perimeter.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "ac09cd0",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "355d20d",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "9c8b160",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "6d2e618",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "483ba57",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/B4C7A22A-C7CE-444B-B4FC-E31C7258AA13.png"
+        },
+        {
+         "type": "column",
+         "id": "d7ff53e",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "f7f8ecd",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Kilmainham Gaol",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "1326e06",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Before its closure in 1924, Dublin's Kilmainham Gaol housed some of the most famous military and political leaders in Irish history.  The prison is considered a must-see in Dublin and offers a panoramic insight into some of the most disturbing, inspirational, and profound themes of modern Irish history.  </p><p>Students will experience this tour, which will compliment their classes in Irish history.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "b81d541",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "67a6e92",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "6146e17",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "4caaa89",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "bc04592",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/F7109E7D-A2D1-4764-8E9D-D78994479FB6.png"
+        },
+        {
+         "type": "column",
+         "id": "a06f54a",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "c03ed5b",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Kinsale",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "2030608",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will wander through the narrow streets of Kinsale and get a feeling for the town's unique 1,000 year history.  </p><p>It's a lively and friendly town that has a gorgeous harbour with impressive boats, beautiful colored storefronts, good shopping, and delcious ice-cream shops.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "72709e5",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "e0a64a9",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "db121e9",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "49deb2e",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "51dc8b8",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/07/DSC04663-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "2e3eac6",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "654d7e3",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Kylemore Abbey",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "fa38996",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will experience Kylemore Abbey in a ruggedly beautiful part of County Galway.  Renowned for its Gothic-style architecture and spacious grounds.  </p><p>Students will have time to explore the 1,000-acre estate with its dramatic landscape reflected in a beautiful Connemara lake and learn about the love story that started it all.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "3bc6325",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "7cfd11a",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "25e20ac",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "356cece",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "839af74",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_1959-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "02574d6",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "cdadb89",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Muckross House",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "4ce7e50",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Muckross House, once visited by Queen Victoria, is situated on the shores of Muckross Lake within the stunning surroundings of Killarney National Park in County Kerry.  </p><p>It's a magnificent Victorian mansion and is one of Ireland's leading stately homes.  Students will be able to see this elegant home and its impressive garden.    </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "196fddf",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "af35e22",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "12e9234",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "156fed5",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "5fa172b",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_2184-2-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "c0aa3d1",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "16dcfb1",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Newgrange",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "888fc0b",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will have an opportunity to visit the important Neolithic site of Newgrange, which contains some of the largest collections of megalithic art in Western Europe.  </p><p>They will also be able to enter a passageway and observe what a solstice entailed in the tomb for a very remarkable experience.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "1c9d9eb",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "de4c58d",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "a27ad6c",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "c907756",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "87e8c5d",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_5451-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "126c20b",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "c03366a",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Peter Flanagan's Hurleys",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "a89cfef",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Peter Flanagan's hurleys are handmade in Knockenduff, County Waterford and are used by hurlers and camogie players all over the country and beyond. </p><p>Patrice and Peter Flanagan are proud to be in business for almost 20 years and love meeting the Irish Life Experience students every summer and helping them buy the best hurley to take back home.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "5153eac",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "c4950c9",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "2569f16",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "fbbef83",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "207291f",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/07/DSC01615-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "4d24dd2",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "edd1150",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Ring of Kerry",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "5b4557f",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Often described as one of the most beautiful parts of Ireland, students will visit the Ring of Kerry and understand exactly why.  </p><p>They will see the amazing views, curving roads, and jagged coastlines around every corner.  Soaking up the stunning scenery along the Ring of Kerry should be bucket list trip for everyone.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "e22f7d5",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "696a7a8",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "204adf5",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "fa0a796",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "87a3aab",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_3061.jpg"
+        },
+        {
+         "type": "column",
+         "id": "89374be",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "5fa006a",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Riverdance",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "7e58e55",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>For over 20 years, nothing has carried the energy, the sensuality, and the spectacle of Riverdance.  The worldwide phenomenon began its journey as an interval act in the 1994 Eurovision Contest.  </p><p>Students will have the option at an additional cost to see the electrifying and innovative dance performance that has packed theaters and arenas around the world for years.   </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "9c283dd",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "8761d34",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "7d0d94c",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "f237881",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "b2fff07",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/630CB6FB-5C6E-491C-9F89-1DF58DC503AB.png"
+        },
+        {
+         "type": "column",
+         "id": "f9eb377",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "f1ee2f7",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Rock of Cashel",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "87ce351",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>The Rock of Cashel, found in County Tipperary is an iconic ecclesiastical site and one of Ireland's top attractions.  </p><p>Students will get to tour the group of medieval buildings that are located near the center of Cashel Town, learn the history, and see all of the stunning vistas of the surrounding farmlands.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "0a8ca93",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "5866f0b",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "f732f94",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "12913b7",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "d75a426",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_9712-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "0f34f79",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "bb6f68c",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Ross Castle",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "2459a12",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Ross Castle is a 15th century tower house located in Killarney, County Kerry.  It is a typical example of the stronghold of an Irish chieftain in the Middle Ages.  </p><p>Students will be able to explore the outside of the castle and get amazing pictures of the castle itself and Killarney National Park.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "7702fcb",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "3d797c8",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "fa5b436",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "6a03b15",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "a699046",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/IMG_2128-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "f8c8b46",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "470f943",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Titanic Museum",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "29250b2",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Located beside the Titanic Slipways, the Harland and Wolff Drawing Offices and Hamilton Graving Dock-the very place where Titanic was designed, built and launched, the Titanic Museum tells a story. </p><p>Students will learn about its conception, through the  construction and launch, to her maiden voyage, and subsequent place in history.</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "63959d4",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "eba0901",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "3af3316",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "2813626",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "5437ac5",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/7BB1EA77-2390-4CE2-A092-31B2E5CC3F0E.png"
+        },
+        {
+         "type": "column",
+         "id": "6c59d22",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "552cc6d",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#F3C820"
+            }
+           },
+           "text": "Torc Waterfall",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "8708c37",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Sitting at the base of Torc Mountain, this waterfall is about 65 feet high and formed from the Owengarriff River as it drains from the Devil's Punchbowl.  </p><p>A short hike up, students will get to see this beautiful treasure in some of the most scenic woodland in Killarney National Park.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "ff67f8d",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "73bb212",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "0c79c50",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "c306717",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "c7c5901",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/07/DSC01615-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "2abaf65",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "a1a5a69",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#6EC1E4"
+            }
+           },
+           "text": "Tramore",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "85c8da1",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will see the lovely seaside village of Tramore in County Waterford.  From the soaring waves at beautiful Tramore beach to the exciting rollercoasters at Tramore Amusement Park.  </p><p>It will be a great afternoon where students can take a dip in the ocean or enjoy a stroll through the lively funfair.  </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "3e299f0",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "b0952f6",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "a8e5fc4",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "387efc4",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "82e4ac2",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/DSC00845-2-scaled.jpg"
+        },
+        {
+         "type": "column",
+         "id": "5b6cddc",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "77007f5",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#61CE70"
+            }
+           },
+           "text": "Waterford Crystal",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "7ed964a",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Overlooking the historic district of the Viking Triangle in Waterford City, students will visit the House of Waterford Crystal and learn the history and story behind one of Ireland's most iconic brands.  </p><p>They will be able to engage with people behind the craft and see what their daily work entails, as they create dazzling crystal before their very own eyes. </p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "3e2ea9a",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.92"
+    },
+    "": {
+     "padding": "5px 5px 5px 5px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "47d76dd",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "98921bc",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#F2F2F2"
+        },
+        "> .elementor-container": {
+         "min-height": "180px"
+        },
+        "": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "9a778c8",
+         "style": {
+          "> .elementor-element-populated": {
+           "border-radius": "5px 05px 0px 0px",
+           "padding": "60px 0px 60px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "5px 05px 0px 0px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "5px 05px 0px 0px"
+          }
+         },
+         "children": [
+          {
+           "type": "spacer",
+           "id": "7bb016f",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 50,
+         "bgImage": "/images/wp/2021/10/C6E1DE31-2854-437F-98E0-95847AB0FE02.jpg"
+        },
+        {
+         "type": "column",
+         "id": "8c2c1cd",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "16px 16px 16px 16px"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "09c075f",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 20px 0px"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "1.7em",
+             "font-weight": "900",
+             "color": "#E4978E"
+            }
+           },
+           "text": "Waterford Greenway",
+           "tag": "h3",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "text-editor",
+           "id": "619b63c",
+           "style": {
+            "> .elementor-widget-container": {
+             "padding": "0px 0px 0px 0px",
+             "margin": "0px 0px 0px 0px"
+            },
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Students will freewheel through Waterford along a paved bike path that winds its way around the base of the Comeragh Mountains and follows the River Suir.&nbsp;&nbsp;</p>\n<p>It's pure bliss and beauty around every bend with spectacular and unique photo opportunities.&nbsp;&nbsp;</p>"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "c7f7db7",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.33"
+    },
+    "": {
+     "padding": "60px 60px 60px 60px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "e1cded9",
+     "style": {
+      "> .elementor-element-populated": {
+       "padding": "0% 0% 0% 0%"
+      }
+     },
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "b9e9ff3",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -20px 0px"
+        },
+        "": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "normal",
+         "text-transform": "uppercase",
+         "line-height": "1.5em",
+         "letter-spacing": "1px",
+         "color": "#ffffff",
+         "text-align": "center"
+        }
+       },
+       "html": "<p>Exceptional Leaders </p>"
+      },
+      {
+       "type": "heading",
+       "id": "6b92306",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 60px 0px"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "59px",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#ffffff"
+        },
+        "": {
+         "text-align": "center"
+        }
+       },
+       "text": "Dream, Discover, and Travel!",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "127f6b8",
+     "style": {},
+     "children": [
+      {
+       "type": "button",
+       "id": "665b8c3",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "Apply Now",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "bgImage": "/images/wp/2021/11/30727297_10155840810949130_8651115417584009216_o.jpeg",
+   "structure": "20"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "sitemap",
+ "title": "Sitemap",
+ "path": "/sitemap/",
+ "seo": {},
+ "hasCss": false,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "0545e37",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "5ffd499",
+     "style": {},
+     "children": [
+      {
+       "type": "sitemap",
+       "id": "7af8746",
+       "style": {}
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

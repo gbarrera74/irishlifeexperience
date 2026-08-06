@@ -1,0 +1,273 @@
+{
+ "slug": "blog",
+ "title": "Blog",
+ "path": "/blog/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "59bfee2",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "3285f14",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "eefa1f0",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Our",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "8d67dea",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Blog",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "a0ecf18",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/07/IMG_8283-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "5a890c2",
+   "style": {
+    "": {
+     "padding": "20px 10px 30px 10px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "3a67b3c",
+     "style": {},
+     "children": [
+      {
+       "type": "posts",
+       "id": "2343872",
+       "style": {
+        ".elementor-post": {
+         "border-radius": "12px",
+         "padding": "10px 10px 10px 10px",
+         "background-color": "#FFFFFF"
+        },
+        ".elementor-post__text": {
+         "padding": "12px 12px 12px 12px"
+        },
+        ".elementor-post__title": {
+         "color": "#61CE70",
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "700"
+        },
+        ".elementor-post__title a": {
+         "color": "#61CE70",
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "700"
+        },
+        ".elementor-post__meta-data": {
+         "color": "#7A7A7A"
+        },
+        ".elementor-post__excerpt p": {
+         "color": "#000000",
+         "font-family": "\"Quicksand\", Sans-serif"
+        },
+        ".elementor-post__read-more": {
+         "color": "#6EC1E4"
+        },
+        "a.elementor-post__read-more": {
+         "font-size": "14px"
+        },
+        ".elementor-pagination": {
+         "text-align": "center"
+        }
+       },
+       "postType": "post",
+       "perPage": null,
+       "readMore": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "2d6c944",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.33"
+    },
+    "": {
+     "padding": "60px 60px 60px 60px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "0573495",
+     "style": {
+      "> .elementor-element-populated": {
+       "padding": "0% 0% 0% 0%"
+      }
+     },
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "4c37d6c",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px -20px 0px"
+        },
+        "": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "normal",
+         "text-transform": "uppercase",
+         "line-height": "1.5em",
+         "letter-spacing": "1px",
+         "color": "#ffffff",
+         "text-align": "center"
+        }
+       },
+       "html": "<p>Trust Us to</p>"
+      },
+      {
+       "type": "heading",
+       "id": "9dfca5a",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 60px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "59px",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Dream, Discover, and Travel",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "8e1726b",
+     "style": {},
+     "children": [
+      {
+       "type": "button",
+       "id": "c609fda",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "Apply Now",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "bgImage": "/images/wp/2021/11/30727297_10155840810949130_8651115417584009216_o.jpeg",
+   "structure": "20"
+  }
+ ]
+}

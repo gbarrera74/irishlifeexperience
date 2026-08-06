@@ -1,0 +1,95 @@
+{
+ "slug": "classes-and-ceilis",
+ "title": "Classes and Céilís",
+ "path": "/blog/classes-and-ceilis/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "03d5e3a",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "dec1f81",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "53c2d3a",
+       "style": {},
+       "src": "/images/wp/2023/07/20230703_080936_8C71E0.jpeg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 16
+    },
+    {
+     "type": "column",
+     "id": "b8e67a5",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "887d524",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Dia dhaoibh! Hello from Ireland! Everyone is doing so so fantastic here. This morning, we were greeted by yet another beautiful dawning of the day--the sky is cloudy yet bright, the wind crisp, the robins and chaffinches still calling out their morning tunes, twittering away in their respective shrubs. We had a splendid breakfast of, once more, a selection of various cereals, fruits, yogurt, tea/coffee, and croissants! Today is another full class day, so the students traipsed up to the classroom to learn from our wonderful dear Kaylee and the spectacular Taryn. Everyone learned more about the fascinating history of the Ulster-Scots plantations in Northern Ireland, and a bit more about the curious geography of Ireland--central plains surrounded by a ring of coastal mountains, with several long rivers snaking through. Lough Neagh is the biggest lake (18 miles long), Carrauntoohil is the tallest mountain (3,400 feet tall), and Malin Head is the farthest Northern point of Ireland. Students also participated in an activity of blindly drawing a map of Ireland, and Clare was our winner for best map! </p><p>Taryn had another wonderful surprise for the kids as well--a taste-testing of Irish snacks and candy! Everyone got to sample a wide plethora of things, some favorites including: Crunchies, Squashies, Curly-Wurlys, rashers and Irish bacon, Aeros, Hob-Nobs, and Wine Gums. Although not everyone could pick an overall favorite, it was agreed on that Irish snacks have ridiculous names. </p><p>Even though everyone was rather full from the snacks, we headed off to tea before enjoying an afternoon of free time in Waterford. Maddie, Ana, Adi, Cassidy, Aspen, Clare, Lydia, and Shawn wanted to go shopping for tennis rackets and take some really neat pictures on Clare's camera, and the other kids tried to get together and organize an ultimate frisbee game. </p><p>We then had Drama and Dance, where the kids started working on music videos!! Stay tuned for some lovely Irish masterpieces in a few days...</p><p>And, of course, the fantastic Clare started teaching us Céilí dancing. These guys are serious prodigies! Sign them up for some Irish dance lessons! </p><p>To cap off the night (no, I don't think they were terribly tired at this point), Carlos and Natalie had a surprise activity...the ILE Olympics! Students had to complete a relay race that included summersaulting, crab walking, dizzy stick race, water balloon toss, and human tic-tac-toe. The winners, \"Team Mark,\" received Hunk Dory chips and Crunchies. You'd think that everyone would be terribly exhausted by now, but alas, no! Mark gathered together all the kids and started a singing circle, led by Edward and Aspen on the guitar! They are really amazing musicians. The singing circle eventually lapsed into a frisbee game, and everyone soon after headed to their respective dorms, falling fast asleep and awaiting the next wonderful day. </p>"
+      },
+      {
+       "type": "image",
+       "id": "ed62da1",
+       "style": {
+        "": {
+         "max-width": "99.652%",
+         "text-align": "center"
+        }
+       },
+       "src": "/images/wp/2023/07/20230703_080922_1F8172.jpeg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "45a30ab",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "dcfeee7",
+       "style": {},
+       "src": "/images/wp/2023/07/20230703_080940_9FC81E.jpeg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 16
+    }
+   ],
+   "structure": "34"
+  },
+  {
+   "type": "section",
+   "id": "8d531f3",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "abd6819",
+     "style": {},
+     "children": [],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

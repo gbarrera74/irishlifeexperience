@@ -1,0 +1,73 @@
+{
+ "slug": "how-fab-is-the-gift-of-the-gab",
+ "title": "How fab is the gift of the gab?!",
+ "path": "/blog/how-fab-is-the-gift-of-the-gab/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "32ed930",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "100a759",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "987d788",
+       "style": {},
+       "src": "/images/wp/2023/07/20230716_154340_FD8F1B.jpeg",
+       "alt": "",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "9f164de",
+       "style": {},
+       "src": "/images/wp/2023/07/20230717_134323_D7ED82.jpeg",
+       "alt": "",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "268d6e1",
+       "style": {},
+       "src": "/images/wp/2023/07/IMG_3798-scaled.jpg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "abc3765",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "7881a95",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Goooooood morning!!! And goodbye to Dublin :( Awhh…how sad!!!! But soon we will be in our new home—Killarney! Everyone is itching for a change, I think. We had our last breakfast—scones (and the other normal selection as well), and everyone savored it very much, I’m sure—as this is our last meal that will be prepared for us on the trip! For the next week, we will have to cook and pack all of our own meals!</p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">We then met Jerry, our wonderful bus driver who will be staying with us through Killarney and Galway! We hopped on the bus, driving forth through the lashing rain towards our next wonderful adventure.</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Our first stop was the very scenic Blarney Castle. At this point, the rain had abated and the sun was peeking out from behind the last wisps of storm cloud, so we all ate our packed lunches then (are you surprised?) took a group picture!! Everyone then had an hour to go kiss the Blarney Stone or explore Blarney’s multitudes of GORGEOUS gardens—like the Fern Garden, the Vietnamese Garden, the Poison Garden, the Carnivorous Garden, or the Fairy Garden. There were even special little things mixed around in there, like a Druid’s Stone, the Witches Cave, and the Stone Circle. Clare and Cassidy decided to explore the grounds, and everyone else headed for the castle (fun fact—the stained glass windows in Blarney are actually crocheted granny squares. They look very similar, but the yarn won’t break quite as easily as glass!).</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Some people also got a 99 before we left. For those of you who don’t know, 99s are a delicious ice cream with a piece of chocolate called a ‘Flake’ in it—and they are named that because they used to cost 99 cents.</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">We then hopped on the bus once more, and everyone got a bit of shut-eye before we got to the Killarney Tesco. Here, everyone received a stipend to go purchase their groceries for the next three days. Some people deigned for frozen pizzas, whilst others (Tucker) invested in fancier ingredients, like sirloin steaks. We cannot wait to see what everyone cooks up!</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Finally, everyone arrived home to our apartments—and these are certainly much fancier than our boarding school rooms! Everyone has their own kitchen, living room, dining room, and bedrooms! Aspen was very excited to go do some laps in the pool, and some of the others were very excited to go to the Fair in Killarney (a lovely 20-minute walk from the apartments).</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">After making their respective dinners (ironically, most rooms went with variations on different pastas), we all had free time around campus, although most people chose to head to sleep pretty much right away. Goodnight from our new home in Killarney!</span></p>"
+      },
+      {
+       "type": "google_maps",
+       "id": "28a8e4a",
+       "style": {}
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  }
+ ]
+}

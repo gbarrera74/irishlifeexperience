@@ -1,0 +1,92 @@
+{
+ "slug": "meet-connor-mulvaney",
+ "title": "Meet Connor Mulvaney",
+ "path": "/blog/meet-connor-mulvaney/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "b06ea49",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b70d613",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "4b95ab7",
+       "style": {},
+       "src": "/images/wp/2025/05/cm1-scaled.jpg",
+       "alt": "Connor Fishing",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "abd346a",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "11622de",
+       "style": {
+        "": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>It is O-FISH-AL!  Connor Mulvaney will be joining the Irish Life Experience Dream Team for the 2025 Summer Program!</p><p>Hi!</p><p>My name is Connor, and I am originally from Everett, Washington.  I went to school at Montana State University.  Go Cats!</p><p>I am currently a High School Computer Science Teacher in Polson, Montana.</p><p>I enjoy learning about all things science and computer-related.  When not in the classroom, I like to spend time outside biking, floating, fishing, and hiking.</p><p>I am excited to visit Ireland for the first time and spend more time with an amazing group of people-both staff and students!</p><p>I know we will have a fin-tastic time!</p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "ecaa4db",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "25931a7",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "91da730",
+       "style": {},
+       "src": "/images/wp/2025/05/cm3-scaled.jpg",
+       "alt": "Connor Candid",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "b50e8e8",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "f1abcd2",
+       "style": {},
+       "src": "/images/wp/2025/05/cm2-scaled.jpg",
+       "alt": "Connor Rafting",
+       "link": null
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  }
+ ]
+}

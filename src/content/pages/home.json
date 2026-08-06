@@ -1,0 +1,1583 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "path": "/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "6c45d47",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.6"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "6px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "088ee1b",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "spacer",
+       "id": "884ebbd",
+       "style": {},
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "2a2bd4f",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "0em 0em 0em 0em",
+         "margin": "9px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "end"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "43px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "-1.5px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Irish Summer Program",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "ad8dce9",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "7px 7px 0px 7px"
+        },
+        "": {
+         "text-align": "end"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Oswald\", Sans-serif",
+         "font-size": "0.8em",
+         "font-weight": "normal",
+         "text-transform": "uppercase",
+         "line-height": "1.6em",
+         "letter-spacing": "6.8px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "We are the experts in international student travel!",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "0db9ab9",
+       "style": {},
+       "size": 10
+      },
+      {
+       "type": "section",
+       "id": "2cfd5f6",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#FFFFFF54"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#FFFFFF54"
+        },
+        "": {
+         "border-radius": "14px 14px 14px 14px",
+         "padding": "2px 2px 2px 2px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "14px 14px 14px 14px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "813e7fe",
+         "style": {},
+         "children": [
+          {
+           "type": "form",
+           "id": "cdde9ef",
+           "style": {
+            ".elementor-field-group > label": {
+             "color": "#FFFFFF",
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "16px",
+             "font-weight": "700"
+            },
+            ".elementor-field-subgroup label": {
+             "color": "#FFFFFF",
+             "font-size": "16px"
+            },
+            ".dce-signature-wrapper": {
+             "text-align": "left"
+            },
+            ".dce-signature-canvas": {
+             "border-radius": "3px 3px 3px 3px",
+             "background-color": "#ffffff"
+            },
+            ".dce-signature-button-clear": {
+             "color": "#e62626"
+            },
+            ".dce-signature-button-clear i": {
+             "color": "#e62626",
+             "font-size": "16px"
+            },
+            ".elementor-field-group .elementor-field": {
+             "color": "#1E3A43",
+             "font-size": "16px"
+            },
+            ".select2-container--default .select2-selection--single .select2-selection__rendered": {
+             "color": "#1E3A43"
+            },
+            "..select2-container--default .select2-selection--multiple .select2-selection__rendered": {
+             "color": "#1E3A43"
+            },
+            ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-field-group .elementor-select-wrapper select": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-field-group .elementor-select-wrapper .select2": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".mce-panel": {
+             "background-color": "#ffffff"
+            },
+            ".elementor-field-group .mce-panel": {
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-button": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "12px",
+             "font-weight": "800",
+             "text-transform": "capitalize",
+             "letter-spacing": "1.8px",
+             "border-radius": "20px 20px 20px 20px"
+            },
+            ".e-form__buttons__wrapper__button-next": {
+             "background-color": "#61CE70",
+             "color": "#ffffff"
+            },
+            ".elementor-button[type=\"submit\"]": {
+             "background-color": "#61CE70",
+             "color": "#ffffff"
+            },
+            ".e-form__buttons__wrapper__button-previous": {
+             "color": "#ffffff"
+            },
+            ".e-form__buttons__wrapper__button-next:hover": {
+             "background-color": "#FFFFFF40",
+             "color": "#ffffff"
+            },
+            ".elementor-button[type=\"submit\"]:hover": {
+             "background-color": "#FFFFFF40",
+             "color": "#ffffff"
+            },
+            ".e-form__buttons__wrapper__button-previous:hover": {
+             "color": "#ffffff"
+            },
+            ".elementor-field-label-description:after": {
+             "border-radius": "50%",
+             "padding": "2px 0",
+             "line-height": "1",
+             "font-size": "80%",
+             "text-align": "center",
+             "color": "#ffffff",
+             "background-color": "#777777"
+            },
+            ".elementor-field-type-amount.elementor-field-group .dce-amount-visible": {
+             "opacity": "1"
+            },
+            ".elementor-field-type-dce_range input": {
+             "opacity": "1"
+            }
+           },
+           "formName": "Homepage Learn more",
+           "fields": [
+            {
+             "label": "First Name",
+             "type": "text",
+             "required": true,
+             "placeholder": null,
+             "options": null,
+             "html": null,
+             "id": "firstname"
+            },
+            {
+             "label": "Last Name",
+             "type": "text",
+             "required": true,
+             "placeholder": null,
+             "options": null,
+             "html": null,
+             "id": "lastname"
+            },
+            {
+             "label": "E-Mail",
+             "type": "text",
+             "required": true,
+             "placeholder": null,
+             "options": null,
+             "html": null,
+             "id": "email"
+            },
+            {
+             "label": "Program Year",
+             "type": "select",
+             "required": true,
+             "placeholder": null,
+             "options": "Select a Year\n2024\n2025\n2026\n2027",
+             "html": null,
+             "id": "program_year"
+            },
+            {
+             "label": "Grade",
+             "type": "select",
+             "required": false,
+             "placeholder": null,
+             "options": "Select a Grade\n8\n9\n10\n11\n12",
+             "html": null,
+             "id": "grade"
+            },
+            {
+             "label": "",
+             "type": "recaptcha_v3",
+             "required": false,
+             "placeholder": null,
+             "options": null,
+             "html": null,
+             "id": "field_b4da4f5"
+            },
+            {
+             "label": "",
+             "type": "honeypot",
+             "required": false,
+             "placeholder": null,
+             "options": null,
+             "html": null,
+             "id": "field_f33b138"
+            }
+           ],
+           "submit": "LEARN MORE"
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/07/IMG_1879-2-scaled.jpeg",
+   "slideshow": [
+    "/images/wp/2021/11/IMG_1879-2-scaled.jpeg",
+    "/images/wp/2021/11/30727297_10155840810949130_8651115417584009216_o.jpeg",
+    "/images/wp/2021/07/A83E2C8F-18C2-4948-AA99-583FD34C59B7.png",
+    "/images/wp/2021/11/IMG_2820-scaled.jpeg"
+   ]
+  },
+  {
+   "type": "section",
+   "id": "d28d748",
+   "style": {
+    "": {
+     "padding": "20px 20px 20px 20px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "54aa25e",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "1c271de",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "20px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "53px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "-1.5px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Why Us?",
+       "tag": "h4",
+       "link": null,
+       "size": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "5bf184e4",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px"
+    },
+    "": {
+     "padding": "0px 15px 40px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "5699d543",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "af73ade",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#61CE70"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#61CE70"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#61CE70"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "color": "#1E3A43"
+        },
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 10px 0px"
+        }
+       },
+       "icon": "hm hm-compass",
+       "title": "Discover a Different Culture",
+       "description": "Learn the language, cooking techniques, dancing, and more genuine ways of life.",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "324cabfa",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "57f4b42",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#E4978E"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#E4978E"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#E4978E"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "400",
+         "color": "#1E3A43"
+        },
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 10px 0px"
+        }
+       },
+       "icon": "hm hm-direction-both",
+       "title": "Explore Your Heritage",
+       "description": "Join our program to discover how your ancestors lived, worked, and played.",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "4d01d776",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "79d5237",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#F8DB6B"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#F8DB6B"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#F8DB6B"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "color": "#1E3A43"
+        },
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 10px 0px"
+        }
+       },
+       "icon": "hm hm-team-member",
+       "title": "Make Lifelong Friends",
+       "description": "Journey with a group of young people and find friends you will have for life.",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "2d242977",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "icon-box",
+       "id": "0d0acce",
+       "style": {
+        ".elementor-view-stacked .elementor-icon": {
+         "background-color": "#6EC1E4"
+        },
+        ".elementor-view-framed .elementor-icon": {
+         "color": "#6EC1E4"
+        },
+        ".elementor-view-default .elementor-icon": {
+         "color": "#6EC1E4"
+        },
+        ".elementor-icon-box-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        },
+        ".elementor-icon-box-title a": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-weight": "bold"
+        },
+        ".elementor-icon-box-description": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "icon": "hm hm-map-marker",
+       "title": "Experience Life Abroad",
+       "description": "Travel with us to see and appreciate all the beauty the world has to offer.",
+       "link": null
+      }
+     ],
+     "width": 25
+    }
+   ],
+   "structure": "40"
+  },
+  {
+   "type": "section",
+   "id": "656eb2b",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-container": {
+     "max-width": "1250px"
+    },
+    "": {
+     "padding": "33px 15px 50px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "8e2c7cd",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "section",
+       "id": "b3644cb",
+       "style": {
+        "> .elementor-container": {
+         "max-width": "1369px"
+        },
+        "": {
+         "padding": "0px 20px 0px 20px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "73101e9",
+         "style": {
+          ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+           "background-color": "#85E792"
+          },
+          "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+           "background-color": "#85E792"
+          },
+          ":hover > .elementor-element-populated": {
+           "background-color": "#6CD179"
+          },
+          "> .elementor-element-populated": {
+           "border-radius": "12px 12px 12px 12px",
+           "margin": "5px 0px 20px 0px",
+           "padding": "0px 0px 0px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "12px 12px 12px 12px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "12px 12px 12px 12px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "fe3fb47",
+           "style": {
+            "img": {
+             "opacity": "1",
+             "border-radius": "12px 12px 0px 0px"
+            },
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/07/IMG_3301-scaled.jpg",
+           "alt": "Burren View #2-Ellie 2016",
+           "link": null
+          },
+          {
+           "type": "heading",
+           "id": "e55dfed",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "00px 0px 0px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "2em",
+             "font-weight": "bold",
+             "line-height": "1.2em",
+             "letter-spacing": "-1.2px",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Program",
+           "tag": "h2",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "id": "9391e51",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "0px 0px 10px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Be Inspired to Travel",
+           "tag": "h4",
+           "link": null,
+           "size": "medium"
+          },
+          {
+           "type": "spacer",
+           "id": "4e6fcc7",
+           "style": {},
+           "size": null
+          }
+         ],
+         "width": 25
+        },
+        {
+         "type": "column",
+         "id": "3c5b53c",
+         "style": {
+          ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+           "background-color": "#E4978E"
+          },
+          "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+           "background-color": "#E4978E"
+          },
+          ":hover > .elementor-element-populated": {
+           "background-color": "#D88278"
+          },
+          "> .elementor-element-populated": {
+           "border-radius": "12px 12px 12px 12px",
+           "margin": "0px 0px 20px 0px",
+           "padding": "0px 0px 0px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "12px 12px 12px 12px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "12px 12px 12px 12px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "aa5bddb",
+           "style": {
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            },
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/07/IMG_1749-scaled.jpg",
+           "alt": "Giant's Causeway-Maggie and Manon Laugh 2016",
+           "link": null
+          },
+          {
+           "type": "heading",
+           "id": "61cfc7e",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "0px 0px 0px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "2em",
+             "font-weight": "bold",
+             "line-height": "1.2em",
+             "letter-spacing": "-1.2px",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Students",
+           "tag": "h2",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "id": "02c75d9",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "0px 0px 10px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Create Lifelong Memories",
+           "tag": "h4",
+           "link": null,
+           "size": "medium"
+          }
+         ],
+         "width": 25
+        },
+        {
+         "type": "column",
+         "id": "29eb9e9",
+         "style": {
+          ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+           "background-color": "#E7D27F"
+          },
+          "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+           "background-color": "#E7D27F"
+          },
+          ":hover > .elementor-element-populated": {
+           "background-color": "#E4CA64"
+          },
+          "> .elementor-element-populated": {
+           "border-radius": "12px 12px 12px 12px",
+           "margin": "0px 0px 20px 0px",
+           "padding": "0px 0px 0px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "12px 12px 12px 12px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "12px 12px 12px 12px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "582094e",
+           "style": {
+            "> .elementor-widget-container": {
+             "background-color": "#F8DB6B"
+            },
+            "img": {
+             "max-width": "100%",
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/10/IMG_2063-scaled.jpg",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "heading",
+           "id": "fec5b71",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "0px 0px 0px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "2em",
+             "font-weight": "bold",
+             "line-height": "1.2em",
+             "letter-spacing": "-1.2px",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Parents",
+           "tag": "h2",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "id": "dd882cf",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "0px 0px 10px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Book with Confidence",
+           "tag": "h4",
+           "link": null,
+           "size": "medium"
+          }
+         ],
+         "width": 25
+        },
+        {
+         "type": "column",
+         "id": "1242886",
+         "style": {
+          ":not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap": {
+           "background-color": "#B3D5EC"
+          },
+          "> .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+           "background-color": "#B3D5EC"
+          },
+          ":hover > .elementor-element-populated": {
+           "background-color": "#6EC1E4"
+          },
+          "> .elementor-element-populated": {
+           "border-radius": "12px 12px 12px 12px",
+           "margin": "0px 0px 0px 0px",
+           "padding": "0px 0px 0px 0px"
+          },
+          "> .elementor-element-populated > .elementor-background-overlay": {
+           "border-radius": "12px 12px 12px 12px"
+          },
+          "> .elementor-background-slideshow": {
+           "border-radius": "12px 12px 12px 12px"
+          }
+         },
+         "children": [
+          {
+           "type": "image",
+           "id": "7991116",
+           "style": {
+            "img": {
+             "border-radius": "12px 12px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2021/07/IMG_1979-scaled.jpg",
+           "alt": "Muckross House-Circle Group 2014",
+           "link": null
+          },
+          {
+           "type": "heading",
+           "id": "2398609",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "0px 0px 0px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Quicksand\", Sans-serif",
+             "font-size": "2em",
+             "font-weight": "bold",
+             "line-height": "1.2em",
+             "letter-spacing": "-1.2px",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Alumni",
+           "tag": "h2",
+           "link": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "id": "1e38b28",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "0px 0px 10px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "Connect and Promote the Program",
+           "tag": "h4",
+           "link": null,
+           "size": "medium"
+          }
+         ],
+         "width": 25
+        }
+       ],
+       "structure": "40"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "4e15ae0e",
+   "style": {
+    "": {
+     "padding": "0px 20px 50px 20px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "d330d97",
+     "style": {
+      "> .elementor-element-populated": {
+       "padding": "25px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "5548dfb2",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "15px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "start"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Céad Mile Fáilte",
+       "tag": "h4",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "text-editor",
+       "id": "190d1c85",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "15px 0px 0px 0px"
+        },
+        "": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "16px",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>The Irish Life Experience is a study abroad program in Ireland offered to high school students.&nbsp;&nbsp;</p>\n<p>During the summer in Ireland, students are introduced to its magical landscape and rich heritage through a variety of workshops, classes, and tours.&nbsp; Emphasizing culture, education, travel, safety, and fun, our programs ensure a unique and unforgettable journey for every student.</p>"
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "16e68e7a",
+     "style": {
+      "> .elementor-element-populated": {
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "image",
+       "id": "222e9bac",
+       "style": {
+        "img": {
+         "border-radius": "20px 20px 20px 20px",
+         "max-width": "100%"
+        },
+        "": {
+         "text-align": "start"
+        }
+       },
+       "src": "/images/wp/2021/07/IMG_8282-scaled.jpg",
+       "alt": "Dingle Peninsula-Group 2015",
+       "link": null
+      },
+      {
+       "type": "button",
+       "id": "e7cd20a",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "Learn More",
+       "link": ""
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "cb146da",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1045px",
+     "min-height": "16px"
+    },
+    "": {
+     "padding": "15px 15px 15px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "bf88a3f",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "spacer",
+       "id": "89710ff",
+       "style": {},
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "707964f",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "3.4em",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "-1.5px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Our Magical Video",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "ed8ad63",
+       "style": {},
+       "size": null
+      },
+      {
+       "type": "video",
+       "id": "84af6ec",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        }
+       },
+       "url": "https://www.youtube.com/watch?v=w8d55DRvlJk"
+      },
+      {
+       "type": "spacer",
+       "id": "7fde696",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/11/IMG_2287-scaled.jpeg",
+   "slideshow": [
+    "/images/wp/2021/07/IMG_1879-2-scaled.jpeg",
+    "/images/wp/2021/07/30727297_10155840810949130_8651115417584009216_o.jpeg",
+    "/images/wp/2021/07/A83E2C8F-18C2-4948-AA99-583FD34C59B7.png",
+    "/images/wp/2021/07/IMG_2820-scaled.jpg"
+   ]
+  },
+  {
+   "type": "section",
+   "id": "8ba30fa",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "1148px"
+    },
+    "": {
+     "padding": "20px 0px 0px 0px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "7263455",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "a8e0f6a",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 09px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "What People Say About Us",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "testimonial-carousel",
+       "id": "9d74e28",
+       "style": {
+        ".swiper-pagination-bullet-active": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-progressbar-fill": {
+         "background-color": "#74B843"
+        },
+        ".swiper-pagination-fraction": {
+         "color": "#74B843"
+        },
+        ".elementor-swiper-button": {
+         "font-size": "20px"
+        },
+        ".elementor-testimonial__text": {
+         "color": "#1E3A43",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "16px",
+         "text-transform": "none"
+        },
+        ".elementor-testimonial__name": {
+         "color": "#E4978E",
+         "font-size": "20px",
+         "font-weight": "900",
+         "text-transform": "uppercase"
+        },
+        ".elementor-testimonial__title": {
+         "color": "#1E3A43",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "text-transform": "uppercase"
+        }
+       },
+       "slides": [
+        {
+         "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
+         "name": "Sean K.",
+         "detail": "Seekonk, MA-Parent of Ian 2019",
+         "image": "/images/wp/2021/10/IMG_0029.png"
+        },
+        {
+         "quote": "Thank you Irish Life Experience and Taryn for an amazing life-changing experience for my daughter.",
+         "name": "Peggy L.",
+         "detail": "Canton, GA-Parent of Elizabeth 2019",
+         "image": "/images/wp/2021/10/IMG_0091.png"
+        },
+        {
+         "quote": "The summer of 2019 was my favorite summer.  There was never a dull moment during the whole trip.",
+         "name": "Daniel S.",
+         "detail": "Brielle, NJ-Student 2019",
+         "image": "/images/wp/2021/10/IMG_9343.png"
+        },
+        {
+         "quote": "To say this program is amazing is an understatement. There are not enough words to describe this once is a lifetime opportunity.",
+         "name": "Hannah B.",
+         "detail": "Channahon, IL-Student 2017",
+         "image": "/images/wp/2021/10/20841156_1913146842235965_4210053887803783594_n.png"
+        },
+        {
+         "quote": "Everything about ILE is really wonderful.  My daughter came home seeming much more mature and independent. She did so much sightseeing it’s unbelievable!",
+         "name": "Eileen G.",
+         "detail": "Brooklyn, NY-Parent of EVA 2022",
+         "image": "/images/wp/2022/09/eva-formatted.jpg"
+        },
+        {
+         "quote": "No words–no poetry, songs, music, books–or even a collection of books–can truly describe the Irish Life Experience and the magic that ebbs from deep within The Emerald Isle itself.",
+         "name": "Nathalie H.",
+         "detail": "St. Ignatius, MT-Student 2022",
+         "image": "/images/wp/2022/09/nathalie-formatted.jpg"
+        },
+        {
+         "quote": "This trip was absolutely worth it. My group was pretty great and I think I made some lifetime friends. Thanks so much Taryn, Miles and all the other counselors involved!",
+         "name": "Cameron D.",
+         "detail": "Honolulu, HI-Student 2022",
+         "image": "/images/wp/2022/09/cameron-formatted.jpg"
+        }
+       ],
+       "slidesPerView": "2"
+      },
+      {
+       "type": "button",
+       "id": "c0e6cef",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 20px 0px"
+        }
+       },
+       "text": "See More Testimonials",
+       "link": ""
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "163b0ab",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#F4EFEB"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#F4EFEB"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px"
+    },
+    "": {
+     "padding": "33px 15px 50px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "cd51cea",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "bf3095c",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "1.9px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Our Latest  News",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "sbi-widget",
+       "id": "b3d50bb",
+       "style": {}
+      },
+      {
+       "type": "spacer",
+       "id": "54235ea",
+       "style": {},
+       "size": null
+      },
+      {
+       "type": "posts",
+       "id": "a23950c",
+       "style": {
+        ".elementor-post": {
+         "border-radius": "12px",
+         "padding": "10px 10px 10px 10px",
+         "background-color": "#FFFFFF"
+        },
+        ".elementor-post__text": {
+         "padding": "12px 12px 12px 12px"
+        },
+        ".elementor-post__title": {
+         "color": "#61CE70",
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "700"
+        },
+        ".elementor-post__title a": {
+         "color": "#61CE70",
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "23px",
+         "font-weight": "700"
+        },
+        ".elementor-post__meta-data": {
+         "color": "#7A7A7A"
+        },
+        ".elementor-post__excerpt p": {
+         "color": "#000000",
+         "font-family": "\"Quicksand\", Sans-serif"
+        },
+        ".elementor-post__read-more": {
+         "color": "#6EC1E4"
+        },
+        "a.elementor-post__read-more": {
+         "font-size": "14px"
+        },
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 10px 0px"
+        }
+       },
+       "postType": "post",
+       "perPage": null,
+       "readMore": null
+      },
+      {
+       "type": "spacer",
+       "id": "842b016",
+       "style": {},
+       "size": 20
+      },
+      {
+       "type": "button",
+       "id": "629f994",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "View More",
+       "link": ""
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "364c62f",
+   "style": {
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "1f55323",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "7c5b45f",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "0em 0em 0em 0em"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "text-transform": "none",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Our Trusted Partners",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "image-carousel",
+       "id": "e61aa39",
+       "style": {
+        ".elementor-swiper-button.elementor-swiper-button-prev": {
+         "color": "#19447359"
+        },
+        ".elementor-swiper-button.elementor-swiper-button-next": {
+         "color": "#19447359"
+        }
+       },
+       "images": [
+        "/images/wp/2021/10/IACI.png",
+        "/images/wp/2021/10/goblue.png",
+        "/images/wp/2021/10/juniper.png",
+        "/images/wp/2021/10/landmark.png",
+        "/images/wp/2021/11/goinspired.png",
+        "/images/wp/2021/11/irishamericansociety.png",
+        "/images/wp/2021/11/quest.png",
+        "/images/wp/2026/01/eb-logo.png"
+       ],
+       "slidesPerView": null
+      },
+      {
+       "type": "spacer",
+       "id": "c901a46",
+       "style": {},
+       "size": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "d0639f6",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "0455029",
+     "style": {},
+     "children": [],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

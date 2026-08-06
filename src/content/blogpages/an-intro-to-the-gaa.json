@@ -1,0 +1,95 @@
+{
+ "slug": "an-intro-to-the-gaa",
+ "title": "An Intro to the GAA",
+ "path": "/blog/an-intro-to-the-gaa/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "cb5ff70",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "336772a",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "f3d3cbc",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/image.png",
+       "alt": "GAA Workshop-Cameron 2022",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "43efbf8",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/image.png",
+       "alt": "GAA Workshop-Mark 2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "f087613",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "a31b9f6",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">For the first half of Tuesday, the kids took classes. They started by learning hurling and Gaelic football from Mark-a resident GAA Coach.&nbsp; They had a blast learning life lessons and the two sports in preparation for the All Ireland Semi-Football Final we will be attending on July 10th.&nbsp; Some quotes include, “ If you are enjoying something, you are going to keep going regardless of your ability.”&nbsp; &nbsp;Mark asked what the kids took away from their class.&nbsp; &nbsp;Sarah said they learned to communicate better, Morgan said it is ok that they made mistakes, and Nora said that mistakes or not, we can laugh.</span></p>\n<p><span style=\"font-weight: 400;\">Micheal also joined us today.&nbsp; They covered Irish history and began learning Gaelic.&nbsp; After that, students were signed up for workshops and had time to explore Waterford.&nbsp;&nbsp;</span></p><p><span style=\"font-weight: 400;\">Next,&nbsp;</span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">they gathered in the cafeteria for a hearty lunch at 1:00 PM, cooked by our lovely Newtown ladies.&nbsp; The kids also participated in a scone baking workshop and did so well!&nbsp; The scones turned out beautiful.&nbsp; After baking, they decided to taste their delicious creations.&nbsp; Morgan said that the scone workshop was fun.&nbsp; She has never made scones before, but it looking forward to making these for her family back home. The next workshop was taught by Kylene, where students had the opportunity to create Irish keychains.&nbsp;&nbsp;</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">While exploring Waterford, Amelia loved discovering that Mcdonald's has mozzarella sticks and bought her brother a souvenir.&nbsp; The day ended with Irish dance and drama group-followed by a scavenger hunt.</span></p><p>For the scavenger hunt, they had to bring back a coffee cup, a flyer for a business, and a picture of a local official-among other things.&nbsp; John, Keira, Natalie, and Norah ended up claiming the victory and were treated to some delicious Irish candy!</p>"
+      }
+     ],
+     "width": 66
+    }
+   ],
+   "structure": "21"
+  },
+  {
+   "type": "section",
+   "id": "c37abb9",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "1c98c13",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "3a61758",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_6974-scaled.jpg",
+       "alt": "GAA Workshop-Group 2022",
+       "link": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "cairde-a-new-tiktok-sensation",
+ "title": "Cairde-A New TikTok Sensation",
+ "path": "/blog/cairde-a-new-tiktok-sensation/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "42f5713",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "4f1c391",
+     "style": {},
+     "children": [
+      {
+       "type": "spacer",
+       "id": "c1488bf",
+       "style": {},
+       "size": null
+      },
+      {
+       "type": "image",
+       "id": "385b595",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/12/MI_Cairde_-_Cairde_.jpg",
+       "alt": "Cairde #1",
+       "link": null
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "e848e46",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "8b70f8a",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Cairde is a new collaboration of very experienced dancers from around Ireland.  Made up of seven dancers from Clare, Cork, and Galway, they began sharing their passion in 2017 at the Fleadh Cheoil in Ennis, County Clare.  <span style=\"font-size: 1rem;\">  </span></p><p>Named after their favorite coffee shop they used to hang out in Ennis, the name means \"friends\" in Ireland.  Their modern take on Irish dance with current and popular music along with unique choreography is sure to entertain any audience. </p><p>Cairde has over 2 million followers on TikTok and is the most followed Irish dance group on social media.  Their most popular video was set to the viral tune, \"Banjo Beats\" and has over 85 million views.  <span style=\"font-size: 1rem;\">They have also been on The Late Late Show in Ireland and Good Morning America on ABC.  Move over Riverdance, because what originally started as just some friends looking to have a little bit of craic has swept the world as the new Irish dance sensation. </span></p><p><em>Written by Taryn Harrison</em></p>"
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

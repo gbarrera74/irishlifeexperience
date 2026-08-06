@@ -1,0 +1,131 @@
+{
+ "slug": "lost-in-the-cycle",
+ "title": "Lost in the Cycle",
+ "path": "/blog/lost-in-the-cycle/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "119f02e",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "dd42fff",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "8224683",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/7-3.jpg",
+       "alt": "Deise Greenway Viaduct-2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "c682438",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "c5aab5e",
+       "style": {
+        "img": {
+         "max-width": "57%",
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_6876-scaled.jpg",
+       "alt": "Deise Greenway-Kaylee 2022",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "f9af51c",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "3aef415",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/7-3.jpg",
+       "alt": "Deise Greenway-Small Group Jumping",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  },
+  {
+   "type": "section",
+   "id": "8fefdb7",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "fac9225",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "4de8d60",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">The students were up bright and early today for breakfast and another full day of classes.  Students learned about James Joyce with Angie and Miles educated the students about the Famine.  Taryn used Irish Studies today for a taste test and had the students try Blaa (A doughy bread made only in Waterford.), Irish candy, Lucozade, and other unique snacks.  The kids loved getting to try all the different types of food and are excited to keep exploring the cuisine here.</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">After a quick lunch in the cafeteria of Newtown, they group boarded the bus by 1:30 PM for their trip to the Deise Greenway.  Upon arrival, they rented bicycles from our friend, Garvan-ironically in the town of Dungarvan.  They biked about 8 miles along the Greenway and soaked in the beauty of Ireland.  They went through some trees and forests as well as along the beautiful coast.  Cameron even rode a bike for the first time today!  The group was very proud of him for trying new things, and he did great!  Along the way, they stopped at a small beach to rest before continuing onward.  They made it to Dungarvan and hopped back onto the bus to Newtown. </span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">They did have a slight detour to pick up Miles from his run, could not find him, and learned he had caught a bus back to Waterford and was already miles away!  Turns out even counselors need the buddy system.  After that slight delay, the group was on their way back for dinner at Newtown.  The lovely cafeteria ladies were so kind as always and made sure we had a hot dinner-even after being late. </span></p><p><span style=\"font-weight: 400;\">After a short bit of free time, the students gathered for dance and drama.  They started ceili dancing today in groups and are really getting good!  In drama, they finished their limericks from the previous night and got started on a music video.  The music videos are all set to classic Irish songs and will be created and directed by the students.  We cannot wait to share the end products!  They ended the day with another night of movies, games, and soccer.</span></p><p><span style=\"font-weight: 400;\">A few limericks the students wrote:</span></p><p><em><span style=\"font-weight: 400;\">James Joyce’s life was pretty grim.</span></em></p><p><em><span style=\"font-weight: 400;\">It began when his wife ghosted him,</span></em></p><p><em><span style=\"font-weight: 400;\">Unfortunately her name was Barnacle.</span></em></p><p><em><span style=\"font-weight: 400;\">And he was often banned from his school article,</span></em></p><p><em><span style=\"font-weight: 400;\">But he certainly wasn’t dim!</span></em></p><p><span style=\"font-weight: 400;\"> </span></p><p><em><span style=\"font-weight: 400;\">There was a man named Samuel Beckett,</span></em></p><p><em><span style=\"font-weight: 400;\">Here’s his works now respect it.</span></em></p><p><em><span style=\"font-weight: 400;\">There’s Waiting for Gadot,</span></em></p><p><em><span style=\"font-weight: 400;\">Which earned him the dough,</span></em></p><p><em><span style=\"font-weight: 400;\">You’ll like his work now check it.</span></em></p><p><span style=\"font-weight: 400;\"> </span></p><p><em><span style=\"font-weight: 400;\">A man who won the Noble Prize,</span></em></p><p><em><span style=\"font-weight: 400;\">But also a sight for sore eyes.</span></em></p><p><em><span style=\"font-weight: 400;\">Rejected many times,</span></em></p><p><em><span style=\"font-weight: 400;\">Going after young minds,</span></em></p><p><em><span style=\"font-weight: 400;\">Truly a man to criticize.</span></em></p><p><span style=\"font-weight: 400;\">It was a busy day, but a fun one!  Tomorrow is a day full of tours and new sites, so stay tuned.</span></p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "2aff324",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "30b1073",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "74bc67c",
+       "style": {
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2022/07/IMG_6894-scaled.jpg",
+       "alt": "Deise Greenway-Group 2022",
+       "link": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,728 @@
+[
+ {
+  "slug": "meet-james-stone",
+  "title": "Meet James Stone",
+  "path": "/blog/meet-james-stone/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-natalie-helser",
+  "title": "Meet Natalie Helser",
+  "path": "/blog/meet-natalie-helser/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-tyler-krell",
+  "title": "Meet Tyler Krell",
+  "path": "/blog/meet-tyler-krell/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-kaytlin-dwyer",
+  "title": "Meet Kaytlin Dwyer",
+  "path": "/blog/meet-kaytlin-dwyer/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-joy-smits",
+  "title": "Meet Joy Smits",
+  "path": "/blog/meet-joy-smits/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-liam-bevan",
+  "title": "Meet Liam Bevan",
+  "path": "/blog/meet-liam-bevan/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-helen-tonra",
+  "title": "Meet Helen Tonra",
+  "path": "/blog/meet-helen-tonra/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-clare-broderick",
+  "title": "Meet Clare Broderick",
+  "path": "/blog/meet-clare-broderick/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-sarah-klaus",
+  "title": "Meet Sarah Klaus",
+  "path": "/blog/meet-sarah-klaus/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-connor-mulvaney",
+  "title": "Meet Connor Mulvaney",
+  "path": "/blog/meet-connor-mulvaney/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-clare-konen",
+  "title": "Meet Clare Konen",
+  "path": "/blog/meet-clare-konen/",
+  "hasCss": true
+ },
+ {
+  "slug": "im-home-now-what",
+  "title": "I’m Home…Now What?",
+  "path": "/blog/im-home-now-what/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-letter-to-ile-2024",
+  "title": "A Letter to ILE 2024",
+  "path": "/blog/a-letter-to-ile-2024/",
+  "hasCss": true
+ },
+ {
+  "slug": "on-our-merry-galway",
+  "title": "On Our Merry (Gal)Way",
+  "path": "/blog/on-our-merry-galway/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-wheely-drizzly-delightful-day",
+  "title": "A Wheely Drizzly, Delightful Day!",
+  "path": "/blog/a-wheely-drizzly-delightful-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "could-you-ask-for-a-kylemore-perfect-day",
+  "title": "Could You Ask For a (Kyle)More Perfect Day?",
+  "path": "/blog/could-you-ask-for-a-kylemore-perfect-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "anything-but-burren",
+  "title": "Anything but Burren",
+  "path": "/blog/anything-but-burren/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-bunratty-day",
+  "title": "A Bun(ratty) Day",
+  "path": "/blog/a-bunratty-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-slea-day",
+  "title": "A Slea Day!",
+  "path": "/blog/a-slea-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "kissaint-no-joke-today",
+  "title": "Kissain’t no Joke Today",
+  "path": "/blog/kissaint-no-joke-today/",
+  "hasCss": true
+ },
+ {
+  "slug": "what-a-fab-gift-of-the-gab",
+  "title": "What a Fab Gift of the Gab!",
+  "path": "/blog/what-a-fab-gift-of-the-gab/",
+  "hasCss": true
+ },
+ {
+  "slug": "dublin-the-fun",
+  "title": "Dublin the Fun",
+  "path": "/blog/dublin-the-fun/",
+  "hasCss": true
+ },
+ {
+  "slug": "croke-aint-no-joke",
+  "title": "Croke Ain’t No Joke",
+  "path": "/blog/croke-aint-no-joke/",
+  "hasCss": true
+ },
+ {
+  "slug": "dancing-the-night-away",
+  "title": "Dancing the Night Away",
+  "path": "/blog/dancing-the-night-away/",
+  "hasCss": true
+ },
+ {
+  "slug": "an-epic-day-3",
+  "title": "An Epic Day",
+  "path": "/blog/an-epic-day-3/",
+  "hasCss": true
+ },
+ {
+  "slug": "guinness-what",
+  "title": "Guinness What?",
+  "path": "/blog/guinness-what/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-giant-cause-for-a-great-day",
+  "title": "A Giant Cause for a Great Day",
+  "path": "/blog/a-giant-cause-for-a-great-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "no-treble-whistlin-today",
+  "title": "No Treble Whistlin’ Today!",
+  "path": "/blog/no-treble-whistlin-today/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-tree-mendous-day",
+  "title": "A Tree-mendous Day",
+  "path": "/blog/a-tree-mendous-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "today-was-so-da-bomb",
+  "title": "Today was “so-da” bomb",
+  "path": "/blog/today-was-so-da-bomb/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-fortunate-day-you-couldnt-even-put-a-cork-in-it",
+  "title": "A “fort”unate day, you couldn’t even put a cork in it!",
+  "path": "/blog/a-fortunate-day-you-couldnt-even-put-a-cork-in-it/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-fair-ly-fun-day-what-tra-more-could-you-want",
+  "title": "A “Fair”-ly Fun Day! What Tra-More Could You Want?",
+  "path": "/blog/a-fair-ly-fun-day-what-tra-more-could-you-want/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-reign-y-day",
+  "title": "A Reign-y Day",
+  "path": "/blog/a-reign-y-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "crystal-clear-we-love-the-ile",
+  "title": "Crystal Clear we love the ILE",
+  "path": "/blog/crystal-clear-we-love-the-ile/",
+  "hasCss": true
+ },
+ {
+  "slug": "new-things-in-newtown",
+  "title": "New Things in Newtown",
+  "path": "/blog/new-things-in-newtown/",
+  "hasCss": true
+ },
+ {
+  "slug": "welcome-ile-2024",
+  "title": "Welcome ILE 2024!",
+  "path": "/blog/welcome-ile-2024/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-final-farewell",
+  "title": "A Final Farewell",
+  "path": "/blog/a-final-farewell/",
+  "hasCss": true
+ },
+ {
+  "slug": "all-5-days-in-the-gorgeous-galway",
+  "title": "All 5 Days in the Gorgeous Galway…",
+  "path": "/blog/all-5-days-in-the-gorgeous-galway/",
+  "hasCss": true
+ },
+ {
+  "slug": "inch-by-inch-through-ireland",
+  "title": "Inch by Inch through Ireland…",
+  "path": "/blog/inch-by-inch-through-ireland/",
+  "hasCss": true
+ },
+ {
+  "slug": "ken-mare-you-believe-this-awesome-day",
+  "title": "Ken (mare) you believe this awesome day?!",
+  "path": "/blog/ken-mare-you-believe-this-awesome-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "how-fab-is-the-gift-of-the-gab",
+  "title": "How fab is the gift of the gab?!",
+  "path": "/blog/how-fab-is-the-gift-of-the-gab/",
+  "hasCss": true
+ },
+ {
+  "slug": "glad-for-trad",
+  "title": "Glad for Trad",
+  "path": "/blog/glad-for-trad/",
+  "hasCss": true
+ },
+ {
+  "slug": "were-dublin-our-luck-today",
+  "title": "We’re Dublin Our Luck Today!",
+  "path": "/blog/were-dublin-our-luck-today/",
+  "hasCss": true
+ },
+ {
+  "slug": "iles-got-talent-3",
+  "title": "ILE’s Got Talent!",
+  "path": "/blog/iles-got-talent-3/",
+  "hasCss": true
+ },
+ {
+  "slug": "an-epic-day-2",
+  "title": "An EPIC day!",
+  "path": "/blog/an-epic-day-2/",
+  "hasCss": true
+ },
+ {
+  "slug": "up-the-cats",
+  "title": "Up the Cats!!!",
+  "path": "/blog/up-the-cats/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-giant-cause-for-celebration",
+  "title": "A Giant Cause for celebration!",
+  "path": "/blog/a-giant-cause-for-celebration/",
+  "hasCss": true
+ },
+ {
+  "slug": "irish-you-the-best-of-days",
+  "title": "Irish you the best of days!",
+  "path": "/blog/irish-you-the-best-of-days/",
+  "hasCss": true
+ },
+ {
+  "slug": "from-newtown-to-a-new-town",
+  "title": "From Newtown to a new town…",
+  "path": "/blog/from-newtown-to-a-new-town/",
+  "hasCss": true
+ },
+ {
+  "slug": "watery-day-in-waterford",
+  "title": "Watery Day in Waterford",
+  "path": "/blog/watery-day-in-waterford/",
+  "hasCss": true
+ },
+ {
+  "slug": "you-kin-say-le-that-was-a-good-day",
+  "title": "You Kin-SAY-le that was a good day!",
+  "path": "/blog/you-kin-say-le-that-was-a-good-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "lets-indepen-dance-the-day-away",
+  "title": "Let’s Indepen-Dance The Day Away!",
+  "path": "/blog/lets-indepen-dance-the-day-away/",
+  "hasCss": true
+ },
+ {
+  "slug": "tire-some-but-a-wheelie-fun-day",
+  "title": "Tire-some, but a wheelie fun day!",
+  "path": "/blog/tire-some-but-a-wheelie-fun-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "classes-and-ceilis",
+  "title": "Classes and Céilís",
+  "path": "/blog/classes-and-ceilis/",
+  "hasCss": true
+ },
+ {
+  "slug": "keepin-it-glassy",
+  "title": "Keepin’ it glassy",
+  "path": "/blog/keepin-it-glassy/",
+  "hasCss": true
+ },
+ {
+  "slug": "home-in-ireland",
+  "title": "Home in Ireland!!!",
+  "path": "/blog/home-in-ireland/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-maire-oshaughnessy",
+  "title": "Meet Máire O’Shaughnessy",
+  "path": "/blog/meet-maire-oshaughnessy/",
+  "hasCss": true
+ },
+ {
+  "slug": "program-online-meet-and-greet",
+  "title": "Program Meet and Greet",
+  "path": "/blog/program-online-meet-and-greet/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-carlos-garcia",
+  "title": "Meet Carlos Garcia",
+  "path": "/blog/meet-carlos-garcia/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-kaylee-schubert",
+  "title": "Meet Kaylee Schubert",
+  "path": "/blog/meet-kaylee-schubert/",
+  "hasCss": true
+ },
+ {
+  "slug": "an-international-perspective",
+  "title": "An International Perspective",
+  "path": "/blog/an-international-perspective/",
+  "hasCss": true
+ },
+ {
+  "slug": "top-10-reasons-from-parents-to-study-abroad",
+  "title": "Top 10 Reasons from Parents to Study Abroad",
+  "path": "/blog/top-10-reasons-from-parents-to-study-abroad/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-slean-day-2",
+  "title": "A Slean Day",
+  "path": "/blog/a-slean-day-2/",
+  "hasCss": true
+ },
+ {
+  "slug": "not-a-burren-day-2",
+  "title": "Not a “Burren” Day!",
+  "path": "/blog/not-a-burren-day-2/",
+  "hasCss": true
+ },
+ {
+  "slug": "goodbye-dublin",
+  "title": "Goodbye, Dublin!",
+  "path": "/blog/goodbye-dublin/",
+  "hasCss": true
+ },
+ {
+  "slug": "in-dublins-fair-city-2",
+  "title": "In Dublin’s Fair City",
+  "path": "/blog/in-dublins-fair-city-2/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-legend-of-a-day",
+  "title": "A Legend of a Day",
+  "path": "/blog/a-legend-of-a-day/",
+  "hasCss": true
+ },
+ {
+  "slug": "iles-got-talent-2",
+  "title": "ILE’s Got Talent",
+  "path": "/blog/iles-got-talent-2/",
+  "hasCss": true
+ },
+ {
+  "slug": "tours-on-tours-on-tours",
+  "title": "Tours on Tours on Tours",
+  "path": "/blog/tours-on-tours-on-tours/",
+  "hasCss": true
+ },
+ {
+  "slug": "activities-galore",
+  "title": "Activities Galore",
+  "path": "/blog/activities-galore/",
+  "hasCss": true
+ },
+ {
+  "slug": "up-the-kingdom",
+  "title": "Up the Kingdom!",
+  "path": "/blog/up-the-kingdom/",
+  "hasCss": true
+ },
+ {
+  "slug": "ile-olympics",
+  "title": "ILE Olympics!",
+  "path": "/blog/ile-olympics/",
+  "hasCss": true
+ },
+ {
+  "slug": "goodbye-waterford",
+  "title": "Goodbye, Waterford!",
+  "path": "/blog/goodbye-waterford/",
+  "hasCss": true
+ },
+ {
+  "slug": "happy-birthday-cameron",
+  "title": "Happy Birthday, Cameron!",
+  "path": "/blog/happy-birthday-cameron/",
+  "hasCss": true
+ },
+ {
+  "slug": "elementor-9873",
+  "title": "ILE Music Videos",
+  "path": "/blog/elementor-9873/",
+  "hasCss": false
+ },
+ {
+  "slug": "gift-of-the-gab",
+  "title": "Gift of the Gab",
+  "path": "/blog/gift-of-the-gab/",
+  "hasCss": true
+ },
+ {
+  "slug": "an-intro-to-the-gaa",
+  "title": "An Intro to the GAA",
+  "path": "/blog/an-intro-to-the-gaa/",
+  "hasCss": true
+ },
+ {
+  "slug": "castles-cathedrals-and-craic",
+  "title": "Castles, Cathedrals, and Craic!",
+  "path": "/blog/castles-cathedrals-and-craic/",
+  "hasCss": true
+ },
+ {
+  "slug": "lost-in-the-cycle",
+  "title": "Lost in the Cycle",
+  "path": "/blog/lost-in-the-cycle/",
+  "hasCss": true
+ },
+ {
+  "slug": "waterford-historical-experts",
+  "title": "Waterford Historical Experts",
+  "path": "/blog/waterford-historical-experts/",
+  "hasCss": true
+ },
+ {
+  "slug": "team-no-sleep",
+  "title": "Team No Sleep",
+  "path": "/blog/team-no-sleep/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-miles-bryan",
+  "title": "Meet Miles Bryan",
+  "path": "/blog/meet-miles-bryan/",
+  "hasCss": true
+ },
+ {
+  "slug": "top-10-reasons-to-study-abroad",
+  "title": "Top 10 Reasons to Study Abroad",
+  "path": "/blog/top-10-reasons-to-study-abroad/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-kylene-berna",
+  "title": "Meet Kylene Berna",
+  "path": "/blog/meet-kylene-berna/",
+  "hasCss": true
+ },
+ {
+  "slug": "hot-off-the-press-from-alumna-author",
+  "title": "Hot Off the Press from Alumna Author",
+  "path": "/blog/hot-off-the-press-from-alumna-author/",
+  "hasCss": true
+ },
+ {
+  "slug": "covid-19-protocol",
+  "title": "Covid-19 Protocol",
+  "path": "/blog/covid-19-protocol/",
+  "hasCss": true
+ },
+ {
+  "slug": "bloody-sunday-five-decades-after",
+  "title": "Bloody Sunday-Five Decades After",
+  "path": "/blog/bloody-sunday-five-decades-after/",
+  "hasCss": true
+ },
+ {
+  "slug": "forever-grateful",
+  "title": "Forever Grateful",
+  "path": "/blog/forever-grateful/",
+  "hasCss": true
+ },
+ {
+  "slug": "gracing-us-with-her-vision",
+  "title": "Gracing Us With Her Vision",
+  "path": "/blog/gracing-us-with-her-vision/",
+  "hasCss": true
+ },
+ {
+  "slug": "riverdance-the-animated-adventure",
+  "title": "Riverdance:  The Animated Adventure",
+  "path": "/blog/riverdance-the-animated-adventure/",
+  "hasCss": true
+ },
+ {
+  "slug": "irish-christmas-cake",
+  "title": "Irish Christmas Cake",
+  "path": "/blog/irish-christmas-cake/",
+  "hasCss": true
+ },
+ {
+  "slug": "irish-christmas-blessings",
+  "title": "Irish Christmas Blessings",
+  "path": "/blog/irish-christmas-blessings/",
+  "hasCss": true
+ },
+ {
+  "slug": "go-with-the-flow",
+  "title": "Go with the Flow!",
+  "path": "/blog/go-with-the-flow/",
+  "hasCss": true
+ },
+ {
+  "slug": "flahertys-irish-candy",
+  "title": "Flaherty’s Irish Candy",
+  "path": "/blog/flahertys-irish-candy/",
+  "hasCss": true
+ },
+ {
+  "slug": "land-a-special-gift-with-landmark",
+  "title": "Land a Special Gift with Landmark",
+  "path": "/blog/land-a-special-gift-with-landmark/",
+  "hasCss": true
+ },
+ {
+  "slug": "cairde-a-new-tiktok-sensation",
+  "title": "Cairde-A New TikTok Sensation",
+  "path": "/blog/cairde-a-new-tiktok-sensation/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-special-livestream",
+  "title": "A Special Livestream",
+  "path": "/blog/a-special-livestream/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-sweet-present",
+  "title": "A Sweet Present",
+  "path": "/blog/a-sweet-present/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-lit-holiday-tradition",
+  "title": "A Lit Holiday Tradition",
+  "path": "/blog/a-lit-holiday-tradition/",
+  "hasCss": true
+ },
+ {
+  "slug": "liam-neeson-narrates-ireland-documentary",
+  "title": "Liam Neeson Narrates Ireland Documentary",
+  "path": "/blog/liam-neeson-narrates-ireland-documentary/",
+  "hasCss": true
+ },
+ {
+  "slug": "special-holiday-offer-for-travel",
+  "title": "Special Holiday Offer for Travel",
+  "path": "/blog/special-holiday-offer-for-travel/",
+  "hasCss": true
+ },
+ {
+  "slug": "a-christmas-childhood-a-poem-for-ireland",
+  "title": "A Christmas Childhood-A Poem for Ireland",
+  "path": "/blog/a-christmas-childhood-a-poem-for-ireland/",
+  "hasCss": true
+ },
+ {
+  "slug": "old-ireland-in-color-perfect-gift",
+  "title": "Old Ireland in Color-Perfect Gift!",
+  "path": "/blog/old-ireland-in-color-perfect-gift/",
+  "hasCss": true
+ },
+ {
+  "slug": "slieghing-it-with-christmas-jokes",
+  "title": "Sleighing it with Christmas Jokes",
+  "path": "/blog/slieghing-it-with-christmas-jokes/",
+  "hasCss": true
+ },
+ {
+  "slug": "save-big-gift-of-travel",
+  "title": "Save Big-Gift of Travel",
+  "path": "/blog/save-big-gift-of-travel/",
+  "hasCss": false
+ },
+ {
+  "slug": "phrases-in-gaelic-this-holiday-season",
+  "title": "Phrases in Gaelic this Holiday Season",
+  "path": "/blog/phrases-in-gaelic-this-holiday-season/",
+  "hasCss": true
+ },
+ {
+  "slug": "our-gift-to-you-a-festive-favorite",
+  "title": "Our Gift to You-A Festive Favorite",
+  "path": "/blog/our-gift-to-you-a-festive-favorite/",
+  "hasCss": true
+ },
+ {
+  "slug": "in-our-hearts-and-in-the-charts",
+  "title": "#1 in Our Hearts and in the Charts",
+  "path": "/blog/in-our-hearts-and-in-the-charts/",
+  "hasCss": true
+ },
+ {
+  "slug": "christmas-cheer-with-limericks",
+  "title": "Christmas Cheer with Limericks",
+  "path": "/blog/christmas-cheer-with-limericks/",
+  "hasCss": true
+ },
+ {
+  "slug": "hurleys-and-hisleys-the-perfect-irish-keepsake",
+  "title": "Hurleys and Hisleys-the Perfect Irish Keepsake",
+  "path": "/blog/hurleys-and-hisleys-the-perfect-irish-keepsake/",
+  "hasCss": true
+ },
+ {
+  "slug": "do-not-get-lost",
+  "title": "Do Not Get Lost!",
+  "path": "/blog/do-not-get-lost/",
+  "hasCss": true
+ },
+ {
+  "slug": "festive-cards-with-an-irish-flare",
+  "title": "Festive Cards with an Irish Flare",
+  "path": "/blog/festive-cards-with-an-irish-flare/",
+  "hasCss": true
+ },
+ {
+  "slug": "give-the-gift-of-travel",
+  "title": "Give the Gift of Travel",
+  "path": "/blog/give-the-gift-of-travel/",
+  "hasCss": true
+ },
+ {
+  "slug": "spud-tacular-recipe",
+  "title": "Spud-tacular Recipe",
+  "path": "/blog/spud-tacular-recipe/",
+  "hasCss": true
+ },
+ {
+  "slug": "irish-books-a-novel-ty",
+  "title": "Irish Books-A Novel-ty",
+  "path": "/blog/irish-books-a-novel-ty/",
+  "hasCss": true
+ },
+ {
+  "slug": "irish-music-our-forte",
+  "title": "Irish Music-Our Forte",
+  "path": "/blog/irish-music-our-forte/",
+  "hasCss": true
+ },
+ {
+  "slug": "derry-girls",
+  "title": "Derry Girls",
+  "path": "/blog/derry-girls/",
+  "hasCss": true
+ },
+ {
+  "slug": "iles-reel-review",
+  "title": "ILE’s Reel Review",
+  "path": "/blog/iles-reel-review/",
+  "hasCss": true
+ },
+ {
+  "slug": "belfast-a-must-see-movie",
+  "title": "Belfast-A Must-See Movie",
+  "path": "/blog/belfast-a-must-see-movie/",
+  "hasCss": true
+ },
+ {
+  "slug": "top-10-bad-excuses-not-to-study-abroad",
+  "title": "Top 10 Bad Excuses Not to Study Abroad",
+  "path": "/blog/top-10-bad-excuses-not-to-study-abroad/",
+  "hasCss": true
+ },
+ {
+  "slug": "top-10-fundraising-ideas",
+  "title": "Top 10 Fundraising Ideas",
+  "path": "/blog/top-10-fundraising-ideas/",
+  "hasCss": true
+ }
+]

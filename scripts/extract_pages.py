@@ -20,7 +20,7 @@ from collections import OrderedDict
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "src/content/pages"
 
-# Elementor global colour ids -> hex, read from the site kit.
+# Elementor global colour ids -> hex, generated from export/kit.json.
 GLOBALS = {
     "primary": "#6EC1E4", "secondary": "#54595F", "text": "#7A7A7A", "accent": "#61CE70",
     "fc41b48": "#FFFFFF", "1fa65d1": "", "6b1c049": "#000000", "27c3f38": "#002B00",
@@ -95,12 +95,20 @@ def widget_block(node, css):
         b["text"] = plain(st.get("title", ""))
         b["tag"] = st.get("header_size", "h2")
         b["link"] = (st.get("link") or {}).get("url")
+        # Elementor's preset size control. It emits a class, not a declaration,
+        # so the size appears nowhere in the page CSS — the home page's audience
+        # captions are 'medium' (19px) and rendered 5px too large without it.
+        b["size"] = st.get("size") or None
     elif w == "text-editor":
         b["html"] = clean_html(st.get("editor", ""))
     elif w == "image":
         b["src"] = img(st.get("image"))
         b["alt"] = (st.get("image") or {}).get("alt", "")
         b["link"] = (st.get("link") or {}).get("url")
+        # Elementor only renders the caption when caption_source is set; with
+        # 'attachment' it comes from the media library rather than the widget.
+        if st.get("caption_source") in ("custom", "attachment"):
+            b["caption"] = plain(st.get("caption", ""))
     elif w == "button":
         b["text"] = st.get("text")
         b["link"] = (st.get("link") or {}).get("url")
@@ -164,7 +172,51 @@ def widget_block(node, css):
             {"name": (i.get("social_icon") or {}).get("value"), "link": (i.get("link") or {}).get("url")}
             for i in st.get("social_icon_list", [])
         ]
+    elif w == "posts":
+        # The widget can list pages rather than posts — /alumni/ uses it to show
+        # the ambassador pages. Without the query settings it silently renders
+        # recent blog posts instead, which is a different list entirely.
+        b["postType"] = st.get("posts_post_type") or "post"
+        b["perPage"] = st.get("cards_posts_per_page") or st.get("posts_per_page")
+        b["readMore"] = plain(st.get("read_more_text", "")) or None
+        inc = st.get("posts_include_term_ids") or st.get("posts_include_ids")
+        term_ids = {int(i) for i in inc if str(i).isdigit()} if isinstance(inc, list) else set()
+        if term_ids:
+            b["items"] = resolve_term(b["postType"], term_ids, b["perPage"])
     return b
+
+
+def _corpus(kind):
+    src = "export/pages.json" if kind == "page" else "export/posts.json"
+    return [p for p in json.loads((ROOT / src).read_text())
+            if p["status"] == "publish" and not p.get("password_protected")]
+
+
+def resolve_term(post_type, term_ids, limit):
+    """The pages/posts carrying any of these term ids, newest first.
+
+    Elementor filters by term id across every taxonomy, including plugin ones.
+    Resolving it here means the rendered list is the same list the live site
+    shows, rather than a plausible-looking substitute.
+    """
+    hits = []
+    for p in _corpus(post_type):
+        ids = {t["id"] for terms in (p.get("terms") or {}).values() for t in terms}
+        if ids & term_ids:
+            hits.append(p)
+    hits.sort(key=lambda p: p["date"], reverse=True)
+    if limit:
+        hits = hits[: int(limit)]
+    return [
+        {
+            "title": p["title"],
+            "href": re.sub(r"^https?://[^/]+", "", p["permalink"]),
+            "image": (p["featured_image"] or {}).get("url")
+            if isinstance(p["featured_image"], dict) else p["featured_image"],
+            "excerpt": p["excerpt"] or "",
+        }
+        for p in hits
+    ]
 
 
 def walk(nodes, css):
@@ -194,13 +246,15 @@ def walk(nodes, css):
     return out
 
 
-def main():
-    pages = [p for p in json.loads((ROOT / "export/pages.json").read_text())
-             if p["status"] == "publish"]
-    OUT.mkdir(parents=True, exist_ok=True)
-    index = []
+def build(source: str, out: pathlib.Path, label: str, elementor_only: bool = False):
+    items = [p for p in json.loads((ROOT / source).read_text())
+             if p["status"] == "publish" and not p.get("password_protected")]
+    if elementor_only:
+        items = [p for p in items if p["built_with_elementor"]]
+    OUT_DIR, index = out, []
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    for p in pages:
+    for p in items:
         css = parse_css(ROOT / f"export/pagecss/{p['slug']}.css")
         seo = p["seo"] if isinstance(p["seo"], dict) else {}
         doc = OrderedDict(
@@ -211,14 +265,24 @@ def main():
             hasCss=bool(css),
             blocks=walk(p["elementor_data"], css),
         )
-        (OUT / f"{p['slug']}.json").write_text(json.dumps(doc, indent=1, ensure_ascii=False))
+        (OUT_DIR / f"{p['slug']}.json").write_text(json.dumps(doc, indent=1, ensure_ascii=False))
         index.append({"slug": p["slug"], "title": p["title"], "path": doc["path"], "hasCss": bool(css)})
 
-    (OUT / "_index.json").write_text(json.dumps(index, indent=1, ensure_ascii=False))
+    (OUT_DIR / "_index.json").write_text(json.dumps(index, indent=1, ensure_ascii=False))
     missing = [i["slug"] for i in index if not i["hasCss"]]
-    print(f"wrote {len(index)} page files to {OUT.relative_to(ROOT)}")
+    print(f"wrote {len(index)} {label} files to {OUT_DIR.relative_to(ROOT)}")
     if missing:
-        print(f"no CSS for: {', '.join(missing)}")
+        print(f"  no CSS for {len(missing)}: {', '.join(missing[:8])}"
+              + (" ..." if len(missing) > 8 else ""))
+
+
+def main():
+    build("export/pages.json", OUT, "page")
+    # Elementor-built posts too. Their real content lives in elementor_data; the
+    # exported content_raw is only the flattened text, so converting them to MDX
+    # keeps the words but loses every image and the layout with them.
+    build("export/posts.json", ROOT / "src/content/blogpages", "Elementor post",
+          elementor_only=True)
 
 
 if __name__ == "__main__":

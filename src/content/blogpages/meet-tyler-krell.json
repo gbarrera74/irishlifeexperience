@@ -1,0 +1,108 @@
+{
+ "slug": "meet-tyler-krell",
+ "title": "Meet Tyler Krell",
+ "path": "/blog/meet-tyler-krell/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "1547d7d",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "d62b41f",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "5fe60de",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Hi Everyone!</p><p>I am Tyler, and I am excited for my fourth trip with the Irish Life Experience! I actually went on this program as a student, so I know how impactful and memorable it can be. Coming back as a Counselor for the third time is something I am really grateful for.</p><p>I am from Montana and studied finance at Carroll College. I have had the chance to travel and work in a variety of places, including studying abroad in Australia. My background includes tech, travel, and financial services, where I now help people plan for their future.</p><p>Outside of work, I enjoy hiking, traveling, photography, pottery, and officiating basketball.</p><p>I am here to help make this an unforgettable experience-can not wait to meet you all and explore the Emerald Isle together.</p>"
+      }
+     ],
+     "width": 66
+    },
+    {
+     "type": "column",
+     "id": "a278971",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "df369be",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_0062-scaled.jpg",
+       "alt": "Tyler K. Headshot",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "22"
+  },
+  {
+   "type": "section",
+   "id": "a208358",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "2d9bbde",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "658fe2b",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_3519-scaled.jpeg",
+       "alt": "Taryn and TK in San Francisco",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "2ad7305",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "c7f1293",
+       "style": {},
+       "src": "/images/wp/2026/05/C80086D7-5B0B-4225-8057-8C57DD318602.jpg",
+       "alt": "Taryn and TK in Glacier",
+       "link": null
+      }
+     ],
+     "width": 33
+    },
+    {
+     "type": "column",
+     "id": "12026e2",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "a454c90",
+       "style": {},
+       "src": "/images/wp/2026/05/IMG_3446-scaled.jpeg",
+       "alt": "Tyler K. in Oregon",
+       "link": null
+      }
+     ],
+     "width": 33
+    }
+   ],
+   "structure": "30"
+  }
+ ]
+}

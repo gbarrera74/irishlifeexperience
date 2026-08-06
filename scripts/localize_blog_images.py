@@ -2,8 +2,8 @@
 """Copy the images the blog MDX references into public/images/.
 
 scripts/convert_posts.py rewrites upload URLs to /images/<path> (this site's own
-uploads) and /images/ile/<path> (files rescued from the irishlifeexperience.com
-server). This copies the actual files to those locations, downscaled.
+uploads) and /images/iw/<path> (files rescued from the irishway.org server,
+which this blog hot-links). This copies the actual files there, downscaled.
 
 Anything still missing is reported — those are the pre-2015 archive images that
 are absent from both servers.
@@ -17,7 +17,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 BLOG = ROOT / "src/content/blog"
 DEST = ROOT / "public/images"
 SRC_OWN = ROOT / "export/uploads"
-SRC_ILE = ROOT / "export/ile_uploads"
+SRC_IW = ROOT / "export/iw_uploads"
 MAX_DIM = "1600"
 
 refs = set()
@@ -30,8 +30,8 @@ for f in BLOG.glob("*.mdx"):
 copied, missing, skipped = Counter(), [], 0
 for ref in sorted(refs):
     rel = ref[len("/images/"):]
-    if rel.startswith("ile/"):
-        src = SRC_ILE / rel[len("ile/"):]
+    if rel.startswith("iw/"):
+        src = SRC_IW / rel[len("iw/"):]
     else:
         src = SRC_OWN / rel
     out = DEST / rel

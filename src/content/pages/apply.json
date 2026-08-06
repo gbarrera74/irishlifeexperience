@@ -1,0 +1,741 @@
+{
+ "slug": "apply",
+ "title": "Apply",
+ "path": "/apply/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f2e8833",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "555ce17",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "19d7424",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Apply",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "8b53609",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/09/DADE75C1-8A10-48D1-BCE8-2043A2013BD8.png"
+  },
+  {
+   "type": "section",
+   "id": "1f32f2e",
+   "style": {
+    "": {
+     "padding": "20px 20px 20px 20px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "cfe68f7",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "19c9ffd",
+       "style": {
+        "": {
+         "text-align": "start",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "normal",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p><span style=\"color: var( --e-global-color-f3735e1 ); font-size: 1rem;\">The Irish Life Experience has strict requirements to be accepted into the program, which include the following:</span></p><ul><li>An application is completed by the student and student's parent(s).</li><li>Faculty recommendations are completed.</li><li>All are submitted with a $600 deposit.</li><li>Students are notified of approval/denial within 14 days.</li><li>An additional $1,000 deposit is required by March 1.</li><li>Full payment is due by June 1.</li></ul>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "8c6a386",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-container": {
+     "max-width": "1600px",
+     "min-height": "564px"
+    },
+    "> .elementor-background-overlay": {
+     "opacity": "0.1"
+    },
+    "": {
+     "padding": "10px 10px 10px 10px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "8c9a797",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "fb3263f",
+       "style": {
+        ":not(.elementor-motion-effects-element-type-background)": {
+         "background-color": "#FFFFFF"
+        },
+        "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+         "background-color": "#FFFFFF"
+        },
+        "> .elementor-container": {
+         "max-width": "1170px"
+        },
+        "": {
+         "border-radius": "14px 14px 14px 14px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "> .elementor-background-overlay": {
+         "border-radius": "14px 14px 14px 14px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "bd46c99",
+         "style": {},
+         "children": [
+          {
+           "type": "form",
+           "id": "a98d47d",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "0px 0px 0px 0px"
+            },
+            ".elementor-field-group > label": {
+             "color": "#1E3A43",
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+            },
+            ".elementor-field-subgroup label": {
+             "color": "#1E3A43",
+             "font-family": "\"Lato\", Sans-serif"
+            },
+            ".dce-signature-wrapper": {
+             "text-align": "left"
+            },
+            ".dce-signature-canvas": {
+             "border-radius": "3px 3px 3px 3px",
+             "background-color": "#ffffff"
+            },
+            ".dce-signature-button-clear": {
+             "color": "#e62626"
+            },
+            ".dce-signature-button-clear i": {
+             "color": "#e62626",
+             "font-size": "16px"
+            },
+            ".elementor-field-group .elementor-field": {
+             "color": "#000000",
+             "font-family": "\"Lato\", Sans-serif"
+            },
+            ".select2-container--default .select2-selection--single .select2-selection__rendered": {
+             "color": "#000000"
+            },
+            "..select2-container--default .select2-selection--multiple .select2-selection__rendered": {
+             "color": "#000000"
+            },
+            ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-field-group .elementor-select-wrapper select": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-field-group .elementor-select-wrapper .select2": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
+             "background-color": "#ffffff",
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".mce-panel": {
+             "background-color": "#ffffff"
+            },
+            ".elementor-field-group .elementor-select-wrapper::before": {
+             "color": "#BEBEBE"
+            },
+            ".elementor-field-group .mce-panel": {
+             "border-radius": "12px 12px 12px 12px"
+            },
+            ".elementor-button": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-weight": "bold",
+             "text-transform": "uppercase",
+             "border-radius": "100px 100px 100px 100px",
+             "padding": "16px 16px 16px 16px"
+            },
+            ".e-form__buttons__wrapper__button-next": {
+             "background-color": "#61CE70",
+             "color": "#ffffff"
+            },
+            ".elementor-button[type=\"submit\"]": {
+             "background-color": "#61CE70",
+             "color": "#ffffff"
+            },
+            ".e-form__buttons__wrapper__button-previous": {
+             "background-color": "#F2F2F2",
+             "color": "#61CE70"
+            },
+            ".e-form__buttons__wrapper__button-next:hover": {
+             "background-color": "#7A7A7A00",
+             "color": "#61CE70"
+            },
+            ".elementor-button[type=\"submit\"]:hover": {
+             "background-color": "#7A7A7A00",
+             "color": "#61CE70"
+            },
+            ".e-form__buttons__wrapper__button-previous:hover": {
+             "background-color": "#61CE70",
+             "color": "#F2F2F2"
+            },
+            ".elementor-field-label-description:after": {
+             "border-radius": "50%",
+             "padding": "2px 0",
+             "line-height": "1",
+             "font-size": "80%",
+             "text-align": "center",
+             "color": "#ffffff",
+             "background-color": "#777777"
+            },
+            ".elementor-field-type-amount.elementor-field-group .dce-amount-visible": {
+             "opacity": "1"
+            },
+            ".elementor-field-type-dce_range input": {
+             "opacity": "1"
+            }
+           },
+           "formName": "ILE Application",
+           "fields": [
+            {
+             "label": "Step 1: About You",
+             "type": "step",
+             "required": false,
+             "placeholder": null,
+             "options": null,
+             "html": null,
+             "id": "field_3e1e0ad"
+            },
+            {
+             "label": "First Name",
+             "type": "text",
+             "required": true,
+             "placeholder": "First Name (As it appears on passport)",
+             "options": null,
+             "html": null,
+             "id": "name"
+            },
+            {
+             "label": "Middle Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "Middle Name",
+             "options": null,
+             "html": null,
+             "id": "field_a0e0761"
+            },
+            {
+             "label": "Last Name",
+             "type": "text",
+             "required": true,
+             "placeholder": "Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_99b9ad8"
+            },
+            {
+             "label": "Gender",
+             "type": "radio",
+             "required": true,
+             "placeholder": "Name",
+             "options": "Female\nMale",
+             "html": null,
+             "id": "field_34c5d42"
+            },
+            {
+             "label": "Date of Birth",
+             "type": "date",
+             "required": true,
+             "placeholder": "Date of Birth",
+             "options": null,
+             "html": null,
+             "id": "field_7a04790"
+            },
+            {
+             "label": "Age by June",
+             "type": "text",
+             "required": true,
+             "placeholder": "Age by June",
+             "options": "13\n14\n15\n16\n17\n18",
+             "html": null,
+             "id": "email"
+            },
+            {
+             "label": "Current Grade",
+             "type": "text",
+             "required": true,
+             "placeholder": "Current Grade",
+             "options": "8\n9\n10\n11\n12",
+             "html": null,
+             "id": "field_d83bfd5"
+            },
+            {
+             "label": "Address",
+             "type": "text",
+             "required": true,
+             "placeholder": "Address",
+             "options": null,
+             "html": null,
+             "id": "field_94dffe0"
+            },
+            {
+             "label": "City",
+             "type": "text",
+             "required": true,
+             "placeholder": "City",
+             "options": null,
+             "html": null,
+             "id": "field_4daa4bf"
+            },
+            {
+             "label": "State",
+             "type": "text",
+             "required": true,
+             "placeholder": "State",
+             "options": null,
+             "html": null,
+             "id": "field_0afda0c"
+            },
+            {
+             "label": "Zip",
+             "type": "text",
+             "required": true,
+             "placeholder": "Zip",
+             "options": null,
+             "html": null,
+             "id": "field_f499d7d"
+            },
+            {
+             "label": "Cell Phone",
+             "type": "tel",
+             "required": true,
+             "placeholder": "Cell Phone",
+             "options": null,
+             "html": null,
+             "id": "field_e83e4d0"
+            },
+            {
+             "label": "E-Mail",
+             "type": "email",
+             "required": true,
+             "placeholder": "E-Mail",
+             "options": null,
+             "html": null,
+             "id": "field_4756912"
+            },
+            {
+             "label": "Specific Diet",
+             "type": "radio",
+             "required": false,
+             "placeholder": "Message",
+             "options": "Gluten\nLactose Intolerant\nVegan\nVegetarian\nOther",
+             "html": null,
+             "id": "message"
+            },
+            {
+             "label": "T-Shirt Size",
+             "type": "radio",
+             "required": true,
+             "placeholder": "T-",
+             "options": "X-Small\nSmall\nMedium\nLarge\nX-Large\nXX-Large\nXXX-Large",
+             "html": null,
+             "id": "field_307581f"
+            },
+            {
+             "label": "Step 2:",
+             "type": "step",
+             "required": false,
+             "placeholder": null,
+             "options": null,
+             "html": null,
+             "id": "field_4a00c50"
+            },
+            {
+             "label": "What school do you attend?",
+             "type": "text",
+             "required": true,
+             "placeholder": "What school do you attend?",
+             "options": null,
+             "html": null,
+             "id": "field_fed0bdd"
+            },
+            {
+             "label": "Step 3: Guardian Info",
+             "type": "step",
+             "required": false,
+             "placeholder": null,
+             "options": null,
+             "html": null,
+             "id": "field_df5c660"
+            },
+            {
+             "label": "Custody",
+             "type": "text",
+             "required": true,
+             "placeholder": "I primarily live with (Mother, father, both, or other)",
+             "options": null,
+             "html": null,
+             "id": "field_d0a3a7c"
+            },
+            {
+             "label": "Guardian #1 First Name",
+             "type": "text",
+             "required": true,
+             "placeholder": "Guardian #1 First Name",
+             "options": null,
+             "html": null,
+             "id": "field_01ab64f"
+            },
+            {
+             "label": "Guardian #1 Last Name",
+             "type": "text",
+             "required": true,
+             "placeholder": "Guardian #1 Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_15168d8"
+            },
+            {
+             "label": "Guardian #1 Cell Phone",
+             "type": "tel",
+             "required": true,
+             "placeholder": "Guardian #1 Cell Phone",
+             "options": null,
+             "html": null,
+             "id": "field_9a1ae11"
+            },
+            {
+             "label": "Guardian #1 E-Mail",
+             "type": "email",
+             "required": true,
+             "placeholder": "Guardian #1 E-Mail",
+             "options": null,
+             "html": null,
+             "id": "field_82ddff8"
+            },
+            {
+             "label": "Guardian #1 Occupation and Employer",
+             "type": "text",
+             "required": false,
+             "placeholder": "Guardian #1 Occupation and Employer",
+             "options": null,
+             "html": null,
+             "id": "field_0268c44"
+            },
+            {
+             "label": "Guardian #2 First Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "Guardian #2 First Name",
+             "options": null,
+             "html": null,
+             "id": "field_39aef3f"
+            },
+            {
+             "label": "Guardian #2 Last Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "Guardian #2 Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_bf8dd08"
+            },
+            {
+             "label": "Guardian #2 Cell Phone",
+             "type": "tel",
+             "required": false,
+             "placeholder": "Guardian #2 Cell Phone",
+             "options": null,
+             "html": null,
+             "id": "field_c14b01d"
+            },
+            {
+             "label": "Guardian #2 E-Mail",
+             "type": "text",
+             "required": false,
+             "placeholder": "Guardian #2 E-Mail",
+             "options": null,
+             "html": null,
+             "id": "field_8f6749d"
+            },
+            {
+             "label": "Guardian #2 Occupation and Employer",
+             "type": "text",
+             "required": false,
+             "placeholder": "Guardian #2 Occupation and Employer",
+             "options": null,
+             "html": null,
+             "id": "field_aa6537b"
+            },
+            {
+             "label": "Step 4: Why ILE?",
+             "type": "step",
+             "required": false,
+             "placeholder": null,
+             "options": null,
+             "html": null,
+             "id": "field_ef61e29"
+            },
+            {
+             "label": "Why do you want to participate in the Irish Life Experience?",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "Why do you want to participate in the Irish Life Experience?",
+             "options": null,
+             "html": null,
+             "id": "field_5016da3"
+            },
+            {
+             "label": "Have you ever traveled or lived abroad?  If so, please elaborate?",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "Have you ever traveled or lived abroad?  If so, please elaborate.",
+             "options": null,
+             "html": null,
+             "id": "field_60e39e5"
+            },
+            {
+             "label": "What experiences have you had adjusting to new people, places, and situations?",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "What experiences have you had adjusting to new people, places, and situations?",
+             "options": null,
+             "html": null,
+             "id": "field_8a3bf0a"
+            },
+            {
+             "label": "What is your strongest personality trait?  Explain.",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "What is your strongest personality trait?  Explain.",
+             "options": null,
+             "html": null,
+             "id": "field_b333b94"
+            },
+            {
+             "label": "What is your weakest personality trait?  Explain.",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "What is your weakest personality trait?  Explain.",
+             "options": null,
+             "html": null,
+             "id": "field_a8a0bfe"
+            },
+            {
+             "label": "What school subjects do you enjoy most?  Why?",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "What school subjects do you enjoy most?  Why?",
+             "options": null,
+             "html": null,
+             "id": "field_00e833b"
+            },
+            {
+             "label": "Interests/Hobbies",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "Describe your interests and hobbies.  List organizations and/or teams you belong to, sports in which you participate, instruments you play, etc.  ",
+             "options": null,
+             "html": null,
+             "id": "field_1dcc723"
+            },
+            {
+             "label": "Family/Home Life",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "Briefly describe your family and home life (Parents' work and interests, sibling/s' ages and interests, etc).",
+             "options": null,
+             "html": null,
+             "id": "field_12882d7"
+            },
+            {
+             "label": "What are you looking forward to the most about being in Ireland?",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "What are you looking forward to the most about being in Ireland?",
+             "options": null,
+             "html": null,
+             "id": "field_eb52edc"
+            },
+            {
+             "label": "What are you least looking forward to about being in Ireland?",
+             "type": "textarea",
+             "required": true,
+             "placeholder": "What are you least looking forward to about being in Ireland?",
+             "options": null,
+             "html": null,
+             "id": "field_751a3f1"
+            },
+            {
+             "label": "Can you ride a bike?",
+             "type": "text",
+             "required": true,
+             "placeholder": "Can you ride a bike?",
+             "options": "Yes\nNo",
+             "html": null,
+             "id": "field_a23a167"
+            },
+            {
+             "label": "What are two unusual fun facts about yourself?",
+             "type": "textarea",
+             "required": false,
+             "placeholder": "What are two unusual fun facts about yourself?",
+             "options": null,
+             "html": null,
+             "id": "field_71f4be3"
+            },
+            {
+             "label": "How did you hear about the Irish Life Experience?",
+             "type": "text",
+             "required": true,
+             "placeholder": "How did you hear about the Irish Life Experience?  ",
+             "options": null,
+             "html": null,
+             "id": "field_97d5be8"
+            },
+            {
+             "label": "Teacher First Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "Teacher First Name",
+             "options": null,
+             "html": null,
+             "id": "field_480278f"
+            },
+            {
+             "label": "Teacher Last Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "Teacher Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_a972f0e"
+            },
+            {
+             "label": "Teacher E-Mail",
+             "type": "email",
+             "required": false,
+             "placeholder": "Teacher E-Mail",
+             "options": null,
+             "html": null,
+             "id": "field_e4ec540"
+            },
+            {
+             "label": "Guidance Counselor First Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "Guidance Counselor First Name",
+             "options": null,
+             "html": null,
+             "id": "field_f484397"
+            },
+            {
+             "label": "Guidance Counselor Last Name",
+             "type": "text",
+             "required": false,
+             "placeholder": "Guidance Counselor Last Name",
+             "options": null,
+             "html": null,
+             "id": "field_ca6de9b"
+            },
+            {
+             "label": "Guidance Counselor E-Mail",
+             "type": "email",
+             "required": false,
+             "placeholder": "Guidance Counselor E-Mail",
+             "options": null,
+             "html": null,
+             "id": "field_bec6a50"
+            }
+           ],
+           "submit": "Send"
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "slug": "keepin-it-glassy",
+ "title": "Keepin’ it glassy",
+ "path": "/blog/keepin-it-glassy/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "a0d12a5",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "c649428",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "13d1ed3",
+       "style": {},
+       "html": ""
+      },
+      {
+       "type": "text-editor",
+       "id": "061e63f",
+       "style": {},
+       "html": ""
+      },
+      {
+       "type": "heading",
+       "id": "bd36eaa",
+       "style": {},
+       "text": "",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "section",
+       "id": "63e275c",
+       "style": {},
+       "children": [
+        {
+         "type": "column",
+         "id": "17d1d54",
+         "style": {},
+         "children": [
+          {
+           "type": "text-editor",
+           "id": "aefeb1f",
+           "style": {
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Charles Haughey once stated that \"Ireland is where strange tales begin, and happy endings are possible.\" This truly feels as if it applies to our group (and perhaps everyone else who has ever travelled to Ireland), and already on day 3, everyone seems to be beginning on creating their own stories. The morning first dawned with mandala-whorls of soft golden sunlight, slowly melting away the mist. Chaffinches garbled out their morning greetings from the maples and oaks, fluttering away into the dawn light as the students made their way down to breakfast--a choice of cereals, oatmeal, fruit, and some really lovely homemade brown bread. This morning was so wonderfully exciting, as today is the first class day!! At 9, the kids headed down to the classroom, ready for Irish-American History with Kaylee, Irish History with Mark, and Irish Studies with Taryn.</p><p>After lunch, everyone was wonderfully excited for our first outing into town!!! Waterford!! As we strolled down the street, everyone was glancing around in awe at the long, winding streets of stone or pastel houses, or out at the quay lined with bunting and ships. Our first stop was Waterford Crystal, where we had a fabulous tour that guided us through all of the processes of making a Waterford piece. It takes 5 years to become a Craftsman, and 8 to become a Master Craftsman!</p><p> </p>"
+          },
+          {
+           "type": "text-editor",
+           "id": "0938afb",
+           "style": {},
+           "html": ""
+          },
+          {
+           "type": "image",
+           "id": "554f8e5",
+           "style": {
+            "": {
+             "max-width": "117.221%"
+            }
+           },
+           "src": "/images/wp/2023/07/IMG_0142-2-scaled.jpg",
+           "alt": "",
+           "link": null,
+           "caption": "First step--blowing the glass"
+          },
+          {
+           "type": "image",
+           "id": "6413cc9",
+           "style": {},
+           "src": "/images/wp/2023/07/IMG_0146-scaled.jpg",
+           "alt": "",
+           "link": null,
+           "caption": "Second Step--cutting and polishing the glass after it's out of the kiln"
+          },
+          {
+           "type": "image",
+           "id": "472dd45",
+           "style": {},
+           "src": "/images/wp/2023/07/IMG_0148-scaled.jpg",
+           "alt": "",
+           "link": null,
+           "caption": "Third step--cutting the designs into the Crystal pieces. There are over 600 cuts! In order to become a master cutter, you need to make a \"Master's Bowl\" that includes all 600 cuts."
+          },
+          {
+           "type": "image",
+           "id": "11bcdb5",
+           "style": {},
+           "src": "/images/wp/2023/07/IMG_4571-scaled.jpg",
+           "alt": "",
+           "link": null,
+           "caption": "The finished crystal pieces. These are the more decorated pieces that are made with extreme intricacy. It takes 11 years to become a master at making one of these pieces!"
+          }
+         ],
+         "width": 50
+        },
+        {
+         "type": "column",
+         "id": "37d146f",
+         "style": {},
+         "children": [
+          {
+           "type": "text-editor",
+           "id": "4e23372",
+           "style": {
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>After taking a quick group picture outside of Waterford Crystal (and a stroll around the showroom to see all of the GORGEOUS works), Mark treated us to a fantastic walking tour of Waterford. Mark is basically a celebrity here, and is truly quite knowledgeable about the area! He showed us Reginald's Tower, Ireland's oldest civic building--built in 914 by Vikings, it forms the apex of Waterford (which is shaped like a triangle). It can often be found described as \"a massive hinge of stone connecting the two outstretched wings of the city.\" Next to the tower is also a viking longship on display.&nbsp;</p>\n<p>The Montana folks were also very excited to discover a statue of Thomas Meagher, who was a governor for Montana! He came to Montana after leading the Young Irelanders in the Rebellion of 1848. Meagher also has a statue in Helena, Montana's state capital.&nbsp;</p>"
+          },
+          {
+           "type": "image",
+           "id": "f134c21",
+           "style": {
+            "": {
+             "max-width": "99.256%",
+             "text-align": "center"
+            },
+            "> .elementor-widget-container": {
+             "margin": "-18px -18px -18px -18px",
+             "padding": "-3px -3px -3px -3px",
+             "border-radius": "0px 0px 0px 0px"
+            }
+           },
+           "src": "/images/wp/2023/07/IMG_9590-scaled.jpg",
+           "alt": "",
+           "link": null
+          },
+          {
+           "type": "text-editor",
+           "id": "4f37f2d",
+           "style": {
+            "": {
+             "max-width": "100.556%",
+             "text-align": "start",
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>Finally, students were allowed free time to wander around the City Square, where you can meander down the cobbled road and explore shops like \"The Book Centre,\" a bright yellow book shop in the building of an old record store, \"Carter's,\" a chocolate shop, \"Dunnes,\" a department store favored for snacks, and \"Penneys,\" a reasonably priced clothing store.<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">&nbsp;</span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Tucker bought himself a sharp tie, and</span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">&nbsp;Shawn found a keychain, a funky button-up shirt in an old vintage store, and even a sweet gift for the counselors. Soon, however, it was tea time! Everyone headed back up to Newtown to indulge in some wonderful dinner before our evening activities.&nbsp;</span></p>\n<p>At 7, we had our first Drama and Dance classes! We started off with drama, where everyone divided up into groups to write a limerick about a famous Irish person. The limericks were written about W.B. Yeats, James Joyce, and Samuel Beckett.</p>"
+          },
+          {
+           "type": "text-editor",
+           "id": "611408d",
+           "style": {
+            "": {
+             "max-width": "99.551%",
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p style=\"text-align: right;\">Aspen, Strider, and Michael won the competition for best limericks:</p><p style=\"text-align: center;\"><i>There was a man named James Joyce,</i></p><p style=\"text-align: center;\"><i>He earned a living with his voice.</i></p><p style=\"text-align: center;\"><i>Born in Ireland, </i></p><p style=\"text-align: center;\"><i>But then he got caned,</i></p><p style=\"text-align: center;\"><i>Kicked out without even a choice.</i></p><p style=\"text-align: center;\"><i>~Michael </i></p><p style=\"text-align: center;\"><i> </i></p><p style=\"text-align: center;\"><i> W.B. Yeats went for a mom</i></p><p style=\"text-align: center;\"><i>His life wasn't even a rom-com.</i></p><p style=\"text-align: center;\"><i>So he went for the daughter</i></p><p style=\"text-align: center;\"><i>but his game didn't slaughter</i></p><p style=\"text-align: center;\"><i>unlike his love life, his poems were bomb.</i></p><p style=\"text-align: center;\"><i>~Strider</i></p><p style=\"text-align: center;\"><i>*(For reference--W.B. Yeats fell in love with a woman and proposed to her at least four times, but she rejected him every time. Years later, when the woman's daughter was \"old\" enough to marry, he proposed to her, and she also said no.)*</i></p><p style=\"text-align: center;\"><i> </i></p><p style=\"text-align: center;\"><i>Sam Beckett won the Nobel Prize,</i></p><p style=\"text-align: center;\"><i>He wrote about more than fries.</i></p><p style=\"text-align: center;\"><i>While we all sit here</i></p><p style=\"text-align: center;\"><i>And it's not quite as clear</i></p><p style=\"text-align: center;\"><i>struggling to not write all lies.</i></p><p style=\"text-align: center;\"><i>~Aspen</i></p><p style=\"text-align: center;\"> </p>"
+          },
+          {
+           "type": "text-editor",
+           "id": "116b994",
+           "style": {
+            "": {
+             "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+             "color": "#1E3A43"
+            }
+           },
+           "html": "<p>It was very difficult to pick a winner for the poems, as everyone wrote incredible limericks--each one just as witty and wonderful as the last.&nbsp;</p>\n<p>The evening ended off wonderfully with a fantastic dance lesson by the lovely Clare. Everyone is just dancing prodigies! After only 30 minutes, the students could do a great Irish jig! Well done, everybody.</p>\n<p>Finally, everyone had 3 more hours of free time around the campus before bedtime. The boys engaged in several epic games of Man Hunt, and the girls journaled and played a game called \"Out of the Loop.\"&nbsp;</p>\n<p>Then, exhausted, everyone collapsed into bed, minds and hearts full of Ireland, ready for the stories they're bound to create.</p>"
+          },
+          {
+           "type": "image",
+           "id": "c6ece6f",
+           "style": {
+            "": {
+             "max-width": "100.726%"
+            }
+           },
+           "src": "/images/wp/2023/07/IMG_20230701_215121-scaled.jpg",
+           "alt": "",
+           "link": null,
+           "caption": "It was a great day!"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      },
+      {
+       "type": "text-editor",
+       "id": "a732a8d",
+       "style": {},
+       "html": ""
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

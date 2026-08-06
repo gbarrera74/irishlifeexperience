@@ -1,0 +1,95 @@
+{
+ "slug": "today-was-so-da-bomb",
+ "title": "Today was “so-da” bomb",
+ "path": "/blog/today-was-so-da-bomb/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "a984da4",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "38006a3",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "0e42d7f",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Hey all! Today was a super chill day, which was well needed after our tiring tour day yesterday. The morning was spent in breakfast and classes, followed by a lovely colorful dinner (cabbage, potatoes, carrots, stuffing, turkey, and gravy). The sun graced us with its presence almost all day, so kids had the choice to head out to Waterford for some free time, which most did. At 2:30, there was a Celtic keychains workshop with shrinky-dinks, which 17 people came to! Everyone was really impressed with their art talents. Then at 4:00 was an Irish Soda Bread Workshop with our most lovely Kaylee.</p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Then at 5, our lovely Clare put together a Waterford Scavenger Hunt, with tasks like \"find a sign in Irish,\" \"find a non-Irish license plate,\" and \"take a photo with a city official.\"--amazing job to everyone!&nbsp;</span><br></p><p>&nbsp;At tea, everyone got to sample the soda bread and agreed it was quite magnificent! Whoop! Also for tea was pesto pasta, quiche, and salad.&nbsp;</p><p>Then we had dance and drama. Everyone's working on their music videos still, which are going great, and Clare finished teaching everyone the Walls of Limerick dance! They're great, you guys.&nbsp;</p><p>Then everyone had the evening to themselves, which was punctuated by a bittersweet task...packing. For tomorrow we leave Newtown :( and head off for Dublin! :)&nbsp;</p><p>That's all for now folks! Sleep well!&nbsp;</p>"
+      },
+      {
+       "type": "section",
+       "id": "1439928",
+       "style": {},
+       "children": [
+        {
+         "type": "column",
+         "id": "811ef3c",
+         "style": {},
+         "children": [
+          {
+           "type": "image",
+           "id": "f31da28",
+           "style": {},
+           "src": "/images/wp/2024/07/IMG_0254-scaled.jpg",
+           "alt": "Celtic Keychains Workshop--2024",
+           "link": null,
+           "caption": "Celtic Keychains Workshop!"
+          },
+          {
+           "type": "image",
+           "id": "b5f2f74",
+           "style": {},
+           "src": "/images/wp/2024/07/IMG_0256-scaled.jpg",
+           "alt": "Theo, Celtic Keychains Workshop--2024",
+           "link": null,
+           "caption": "Look at that dragonfly!"
+          }
+         ],
+         "width": 50
+        },
+        {
+         "type": "column",
+         "id": "91ca36a",
+         "style": {},
+         "children": [
+          {
+           "type": "image",
+           "id": "74b301f",
+           "style": {},
+           "src": "/images/wp/2024/07/IMG_0255-1-scaled.jpg",
+           "alt": "Celtic Keychains Workshop--2024",
+           "link": null,
+           "caption": "Some lovely Irish designs here!"
+          },
+          {
+           "type": "image",
+           "id": "386d491",
+           "style": {},
+           "src": "/images/wp/2024/07/IMG_0257-scaled.jpg",
+           "alt": "Tea, Newtown, 2024",
+           "link": null,
+           "caption": "Tea! With the soda bread!"
+          }
+         ],
+         "width": 50
+        }
+       ],
+       "structure": "20"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

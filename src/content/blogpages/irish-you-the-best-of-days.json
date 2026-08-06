@@ -1,0 +1,79 @@
+{
+ "slug": "irish-you-the-best-of-days",
+ "title": "Irish you the best of days!",
+ "path": "/blog/irish-you-the-best-of-days/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "e322317",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b717dc0",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "0d8a033",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p style=\"text-align: center;\"><strong>A Beginner's Guide to Irish Phrases</strong></p><p style=\"text-align: center;\"><em>*The Irish language has the belief that every greeting and farewell should be a blessing, which is just the sweetest, hence why the \"hellos\" translate to \"May God/God and Mary be with you.\"*<br /></em></p><p><strong>Dia dhuit</strong><em>--Hello</em> </p><p><strong>Dia is muire dhuit</strong><em>--response to 'hello'</em></p><p><strong>Conas atá tú</strong>?--<em>How are you?</em></p><p><strong>Tá mé</strong>______---<em>I am_____...</em></p><p><strong>...go maith</strong>--.<em>..good</em></p><p><strong>...go hainnis</strong>--.<em>..miserable </em>(I sure hope you aren't!)</p><p><strong>...ceart go leor</strong>-<em>-OK</em></p><p><strong>...go diail</strong>--<em>...wonderful</em></p><p><strong>Agus tú féin? Conas tánn tú?</strong>--<em>And you? How are you?</em></p><p><strong>Slán!</strong>-<em>-Goodbye!</em></p>"
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "88b0c30",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "5e6acd4",
+       "style": {},
+       "src": "/images/wp/2023/07/IMG_9768-scaled.jpg",
+       "alt": "",
+       "link": null
+      },
+      {
+       "type": "image",
+       "id": "03dad72",
+       "style": {},
+       "src": "/images/wp/2023/07/IMG_9763-scaled.jpg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "312236a",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "302d914",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Maidin mhaith daoibh go léir as Baile Átha Cliath! Good morning to you all from Dublin! </p><p>Everyone got up on this beautiful blustery Irish morning for their first full day in Dublin! We all headed down to breakfast, where we had a great selection of cereals, yogurt, milk, fruit, granola, and scones with jam and butter! Mmmm.</p><p>Then, we got to meet the wonderful Máire O' Shaughnessy--our new Gaelic and Irish Literature teacher for the week. Máire also plays Gaelic Football for her county--Meath! She started off by teaching everyone the beginnings to the Irish language (a guide is written out on the left), then started teaching us about some classic Irish writers, starting off with Oscar Wilde (he's cool, but pretty weird). </p><p>Then, everyone headed off to dinner--rice, curry, chicken (or a vegetarian noodle salad option), fresh salad with lots of veggies, and fruit. Everyone agrees that the food here is great. </p><p>Then everyone had some free time, where they were able to go to the Liffey Valley Shopping Center, about a 5-minute walk from King's Hospital. Some people deigned for just relaxing, playing sports, or calling home until tea time--where we had the choice of either beef burgers or chicken patty burgers, salad, chips (fries), and a brownie. </p><p>Finally, we ended the day with a fantastic tin whistle workshop by our one and only Kaylee! She is such an amazing teacher. About 15 people (some with no previous musical experience), learned how to collectively play an entire song on the tin whistle under Kaylee's wise tutelage (Did I mention that the workshop was only 40 minutes?!). We also had some lovely Drama and Dance! We all started working on our final project--a theatrical presentation on a historical Irish figure! The prize is AMAZING, so everyone is getting pretty competitive...</p><p>Goodnight to everyone from the King's Hospital! </p>"
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "31"
+  }
+ ]
+}

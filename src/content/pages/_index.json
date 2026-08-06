@@ -1,0 +1,278 @@
+[
+ {
+  "slug": "about-us",
+  "title": "About Us",
+  "path": "/about-us/",
+  "hasCss": true
+ },
+ {
+  "slug": "accommodations",
+  "title": "Accommodations",
+  "path": "/parents/accommodations/",
+  "hasCss": true
+ },
+ {
+  "slug": "allyson-t-ile-2019",
+  "title": "Allyson T.-ILE 2019",
+  "path": "/allyson-t-ile-2019/",
+  "hasCss": true
+ },
+ {
+  "slug": "alumni",
+  "title": "Alumni",
+  "path": "/alumni/",
+  "hasCss": true
+ },
+ {
+  "slug": "apply",
+  "title": "Apply",
+  "path": "/apply/",
+  "hasCss": true
+ },
+ {
+  "slug": "blog",
+  "title": "Blog",
+  "path": "/blog/",
+  "hasCss": true
+ },
+ {
+  "slug": "clare-b-ile-2015-2",
+  "title": "Clare B.-ILE 2015",
+  "path": "/clare-b-ile-2015-2/",
+  "hasCss": true
+ },
+ {
+  "slug": "classes",
+  "title": "Classes",
+  "path": "/students/classes/",
+  "hasCss": true
+ },
+ {
+  "slug": "contact",
+  "title": "Contact",
+  "path": "/contact/",
+  "hasCss": true
+ },
+ {
+  "slug": "daniel-s-ile-2019",
+  "title": "Daniel S.-ILE 2019",
+  "path": "/daniel-s-ile-2019/",
+  "hasCss": true
+ },
+ {
+  "slug": "donation-form",
+  "title": "Donation Form",
+  "path": "/donation-form/",
+  "hasCss": true
+ },
+ {
+  "slug": "eva-l-ile-2022",
+  "title": "Eva L.-ILE 2022",
+  "path": "/eva-l-ile-2022/",
+  "hasCss": true
+ },
+ {
+  "slug": "faq",
+  "title": "FAQ",
+  "path": "/parents/faq/",
+  "hasCss": true
+ },
+ {
+  "slug": "flight-information",
+  "title": "Flight Information",
+  "path": "/flight-information/",
+  "hasCss": true
+ },
+ {
+  "slug": "gallery",
+  "title": "Gallery",
+  "path": "/gallery/",
+  "hasCss": true
+ },
+ {
+  "slug": "hannah-b-ile-2017",
+  "title": "Hannah B.-ILE 2017",
+  "path": "/hannah-b-ile-2017/",
+  "hasCss": true
+ },
+ {
+  "slug": "high-school-credit",
+  "title": "High School Credit",
+  "path": "/high-school-credit/",
+  "hasCss": true
+ },
+ {
+  "slug": "home",
+  "title": "Home",
+  "path": "/",
+  "hasCss": true
+ },
+ {
+  "slug": "in-memoriam",
+  "title": "In Memoriam",
+  "path": "/in-memoriam/",
+  "hasCss": true
+ },
+ {
+  "slug": "inclusions-and-pricing",
+  "title": "Inclusions and Pricing",
+  "path": "/inclusions-and-pricing/",
+  "hasCss": true
+ },
+ {
+  "slug": "johanna-b-ile-2015",
+  "title": "Johanna B.-ILE 2015",
+  "path": "/johanna-b-ile-2015/",
+  "hasCss": true
+ },
+ {
+  "slug": "kennedy-p-ile-2018",
+  "title": "Kennedy P.-ILE 2018",
+  "path": "/kennedy-p-ile-2018/",
+  "hasCss": true
+ },
+ {
+  "slug": "kylene-b-ile-2019",
+  "title": "Kylene B.-ILE 2019",
+  "path": "/kylene-b-ile-2019/",
+  "hasCss": true
+ },
+ {
+  "slug": "medical-form",
+  "title": "Medical Form",
+  "path": "/medical-form/",
+  "hasCss": true
+ },
+ {
+  "slug": "meet-the-team",
+  "title": "Meet the Team",
+  "path": "/meet-the-team/",
+  "hasCss": true
+ },
+ {
+  "slug": "mesa-m-ile-2019",
+  "title": "Mesa M.-ILE 2019",
+  "path": "/mesa-m-ile-2019/",
+  "hasCss": true
+ },
+ {
+  "slug": "nancy-b-ile-2018",
+  "title": "Nancy B.-ILE 2018",
+  "path": "/nancy-b-ile-2018/",
+  "hasCss": true
+ },
+ {
+  "slug": "nathalie-h-ile-2022",
+  "title": "Natalie H.-ILE 2022",
+  "path": "/nathalie-h-ile-2022/",
+  "hasCss": true
+ },
+ {
+  "slug": "owen-m-ile-2015",
+  "title": "Owen M.-ILE 2015",
+  "path": "/owen-m-ile-2015/",
+  "hasCss": true
+ },
+ {
+  "slug": "parents",
+  "title": "Parents",
+  "path": "/parents/",
+  "hasCss": true
+ },
+ {
+  "slug": "participant-and-parent-release",
+  "title": "Participant and Parent Release",
+  "path": "/participant-and-parent-release/",
+  "hasCss": true
+ },
+ {
+  "slug": "passport-information",
+  "title": "Passport Information",
+  "path": "/passport-information/",
+  "hasCss": true
+ },
+ {
+  "slug": "payment",
+  "title": "Payment",
+  "path": "/payment/",
+  "hasCss": true
+ },
+ {
+  "slug": "peirce-r-ile-2017",
+  "title": "Peirce R.-ILE 2017",
+  "path": "/peirce-r-ile-2017/",
+  "hasCss": true
+ },
+ {
+  "slug": "privacy-policy",
+  "title": "Privacy Policy",
+  "path": "/privacy-policy/",
+  "hasCss": true
+ },
+ {
+  "slug": "programs",
+  "title": "Programs",
+  "path": "/programs/",
+  "hasCss": true
+ },
+ {
+  "slug": "request-more-info",
+  "title": "Request More Info",
+  "path": "/request-more-info/",
+  "hasCss": true
+ },
+ {
+  "slug": "robert-b-ile-2015",
+  "title": "Robert B.-ILE 2015",
+  "path": "/robert-b-ile-2015/",
+  "hasCss": true
+ },
+ {
+  "slug": "sitemap",
+  "title": "Sitemap",
+  "path": "/sitemap/",
+  "hasCss": false
+ },
+ {
+  "slug": "students",
+  "title": "Students",
+  "path": "/students/",
+  "hasCss": true
+ },
+ {
+  "slug": "testimonials",
+  "title": "Testimonials",
+  "path": "/testimonials/",
+  "hasCss": true
+ },
+ {
+  "slug": "thank-you",
+  "title": "Thank You",
+  "path": "/thank-you/",
+  "hasCss": true
+ },
+ {
+  "slug": "thank-you-form-submission",
+  "title": "Thank You Form Submission",
+  "path": "/thank-you-form-submission/",
+  "hasCss": true
+ },
+ {
+  "slug": "tours",
+  "title": "Tours",
+  "path": "/students/tours/",
+  "hasCss": true
+ },
+ {
+  "slug": "travel",
+  "title": "Travel",
+  "path": "/parents/travel/",
+  "hasCss": true
+ },
+ {
+  "slug": "workshops",
+  "title": "Workshops",
+  "path": "/students/workshops/",
+  "hasCss": true
+ }
+]

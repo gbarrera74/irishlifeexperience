@@ -1,0 +1,77 @@
+{
+ "slug": "dublin-the-fun",
+ "title": "Dublin the Fun",
+ "path": "/blog/dublin-the-fun/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "a8cbc69",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "1af861f",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "0e89ea2",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Hello to the last full day in Dublin! Students were able to have a bit of a lie-in until 10:30, though some opted for breakfast earlier, which was the normal spread along with some delicious sausage rolls. Since we leave tomorrow for Killarney (yay!), students started the packing process before hopping on the bus for our Dublin free day. Woop!</span></p>\n<p><span style=\"background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;\"><br></span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;\">After a quick bus tour of Phoenix Park (where the Áras an Uachtaráin–the President of Ireland–lives, also one of Europe’s biggest enclosed parks), and another bus tour of the main parts of Dublin, students had 6 hours to explore Dublin with their buddies. Among many other things, Joy, Lauren, and Logan went to Hodges Figgis for some books, Aidan, Parker, Liam, Darcy, Kate, and Mary stopped at lots of foodie places, and Ava and Grace went to a vintage shop. Lots of gift shopping all around!&nbsp;</span><br></p>\n<p><b style=\"font-weight:normal;\"><br></b></p>\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Then it was time to head back to KH for drama practice! Students had an hour or so to perfect their performances, and it sure pays off, as the prize for the winners is AMAZING. Then it was time for another ILE tradition–a barbeque! Students happily munched on delicious hamburgers, hot dogs, and salad before heading into the drama room for their performances.&nbsp;</span></p>\n<p><b style=\"font-weight:normal;\"><br></b></p>\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">We got to meet some of Taryn’s dear friends who play in an Irish Trad band! They were here to not only play music for us, but to guest judge the performances. And after some riveting skits, the Michael Collins group won!!!! So now Fiona, Theo, Mary, Joy, Tim, Danny, and Cecilia get to go see Trad on the Prom!!! Whoo!&nbsp;</span></p>\n<p><br></p>\n<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Then the evening was finished off with a fantastic trad performance. Students even joined in with some singing and dancing! And Theo joined in with his bodhran for some songs too. Then it was time for bed and some last-minute packing! Sleep well on your last night in Dublin!</span></p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "87322cd",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "a71fef1",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "a8e8e01",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0528.jpg",
+       "alt": "The Trad Band--2024",
+       "link": null,
+       "caption": "Look at them play! So so good."
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "0d78a11",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "48aff6c",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0527.jpg",
+       "alt": "Trad Band Group Pic--2024",
+       "link": null,
+       "caption": ""
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  }
+ ]
+}

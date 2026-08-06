@@ -1,0 +1,315 @@
+{
+ "slug": "request-more-info",
+ "title": "Request More Info",
+ "path": "/request-more-info/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "f2e8833",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#FFFFFF"
+    },
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "555ce17",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "6cfe6ed",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "54px",
+         "font-weight": "bold",
+         "line-height": "0.8em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Request",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "19d7424",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "3.3em",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "More Info",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "8b53609",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/07/IMG_2266-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "2dbcf78",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "850px"
+    },
+    "": {
+     "padding": "10px 10px 10px 10px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "7ef5245",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "87f323a",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 5px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "text-transform": "capitalize",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Want to Apply?",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "form",
+       "id": "eeeaa82",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px"
+        },
+        ".elementor-field-group > label": {
+         "color": "#1E3A43",
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+        },
+        ".elementor-field-subgroup label": {
+         "color": "#1E3A43",
+         "font-family": "\"Lato\", Sans-serif"
+        },
+        ".dce-signature-wrapper": {
+         "text-align": "left"
+        },
+        ".dce-signature-canvas": {
+         "border-radius": "3px 3px 3px 3px",
+         "background-color": "#ffffff"
+        },
+        ".dce-signature-button-clear": {
+         "color": "#e62626"
+        },
+        ".dce-signature-button-clear i": {
+         "color": "#e62626",
+         "font-size": "16px"
+        },
+        ".elementor-field-group .elementor-field": {
+         "color": "#000000",
+         "font-family": "\"Lato\", Sans-serif"
+        },
+        ".select2-container--default .select2-selection--single .select2-selection__rendered": {
+         "color": "#000000"
+        },
+        "..select2-container--default .select2-selection--multiple .select2-selection__rendered": {
+         "color": "#000000"
+        },
+        ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-field-group .elementor-select-wrapper select": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-field-group .elementor-select-wrapper .select2": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
+         "background-color": "#ffffff",
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".mce-panel": {
+         "background-color": "#ffffff"
+        },
+        ".elementor-field-group .elementor-select-wrapper::before": {
+         "color": "#BEBEBE"
+        },
+        ".elementor-field-group .mce-panel": {
+         "border-radius": "12px 12px 12px 12px"
+        },
+        ".elementor-button": {
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "16px 16px 16px 16px"
+        },
+        ".e-form__buttons__wrapper__button-next": {
+         "background-color": "#61CE70",
+         "color": "#ffffff"
+        },
+        ".elementor-button[type=\"submit\"]": {
+         "background-color": "#61CE70",
+         "color": "#ffffff"
+        },
+        ".e-form__buttons__wrapper__button-previous": {
+         "background-color": "#FFFFFF",
+         "color": "#ffffff"
+        },
+        ".e-form__buttons__wrapper__button-next:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#61CE70"
+        },
+        ".elementor-button[type=\"submit\"]:hover": {
+         "background-color": "#FFFFFF",
+         "color": "#61CE70"
+        },
+        ".e-form__buttons__wrapper__button-previous:hover": {
+         "color": "#ffffff"
+        },
+        ".elementor-field-label-description:after": {
+         "border-radius": "50%",
+         "padding": "2px 0",
+         "line-height": "1",
+         "font-size": "80%",
+         "text-align": "center",
+         "color": "#ffffff",
+         "background-color": "#777777"
+        },
+        ".elementor-message": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
+        },
+        ".elementor-field-type-amount.elementor-field-group .dce-amount-visible": {
+         "opacity": "1"
+        },
+        ".elementor-field-type-dce_range input": {
+         "opacity": "1"
+        }
+       },
+       "formName": "Learn More",
+       "fields": [
+        {
+         "label": "First Name",
+         "type": "text",
+         "required": true,
+         "placeholder": "First Name",
+         "options": null,
+         "html": null,
+         "id": "name"
+        },
+        {
+         "label": "Last Name",
+         "type": "text",
+         "required": true,
+         "placeholder": "Last Name",
+         "options": null,
+         "html": null,
+         "id": "field_a0e0761"
+        },
+        {
+         "label": "Mobile Phone",
+         "type": "tel",
+         "required": true,
+         "placeholder": "Mobile Phone",
+         "options": null,
+         "html": null,
+         "id": "field_5f8be52"
+        },
+        {
+         "label": "E-Mail",
+         "type": "email",
+         "required": true,
+         "placeholder": "E-Mail",
+         "options": null,
+         "html": null,
+         "id": "email"
+        },
+        {
+         "label": "Message",
+         "type": "textarea",
+         "required": false,
+         "placeholder": "Message",
+         "options": null,
+         "html": null,
+         "id": "message"
+        }
+       ],
+       "submit": "Send"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

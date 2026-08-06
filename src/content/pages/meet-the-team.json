@@ -1,0 +1,704 @@
+{
+ "slug": "meet-the-team",
+ "title": "Meet the Team",
+ "path": "/meet-the-team/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "59bfee2",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.34"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "3285f14",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "eefa1f0",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "0.8em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Meet Our",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "8d67dea",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "Dream Team",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "a0ecf18",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/10/IMG_2144-scaled.jpg"
+  },
+  {
+   "type": "section",
+   "id": "53d356b",
+   "style": {
+    ":not(.elementor-motion-effects-element-type-background)": {
+     "background-color": "#ffffff"
+    },
+    "> .elementor-motion-effects-container > .elementor-motion-effects-layer": {
+     "background-color": "#ffffff"
+    },
+    "": {
+     "padding": "0px 0px 0px 0px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "fd61b93",
+     "style": {},
+     "children": [
+      {
+       "type": "section",
+       "id": "271c3f1",
+       "style": {
+        "": {
+         "padding": "0px 0px 0px 0px"
+        }
+       },
+       "children": [
+        {
+         "type": "column",
+         "id": "3b331bc",
+         "style": {
+          "> .elementor-element-populated": {
+           "padding": "2em 2em 2em 2em"
+          }
+         },
+         "children": [
+          {
+           "type": "heading",
+           "id": "4309ccb",
+           "style": {
+            "> .elementor-widget-container": {
+             "margin": "0px 0px 0px 0px",
+             "padding": "0px 0px 0px 0px"
+            },
+            "": {
+             "text-align": "center"
+            },
+            ".elementor-heading-title": {
+             "font-family": "\"Nothing You Could Do\", Sans-serif",
+             "font-size": "30px",
+             "font-weight": "bold",
+             "text-transform": "capitalize",
+             "line-height": "1.5em",
+             "letter-spacing": "2px",
+             "color": "#1E3A43"
+            }
+           },
+           "text": "People Behind the Scenes",
+           "tag": "h3",
+           "link": null,
+           "size": "small"
+          },
+          {
+           "type": "text-editor",
+           "id": "767b581",
+           "style": {
+            "": {
+             "font-family": "\"Open Sans\", Sans-serif",
+             "font-size": "1rem",
+             "font-weight": "500",
+             "line-height": "1.6em",
+             "color": "#515151",
+             "text-align": "center"
+            }
+           },
+           "html": "<p>With nearly 150 years of combined experience leading students and groups around the world, the Irish Life Experience Team has the knowledge and the “know-how” to make each and every student’s experience an unforgettable one.  Nearly all of our team members have once participated in our study abroad programs as students and have continued on to lead groups and become part of a prestigious network, which provides fully-integrated, cultural, and academic immersion programs for students.</p><p>This combination of experience and knowledge guarantee an exciting and unique educational trip for any student.</p>"
+          }
+         ],
+         "width": 100
+        }
+       ]
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "797a85e",
+     "style": {
+      "> .elementor-element-populated": {
+       "border-radius": "0px 0px 0px 0px"
+      },
+      "> .elementor-element-populated > .elementor-background-overlay": {
+       "border-radius": "0px 0px 0px 0px"
+      },
+      "> .elementor-background-slideshow": {
+       "border-radius": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "image",
+       "id": "5185cc8",
+       "style": {
+        "> .elementor-widget-container": {
+         "border-radius": "0px 0px 0px 0px"
+        },
+        "img": {
+         "border-radius": "12px 12px 12px 12px"
+        }
+       },
+       "src": "/images/wp/2021/10/IMG_2138-scaled.jpg",
+       "alt": "",
+       "link": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "c04986e",
+   "style": {
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.45"
+    },
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "0px"
+    },
+    "": {
+     "padding": "50px 15px 50px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "1cb8ee7",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "09c817a",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "start"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Quicksand\", Sans-serif",
+         "font-size": "3.1em",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "-5px",
+         "color": "#ffffff"
+        }
+       },
+       "text": "The Adventure",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "0abdf63",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "-34px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "start"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Dancing Script\", Sans-serif",
+         "font-size": "70px",
+         "font-weight": "bold",
+         "color": "#ffffff",
+         "line-height": "1.7em"
+        }
+       },
+       "text": "awaits...",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "text-editor",
+       "id": "cc12019",
+       "style": {
+        "> .elementor-widget-container": {
+         "margin": "-19px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        },
+        "": {
+         "text-align": "start",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-size": "20px",
+         "font-weight": "normal",
+         "line-height": "2em",
+         "letter-spacing": "0.2px",
+         "color": "#ffffff"
+        }
+       },
+       "html": "<p>Experience the world and make lifelong friends!</p>"
+      }
+     ],
+     "width": 50
+    },
+    {
+     "type": "column",
+     "id": "7b23417",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "spacer",
+       "id": "65d51fa",
+       "style": {},
+       "size": null
+      },
+      {
+       "type": "button",
+       "id": "17074c1",
+       "style": {
+        ".elementor-button": {
+         "background-color": "#61CE70",
+         "font-family": "\"Open Sans\", Sans-serif",
+         "font-weight": "bold",
+         "text-transform": "uppercase",
+         "color": "#FFFFFF",
+         "border-radius": "100px 100px 100px 100px",
+         "padding": "1em 3em 1em 3em"
+        },
+        ".elementor-button:hover": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        },
+        ".elementor-button:focus": {
+         "background-color": "rgba(54,244,133,0)",
+         "color": "#61CE70"
+        }
+       },
+       "text": "Request Info",
+       "link": ""
+      },
+      {
+       "type": "spacer",
+       "id": "31c82c8",
+       "style": {},
+       "size": null
+      }
+     ],
+     "width": 50
+    }
+   ],
+   "bgImage": "/images/wp/2021/10/IMG_3256-scaled.jpg",
+   "structure": "20"
+  },
+  {
+   "type": "section",
+   "id": "581863c",
+   "style": {
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "d0f5792",
+     "style": {},
+     "children": [
+      {
+       "type": "image-box",
+       "id": "4334332",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 0px 0px"
+        },
+        ".elementor-image-box-wrapper": {
+         "text-align": "center"
+        },
+        ".elementor-image-box-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        },
+        ".elementor-image-box-description": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "src": "/images/wp/2021/09/TBonz2.png",
+       "title": "Taryn Harrison",
+       "description": "President and Founder-Montana"
+      },
+      {
+       "type": "text-editor",
+       "id": "b6f1484",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43",
+         "text-align": "center"
+        },
+        "> .elementor-widget-container": {
+         "padding": "1px 1px 1px 1px"
+        }
+       },
+       "html": "<p>Hailing from Polson, Montana, Taryn was bitten by the travel bug at an early age.  At sixteen, she had the opportunity to participate in a summer study abroad program in Ireland. After graduating from college, Taryn served as a Peace Corps volunteer in Kyrgyzstan.  Before being evacuated after 9/11, she worked in a small Muslim village teaching English to 5-11 graders.  Upon returning to the States, she decided she needed a change of pace and moved to Ireland for a year, where she immersed herself in the tiny town of Camlough, County Armagh.  Since her return to the States, Taryn has traveled to 28 different countries and has been taking high school students to Ireland for over 25 years.  She has dedicated her life to sharing her knowledge and love for Ireland with young adults, combining education, travel, and fun.  In her spare time she loves spending time with family and friends, hiking, running, singing, skiing, traveling, and cheering for Gonzaga basketball.</p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "fe116b0",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b64d2bc",
+     "style": {},
+     "children": [
+      {
+       "type": "media-carousel",
+       "id": "96131d6",
+       "style": {
+        ".elementor-swiper-button": {
+         "font-size": "20px"
+        }
+       },
+       "images": [],
+       "slidesPerView": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "91ba984",
+   "style": {
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "6576b82",
+     "style": {},
+     "children": [
+      {
+       "type": "image-box",
+       "id": "31eae89",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 0px 0px"
+        },
+        ".elementor-image-box-wrapper": {
+         "text-align": "center"
+        },
+        ".elementor-image-box-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        },
+        ".elementor-image-box-description": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "src": "/images/wp/2021/10/Gerardo-Headshot.png",
+       "title": "Gerardo Barrera",
+       "description": "Finance Director-Massachusetts"
+      },
+      {
+       "type": "text-editor",
+       "id": "029ea6a",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43",
+         "text-align": "center"
+        },
+        "> .elementor-widget-container": {
+         "padding": "1px 1px 1px 1px"
+        }
+       },
+       "html": "<p>Gerardo began his journey in the travel industry 21 plus years ago when he joined as a Finance Director for StudentCity.com.  He gradually became the Chief Financial Officer of the parent company, TUI Education North America whose portfolio includes Brightspark, Educatours, Educational Tours, Jumpstreet, New Horizons, and Travel Adventures.  He is also the Co-Founder of Go Blue Tours, Juniper Tours, and Landmark Educational Tours.  <span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Gerardo lives in Boston with his wife and two sons and loves to travel and ski in his spare time.   </span></p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "57d14b0",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "8a35054",
+     "style": {},
+     "children": [
+      {
+       "type": "media-carousel",
+       "id": "c1c1871",
+       "style": {
+        ".elementor-swiper-button": {
+         "font-size": "20px"
+        }
+       },
+       "images": [],
+       "slidesPerView": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "6f41829",
+   "style": {
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "c231a56",
+     "style": {},
+     "children": [
+      {
+       "type": "image-box",
+       "id": "4ab6662",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "0px 0px 0px 0px"
+        },
+        ".elementor-image-box-wrapper": {
+         "text-align": "center"
+        },
+        ".elementor-image-box-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-weight": "bold",
+         "color": "#1E3A43"
+        },
+        ".elementor-image-box-description": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "src": "/images/wp/2023/04/15349798_10210930257190087_4056407511872919685_n.png",
+       "title": "Mark Cooney",
+       "description": "History Teacher-Waterford, Ireland"
+      },
+      {
+       "type": "text-editor",
+       "id": "de772aa",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43",
+         "text-align": "center"
+        },
+        "> .elementor-widget-container": {
+         "padding": "1px 1px 1px 1px"
+        }
+       },
+       "html": "<p><span style=\"font-weight: 400;\">Mark was born in Waterford Town, the home where the famous Waterford Crystal is made. </span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">He has been working with students the last 21 plus years in his job with education and his favorite pastime is the GAA. (Gaelic Athletic Association)  </span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">He loves all sports, but in particular his native sports of football and hurling.  </span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Mark has been involved with the Irish Life Experience for over a decade coaching traditional Irish sports. He loves the program and loves how the students engage in all activities and their willingness to learn each and every year.  </span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Mark is an avid music and film buff and also enjoys his down time with family and friends with cups of coffee and chats.</span></p>"
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "c1524f4",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "b842cae",
+     "style": {},
+     "children": [
+      {
+       "type": "media-carousel",
+       "id": "731c9d8",
+       "style": {
+        ".elementor-swiper-button": {
+         "font-size": "20px"
+        }
+       },
+       "images": [],
+       "slidesPerView": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "id": "a6ff9da",
+   "style": {
+    "": {
+     "padding": "30px 30px 30px 30px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "cc5f5a1",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "142c435",
+       "style": {
+        "> .elementor-widget-container": {
+         "padding": "0em 0em 0em 0em"
+        },
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "text-transform": "none",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "Our Trusted Partners",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "image-carousel",
+       "id": "da9b6d6",
+       "style": {
+        ".elementor-swiper-button.elementor-swiper-button-prev": {
+         "color": "#19447359"
+        },
+        ".elementor-swiper-button.elementor-swiper-button-next": {
+         "color": "#19447359"
+        }
+       },
+       "images": [
+        "/images/wp/2021/10/IACI.png",
+        "/images/wp/2021/10/goblue.png",
+        "/images/wp/2021/10/juniper.png",
+        "/images/wp/2021/10/landmark.png",
+        "/images/wp/2021/11/goinspired.png",
+        "/images/wp/2021/11/irishamericansociety.png",
+        "/images/wp/2021/10/oconnor.png",
+        "/images/wp/2021/11/quest.png"
+       ],
+       "slidesPerView": null
+      },
+      {
+       "type": "spacer",
+       "id": "24ad1a6",
+       "style": {},
+       "size": null
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "slug": "gallery",
+ "title": "Gallery",
+ "path": "/gallery/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "35a79d4",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "1170px",
+     "min-height": "296px"
+    },
+    "> .elementor-background-overlay": {
+     "background-color": "#000000",
+     "opacity": "0.18"
+    },
+    "": {
+     "padding": "45px 15px 45px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "cc99e6e",
+     "style": {
+      "> .elementor-element-populated": {
+       "margin": "0px 0px 0px 0px",
+       "padding": "0px 0px 0px 0px"
+      }
+     },
+     "children": [
+      {
+       "type": "heading",
+       "id": "487c1b6",
+       "style": {
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        },
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        }
+       },
+       "text": "Our",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "id": "04d58d0",
+       "style": {
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "58px",
+         "font-weight": "bold",
+         "line-height": "1.5em",
+         "letter-spacing": "2px",
+         "color": "#ffffff"
+        },
+        "> .elementor-widget-container": {
+         "margin": "0px 0px 0px 0px",
+         "padding": "0px 0px 0px 0px"
+        }
+       },
+       "text": "Gallery",
+       "tag": "h1",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "spacer",
+       "id": "26cfa2d",
+       "style": {},
+       "size": 10
+      }
+     ],
+     "width": 100
+    }
+   ],
+   "bgImage": "/images/wp/2021/10/IMG_2888.jpg"
+  },
+  {
+   "type": "section",
+   "id": "c3f3531",
+   "style": {
+    "> .elementor-container": {
+     "max-width": "1405px"
+    },
+    "": {
+     "padding": "0px 15px 0px 15px"
+    }
+   },
+   "children": [
+    {
+     "type": "column",
+     "id": "4384a0c",
+     "style": {},
+     "children": [
+      {
+       "type": "heading",
+       "id": "1232957",
+       "style": {
+        "": {
+         "text-align": "center"
+        },
+        ".elementor-heading-title": {
+         "font-family": "\"Nothing You Could Do\", Sans-serif",
+         "font-size": "40px",
+         "font-weight": "bold",
+         "text-transform": "none",
+         "color": "#1E3A43"
+        }
+       },
+       "text": "2019 Gallery",
+       "tag": "h2",
+       "link": null,
+       "size": null
+      },
+      {
+       "type": "gallery",
+       "id": "62ed0f4",
+       "style": {
+        ".e-gallery-item:hover .elementor-gallery-item__overlay": {
+         "background-color": "rgba(0,0,0,0.5)"
+        },
+        ".e-gallery-item:focus .elementor-gallery-item__overlay": {
+         "background-color": "rgba(0,0,0,0.5)"
+        }
+       },
+       "images": [
+        "/images/wp/2021/09/65971934_2386661244734093_776088633198247936_n.jpg",
+        "/images/wp/2021/07/IMG_5217-scaled.jpg",
+        "/images/wp/2021/10/IMG_9333-scaled.jpg",
+        "/images/wp/2021/10/IMG_9342-scaled.jpg",
+        "/images/wp/2021/10/IMG_9367-scaled.jpg",
+        "/images/wp/2021/10/IMG_9369-scaled.jpg",
+        "/images/wp/2021/10/IMG_9375-scaled.jpg",
+        "/images/wp/2021/10/IMG_9381-scaled.jpg",
+        "/images/wp/2021/10/IMG_9391-scaled.jpg",
+        "/images/wp/2021/10/IMG_9390-scaled.jpg",
+        "/images/wp/2021/10/IMG_9405-scaled.jpg",
+        "/images/wp/2021/10/IMG_9481-scaled.jpg",
+        "/images/wp/2021/10/IMG_9503-scaled.jpg",
+        "/images/wp/2021/10/IMG_9522-scaled.jpg",
+        "/images/wp/2021/10/IMG_9518-scaled.jpg",
+        "/images/wp/2021/10/IMG_9533-scaled.jpg",
+        "/images/wp/2021/10/IMG_9573-scaled.jpg",
+        "/images/wp/2021/10/IMG_9554-scaled.jpg",
+        "/images/wp/2021/10/IMG_9569-scaled.jpg",
+        "/images/wp/2021/10/IMG_9564-scaled.jpg",
+        "/images/wp/2021/10/IMG_9566-scaled.jpg",
+        "/images/wp/2021/10/IMG_4881.jpg",
+        "/images/wp/2021/10/IMG_9597-scaled.jpg",
+        "/images/wp/2021/10/IMG_5451-scaled.jpg",
+        "/images/wp/2021/10/IMG_9631-scaled.jpg",
+        "/images/wp/2021/08/IMG_9927-scaled.jpg",
+        "/images/wp/2021/08/IMG_9928-scaled.jpg",
+        "/images/wp/2021/08/IMG_9941-scaled.jpg",
+        "/images/wp/2021/08/IMG_9943-scaled.jpg",
+        "/images/wp/2021/08/IMG_9947-scaled.jpg",
+        "/images/wp/2021/08/IMG_9955-scaled.jpg",
+        "/images/wp/2021/08/IMG_9945-scaled.jpg",
+        "/images/wp/2021/10/IMG_9892-scaled.jpg",
+        "/images/wp/2021/08/IMG_9925-scaled.jpg",
+        "/images/wp/2021/08/IMG_9919-scaled.jpg",
+        "/images/wp/2021/10/IMG_5497-scaled.jpg",
+        "/images/wp/2021/10/IMG_5585-scaled.jpg",
+        "/images/wp/2021/10/IMG_3042-2-scaled.jpg",
+        "/images/wp/2021/10/IMG_9662-scaled.jpg",
+        "/images/wp/2021/10/IMG_9825-scaled.jpg",
+        "/images/wp/2021/10/IMG_9961-scaled.jpg",
+        "/images/wp/2021/10/IMG_9977-scaled.jpg",
+        "/images/wp/2021/10/IMG_0032-scaled.jpg",
+        "/images/wp/2021/07/IMG_7668-scaled.jpg",
+        "/images/wp/2021/10/IMG_9745-scaled.jpg",
+        "/images/wp/2021/07/A15E0741-128B-49B1-8634-4B1FEDC13B9F-scaled.jpg",
+        "/images/wp/2021/10/IMG_9712-scaled.jpg",
+        "/images/wp/2021/10/IMG_3037-scaled.jpg",
+        "/images/wp/2021/10/IMG_9967-scaled.jpg",
+        "/images/wp/2021/10/IMG_9976-scaled.jpg",
+        "/images/wp/2021/10/IMG_0022-scaled.jpg",
+        "/images/wp/2021/10/IMG_0062-scaled.jpg",
+        "/images/wp/2021/10/IMG_0061-scaled.jpg",
+        "/images/wp/2021/10/IMG_0071-scaled.jpg",
+        "/images/wp/2021/10/IMG_0179-scaled.jpg",
+        "/images/wp/2021/10/IMG_0202-1-scaled.jpg"
+       ]
+      }
+     ],
+     "width": 100
+    }
+   ]
+  }
+ ]
+}

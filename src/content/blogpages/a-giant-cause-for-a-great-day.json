@@ -1,0 +1,134 @@
+{
+ "slug": "a-giant-cause-for-a-great-day",
+ "title": "A Giant Cause for a Great Day",
+ "path": "/blog/a-giant-cause-for-a-great-day/",
+ "seo": {},
+ "hasCss": true,
+ "blocks": [
+  {
+   "type": "section",
+   "id": "386e851",
+   "style": {},
+   "children": [
+    {
+     "type": "column",
+     "id": "212e189",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "178b921",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Wakey wakey, eggs and bacey! Early morning today...and for a good reason. Today is our tour up North!!! Students had to be on the bus much earlier than normal, but still enjoyed their delicious breakfast of sausage rolls, fruit, yogurt, and cereal. Then it was time for a 3-hour drive up to Norn' Iron', in which almost everyone caught up on a few hours of sleep. The landscape slowly shifted from the bustling hub of Dublin to rural green countryside, and tri-color flags slowly faded to Union Jacks as we drove into Northern Ireland.&nbsp;</p>\n<p>We were quite early to our tour, so we had time for a quick stop at Dunluce Castle for a photo opp and our packed lunches. Then we drove on up to the Giant's Causeway...Yay!!!!!!</p>\n<p>We grabbed our audio guides then set off up the coastal path, and soon we were immersed in the views of sweeping ocean and green bluffs<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">. We then started our slippery stairway descent, where we first stopped at the Giant’s Organ–a breathtaking set of natural basalt pillars soaring into the cliff. We took a quick group picture before everyone was set loose for an hour to scramble around the Causeway and rocky coast.&nbsp;</span></p>\n<p>As legend states, the Causeway was created by the Irish giant, Fionn Mac Cumhaill, when his enemy (Benandonner–sometimes known as Fatách Mór (literally translating to ‘Big Giant’ in other legends) was running from him in fear and tore up the Causeway behind him.&nbsp;</p>\n<p>The kids took some wonderful pictures among the hexagonal pillars and sunken-in tide pools. Almost everyone said that this was by far their favorite place so far on the ILE.&nbsp;</p>"
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "082656c",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "2bb132f",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0346-scaled.jpg",
+       "alt": "Group at Giants Causeway--2024",
+       "link": null,
+       "caption": "We love the Giant's Causeway!"
+      },
+      {
+       "type": "image",
+       "id": "e7c4f99",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0301-scaled.jpg",
+       "alt": "Dunluce Castle Group--2024",
+       "link": null,
+       "caption": "Dunluce Castle!"
+      },
+      {
+       "type": "image",
+       "id": "79a0317",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_2021_Original-scaled.jpg",
+       "alt": "Tim, Patrick, and Hauk--2024",
+       "link": null,
+       "caption": "Tim, Patrick, and Hauk on Rede Island"
+      },
+      {
+       "type": "image",
+       "id": "bc46661",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0341-scaled.jpg",
+       "alt": "Danny and Alex--2024",
+       "link": null,
+       "caption": "Danny and Alex on Giant's Causeway"
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "02f1355",
+     "style": {},
+     "children": [
+      {
+       "type": "text-editor",
+       "id": "445d338",
+       "style": {
+        "": {
+         "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
+         "color": "#1E3A43"
+        }
+       },
+       "html": "<p>Next stop--Carrick-a-Rede Rope Bridge! (‘Carrick’ meaning ‘rocky’ and ‘Rede’ being the name of the island we were taking the bridge to).&nbsp;</p><p>A GORGEOUS walk among the heather and wild brambles led us to the bridge. Some students looked nervous, others eager. We were so proud of Eva, who was very nervous for the bridge and triumphantly crossed it.</p><p>Rede Island was perched in the stunning turquoise water, and everyone sat on its rocky top to watch the many nesting birds swoop and dip and dive around, playing on the currents of the gales.&nbsp;</p><p>After a bit, we all made the swinging (100-foot tall drop) cross back, where we were greeted by a small burst of happy sunlight as we made our way back to the bus. Lots of the students deigned to buy a 99--a delicious ice cream cone--before boarding.</p><p>Finally, everyone was given an hour and a stipend to go find some dinner in the charming little coastal village of Ballycastle. Mary bought fixings for a sandwich, Lauren and Elia found some fantastic pub food, and a group of the boys found some hot dogs.</p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">The ride back was punctuated only by the occasional snore, though most opted for a relaxing few hours to gaze out the windows.</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Once home, we had a few hours before bed check, so a big game of \"werewolf\" (similar to Mafia or Poison Dart Frog) was organized and there were MANY laughs to be shared.</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Everyone then gratefully collapsed into their beds, dreaming soundly of Northern Ireland’s many wonderful adventures, and perhaps hearing the booming footsteps of giants somewhere in the distance…</span></p>"
+      }
+     ],
+     "width": 25
+    },
+    {
+     "type": "column",
+     "id": "0932a42",
+     "style": {},
+     "children": [
+      {
+       "type": "image",
+       "id": "75a5490",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_2032_Original-scaled.jpg",
+       "alt": "Olivia, Rede Island, 2024",
+       "link": null,
+       "caption": "Olivia!!"
+      },
+      {
+       "type": "image",
+       "id": "fe60360",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0330-scaled.jpg",
+       "alt": "Giant's Causeway--2024",
+       "link": null,
+       "caption": "Giant's Causeway from afar...such a magical day"
+      },
+      {
+       "type": "image",
+       "id": "7f60d0d",
+       "style": {},
+       "src": "/images/wp/2024/07/IMG_0307-scaled.jpg",
+       "alt": "Lauren--Causeway--2024",
+       "link": null,
+       "caption": "Lauren!!"
+      }
+     ],
+     "width": 25
+    }
+   ],
+   "structure": "40"
+  }
+ ]
+}
