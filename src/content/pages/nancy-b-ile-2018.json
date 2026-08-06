@@ -4,6 +4,7 @@
  "path": "/nancy-b-ile-2018/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"3a1322a\"] .elementor-container{min-height:73vh !important}[data-el=\"3a1322a\"]{padding:68px 0px 75px 0px !important}[data-el=\"44f41f2\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"3a1322a\"] .elementor-container{min-height:296px !important}[data-el=\"3a1322a\"]{padding:45px 15px 45px 15px !important}[data-el=\"3bf20c8\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"f2f8bd1\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"f2f8bd1\"]{text-align:center !important}[data-el=\"f2f8bd1\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"45debe2\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h1",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Ambassadors",
        "tag": "h1",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "251197d",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -96,7 +102,12 @@
   {
    "type": "section",
    "id": "4a7520f",
-   "style": {},
+   "style": {
+    "": {
+     "margin-top": "60px",
+     "margin-bottom": "60px"
+    }
+   },
    "children": [
     {
      "type": "column",
@@ -111,6 +122,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/10/IMG_8927-1-scaled.jpg",
        "alt": "",
        "link": null
@@ -133,6 +145,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Nancy B.-ILE 2018",
        "tag": "h2",
        "link": null,
@@ -147,6 +160,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>My name is Nancy Bowne and I live in Cherry Hill, NJ, a suburb outside of Philadelphia.  I am seventeen and will be a senior in high school.  I recall growing up, hearing stories of the legendary summers my mom and aunt had on this Irish Life Experience trip, knowing it was something I strived to experience as well for my summer going into senior year.  Now on the other side, I realize just how important this trip was for me in my life.  Traveling and immersing yourself into another culture is thrilling, especially in a place like Ireland.  Some of my favorite moments included the bicycle rides in Waterford and the Aran Islands, the classes from the truly passionate and neat teachers, going on hikes on the cliffs, and exploring the quaint towns. I also noted that sometimes even the most mundane objects, such as street signs, ice-cream cones, and sinks, are so exciting to a new place.</p><p>I hope to return to my place of heritage sometime soon, but please feel free to reach out to me with any questions or concerns.  Everyone deserves the chance to experience Ireland, especially with this program.</p>"
       },
       {
@@ -160,6 +174,7 @@
          "color": "#6EC1E4"
         }
        },
+       "hide": null,
        "text": "Visit on Facebook»",
        "tag": "p",
        "link": "https://www.facebook.com/profile.php?id=100008331430730",
@@ -176,6 +191,7 @@
          "color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "E-Mail»nancybowne@gmail.com",
        "tag": "p",
        "link": null,
@@ -191,18 +207,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Go Back",
        "link": ""
       }

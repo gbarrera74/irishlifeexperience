@@ -4,6 +4,7 @@
  "path": "/nathalie-h-ile-2022/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"50b2c77\"] .elementor-container{min-height:73vh !important}[data-el=\"50b2c77\"]{padding:68px 0px 75px 0px !important}[data-el=\"56205eb5\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"50b2c77\"] .elementor-container{min-height:296px !important}[data-el=\"50b2c77\"]{padding:45px 15px 45px 15px !important}[data-el=\"4bd69439\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"72bfd0f3\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"72bfd0f3\"]{text-align:center !important}[data-el=\"72bfd0f3\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"263e15a0\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h3",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Ambassadors",
        "tag": "h3",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "74e379b6",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -96,7 +102,12 @@
   {
    "type": "section",
    "id": "7f22078c",
-   "style": {},
+   "style": {
+    "": {
+     "margin-top": "60px",
+     "margin-bottom": "60px"
+    }
+   },
    "children": [
     {
      "type": "column",
@@ -111,6 +122,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/09/nathalie-ambassador-scaled.jpeg",
        "alt": "",
        "link": null
@@ -133,6 +145,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Natalie H.-ILE 2022",
        "tag": "h2",
        "link": null,
@@ -147,6 +160,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><span style=\"font-weight: 400;\">Hello everyone!  My name is Natalie Anne Helser, and I had the absolutely wonderful pleasure of attending ILE in 2022!  I am 17 years old and am a Senior at St. Ignatius High School.  I live on a farm, so I just love all things plants and animals!  I raise and breed ducks, farm with big, goofy draft horses, and also love doing anything creative!  Whether it’s sitting in a tree whilst writing poetry or a story, or being captivated by some wonderful book or imaginative art project, I love it all!  I am also really obsessed with Harry Potter and about a million other fictional worlds.  If you do not find me doing any of those things, then I am definitely out hiking or backpacking in the woods and mountains, swimming, singing and acting, sewing or attempting to knit a sweater or some socks, baking and cooking with fresh food from our garden, or finding some new, interesting, obscure hobby! </span></p><p><span style=\"font-weight: 400;\">The magic and wonderment you feel in Ireland-it is truly indescribable.  Words, poetry, music or songs, books-or even a collection of books-truly can not properly describe the Emerald Isle.  Not a day-not even an hour-passes by where I do not think of the ILE, the family I made there, and the hilarious, ridiculous, meaningful memories.  I will be weeding in the garden and suddenly remember snippets of things: Making boxty and bacon and scones, exploring cobbled, bunting-strung streets and long-lost castles, stumbling and grinning my way through one of Clare’s céilí dances, late-night singing and guitar playing with Kaylee and my friends, searching for rushes to make Brigid’s Crosses with, and-of course-the magical awe that just encapsulates all of the ILE and Ireland.  The people you meet on the Irish Life Experience are not just </span><i><span style=\"font-weight: 400;\">like</span></i><span style=\"font-weight: 400;\"> your family; they </span><i><span style=\"font-weight: 400;\">are</span></i><span style=\"font-weight: 400;\"> your family.  The counselors, Taryn, your roommates, your friends-you all just become one huge, happy, goofy family-and those relationships will stick around forever. </span></p><p><span style=\"font-weight: 400;\">Going on the ILE was the greatest decision of my life, and I truly hope you will all choose to make that same, miraculous decision as well!  It is 101% worth it-you may feel apprehensive, or a little homesick, or a million other emotions-but I guarantee you0you will never regret it, and you will have the summer of a lifetime.  Truly! Coming home, I was more homesick for Ireland than I was for home whilst I was there!  The 3 ½ weeks spent on the Emerald Isle fly past, and you will wish you were there for months and months!  Upon arriving in Ireland, I felt-although I have never been there, or to Europe for that matter-as if I was coming home.  It was like taking a deep breath of fresh air, of feeling content with the world, of feeling and knowing that everything is0and always will be0absolutely, magically, perfect. </span></p><p><span style=\"font-weight: 400;\">Please, please reach out to me if you have any questions, or just want to chat about the ILE or Ireland!  The Irish Life Experience and Ireland hold such a dear, meaningful place in my heart, and I truly hope to help you make those special memories as well.  I literally talk about the ILE every single day to my Dad and brother-they would definitely love a break!  Do not hesitate to reach out to me, I will always answer any questions or chat about whatever!!! </span></p>"
       },
       {
@@ -160,6 +174,7 @@
          "color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "E-Mail»nataliehelser25@gmail.com",
        "tag": "p",
        "link": null,
@@ -175,18 +190,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Go Back",
        "link": ""
       }

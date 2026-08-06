@@ -4,6 +4,7 @@
  "path": "/blog/a-giant-cause-for-celebration/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "image",
        "id": "7bd1a7c",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_3754-scaled.jpg",
        "alt": "",
        "link": null
@@ -27,6 +29,7 @@
        "type": "image",
        "id": "97d3886",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_9820-scaled.jpg",
        "alt": "",
        "link": null
@@ -35,6 +38,7 @@
        "type": "image",
        "id": "20554d0",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_4903-scaled.jpg",
        "alt": "",
        "link": null
@@ -43,6 +47,7 @@
        "type": "image",
        "id": "21934e0",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_4911-scaled.jpg",
        "alt": "",
        "link": null
@@ -59,6 +64,7 @@
        "type": "image",
        "id": "5b64a03",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_20230710_122002-scaled.jpg",
        "alt": "",
        "link": null
@@ -67,6 +73,7 @@
        "type": "image",
        "id": "c933cbf",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_4880-scaled.jpg",
        "alt": "",
        "link": null
@@ -75,6 +82,7 @@
        "type": "image",
        "id": "26ff91b",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_4901-scaled.jpg",
        "alt": "",
        "link": null
@@ -83,6 +91,7 @@
        "type": "image",
        "id": "76bd5b2",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_4942.jpg",
        "alt": "",
        "link": null
@@ -90,7 +99,8 @@
       {
        "type": "google_maps",
        "id": "5503fd6",
-       "style": {}
+       "style": {},
+       "hide": null
       }
      ],
      "width": 25
@@ -109,6 +119,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>There's a giant cause to celebrate, because today we are heading to the Giant's Causeway! Everyone had to be on the bus earlier than usual this morning, with breakfast in their bellies and on the bus by 7. You can just imagine how wide awake, energetic, and up-to-the-get-go they were! Just kidding...everyone took the 3-hour bus ride up to Northern Ireland to sleep or else gaze tiredly out the windows at the passing landscape, watching as the rolling landscape and county flags slowly changed to wilder woods and union jacks. Taryn also pointed out various landmarks as we drove through Belfast, including all of the wonderful and quite random art structures.&nbsp;</p>\n<p>Soon, we pulled up to the Causeway Center! Everyone got audio tour headsets, then we set off along the cliffside path that would lead us to the Causeway. We stopped in several places along the way to gaze in awe out at the churning and swelling ocean, watching as it bobbed around a little white sailboat. After 25 minutes or so, we started our slippery stairway descent, where we first stopped at the Giant's Organ--a breathtaking set of natural basalt pillars soaring into the cliff. We took a quick group picture before everyone was set loose for an hour to scramble around the Causeway and rocky coast.&nbsp;</p>\n<p>As legend states, the Causeway was created by the Irish giant, Fionn Mac Cumhaill, when his enemy (Benandonner--sometimes known as Fatách Mór (literally translating to 'Big Giant') in other legends) was running from him in fear and tore up the Causeway behind him.&nbsp;</p>\n<p>Eddie (an avid guitarist) was very excited to film a video based on Led Zeppelin's Giant's Causeway album cover, and lots of the other kids took wonderful pictures among the hexagonal pillars and sunken-in tide pools. Almost everyone said that this was by far their favorite place so far on the ILE.&nbsp;</p>\n<p>The rain hit us just as we were trekking back to the main Visitor's Center, so everyone scrambled for cover into the bus as we headed off to Carrick-a-Rede Rope Bridge! ('Carrick' meaning 'rocky' and 'Rede' being the name of the island we were taking the bridge to).&nbsp;</p>\n<p>First, we had a wonderful King's Hos packed lunch before taking the GORGEOUS walk among the heather and wild brambles to the bridge. Some students looked nervous, others eager. Shawn 'griddied' across the bridge, and Lydia exclaimed halfway across the bridge, clutching the handrail in terror, \"I do not want to do this at all!\" Don't worry, she was okay.&nbsp;</p><p>Rede Island was perched in the oddly turquoise water, and everyone sat on its rocky top to watch the many nesting birds swoop and dip and dive around, playing on the currents of the gales.&nbsp;</p>\n<p>After a bit, we all made the swinging (100-foot tall drop) cross back, where we were greeted by a small burst of happy sunlight as we made our way back to the bus.&nbsp;</p><p>Finally, everyone was given an hour and a stipend to go find some dinner in the charming little coastal village of Ballycastle. Most people found a little café called \"Dolly's,\" where, among some other choices, most dined on fish and chips or Irish breakfasts for dinner.&nbsp;</p><p>The ride back was punctuated only by the pounding rain and Lydia nicely buying everyone donuts at the rest stop. Everyone gratefully collapsed into their beds as soon as we got home, dreaming soundly of Northern Ireland's many wonderful adventures, and perhaps hearing the booming footsteps of giants somewhere in the distance...</p>"
       }
      ],

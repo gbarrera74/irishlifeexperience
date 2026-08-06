@@ -4,6 +4,7 @@
  "path": "/blog/land-a-special-gift-with-landmark/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -23,6 +24,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/GettyImages-497322993-598b2ad403f4020010ae0a08.jpg",
        "alt": "Washington DC #1",
        "link": null
@@ -35,6 +37,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/0117fd912c6e5a1af39040c74df4bac7.jpg",
        "alt": "Washington DC #2",
        "link": null
@@ -56,6 +59,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Our premier United States Partner is offering a very generous Holiday Special to Irish Life Experience applicants, alumni, family, and friends.</p><p><a href=\"https://landmarkeducationaltours.com/\">Landmark Educational Tours</a> is offering <strong>$729</strong> per paying traveler to Washington, DC for groups of 50 students and 5 teachers within 250 miles of this amazing destination.</p><p>The package includes:</p><ul><li>Roundtrip ground transportation.</li><li>Paid attractions with two guided monument tours.</li><li>Arlington National Cemetery Tram, Ford's Theatre, George Washington's Mount Vernon Estate, and the International Spy Museum.</li><li>2 nights of hotel accommodations.</li><li>8 meals-2 breakfasts, 3 lunches, and 3 sit-down dinners.</li><li>Landmark Tour Manager.</li><li>Landmark's 24-hour Emergency Hotline.</li><li>Landmark string bag, reusable water bottle, and safety bracelet.</li><li>All taxes and gratuities.</li></ul><p><a href=\"https://landmarkeducationaltours.com/\">Landmark Educational Tours</a> passion is travel to help others along the way to explore the landmarks of the world.  It is an experiential education that remains a unique, but impactful experience for students.</p><p>When you choose to embark with <a href=\"http://www.landmarkeducationaltours.com/\">Landmark Educational Tours</a>, they are committed to providing a safe and memorable experience for all travelers.  They offer elite service from their seasoned travelers to leaders that provide a solution to group trip organizers’ travel needs.</p><p>Please call 888-886-2781 for more information on this amazing offer and to learn about available travel dates.</p><p><em>Written by Taryn Harrison</em></p>"
       }
      ],

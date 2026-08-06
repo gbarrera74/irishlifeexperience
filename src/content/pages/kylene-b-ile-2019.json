@@ -4,6 +4,7 @@
  "path": "/kylene-b-ile-2019/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"ffdb110\"] .elementor-container{min-height:73vh !important}[data-el=\"ffdb110\"]{padding:68px 0px 75px 0px !important}[data-el=\"69043c1\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"ffdb110\"] .elementor-container{min-height:296px !important}[data-el=\"ffdb110\"]{padding:45px 15px 45px 15px !important}[data-el=\"fa3326d\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"dc9cc29\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"dc9cc29\"]{text-align:center !important}[data-el=\"dc9cc29\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"900ed80\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h1",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Ambassadors",
        "tag": "h1",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "f54e37a",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -96,7 +102,12 @@
   {
    "type": "section",
    "id": "4a7520f",
-   "style": {},
+   "style": {
+    "": {
+     "margin-top": "60px",
+     "margin-bottom": "60px"
+    }
+   },
    "children": [
     {
      "type": "column",
@@ -111,6 +122,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/10/IMG_9569-scaled.jpg",
        "alt": "Charles Fort-Kylene 2019",
        "link": null
@@ -133,6 +145,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Kylene B.-ILE 2019",
        "tag": "h2",
        "link": null,
@@ -147,6 +160,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>My name is Kylene Berna and I am from Georgetown, Delaware.  I am currently studying at La Roche University in Pittsburgh, Pennsylvania.  I am a motivated student working toward a Bachelor of Science degree in Interior Design.  I possess skills involving organization, responsibility, and good communication.  I have proven successful working in fast-paced and collaborative settings.  Most of my hobbies include anything to do with art.  I also enjoy spending time with my family and friends, listening to music, watching movies, and I have a strong passion for traveling.  </p><p>The Irish Life Experience is an amazing life-changing experience.  This program gives students the opportunity to not only travel, but to learn and engage in the Irish culture, create a long-term family, friend relationships with others, and explore the magical green lands of Ireland.  Words can not describe this journey, but it is truly inspiring.  I went on the 2019 Irish Life Experience and I absolutely fell in love with Ireland.  I felt that this was my home away from home and the program fulfilled my dreams and more.  Today I even have a Celtic tattoo, along with my first name in Gaelic.  I have also taken the opportunity to continue my journey in Ireland with the Irish Life Experience by becoming a Junior Counselor for the summer of 2022.  I can't wait to meet everyone and travel with this special program again.  Please reach out to me with any questions you might have.  </p>"
       },
       {
@@ -160,6 +174,7 @@
          "color": "#6EC1E4"
         }
        },
+       "hide": null,
        "text": "Visit on Facebook»",
        "tag": "p",
        "link": "https://www.facebook.com/profile.php?id=100011109157363",
@@ -176,6 +191,7 @@
          "color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "E-Mail»kylene21berna@gmail.com",
        "tag": "p",
        "link": null,
@@ -191,18 +207,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Go Back",
        "link": ""
       }

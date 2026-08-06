@@ -4,6 +4,7 @@
  "path": "/blog/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px) and (min-width:768px){[data-el=\"0573495\"]{width:100% !important}[data-el=\"8e1726b\"]{width:100% !important}}@media(max-width:1024px){[data-el=\"59bfee2\"] .elementor-container{min-height:73vh !important}[data-el=\"59bfee2\"]{padding:68px 0px 75px 0px !important}[data-el=\"3285f14\"]{padding:0px 0px 0px 0px !important}[data-el=\"0573495\"]{padding:0% 0% 0% 0% !important}[data-el=\"4c37d6c\"]{text-align:center !important}[data-el=\"9dfca5a\"]{text-align:center !important}}@media(max-width:767px){[data-el=\"59bfee2\"] .elementor-container{min-height:296px !important}[data-el=\"59bfee2\"]{padding:45px 15px 45px 15px !important}[data-el=\"eefa1f0\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"eefa1f0\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"8d67dea\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"8d67dea\"]{text-align:center !important}[data-el=\"8d67dea\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"5a890c2\"]{padding:20px 10px 30px 10px !important}[data-el=\"2343872\"] .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% ) !important}[data-el=\"2343872\"] .elementor-post__thumbnail__link{width:100% !important}[data-el=\"c609fda\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -37,21 +40,21 @@
        "id": "eefa1f0",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "0px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "margin": "0px 0px -30px 0px"
         },
         "": {
          "text-align": "center"
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h1",
        "link": null,
@@ -70,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Blog",
        "tag": "h1",
        "link": null,
@@ -86,6 +90,7 @@
        "type": "spacer",
        "id": "a0ecf18",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -99,7 +104,7 @@
    "id": "5a890c2",
    "style": {
     "": {
-     "padding": "20px 10px 30px 10px"
+     "padding": "60px 60px 60px 60px"
     }
    },
    "children": [
@@ -112,19 +117,36 @@
        "type": "posts",
        "id": "2343872",
        "style": {
+        ".elementor-posts-container .elementor-post__thumbnail": {
+         "padding-bottom": "calc( 0.66 * 100% )"
+        },
+        ".elementor-post__thumbnail__link": {
+         "width": "100%"
+        },
         ".elementor-post": {
          "border-radius": "12px",
          "padding": "10px 10px 10px 10px",
+         "box-shadow": "0px 0px 5px 0px rgba(0, 0, 0, 0.42)",
          "background-color": "#FFFFFF"
         },
         ".elementor-post__text": {
          "padding": "12px 12px 12px 12px"
         },
+        ".elementor-posts--thumbnail-left .elementor-post__thumbnail__link": {
+         "margin-right": "20px"
+        },
+        ".elementor-posts--thumbnail-right .elementor-post__thumbnail__link": {
+         "margin-left": "20px"
+        },
+        ".elementor-posts--thumbnail-top .elementor-post__thumbnail__link": {
+         "margin-bottom": "20px"
+        },
         ".elementor-post__title": {
          "color": "#61CE70",
          "font-family": "\"Quicksand\", Sans-serif",
          "font-size": "23px",
-         "font-weight": "700"
+         "font-weight": "700",
+         "margin-bottom": "12px"
         },
         ".elementor-post__title a": {
          "color": "#61CE70",
@@ -147,8 +169,17 @@
         },
         ".elementor-pagination": {
          "text-align": "center"
+        },
+        ".elementor-pagination .page-numbers:not(:first-child)": {
+         "margin-left": "calc( 10px/2 )",
+         "margin-right": "calc( 10px/2 )"
+        },
+        ".elementor-pagination .page-numbers:not(:last-child)": {
+         "margin-right": "calc( 10px/2 )",
+         "margin-left": "calc( 10px/2 )"
         }
        },
+       "hide": null,
        "postType": "post",
        "perPage": null,
        "readMore": null
@@ -162,6 +193,10 @@
    "type": "section",
    "id": "2d6c944",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     ":not(.elementor-motion-effects-element-type-background)": {
      "background-color": "#ffffff"
     },
@@ -173,6 +208,8 @@
      "opacity": "0.33"
     },
     "": {
+     "margin-top": "0px",
+     "margin-bottom": "0px",
      "padding": "60px 60px 60px 60px"
     }
    },
@@ -181,8 +218,15 @@
      "type": "column",
      "id": "0573495",
      "style": {
+      ".elementor-column .elementor-widget-wrap": {
+       "align-items": "center"
+      },
+      ".elementor-column.elementor-element[data-element_type=\"column\"] > .elementor-widget-wrap.elementor-element-populated": {
+       "align-content": "center",
+       "align-items": "center"
+      },
       "> .elementor-element-populated": {
-       "padding": "0% 0% 0% 0%"
+       "padding": "9% 0% 9% 4%"
       }
      },
      "children": [
@@ -200,10 +244,10 @@
          "text-transform": "uppercase",
          "line-height": "1.5em",
          "letter-spacing": "1px",
-         "color": "#ffffff",
-         "text-align": "center"
+         "color": "#ffffff"
         }
        },
+       "hide": null,
        "html": "<p>Trust Us to</p>"
       },
       {
@@ -214,7 +258,7 @@
          "margin": "0px 0px 60px 0px"
         },
         "": {
-         "text-align": "center"
+         "text-align": "start"
         },
         ".elementor-heading-title": {
          "font-family": "\"Quicksand\", Sans-serif",
@@ -224,6 +268,7 @@
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Dream, Discover, and Travel",
        "tag": "h2",
        "link": null,
@@ -247,18 +292,24 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "border-style": "solid",
+         "border-width": "1px 1px 1px 1px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#ffffff"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Apply Now",
        "link": null
       }

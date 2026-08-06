@@ -4,6 +4,7 @@
  "path": "/blog/meet-kaylee-schubert/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><span style=\"font-weight: 400;\">This will be Kaylee’s second year with the Irish Life Experience as a Counselor.  Kaylee Schubert was born and raised in Havre, Montana.   Kaylee completed her Bachelor of Arts in Vocal Music Education with a Minor in Religion at Concordia College in Moorhead, Minnesota.  After this, she returned to Montana, excited to begin her career in Music Education.  She taught in Shelby, Montana for over a year and then Kaylee moved across the mountains to Polson, Montana.  </span></p><p><span style=\"font-weight: 400;\">She is currently wrapping up her sixth year of teaching in the Polson School District.  During her time in Polson, she created the annual Flathead Lake Choral Festival, adjudicated for District Music Festival, and had numerous students participate in All-State and All-Northwest Honor Choirs.  Kaylee is currently working on her Master’s Degree in Music Technology through Southern Utah University.  In addition, she teaches private voice, piano, and guitar lessons during the summer.</span></p><p><span style=\"font-weight: 400;\">Kaylee loves to ski in the winter, hike in the summer, and, most importantly, spend time with her family and two dogs in her free time.  </span></p><p><span style=\"font-weight: 400;\">Kaylee is excited to return to Ireland and she can not wait to meet all of the new students this summer.</span></p>"
       }
      ],
@@ -39,9 +41,12 @@
        "id": "81b0ef1",
        "style": {
         "img": {
+         "width": "90%",
+         "height": "465px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/05/unnamed-1-scaled.jpg",
        "alt": "Kaylee",
        "link": null
@@ -70,6 +75,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2023/05/IMG_6672-scaled.jpg",
        "alt": "Cahir Castle-Kaylee 2023",
        "link": null
@@ -86,6 +92,7 @@
        "type": "spacer",
        "id": "36eecca",
        "style": {},
+       "hide": null,
        "size": 128
       },
       {
@@ -96,6 +103,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2023/05/IMG_7468-scaled.jpg",
        "alt": "Ladies View-Kaylee 2023",
        "link": null

@@ -4,6 +4,7 @@
  "path": "/parents/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px) and (min-width:768px){[data-el=\"0c028ce\"]{width:100% !important}[data-el=\"551f3e3\"]{width:100% !important}}@media(max-width:1024px){[data-el=\"f2e8833\"] .elementor-container{min-height:73vh !important}[data-el=\"f2e8833\"]{padding:68px 0px 75px 0px !important}[data-el=\"555ce17\"]{padding:0px 0px 0px 0px !important}[data-el=\"19d7424\"] :is(h1,h2,h3,h4,h5,h6){font-size:9em !important}[data-el=\"693e968\"]{padding:30px 15px 80px 15px !important}[data-el=\"80782d1\"]{padding:25px 15px 30px 15px !important}[data-el=\"3b25f45\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"3b25f45\"]{text-align:center !important}[data-el=\"017e1f6\"]{padding:25px 15px 30px 15px !important}[data-el=\"b959000\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"b959000\"]{text-align:center !important}[data-el=\"30fbe4e\"]{padding:25px 15px 30px 15px !important}[data-el=\"5d115cb\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"5d115cb\"]{text-align:center !important}[data-el=\"5d115cb\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important;line-height:1.2em !important}[data-el=\"7bb94f2\"]{padding:25px 15px 30px 15px !important}[data-el=\"5093538\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"5093538\"]{text-align:center !important}[data-el=\"5093538\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important;line-height:1.2em !important}[data-el=\"0c028ce\"]{padding:0% 0% 0% 0% !important}[data-el=\"51b7e73\"]{text-align:center !important}[data-el=\"1d7db68\"]{text-align:center !important}[data-el=\"46b5608\"]{padding:0px 0px 0px 0px !important}[data-el=\"97d0106\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"97d0106\"] .elementor-main-swiper{width:650px !important}}@media(max-width:767px){[data-el=\"f2e8833\"] .elementor-container{min-height:296px !important}[data-el=\"f2e8833\"]{padding:45px 15px 45px 15px !important}[data-el=\"6cfe6ed\"] :is(h1,h2,h3,h4,h5,h6){font-size:59px !important}[data-el=\"19d7424\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"19d7424\"]{text-align:center !important}[data-el=\"19d7424\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important;line-height:1.5em !important}[data-el=\"693e968\"]{padding:33px 15px 50px 15px !important}[data-el=\"3cf4bec\"] .elementor-container{max-width:850px !important}[data-el=\"3cf4bec\"]{margin-top:0px !important;margin-bottom:0px !important;padding:0px 20px 0px 20px !important}[data-el=\"80782d1\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"91e8345\"] img{width:598px !important;max-width:100% !important}[data-el=\"3b25f45\"]{margin:0px 0px 0px 0px !important;padding:23px 0px 0px 0px !important}[data-el=\"3b25f45\"]{text-align:center !important}[data-el=\"017e1f6\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"b959000\"]{margin:0px 0px 0px 0px !important;padding:23px 0px 0px 0px !important}[data-el=\"b959000\"]{text-align:center !important}[data-el=\"30fbe4e\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"5d115cb\"]{margin:0px 0px 0px 0px !important;padding:23px 0px 0px 0px !important}[data-el=\"5d115cb\"]{text-align:center !important}[data-el=\"5d115cb\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important}[data-el=\"7bb94f2\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"5093538\"]{margin:0px 0px 0px 0px !important;padding:23px 0px 0px 0px !important}[data-el=\"5093538\"]{text-align:center !important}[data-el=\"5093538\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important}[data-el=\"25affd5\"]{padding:0px 0px 0px 0px !important}[data-el=\"e4d8ef4\"]{margin:10px 10px 10px 10px !important;padding:0px 0px 0px 0px !important}[data-el=\"c7f6f75\"] .elementor-container{max-width:500px !important}[data-el=\"c7f6f75\"]{padding:20px 20px 20px 20px !important}[data-el=\"1d7db68\"] :is(h1,h2,h3,h4,h5,h6){font-size:44px !important}[data-el=\"1c0814a\"] .elementor-button{padding:1em 3em 1em 3em !important}[data-el=\"46b5608\"]{padding:30px 30px 30px 30px !important}[data-el=\"2a041bc\"] :is(h1,h2,h3,h4,h5,h6){font-size:32px !important}[data-el=\"97d0106\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"97d0106\"] .elementor-main-swiper{width:100% !important}[data-el=\"97d0106\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"97d0106\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"e6100ab\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "59px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Parent",
        "tag": "h1",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Overview",
        "tag": "h1",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "8b53609",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -110,7 +116,9 @@
      "max-width": "1600px"
     },
     "": {
-     "padding": "33px 15px 50px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -129,10 +137,12 @@
        "id": "3cf4bec",
        "style": {
         "> .elementor-container": {
-         "max-width": "850px"
+         "max-width": "1215px"
         },
         "": {
-         "padding": "0px 20px 0px 20px"
+         "margin-top": "0px",
+         "margin-bottom": "0px",
+         "padding": "0px 0px 0px 0px"
         }
        },
        "children": [
@@ -148,7 +158,7 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
+           "margin": "0px 20px 0px 0px",
            "padding": "0px 0px 0px 0px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
@@ -164,10 +174,12 @@
            "id": "91e8345",
            "style": {
             "img": {
-             "border-radius": "12px 12px 12px 12px",
-             "max-width": "100%"
+             "height": "190px",
+             "object-fit": "cover",
+             "border-radius": "12px 12px 12px 12px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/10/The-Gleneagle-Apartment-Living-room.jpg",
            "alt": "Gleneagle Living Room-2021",
            "link": null
@@ -178,7 +190,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "23px 0px 0px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -189,6 +201,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Accommodations",
            "tag": "h2",
            "link": null,
@@ -198,6 +211,7 @@
            "type": "spacer",
            "id": "a0d92e1",
            "style": {},
+           "hide": null,
            "size": 30
           },
           {
@@ -210,20 +224,26 @@
              "font-weight": "bold",
              "text-transform": "uppercase",
              "color": "#FFFFFF",
+             "border-style": "solid",
+             "border-width": "1.5px 1.5px 1.5px 1.5px",
+             "border-color": "#61CE70",
              "border-radius": "40px 40px 40px 40px"
             },
             ".elementor-button:hover": {
              "background-color": "#F2F2F2",
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-button:focus": {
              "background-color": "#F2F2F2",
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             "> .elementor-widget-container": {
              "margin": "13px 0px 13px 0px"
             }
            },
+           "hide": null,
            "text": "Learn More",
            "link": null
           }
@@ -242,7 +262,7 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
+           "margin": "0px 20px 0px 0px",
            "padding": "0px 0px 0px 0px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
@@ -258,9 +278,12 @@
            "id": "be2c875",
            "style": {
             "img": {
+             "width": "361px",
+             "height": "190px",
              "border-radius": "12px 12px 12px 12px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/09/388DCEF0-BC9B-4AD5-92A8-DD0C2D699F3B.png",
            "alt": "Questions #2",
            "link": null
@@ -271,7 +294,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "23px 0px 0px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -282,6 +305,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "FAQ",
            "tag": "h2",
            "link": null,
@@ -291,6 +315,7 @@
            "type": "spacer",
            "id": "b15f0b6",
            "style": {},
+           "hide": null,
            "size": 30
           },
           {
@@ -303,20 +328,26 @@
              "font-weight": "bold",
              "text-transform": "uppercase",
              "color": "#FFFFFF",
+             "border-style": "solid",
+             "border-width": "1.5px 1.5px 1.5px 1.5px",
+             "border-color": "#E4978E",
              "border-radius": "40px 40px 40px 40px"
             },
             ".elementor-button:hover": {
              "background-color": "#F2F2F2",
-             "color": "#E4978E"
+             "color": "#E4978E",
+             "border-color": "#E4978E"
             },
             ".elementor-button:focus": {
              "background-color": "#F2F2F2",
-             "color": "#E4978E"
+             "color": "#E4978E",
+             "border-color": "#E4978E"
             },
             "> .elementor-widget-container": {
              "margin": "13px 0px 13px 0px"
             }
            },
+           "hide": null,
            "text": "Learn More",
            "link": null
           }
@@ -335,7 +366,7 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
+           "margin": "0px 20px 0px 0px",
            "padding": "0px 0px 0px 0px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
@@ -351,9 +382,11 @@
            "id": "360f77e",
            "style": {
             "img": {
+             "height": "190px",
              "border-radius": "12px 12px 12px 12px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/09/1EBFBFF5-D4BF-423A-A6AB-0A821D6E9B80.png",
            "alt": "Airplane at Sunset",
            "link": null
@@ -364,7 +397,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "23px 0px 0px 0px"
+             "padding": "9px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -373,11 +406,12 @@
              "font-family": "\"Quicksand\", Sans-serif",
              "font-size": "2em",
              "font-weight": "bold",
-             "line-height": "1.2em",
+             "line-height": "1.4em",
              "letter-spacing": "-1.2px",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Travel",
            "tag": "h2",
            "link": null,
@@ -387,6 +421,7 @@
            "type": "spacer",
            "id": "ac87cf8",
            "style": {},
+           "hide": null,
            "size": 30
           },
           {
@@ -399,20 +434,26 @@
              "font-weight": "bold",
              "text-transform": "uppercase",
              "color": "#FFFFFF",
+             "border-style": "solid",
+             "border-width": "1.5px 1.5px 1.5px 1.5px",
+             "border-color": "#F3C820",
              "border-radius": "40px 40px 40px 40px"
             },
             ".elementor-button:hover": {
              "background-color": "#F2F2F2",
-             "color": "#F3C820"
+             "color": "#F3C820",
+             "border-color": "#F3C820"
             },
             ".elementor-button:focus": {
              "background-color": "#F2F2F2",
-             "color": "#F3C820"
+             "color": "#F3C820",
+             "border-color": "#F3C820"
             },
             "> .elementor-widget-container": {
              "margin": "13px 0px 13px 0px"
             }
            },
+           "hide": null,
            "text": "Learn More",
            "link": null
           }
@@ -431,7 +472,7 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
+           "margin": "0px 20px 0px 0px",
            "padding": "0px 0px 0px 0px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
@@ -448,9 +489,11 @@
            "style": {
             "img": {
              "max-width": "100%",
+             "height": "190px",
              "border-radius": "12px 12px 12px 12px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/09/20232822_10155603969914939_3120689033503150462_o.jpg",
            "alt": "Poulnabrone Dolmen-Staff 2016",
            "link": null
@@ -461,7 +504,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "23px 0px 0px 0px"
+             "padding": "9px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -470,11 +513,12 @@
              "font-family": "\"Quicksand\", Sans-serif",
              "font-size": "2em",
              "font-weight": "bold",
-             "line-height": "1.2em",
+             "line-height": "1.4em",
              "letter-spacing": "-1.2px",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "About Us",
            "tag": "h2",
            "link": null,
@@ -484,6 +528,7 @@
            "type": "spacer",
            "id": "9f74ac4",
            "style": {},
+           "hide": null,
            "size": 30
           },
           {
@@ -496,20 +541,26 @@
              "font-weight": "bold",
              "text-transform": "uppercase",
              "color": "#FFFFFF",
+             "border-style": "solid",
+             "border-width": "1.5px 1.5px 1.5px 1.5px",
+             "border-color": "#6EC1E4",
              "border-radius": "40px 40px 40px 40px"
             },
             ".elementor-button:hover": {
              "background-color": "#F2F2F2",
-             "color": "#6EC1E4"
+             "color": "#6EC1E4",
+             "border-color": "#6EC1E4"
             },
             ".elementor-button:focus": {
              "background-color": "#F2F2F2",
-             "color": "#6EC1E4"
+             "color": "#6EC1E4",
+             "border-color": "#6EC1E4"
             },
             "> .elementor-widget-container": {
              "margin": "13px 0px 13px 0px"
             }
            },
+           "hide": null,
            "text": "Learn More",
            "link": null
           }
@@ -529,7 +580,7 @@
    "id": "25affd5",
    "style": {
     "": {
-     "padding": "0px 0px 0px 0px"
+     "padding": "60px 60px 60px 60px"
     }
    },
    "children": [
@@ -538,8 +589,7 @@
      "id": "e4d8ef4",
      "style": {
       "> .elementor-element-populated": {
-       "padding": "0px 0px 0px 0px",
-       "margin": "10px 10px 10px 10px"
+       "padding": "0px 0px 0px 109px"
       }
      },
      "children": [
@@ -559,6 +609,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Safety",
        "tag": "h2",
        "link": null,
@@ -581,6 +632,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "items": [
         {
          "text": "Staff on duty at all times",
@@ -632,6 +684,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Inclusions",
        "tag": "h2",
        "link": null,
@@ -654,6 +707,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "items": [
         {
          "text": "Round-trip flight from Logan Airport (BOS) to Ireland",
@@ -691,6 +745,10 @@
    "type": "section",
    "id": "c7f6f75",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     ":not(.elementor-motion-effects-element-type-background)": {
      "background-color": "#ffffff"
     },
@@ -702,10 +760,7 @@
      "opacity": "0.33"
     },
     "": {
-     "padding": "20px 20px 20px 20px"
-    },
-    "> .elementor-container": {
-     "max-width": "500px"
+     "padding": "60px 60px 60px 60px"
     }
    },
    "children": [
@@ -713,8 +768,15 @@
      "type": "column",
      "id": "0c028ce",
      "style": {
+      ".elementor-column .elementor-widget-wrap": {
+       "align-items": "center"
+      },
+      ".elementor-column.elementor-element[data-element_type=\"column\"] > .elementor-widget-wrap.elementor-element-populated": {
+       "align-content": "center",
+       "align-items": "center"
+      },
       "> .elementor-element-populated": {
-       "padding": "0% 0% 0% 0%"
+       "padding": "9% 0% 9% 4%"
       }
      },
      "children": [
@@ -732,10 +794,10 @@
          "text-transform": "uppercase",
          "line-height": "1.5em",
          "letter-spacing": "1px",
-         "color": "#ffffff",
-         "text-align": "center"
+         "color": "#ffffff"
         }
        },
+       "hide": null,
        "html": "<p>Trust Us to</p>"
       },
       {
@@ -746,16 +808,17 @@
          "margin": "0px 0px 60px 0px"
         },
         "": {
-         "text-align": "center"
+         "text-align": "start"
         },
         ".elementor-heading-title": {
          "font-family": "\"Quicksand\", Sans-serif",
-         "font-size": "44px",
+         "font-size": "59px",
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Dream, Discover, and Travel",
        "tag": "h2",
        "link": null,
@@ -778,18 +841,25 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1px 1px 1px 1px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "16px 16px 16px 16px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Apply Now",
        "link": null
       }
@@ -808,7 +878,7 @@
      "max-width": "1148px"
     },
     "": {
-     "padding": "30px 30px 30px 30px"
+     "padding": "60px 60px 60px 60px"
     }
    },
    "children": [
@@ -829,13 +899,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "32px",
+         "font-size": "40px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "What People Say About Us",
        "tag": "h1",
        "link": null,
@@ -854,27 +925,66 @@
         ".swiper-pagination-fraction": {
          "color": "#74B843"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-swiper-button": {
          "font-size": "20px"
+        },
+        ".swiper-pagination-bullet": {
+         "height": "3px",
+         "width": "3px"
+        },
+        ".swiper-horizontal .swiper-pagination-progressbar": {
+         "height": "3px"
+        },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
         },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "30px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "120px",
+         "height": "120px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
@@ -913,18 +1023,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "See More Testimonials",
        "link": ""
       }

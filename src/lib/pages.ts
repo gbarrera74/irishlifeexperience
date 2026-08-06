@@ -7,6 +7,8 @@ export type PageDoc = {
   title: string;
   path: string;
   seo: Record<string, string>;
+  /** Elementor's @media rules, rewritten onto data-el attributes. */
+  css?: string;
   blocks: Block[];
 };
 

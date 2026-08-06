@@ -4,11 +4,16 @@
  "path": "/participant-and-parent-release/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"10462d5e\"]{margin:0% 20% 0% 20% !important}[data-el=\"41968361\"] :is(h1,h2,h3,h4,h5,h6){font-size:1.5em !important}}@media(max-width:767px){[data-el=\"4dc9c41d\"]{text-align:center !important}[data-el=\"10462d5e\"]{margin:0% 2% 0% 2% !important;padding:20px 20px 20px 20px !important}[data-el=\"41968361\"]{text-align:center !important}[data-el=\"41968361\"] :is(h1,h2,h3,h4,h5,h6){font-size:1.5em !important}}@media(max-width:1024px) and (min-width:768px){[data-el=\"10462d5e\"]{width:100% !important}}",
  "blocks": [
   {
    "type": "section",
    "id": "44a59de3",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     ":not(.elementor-motion-effects-element-type-background)": {
      "background-color": "#000000"
     },
@@ -23,6 +28,8 @@
      "max-width": "800px"
     },
     "": {
+     "margin-top": "0px",
+     "margin-bottom": "0px",
      "padding": "100px 0px 100px 0px"
     }
    },
@@ -49,6 +56,7 @@
          "color": "#FFFFFF"
         }
        },
+       "hide": null,
        "text": "Participant and Parent Release",
        "tag": "h2",
        "link": null,
@@ -75,8 +83,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "10px 10px 10px 10px",
-           "margin": "0% 2% 0% 2%",
-           "padding": "20px 20px 20px 20px"
+           "margin": "0% 0% 0% 0%",
+           "padding": "3em 3em 3em 3em"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "10px 10px 10px 10px"
@@ -95,12 +103,43 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p class=\"fsSectionHeading\"><strong>Itinerary:&nbsp; </strong><span style=\"font-size: 16px;\">We understand that location and activities evolve throughout the year and that itineraries may change.&nbsp; In all cases, the Irish Life Experience will make every effort to substitute an activity or location with something comparable.</span></p>\n<div class=\"fsSectionText\">\n<p><strong>Program Admission:&nbsp; </strong>We understand that the Irish Life Experience is a private organization that reserves the right to deny admission to its program.&nbsp; That right shall not be arbitrarily utilized or exercised contrary to law.&nbsp; The Irish Life Experience strives to design a program for all participants.&nbsp; However, the Irish Life Experience may be too difficult for people with certain types of physical/mental limitations.&nbsp; Please check with your personal physician and the Irish Life Experience to see if the program is appropriate for your attendance.&nbsp; As noted in prior disclosure, the Irish Life Experience retains the right to refuse admittance to its program.</p>\n<p><strong>Tuition Refunds and Trip Cancellation:</strong>&nbsp; Due to the seasonal nature of the Irish Life Experience and the fact that the program costs are determined on a per-group basis, instead of a per-person basis, we understand that the Irish Life Experience is not required to provide any refund for late arrival, early withdrawal, or dismissal with cause.&nbsp; If a participant withdraws for personal reasons or a medical emergency or injury anytime after April 1, 2023, we understand that refunds will be minimal and made at the sole discretion of the Irish Life Experience.</p>\n<ul>\n<li><strong>CANCELLATION BEFORE APRIL 1, 2026 ($100 IS RETAINED)</strong></li>\n<li><strong>CANCELLATION AFTER APRIL 1, 2026 ($2,500 IS RETAINED)</strong></li>\n<li><strong>CANCELLATION AFTER MAY 1, 2026 ($3,500 IS RETAINED)</strong></li>\n<li><strong>CANCELLATION AFTER JUNE 1, 2026 ($6,550 IS RETAINED)</strong></li>\n</ul>\n<p>We understand that the Irish Life Experience reserves the right to cancel the program if it does not enroll to a minimum level.&nbsp; In such an occurrence, full tuition refunds will be offered, or priority of enrollment for the following summer’s program will be offered, where space is available.&nbsp; If the Irish Life Experience determines, for safety purposes, that it must cancel a program in Ireland due to political unrest, weather, medical outbreaks, etc., the Irish Life Experience will do its best to offer another program when available.&nbsp; If such a comparable program is offered and refused by the enrolled, tuition, less the deposit, will be refunded.&nbsp; The Irish Life Experience is not responsible for other costs incurred by participants preparing for an Irish Life Experience that has been canceled.</p>\n<p><strong>Rules and Regulations:&nbsp; </strong>We understand that for the health, safety, and welfare of its staff and students, the Irish Life Experience requires that the rules and regulations it establishes be observed.&nbsp; The Irish Life Experience reserves the right to dismiss any participant from the program that the staff believes, in their discretion, is injurious to her/himself or others, presents a safety concern or medical risk, is disruptive, or otherwise conducts her/himself in a manner detrimental to the program.&nbsp; We understand that we are responsible for any and all costs of early departure, whether for medical reasons, early dismissal, or otherwise.&nbsp; Violation of any of the following rules could result in a telephone call to parents, suspension from daily activities, and/or early dismissal from the program:</p>\n<ul>\n<li>Unsafe behavior, which includes, but is not limited to:&nbsp; Failure to wear seat belts and other safety equipment, self-mutilation, and/or body piercing and tattooing, and hitchhiking.</li>\n<li>Behavior that is destructive, abusive, violent, or involves harassment, theft, vandalism, or chronic defiance of policies.</li>\n<li>Exclusive relationships, sexual activity, unauthorized absence from classes or the group, or failure to abide by curfews.</li>\n<li>Possession or use of any weapons, non-prescribed drugs, narcotics, or alcoholic beverages, and consumption of alcohol, regardless of the amount or type.</li>\n<li>The use of illegal substances will result in an immediate expulsion from the Irish Life Experience.</li>\n<li>Students are not permitted to be in pubs unchaperoned, regardless of whether or not they are consuming alcohol.</li>\n<li>The consequences of a first offense for the possession/consumption of alcohol will be up to the discretion of the Irish Life Experience staff.&nbsp; Students may lose free time privileges for several days or be expelled from the program, depending on the circumstances of the offense.</li>\n<li>The Irish Life Experience reserves the right to search any of the students' rooms and belongings if we suspect the possession of any weapons, non-prescribed drugs, narcotics, or alcoholic beverages.</li>\n</ul>\n<p><strong>Personal Property Loss:&nbsp; </strong>We agree that the Irish Life Experience will not be held responsible for the loss, theft, or damage of personal property, equipment, or money.&nbsp; Petty theft is worldwide!&nbsp; The Irish Life Experience strongly advises participants not to bring computers, expensive jewelry, and belongings.&nbsp; We also recommend locks for your suitcases and closets to store your AirPods, iPhones, cameras, and personal items in.</p>\n<p><strong>Medical Treatment:&nbsp;</strong>We grant permission to the Irish Life Experience and/or its assigns to hospitalize, treat, and order injections, anesthesia, or surgery for my child/ward.&nbsp; I further authorize the staff to use non-prescription medicine in the event of minor injuries and/or ailments. We understand and agree to pay all costs associated with medical care and transportation, including the cost of any evacuation, treatment, or medications.</p>\n<p><strong>Photo/Statement Release:</strong>&nbsp;We authorize the Irish Life Experience to use any photographs/statements of/by/about my child/ward in any Irish Life Experience promotional materials.</p>\n<p><strong>Assumption of Risk, Release, and Indemnification Statement:&nbsp; </strong>We understand that the Irish Life Experience strives to have an excellent safety record.&nbsp; We also understand that the Irish Life Experience does involve inherent risks.&nbsp; These risks include, but are not limited to:&nbsp; Strikes, civil unrest, war, terrorist activity, weather, medical outbreaks, or other possibly dangerous conditions beyond the country of Ireland; illness associated with an unfamiliar diet, risks of travel in motorized vehicles, participation in unauthorized, unsupervised activities while on the program, and the risk of personal injury involved with students poor decisions.&nbsp; We agree to release, waive, covenant not to sue, indemnify, and hold harmless the Irish Life Experience and their agents of any and all liability and responsibility of any nature for any loss to property or personal injury, including death or illness, incurred by our child while participating in the Irish Life Experience. We further understand that the Irish Life Experience’s subcontracts various transportation companies, boarding schools and campuses, travel agencies, and adventure outfitters and with this understanding we agree to release, waive, covenant not to sue, indemnify and hold harmless the Irish Life Experience and their agents from any and all liability and negligence caused by act, error, omission, or default by any such subcontractor.</p>\n<p>Should the Irish Life Experience ever have to advance monies on behalf of a participant for whatever reasons or advance monies for litigation where the Irish Life Experience is not liable, the participant and/or the family hereby agrees to reimburse and indemnify the Irish Life Experience.&nbsp; If a parent or guardian of a participant does not sign this release agreement, the signing parent or guardian indemnifies the Irish Life Experience and their agents from all claims by the non-signing parent or guardian.&nbsp; If any portion of this document is held by any court to be invalid or vague and thereby stricken from this agreement, the remainder of this document/agreement will be enforceable.</p>\n<p>We believe that our child/ward is capable of handling the physical and emotional experiences entailed in the Irish Life Experience.&nbsp; We have read, feel adequately informed, and agree to all the terms stated in the Participant and Parent Agreement.&nbsp; This agreement may only be modified in writing and signed by all parties</p>\n</div>"
           },
           {
            "type": "form",
            "id": "2cfc8059",
            "style": {
+            ".elementor-field-group": {
+             "padding-right": "calc( 24px/2 )",
+             "padding-left": "calc( 24px/2 )",
+             "margin-bottom": "11px"
+            },
+            ".elementor-form-fields-wrapper": {
+             "margin-left": "calc( -24px/2 )",
+             "margin-right": "calc( -24px/2 )",
+             "margin-bottom": "-11px"
+            },
+            ".elementor-field-group.recaptcha_v3-bottomleft": {
+             "margin-bottom": "0"
+            },
+            ".elementor-field-group.recaptcha_v3-bottomright": {
+             "margin-bottom": "0"
+            },
+            ".elementor-labels-inline .elementor-field-group > label": {
+             "padding-left": "0px",
+             "padding-right": "0px"
+            },
+            ".elementor-labels-above .elementor-field-group > label": {
+             "padding-bottom": "0px"
+            },
+            ".elementor-labels-inline .elementor-field-group > abbr": {
+             "padding-left": "0px",
+             "padding-right": "0px"
+            },
+            ".elementor-labels-above .elementor-field-group > abbr": {
+             "padding-bottom": "0px"
+            },
             ".elementor-field-group > label": {
              "color": "#1E3A43",
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
@@ -110,6 +149,7 @@
              "font-family": "\"Open Sans\", Sans-serif"
             },
             ".elementor-field-type-html": {
+             "padding-bottom": "0px",
              "font-family": "\"Open Sans\", Sans-serif"
             },
             ".dce-signature-wrapper": {
@@ -117,6 +157,7 @@
             },
             ".dce-signature-canvas": {
              "border-radius": "3px 3px 3px 3px",
+             "border-width": "1px 1px 1px 1px",
              "background-color": "#ffffff"
             },
             ".dce-signature-button-clear": {
@@ -125,6 +166,10 @@
             ".dce-signature-button-clear i": {
              "color": "#e62626",
              "font-size": "16px"
+            },
+            ".dce-signature-button-clear svg": {
+             "width": "16px",
+             "height": "16px"
             },
             ".elementor-field-group .elementor-field": {
              "color": "#1E3A43",
@@ -138,18 +183,26 @@
             },
             ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-field-group .elementor-select-wrapper select": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-field-group .elementor-select-wrapper .select2": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".mce-panel": {
@@ -159,33 +212,41 @@
              "color": "#DDDDDD"
             },
             ".elementor-field-group .mce-panel": {
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-button": {
              "font-family": "\"Open Sans\", Sans-serif",
              "font-weight": "bold",
              "text-transform": "uppercase",
+             "border-style": "solid",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "100px 100px 100px 100px",
              "padding": "16px 16px 16px 16px"
             },
             ".e-form__buttons__wrapper__button-next": {
              "background-color": "#61CE70",
-             "color": "#FFFFFF"
+             "color": "#FFFFFF",
+             "border-color": "#61CE70"
             },
             ".elementor-button[type=\"submit\"]": {
              "background-color": "#61CE70",
-             "color": "#FFFFFF"
+             "color": "#FFFFFF",
+             "border-color": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-previous": {
              "color": "#FFFFFF"
             },
             ".e-form__buttons__wrapper__button-next:hover": {
              "background-color": "#FFFFFF",
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-button[type=\"submit\"]:hover": {
              "background-color": "#FFFFFF",
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-previous:hover": {
              "color": "#FFFFFF"
@@ -193,9 +254,12 @@
             ".elementor-field-label-description:after": {
              "border-radius": "50%",
              "padding": "2px 0",
+             "height": "1.2em",
              "line-height": "1",
              "font-size": "80%",
+             "width": "1.2em",
              "text-align": "center",
+             "margin-left": "0.2em",
              "color": "#ffffff",
              "background-color": "#777777"
             },
@@ -206,6 +270,7 @@
              "opacity": "1"
             }
            },
+           "hide": null,
            "formName": "New Form",
            "fields": [
             {
@@ -301,6 +366,7 @@
        "type": "spacer",
        "id": "6bdcdcb3",
        "style": {},
+       "hide": null,
        "size": 10
       },
       {
@@ -323,10 +389,12 @@
             },
             ".elementor-view-framed .elementor-icon": {
              "color": "#61CE70",
+             "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-icon": {
              "font-size": "30px",
@@ -346,6 +414,7 @@
              "color": "#ffffff"
             }
            },
+           "hide": null,
            "icon": "fas fa-map",
            "title": "Address",
            "description": "1 Central Street\n Suite 205\n\n  Middleton, MA 01949",
@@ -369,10 +438,12 @@
             },
             ".elementor-view-framed .elementor-icon": {
              "color": "#61CE70",
+             "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-view-framed:has(:hover) .elementor-icon": {
              "background-color": "#ffffff"
@@ -403,6 +474,7 @@
              "color": "#ffffff"
             }
            },
+           "hide": null,
            "icon": "fas fa-envelope",
            "title": "E-Mail Address",
            "description": "Info@IrishLifeExperience.com",
@@ -426,10 +498,12 @@
             },
             ".elementor-view-framed .elementor-icon": {
              "color": "#61CE70",
+             "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-icon": {
              "font-size": "30px",
@@ -448,6 +522,7 @@
              "color": "#ffffff"
             }
            },
+           "hide": null,
            "icon": "fas fa-phone",
            "title": "Call Us",
            "description": "855-IRISH-LIFE",
@@ -467,17 +542,26 @@
          "padding": "0px 0px 0px 10px"
         },
         ".elementor-divider-separator": {
+         "width": "606px",
          "margin": "0 auto"
         },
         ".elementor-divider": {
          "text-align": "center"
         }
-       }
+       },
+       "hide": [
+        "phone"
+       ]
       },
       {
        "type": "section",
        "id": "6e1e0b20",
-       "style": {},
+       "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        }
+       },
        "children": [
         {
          "type": "column",
@@ -489,20 +573,21 @@
            "id": "41968361",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 15px"
+             "padding": "0px 0px 0px 15px",
+             "border-style": "solid",
+             "border-width": "0px 0px 0px 3px",
+             "border-color": "#61CE70"
             },
             ".elementor-heading-title": {
              "font-family": "\"Open Sans Condensed\", Sans-serif",
-             "font-size": "1.5em",
+             "font-size": "2.1em",
              "font-weight": "bold",
              "text-transform": "uppercase",
              "letter-spacing": "2px",
              "color": "#ffffff"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Our Social Media",
            "tag": "h4",
            "link": null,
@@ -536,6 +621,7 @@
              "color": "#ff7f50"
             }
            },
+           "hide": null,
            "icons": [
             {
              "name": "fab fa-facebook-f",

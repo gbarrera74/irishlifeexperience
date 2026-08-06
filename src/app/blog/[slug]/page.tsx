@@ -91,7 +91,10 @@ export default async function BlogPost({
         </header>
 
         {blockTree ? (
-          <Blocks blocks={blockTree.blocks} />
+          <>
+            {blockTree.css && <style>{blockTree.css}</style>}
+            <Blocks blocks={blockTree.blocks} />
+          </>
         ) : (
           <MDXRemote source={post.body} components={components} />
         )}

@@ -4,6 +4,7 @@
  "path": "/blog/a-special-livestream/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Newgrange is a 5,200-year-old passage tomb located in the Boyne Valley, County Meath.  It is said to be the highlight of Ireland's Ancient East and a must-see.  It was built by Stone Age farmers and has a mound that is about 279 feet in diameter and about 43 feet in height.  The passage and chamber itself are about 62 feet and are aligned with the rising sun on mornings of the Winter Solstice. </p><p>Newgrange is older than the Great Pyramids of Giza and Stonehenge and is said to be a place for astrological, ceremonial, religious, and spiritual importance.  It is a fascinating experience for anyone lucky enough to visit.</p><p>Every year from December 18th-23rd, people who win a competitive lottery will gather together for the shortest day of the year.  For almost 20 minutes, direct sunlight can enter the Newgrange monument to illuminate the chamber through a small opening above the entrance.  However, it is not a guarantee, as weather is always a factor.  </p><p>Minister of State for the Office of Public Works (OPW), Patrick O'Donovan said, \"Watching the light creep into the 5,000-year-old passage tomb in real time is a moving event that has the power to fill us both with wonder at the ancient architects' ingenuity and with hope for the future.\"</p><p>Through <a href=\"https://heritageireland.ie/\">Heritage Ireland</a>, you can also now be a part of this special experience.  Mark your calendars and tune in for the livestream and see the magic unfold before your eyes.  </p><p><em>Written by Taryn Harrison</em></p>"
       }
      ],
@@ -39,9 +41,12 @@
        "id": "ef48176",
        "style": {
         "img": {
+         "width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/images.jpg",
        "alt": "Newgrange",
        "link": null
@@ -51,9 +56,12 @@
        "id": "fae4c46",
        "style": {
         "img": {
+         "width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/ca_0619nid_newgrange_online.jpg",
        "alt": "Newgrange Passage #1",
        "link": null

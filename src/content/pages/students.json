@@ -4,6 +4,7 @@
  "path": "/students/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(min-width:768px){[data-el=\"87445b0\"]{width:65% !important}[data-el=\"050f36f\"]{width:35% !important}}@media(max-width:1024px){[data-el=\"f2e8833\"] .elementor-container{min-height:73vh !important}[data-el=\"f2e8833\"]{padding:68px 0px 75px 0px !important}[data-el=\"555ce17\"]{padding:0px 0px 0px 0px !important}[data-el=\"bff4c08\"]{padding:25px 15px 30px 15px !important}[data-el=\"80b99a9\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"80b99a9\"]{text-align:center !important}[data-el=\"4cbcf51\"]{padding:25px 15px 30px 15px !important}[data-el=\"ef9040f\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"ef9040f\"]{text-align:center !important}[data-el=\"1b4cea0\"]{padding:25px 15px 30px 15px !important}[data-el=\"fa5dc8d\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"fa5dc8d\"]{text-align:center !important}[data-el=\"fa5dc8d\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important;line-height:1.2em !important}[data-el=\"bb3c66b\"]{padding:25px 15px 30px 15px !important}[data-el=\"44a4f8a\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"44a4f8a\"]{text-align:center !important}[data-el=\"44a4f8a\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important;line-height:1.2em !important}[data-el=\"e006770\"]{padding:4em 4em 4em 4em !important}[data-el=\"695ffc1\"] :is(h1,h2,h3,h4,h5,h6){font-size:6em !important}[data-el=\"fe6c842\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"ee0a5df\"]{padding:0px 0px 0px 0px !important}[data-el=\"c3335ef\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"c3335ef\"] .elementor-main-swiper{width:650px !important}}@media(max-width:767px){[data-el=\"f2e8833\"] .elementor-container{min-height:296px !important}[data-el=\"f2e8833\"]{margin-top:0px !important;margin-bottom:0px !important;padding:15px 15px 15px 15px !important}[data-el=\"6cfe6ed\"]{margin:0px 0px -18px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"6cfe6ed\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"19d7424\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"19d7424\"]{text-align:center !important}[data-el=\"19d7424\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"dc5d42f\"] .elementor-container{max-width:500px !important}[data-el=\"dc5d42f\"]{margin-top:20px !important;margin-bottom:0px !important;padding:0px 30px 0px 30px !important}[data-el=\"bff4c08\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"80b99a9\"]{margin:0px 0px 0px 0px !important;padding:23px 0px 0px 0px !important}[data-el=\"80b99a9\"]{text-align:center !important}[data-el=\"4cbcf51\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"ef9040f\"]{margin:0px 0px 0px 0px !important;padding:23px 0px 0px 0px !important}[data-el=\"ef9040f\"]{text-align:center !important}[data-el=\"1b4cea0\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"fa5dc8d\"]{margin:0px 0px 0px 0px !important;padding:23px 0px 0px 0px !important}[data-el=\"fa5dc8d\"]{text-align:center !important}[data-el=\"fa5dc8d\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important}[data-el=\"bb3c66b\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"44a4f8a\"]{margin:0px 0px 0px 0px !important;padding:23px 0px 0px 0px !important}[data-el=\"44a4f8a\"]{text-align:center !important}[data-el=\"44a4f8a\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important}[data-el=\"e006770\"] .elementor-container{min-height:0px !important}[data-el=\"e006770\"]{padding:50px 15px 50px 15px !important}[data-el=\"87445b0\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"695ffc1\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"695ffc1\"]{text-align:start !important}[data-el=\"695ffc1\"] :is(h1,h2,h3,h4,h5,h6){font-size:3.1em !important}[data-el=\"85aecad\"]{margin:-34px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"85aecad\"] :is(h1,h2,h3,h4,h5,h6){line-height:1.7em !important}[data-el=\"fe6c842\"]{margin:-19px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"fe6c842\"]{text-align:start !important}[data-el=\"f4788cc\"] .elementor-button{padding:1em 3em 1em 3em !important}[data-el=\"ee0a5df\"]{margin-top:20px !important;margin-bottom:20px !important;padding:0px 0px 0px 0px !important}[data-el=\"6b16aea\"] :is(h1,h2,h3,h4,h5,h6){font-size:30px !important}[data-el=\"c3335ef\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"c3335ef\"] .elementor-main-swiper{width:100% !important}[data-el=\"c3335ef\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"c3335ef\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"a0bed01\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "15px 15px 15px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -37,21 +40,21 @@
        "id": "6cfe6ed",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "0px 0px -18px 0px",
-         "padding": "0px 0px 0px 0px"
+         "margin": "0px 0px -30px 0px"
         },
         "": {
          "text-align": "center"
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Student",
        "tag": "h1",
        "link": null,
@@ -70,11 +73,12 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "89px",
          "font-weight": "bold",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Overview",
        "tag": "h1",
        "link": null,
@@ -84,6 +88,7 @@
        "type": "spacer",
        "id": "8b53609",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -97,10 +102,12 @@
    "id": "dc5d42f",
    "style": {
     "> .elementor-container": {
-     "max-width": "500px"
+     "max-width": "1215px"
     },
     "": {
-     "padding": "0px 30px 0px 30px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -116,7 +123,7 @@
       },
       "> .elementor-element-populated": {
        "border-radius": "12px 12px 12px 12px",
-       "margin": "0px 0px 20px 0px",
+       "margin": "0px 20px 0px 0px",
        "padding": "0px 0px 0px 0px"
       },
       "> .elementor-element-populated > .elementor-background-overlay": {
@@ -132,9 +139,12 @@
        "id": "727e102",
        "style": {
         "img": {
+         "height": "190px",
+         "object-fit": "cover",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/09/F0B73DC2-3CD5-474D-BF32-AE8980870FDE.png",
        "alt": "Ireland Map #1",
        "link": null
@@ -145,7 +155,7 @@
        "style": {
         "> .elementor-widget-container": {
          "margin": "0px 0px 0px 0px",
-         "padding": "23px 0px 0px 0px"
+         "padding": "18px 0px 0px 0px"
         },
         "": {
          "text-align": "center"
@@ -156,6 +166,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Classes",
        "tag": "h2",
        "link": null,
@@ -165,6 +176,7 @@
        "type": "spacer",
        "id": "45bff16",
        "style": {},
+       "hide": null,
        "size": 30
       },
       {
@@ -177,20 +189,26 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "40px 40px 40px 40px"
         },
         ".elementor-button:hover": {
          "background-color": "#FFFFFF",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "#FFFFFF",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         "> .elementor-widget-container": {
          "margin": "13px 0px 13px 0px"
         }
        },
+       "hide": null,
        "text": "Learn More",
        "link": null
       }
@@ -209,7 +227,7 @@
       },
       "> .elementor-element-populated": {
        "border-radius": "12px 12px 12px 12px",
-       "margin": "0px 0px 20px 0px",
+       "margin": "0px 20px 0px 0px",
        "padding": "0px 0px 0px 0px"
       },
       "> .elementor-element-populated > .elementor-background-overlay": {
@@ -225,9 +243,12 @@
        "id": "d8689c2",
        "style": {
         "img": {
+         "width": "361px",
+         "height": "190px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/07/AF387BFA-7F95-4933-BF02-1E672D05BD88.png",
        "alt": "Cliffs of Moher Flowers",
        "link": null
@@ -238,7 +259,7 @@
        "style": {
         "> .elementor-widget-container": {
          "margin": "0px 0px 0px 0px",
-         "padding": "23px 0px 0px 0px"
+         "padding": "18px 0px 0px 0px"
         },
         "": {
          "text-align": "center"
@@ -249,6 +270,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Tours",
        "tag": "h2",
        "link": null,
@@ -258,6 +280,7 @@
        "type": "spacer",
        "id": "96df254",
        "style": {},
+       "hide": null,
        "size": 30
       },
       {
@@ -270,20 +293,26 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#E4978E",
          "border-radius": "40px 40px 40px 40px"
         },
         ".elementor-button:hover": {
          "background-color": "#FFFFFF",
-         "color": "#E4978E"
+         "color": "#E4978E",
+         "border-color": "#E4978E"
         },
         ".elementor-button:focus": {
          "background-color": "#FFFFFF",
-         "color": "#E4978E"
+         "color": "#E4978E",
+         "border-color": "#E4978E"
         },
         "> .elementor-widget-container": {
          "margin": "13px 0px 13px 0px"
         }
        },
+       "hide": null,
        "text": "Learn More",
        "link": null
       }
@@ -302,7 +331,7 @@
       },
       "> .elementor-element-populated": {
        "border-radius": "12px 12px 12px 12px",
-       "margin": "0px 0px 20px 0px",
+       "margin": "0px 20px 0px 0px",
        "padding": "0px 0px 0px 0px"
       },
       "> .elementor-element-populated > .elementor-background-overlay": {
@@ -318,9 +347,11 @@
        "id": "8a37023",
        "style": {
         "img": {
+         "height": "190px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/09/IMG_2557-scaled.jpg",
        "alt": "St. Brigid's Cross Workshop-Katie 2010",
        "link": null
@@ -331,7 +362,7 @@
        "style": {
         "> .elementor-widget-container": {
          "margin": "0px 0px 0px 0px",
-         "padding": "23px 0px 0px 0px"
+         "padding": "9px 0px 0px 0px"
         },
         "": {
          "text-align": "center"
@@ -340,11 +371,12 @@
          "font-family": "\"Quicksand\", Sans-serif",
          "font-size": "2em",
          "font-weight": "bold",
-         "line-height": "1.2em",
+         "line-height": "1.4em",
          "letter-spacing": "-1.2px",
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Workshops",
        "tag": "h2",
        "link": null,
@@ -354,6 +386,7 @@
        "type": "spacer",
        "id": "6590082",
        "style": {},
+       "hide": null,
        "size": 30
       },
       {
@@ -362,24 +395,32 @@
        "style": {
         ".elementor-button": {
          "background-color": "#F3C820",
+         "justify-content": "center",
+         "align-items": "center",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#F3C820",
          "border-radius": "40px 40px 40px 40px"
         },
         ".elementor-button:hover": {
          "background-color": "#FFFFFF",
-         "color": "#F3C820"
+         "color": "#F3C820",
+         "border-color": "#F3C820"
         },
         ".elementor-button:focus": {
          "background-color": "#FFFFFF",
-         "color": "#F3C820"
+         "color": "#F3C820",
+         "border-color": "#F3C820"
         },
         "> .elementor-widget-container": {
          "margin": "13px 0px 13px 0px"
         }
        },
+       "hide": null,
        "text": "Learn More",
        "link": null
       }
@@ -398,7 +439,7 @@
       },
       "> .elementor-element-populated": {
        "border-radius": "12px 12px 12px 12px",
-       "margin": "0px 0px 20px 0px",
+       "margin": "0px 20px 0px 0px",
        "padding": "0px 0px 0px 0px"
       },
       "> .elementor-element-populated > .elementor-background-overlay": {
@@ -414,10 +455,13 @@
        "id": "a849912",
        "style": {
         "img": {
+         "width": "100%",
          "max-width": "100%",
+         "height": "190px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/10/The-Gleneagle-Apartment-Living-room.jpg",
        "alt": "Gleneagle Living Room-2021",
        "link": null
@@ -428,7 +472,7 @@
        "style": {
         "> .elementor-widget-container": {
          "margin": "0px 0px 0px 0px",
-         "padding": "23px 0px 0px 0px"
+         "padding": "9px 0px 0px 0px"
         },
         "": {
          "text-align": "center"
@@ -437,11 +481,12 @@
          "font-family": "\"Quicksand\", Sans-serif",
          "font-size": "2em",
          "font-weight": "bold",
-         "line-height": "1.2em",
+         "line-height": "1.4em",
          "letter-spacing": "-1.2px",
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Accommodations",
        "tag": "h2",
        "link": null,
@@ -451,6 +496,7 @@
        "type": "spacer",
        "id": "1491cbf",
        "style": {},
+       "hide": null,
        "size": 30
       },
       {
@@ -463,20 +509,26 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#6EC1E4",
          "border-radius": "40px 40px 40px 40px"
         },
         ".elementor-button:hover": {
          "background-color": "#FFFFFF",
-         "color": "#6EC1E4"
+         "color": "#6EC1E4",
+         "border-color": "#6EC1E4"
         },
         ".elementor-button:focus": {
          "background-color": "#FFFFFF",
-         "color": "#6EC1E4"
+         "color": "#6EC1E4",
+         "border-color": "#6EC1E4"
         },
         "> .elementor-widget-container": {
          "margin": "13px 0px 13px 0px"
         }
        },
+       "hide": null,
        "text": "Learn More",
        "link": null
       }
@@ -496,10 +548,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "0px"
+     "min-height": "359px"
     },
     "": {
-     "padding": "50px 15px 50px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -518,7 +572,7 @@
        "id": "695ffc1",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "0px 0px 0px 0px",
+         "margin": "0px 0px -34px 0px",
          "padding": "0px 0px 0px 0px"
         },
         "": {
@@ -526,13 +580,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Quicksand\", Sans-serif",
-         "font-size": "3.1em",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "-5px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "The Adventure",
        "tag": "h2",
        "link": null,
@@ -543,8 +598,7 @@
        "id": "85aecad",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "-34px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "margin": "-6px 0px 0px 0px"
         },
         "": {
          "text-align": "start"
@@ -553,10 +607,10 @@
          "font-family": "\"Dancing Script\", Sans-serif",
          "font-size": "70px",
          "font-weight": "bold",
-         "color": "#ffffff",
-         "line-height": "1.7em"
+         "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "awaits...",
        "tag": "h2",
        "link": null,
@@ -567,7 +621,7 @@
        "id": "fe6c842",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "-19px 0px 0px 0px",
+         "margin": "0px 0px 0px 0px",
          "padding": "0px 0px 0px 0px"
         },
         "": {
@@ -580,6 +634,7 @@
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "html": "<p>Experience the world and make lifelong friends!</p>"
       }
      ],
@@ -599,6 +654,7 @@
        "type": "spacer",
        "id": "9373b2d",
        "style": {},
+       "hide": null,
        "size": null
       },
       {
@@ -611,18 +667,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Request Info",
        "link": ""
       },
@@ -630,6 +693,9 @@
        "type": "spacer",
        "id": "ce94c95",
        "style": {},
+       "hide": [
+        "phone"
+       ],
        "size": null
       }
      ],
@@ -647,7 +713,7 @@
      "max-width": "1150px"
     },
     "": {
-     "padding": "0px 0px 0px 0px"
+     "padding": "60px 60px 60px 60px"
     }
    },
    "children": [
@@ -668,13 +734,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "30px",
+         "font-size": "40px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "What People Say About Us",
        "tag": "h1",
        "link": null,
@@ -693,27 +760,66 @@
         ".swiper-pagination-fraction": {
          "color": "#74B843"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-swiper-button": {
          "font-size": "20px"
+        },
+        ".swiper-pagination-bullet": {
+         "height": "3px",
+         "width": "3px"
+        },
+        ".swiper-horizontal .swiper-pagination-progressbar": {
+         "height": "3px"
+        },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
         },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "30px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "120px",
+         "height": "120px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
@@ -752,18 +858,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "See More Testimonials",
        "link": ""
       }

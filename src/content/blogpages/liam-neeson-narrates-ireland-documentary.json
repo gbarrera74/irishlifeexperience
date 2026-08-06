@@ -4,6 +4,7 @@
  "path": "/blog/liam-neeson-narrates-ireland-documentary/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Mark your calendars, because on February 11th, 2022, <em>Ireland,</em> will be opening in IMAX theaters.  It is a must-see.  </p><p>Tourism Ireland is a proud global sponsor of this incredible documentary and helping to promote this amazing film around the country.  Niall Gibbons, Chief Executive of Tourism Ireland, said \"This comes at an ideal time for us as we restart travel to the island of Ireland.  It will play a significant part in the recovery of tourism from the United States and will be shining a spotlight on Ireland's rich history, culture, heritage, and spectacular scenery.\"</p><p>As the movie follows writer Manchán Magan on a cross-country adventure exploring the island of Ireland's history, culture, and stunning landscapes-it also is connecting people of Irish descent around the world to their homeland.  And what a better storyteller to tie it all together, then Northern Ireland's own, Liam Neeson.  The richness in Neeson's voice captivates audiences and enhances the richness in history and culture and the picturesque landscapes of this special country.  \"There is a movement in Ireland to reconnect with our heritage, to rediscover what it means to be Irish, and I am delighted to help bring joy and diversity to all that Ireland has to offer,\" Neeson said.  </p><p>We hope <em>Ireland </em>will leave a lasting impression on you and you will fall in love with it all over again, while signing up for the <a href=\"https://irishlifeexperience.com/apply/\">Irish Life Experience</a> or booking a trip to Ireland with <a href=\"https://junipertours.com/\">Juniper Tours.</a></p><p>Éirinn go Brách.  </p><p><em>Written by Taryn Harrison</em></p>"
       }
      ],
@@ -39,9 +41,11 @@
        "id": "1d3aa48",
        "style": {
         "img": {
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/07/landscape-2315014_1920.jpg",
        "alt": "Irish Road",
        "link": null
@@ -51,9 +55,11 @@
        "id": "7877a94",
        "style": {
         "img": {
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/105490956_neeseongettyimages.jpg",
        "alt": "Liam Neeson",
        "link": null
@@ -78,6 +84,7 @@
        "type": "video",
        "id": "c9cf650",
        "style": {},
+       "hide": null,
        "url": "https://www.youtube.com/watch?v=wQZQWbLqKSc"
       }
      ],

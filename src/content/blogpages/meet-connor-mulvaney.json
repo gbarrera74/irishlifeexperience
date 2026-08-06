@@ -4,6 +4,7 @@
  "path": "/blog/meet-connor-mulvaney/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "image",
        "id": "4b95ab7",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2025/05/cm1-scaled.jpg",
        "alt": "Connor Fishing",
        "link": null
@@ -40,6 +42,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>It is O-FISH-AL!  Connor Mulvaney will be joining the Irish Life Experience Dream Team for the 2025 Summer Program!</p><p>Hi!</p><p>My name is Connor, and I am originally from Everett, Washington.  I went to school at Montana State University.  Go Cats!</p><p>I am currently a High School Computer Science Teacher in Polson, Montana.</p><p>I enjoy learning about all things science and computer-related.  When not in the classroom, I like to spend time outside biking, floating, fishing, and hiking.</p><p>I am excited to visit Ireland for the first time and spend more time with an amazing group of people-both staff and students!</p><p>I know we will have a fin-tastic time!</p>"
       }
      ],
@@ -62,6 +65,7 @@
        "type": "image",
        "id": "91da730",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2025/05/cm3-scaled.jpg",
        "alt": "Connor Candid",
        "link": null
@@ -77,7 +81,13 @@
       {
        "type": "image",
        "id": "f1abcd2",
-       "style": {},
+       "style": {
+        "img": {
+         "width": "85%",
+         "height": "480px"
+        }
+       },
+       "hide": null,
        "src": "/images/wp/2025/05/cm2-scaled.jpg",
        "alt": "Connor Rafting",
        "link": null

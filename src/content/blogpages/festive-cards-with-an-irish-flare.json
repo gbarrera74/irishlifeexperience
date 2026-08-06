@@ -4,6 +4,7 @@
  "path": "/blog/festive-cards-with-an-irish-flare/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>This year be sure to send holiday wishes with adorable cards from a very creative artist in Ireland.&nbsp; They are the perfect way to wish your loved ones a Merry Christmas and Happy New Year.</p>\n<p>Susan McGing studied in the creative stream of the DIT Postgrad Diploma in Advertising.&nbsp; She has worked as a content creator and copywriter for clients such as EPIC, Fáilte Ireland, Tourism Ireland, and Trinity College.&nbsp;&nbsp;</p>\n<p>Susan's biggest passion lies with storytelling, as she thrives from brainstorming with a team and telling a story through exciting work.&nbsp;&nbsp;</p>\n<p>She currently works as a freelance illustrator, running her own illustration shop (Susan Illustrates) where she sells cards, commissions, and prints of her own designs.&nbsp;&nbsp;</p>\n<p>You can check out her <a href=\"https://www.etsy.com/shop/susanillustrates/\">Etsy Shop</a> where you can purchase her cards.&nbsp; They will definitely be a nice touch of Irish flare this Holiday Season.&nbsp;&nbsp;</p>\n<p><em>Written by Taryn Harrison</em></p>"
       }
      ],
@@ -49,6 +51,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/il_340x270.3510290235_e2by.webp",
        "alt": "Merry Crispmas",
        "link": null
@@ -69,6 +72,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/il_340x270.3510282133_aths.webp",
        "alt": "Stay Blessed",
        "link": null
@@ -89,6 +93,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/il_340x270.3462654034_eo7p.webp",
        "alt": "Hope It's Cracker",
        "link": null
@@ -117,6 +122,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/il_340x270.3462659776_p5hm.webp",
        "alt": "Favorite Fruitcake",
        "link": null
@@ -137,6 +143,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/il_340x270.3462657114_simb.webp",
        "alt": "Merry Christmas from Dublin",
        "link": null
@@ -157,6 +164,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/il_340x270.3510286443_r2sh.webp",
        "alt": "Merry Christmas",
        "link": null

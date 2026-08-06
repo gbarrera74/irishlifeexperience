@@ -4,6 +4,7 @@
  "path": "/sitemap/",
  "seo": {},
  "hasCss": false,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -18,7 +19,8 @@
       {
        "type": "sitemap",
        "id": "7af8746",
-       "style": {}
+       "style": {},
+       "hide": null
       }
      ],
      "width": 100

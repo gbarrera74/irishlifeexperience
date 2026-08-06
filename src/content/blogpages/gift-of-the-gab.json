@@ -4,6 +4,7 @@
  "path": "/blog/gift-of-the-gab/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -23,6 +24,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/image.png",
        "alt": "Charles Fort-Packed Lunch Group 2022",
        "link": null
@@ -35,6 +37,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/image.png",
        "alt": "Charles Fort-Group 2022",
        "link": null
@@ -56,6 +59,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><span style=\"font-weight: 400;\">Today, the students jumped onto the bus right after a quick breakfast. Then, the group drove to Kinsale in County Cork and toured Charles Fort.  Once the tour ended, the group went into the beautiful seaside town of Kinsale.  Students had the opportunity to shop at a local farmer’s market and indulged in some delicious ice-cream.  </span></p><p><span style=\"font-weight: 400;\">The next stop was Blarney Castle.  Students were excited to climb to the top of the castle and kiss the Blarney Stone, where legend says they are bestowed with the gift of the gab.  They did seem pretty talkative after.  Sorry parents!  The grounds were beautiful, with a garden to explore.  </span></p><p><span style=\"font-weight: 400;\">Once the Irish Life Experience loaded the bus, they headed to the city of Cork for dinner.  Everyone was given a stipend for dinner and they took off to explore the bustling metropolis at their own pace.  They got back on the bus at 7:15 PM and made the drive back to Waterford.  The journey back to Waterford was eventful-filled with lots of singing and mad dance moves from Miles and Taryn.  </span></p><p><span style=\"font-weight: 400;\">Kids jumped off the bus, ready to continue their fun by playing some basketball on campus.  All we can say is that we think that the Blarney Stone did in fact work!  </span></p><p> </p>"
       }
      ],
@@ -83,6 +87,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/image.png",
        "alt": "Kinsale-Ice-cream 2022",
        "link": null
@@ -104,6 +109,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/image.png",
        "alt": "Blarney Castle-2022",
        "link": null

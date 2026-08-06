@@ -4,11 +4,16 @@
  "path": "/medical-form/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"a2dfc0d\"]{margin:0% 20% 0% 20% !important}[data-el=\"41968361\"] :is(h1,h2,h3,h4,h5,h6){font-size:1.5em !important}}@media(max-width:767px){[data-el=\"4dc9c41d\"]{text-align:center !important}[data-el=\"a2dfc0d\"]{margin:0% 2% 0% 2% !important;padding:20px 20px 20px 20px !important}[data-el=\"41968361\"]{text-align:center !important}[data-el=\"41968361\"] :is(h1,h2,h3,h4,h5,h6){font-size:1.5em !important}}@media(max-width:1024px) and (min-width:768px){[data-el=\"a2dfc0d\"]{width:100% !important}}",
  "blocks": [
   {
    "type": "section",
    "id": "44a59de3",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     ":not(.elementor-motion-effects-element-type-background)": {
      "background-color": "#001c31"
     },
@@ -23,6 +28,8 @@
      "max-width": "800px"
     },
     "": {
+     "margin-top": "0px",
+     "margin-bottom": "0px",
      "padding": "100px 0px 100px 0px"
     }
    },
@@ -49,6 +56,7 @@
          "color": "#FFFFFF"
         }
        },
+       "hide": null,
        "text": "Medical Information",
        "tag": "h2",
        "link": null,
@@ -96,6 +104,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p class=\"fsSectionHeading\">Completion of this form is required for participation in the Irish Life Experience.&nbsp; Please submit this form by June 1st, 2026.</p>\n<p>Participant and Participant's Parents Please Note:</p>\n<ul>\n<li>Every item in every section must be completed.</li>\n<li>Mark N/A if any section is not applicable to you.</li>\n<li>Any item or section that is not completed will require written or telephone follow-up and a follow-up fee.</li>\n<li>You can avoid any additional expense of a medical follow-up fee by answering the questions thoroughly.</li>\n<li>Please supply the Irish Life Experience with a double-sided copy of the insurance card under which the participant is covered.</li>\n<li>Please supply the Irish Life Experience with a $100 medical deposit/check, preferably.</li>\n<li>Your place on the Irish Life Experience is confirmed when we receive all forms.&nbsp; This medical form is a particularly important way to ensure a safe and enjoyable experience for you.&nbsp; The physical examination must take place within twelve months of the Irish Life Experience start date.</li>\n</ul>\n<p><strong>If your child is/has been on any medication-including for ADD/ADHD, they must continue to take it while on the Irish Life Experience</strong>.&nbsp; The Irish Life Experience Staff will also collect and distribute all medication to students during the program to ensure that students are taking their medication on time and with the proper dosage.</p>\n<p>By signing this, you will also grant permission to the Irish Life Experience and/or its assigns, to hospitalize, treat, and order injections, anesthesia, or surgery of the child/ward.&nbsp; You will further authorize the Irish Life Experience to use non-prescription medicine in the event of minor injuries and/or ailments.&nbsp; You understand and agree to pay all costs associated with medical care and transportation, including the cost of any evacuation, treatment, or medications.&nbsp; All information will remain confidential.&nbsp; If the applicant has a pre-existing condition or injury that is not indicated on the medical form, and they are subsequently forced to leave the program because of that condition, then the applicant/parent and/or guardian will be responsible for an exit fee and will not receive any refund.</p>"
           }
          ],
@@ -127,8 +136,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "10px 10px 10px 10px",
-           "margin": "0% 2% 0% 2%",
-           "padding": "20px 20px 20px 20px"
+           "margin": "0% 0% 0% 0%",
+           "padding": "3em 3em 3em 3em"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "10px 10px 10px 10px"
@@ -142,6 +151,36 @@
            "type": "form",
            "id": "d1ef6a9",
            "style": {
+            ".elementor-field-group": {
+             "padding-right": "calc( 24px/2 )",
+             "padding-left": "calc( 24px/2 )",
+             "margin-bottom": "11px"
+            },
+            ".elementor-form-fields-wrapper": {
+             "margin-left": "calc( -24px/2 )",
+             "margin-right": "calc( -24px/2 )",
+             "margin-bottom": "-11px"
+            },
+            ".elementor-field-group.recaptcha_v3-bottomleft": {
+             "margin-bottom": "0"
+            },
+            ".elementor-field-group.recaptcha_v3-bottomright": {
+             "margin-bottom": "0"
+            },
+            ".elementor-labels-inline .elementor-field-group > label": {
+             "padding-left": "0px",
+             "padding-right": "0px"
+            },
+            ".elementor-labels-above .elementor-field-group > label": {
+             "padding-bottom": "0px"
+            },
+            ".elementor-labels-inline .elementor-field-group > abbr": {
+             "padding-left": "0px",
+             "padding-right": "0px"
+            },
+            ".elementor-labels-above .elementor-field-group > abbr": {
+             "padding-bottom": "0px"
+            },
             ".elementor-field-group > label": {
              "color": "#1E3A43",
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
@@ -151,6 +190,7 @@
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
             },
             ".elementor-field-type-html": {
+             "padding-bottom": "0px",
              "font-family": "\"Open Sans\", Sans-serif"
             },
             ".dce-signature-wrapper": {
@@ -158,6 +198,7 @@
             },
             ".dce-signature-canvas": {
              "border-radius": "3px 3px 3px 3px",
+             "border-width": "1px 1px 1px 1px",
              "background-color": "#ffffff"
             },
             ".dce-signature-button-clear": {
@@ -166,6 +207,10 @@
             ".dce-signature-button-clear i": {
              "color": "#e62626",
              "font-size": "16px"
+            },
+            ".dce-signature-button-clear svg": {
+             "width": "16px",
+             "height": "16px"
             },
             ".elementor-field-group .elementor-field": {
              "color": "#1E3A43",
@@ -179,18 +224,26 @@
             },
             ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-field-group .elementor-select-wrapper select": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-field-group .elementor-select-wrapper .select2": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".mce-panel": {
@@ -200,33 +253,41 @@
              "color": "#DDDDDD"
             },
             ".elementor-field-group .mce-panel": {
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-button": {
              "font-family": "\"Open Sans\", Sans-serif",
              "font-weight": "bold",
              "text-transform": "uppercase",
+             "border-style": "solid",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "100px 100px 100px 100px",
              "padding": "16px 16px 16px 16px"
             },
             ".e-form__buttons__wrapper__button-next": {
              "background-color": "#61CE70",
-             "color": "#ffffff"
+             "color": "#ffffff",
+             "border-color": "#61CE70"
             },
             ".elementor-button[type=\"submit\"]": {
              "background-color": "#61CE70",
-             "color": "#ffffff"
+             "color": "#ffffff",
+             "border-color": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-previous": {
              "color": "#ffffff"
             },
             ".e-form__buttons__wrapper__button-next:hover": {
              "background-color": "#E4978E00",
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-button[type=\"submit\"]:hover": {
              "background-color": "#E4978E00",
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-previous:hover": {
              "color": "#ffffff"
@@ -234,9 +295,12 @@
             ".elementor-field-label-description:after": {
              "border-radius": "50%",
              "padding": "2px 0",
+             "height": "1.2em",
              "line-height": "1",
              "font-size": "80%",
+             "width": "1.2em",
              "text-align": "center",
+             "margin-left": "0.2em",
              "color": "#ffffff",
              "background-color": "#777777"
             },
@@ -247,6 +311,7 @@
              "opacity": "1"
             }
            },
+           "hide": null,
            "formName": "New Form",
            "fields": [
             {
@@ -1287,6 +1352,7 @@
        "type": "spacer",
        "id": "6bdcdcb3",
        "style": {},
+       "hide": null,
        "size": 10
       },
       {
@@ -1309,10 +1375,12 @@
             },
             ".elementor-view-framed .elementor-icon": {
              "color": "#61CE70",
+             "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-icon": {
              "font-size": "30px",
@@ -1332,6 +1400,7 @@
              "color": "#ffffff"
             }
            },
+           "hide": null,
            "icon": "fas fa-map",
            "title": "Address",
            "description": "1 Central Street\n Suite 205\n\n  Middleton, MA 01949",
@@ -1355,10 +1424,12 @@
             },
             ".elementor-view-framed .elementor-icon": {
              "color": "#61CE70",
+             "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-view-framed:has(:hover) .elementor-icon": {
              "background-color": "#ffffff"
@@ -1389,6 +1460,7 @@
              "color": "#ffffff"
             }
            },
+           "hide": null,
            "icon": "fas fa-envelope",
            "title": "E-Mail Address",
            "description": "Info@IrishLifeExperience.com",
@@ -1412,10 +1484,12 @@
             },
             ".elementor-view-framed .elementor-icon": {
              "color": "#61CE70",
+             "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-icon": {
              "font-size": "30px",
@@ -1434,6 +1508,7 @@
              "color": "#ffffff"
             }
            },
+           "hide": null,
            "icon": "fas fa-phone",
            "title": "Call Us",
            "description": "855-IRISH-LIFE",
@@ -1453,17 +1528,26 @@
          "padding": "0px 0px 0px 10px"
         },
         ".elementor-divider-separator": {
+         "width": "606px",
          "margin": "0 auto"
         },
         ".elementor-divider": {
          "text-align": "center"
         }
-       }
+       },
+       "hide": [
+        "phone"
+       ]
       },
       {
        "type": "section",
        "id": "6e1e0b20",
-       "style": {},
+       "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        }
+       },
        "children": [
         {
          "type": "column",
@@ -1475,20 +1559,21 @@
            "id": "41968361",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 15px"
+             "padding": "0px 0px 0px 15px",
+             "border-style": "solid",
+             "border-width": "0px 0px 0px 3px",
+             "border-color": "#61CE70"
             },
             ".elementor-heading-title": {
              "font-family": "\"Open Sans Condensed\", Sans-serif",
-             "font-size": "1.5em",
+             "font-size": "2.1em",
              "font-weight": "bold",
              "text-transform": "uppercase",
              "letter-spacing": "2px",
              "color": "#ffffff"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Our Social Media",
            "tag": "h4",
            "link": null,
@@ -1522,6 +1607,7 @@
              "color": "#ff7f50"
             }
            },
+           "hide": null,
            "icons": [
             {
              "name": "fab fa-facebook-f",

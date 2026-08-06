@@ -4,6 +4,7 @@
  "path": "/blog/a-reign-y-day/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -58,9 +59,11 @@
            "id": "c1e021b",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 47.222% )",
              "max-width": "47.222%"
             }
            },
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_8324-scaled.jpg",
            "alt": "Olivia and Finola, 2024",
            "link": null
@@ -70,9 +73,11 @@
            "id": "3ac3dc4",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 47.593% )",
              "max-width": "47.593%"
             }
            },
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_8316-scaled.jpg",
            "alt": "Hauk, Cahir Castle--2024",
            "link": null
@@ -82,9 +87,11 @@
            "id": "f70f17e",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 47.593% )",
              "max-width": "47.593%"
             }
            },
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0178-scaled.jpg",
            "alt": "Fourth of July Movie, 2024",
            "link": null
@@ -94,9 +101,11 @@
            "id": "2995ba7",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 47.593% )",
              "max-width": "47.593%"
             }
            },
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_8326-scaled.jpg",
            "alt": "Natalie, Helen, Clare, Kaylee--Rock of Cashel, 2024",
            "link": null
@@ -106,9 +115,11 @@
            "id": "8759206",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 47.593% )",
              "max-width": "47.593%"
             }
            },
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_8337-scaled.jpg",
            "alt": "Joy, Rock of Cashel--2024",
            "link": null
@@ -118,9 +129,11 @@
            "id": "0c41c87",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 47.593% )",
              "max-width": "47.593%"
             }
            },
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_8332-scaled.jpg",
            "alt": "Mary and Darcy, heart hands, Rock of Cashel, 2024",
            "link": null
@@ -130,9 +143,11 @@
            "id": "ed956e5",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 47.593% )",
              "max-width": "47.593%"
             }
            },
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_8319-scaled.jpg",
            "alt": "Rock of Cashel tour, 2024",
            "link": null
@@ -142,9 +157,11 @@
            "id": "a4b6e18",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 47.593% )",
              "max-width": "47.593%"
             }
            },
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_8295-scaled.jpg",
            "alt": "Group Pic, Cahir, 2024",
            "link": null
@@ -154,9 +171,11 @@
            "id": "2e7b58e",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 47.593% )",
              "max-width": "47.593%"
             }
            },
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_8291-scaled.jpg",
            "alt": "Tour, Cahir, 2024",
            "link": null
@@ -166,9 +185,11 @@
            "id": "01d7a31",
            "style": {
             "": {
+             "width": "var( --container-widget-width, 104.444% )",
              "max-width": "104.444%"
             }
-           }
+           },
+           "hide": null
           }
          ],
          "width": 50
@@ -187,17 +208,20 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Happy Fourth of July!!!! It's not everyday that you get to celebrate America in a different country...and what a better way to kick it off than visiting a bunch of castles? After a delectable breakfast, we all loaded up into our <i>Pilltown</i> Coach where our fantastic bus driver, Anthony, drove us to our first stop--Cahir (pronounced 'care') Castle. The sun smiled down on us as Mick, our most FAVORITE tour guide EVER, explained the fascinating history behind Cahir, including \"Chanel no.2,\" how Cahir was overtaken (it only happened once in its history), and why the staircases are designed the way they are (for defensive strategies). Students had 30 minutes to walk around before we scrambled on over to The Rock of Cashel! Built between the 12th and 13th centuries, legend states that Saint Patrick himself baptized King Aengus in 432 AD. We had our packed lunch, consisting of sandwiches, apples, Hula Hoops (a delicious crisp), and chocolate, then headed up to Cashel just as the short rain abated. <span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">After our lovely tour, students had a blustery 30 minutes to wander among the ancient ruins. Some of the girls took some lovely pics too! </span></p><p>Then back to the coach for our last stop--Kilkenny Castle. Despite some patriotic tunes, everyone took the ride for a chance to get some nice shut-eye. Kilkenny Castle soon loomed up from the elegant, ancient buildings as we slowly approached through the busy streets. Built in 1260, everyone enjoyed seeing a more formal and luxurious castle, complete with a rose garden and fully furnished interior. About half of the students took the self-guided tour with their OPW cards and they all loved it--Joy was raving about how neat it was. The other kids enjoyed spending time shopping down the Medieval Mile, and Hauk bought an awesome shirt. After a classic group pic, we all headed home (not complete without some of our favorite tunes), where students had an hour or so to recuperate. </p><p>Then...PARTY TIME!!! The counselors bedecked one of the classrooms with reds, whites, and blues, and Taryn got everyone pizza, popcorn, and yummy snacks. They all gathered together then and watched Forrest Gump...such a classic. And when the movie was over, there was one last surprise...sparklers. As the sky grew dark, our hearts grew brighter (and the sparklers in our hands), as we all filled with love and pride for those around us. Happy Fourth, all! </p>"
           },
           {
            "type": "google_maps",
            "id": "7b08fae",
-           "style": {}
+           "style": {},
+           "hide": null
           },
           {
            "type": "google_maps",
            "id": "85d08d3",
-           "style": {}
+           "style": {},
+           "hide": null
           }
          ],
          "width": 50

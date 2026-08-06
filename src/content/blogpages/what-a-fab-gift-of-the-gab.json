@@ -4,6 +4,7 @@
  "path": "/blog/what-a-fab-gift-of-the-gab/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,12 +25,14 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Hey hey hey!!! What an exciting day...onward to the Kingdom of Kerry!<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">&nbsp;And goodbye to Dublin.</span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">&nbsp;</span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Awhh…how sad!!!! But soon we will be in our new home—Killarney! Everyone is itching for a change. We had our last breakfast—hash browns (and the other normal selection as well), and everyone savored it very much—as this is our last meal that will be prepared for us on the trip! For the next week, we will have to cook and pack all of our own meals.</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">We then met Jerry, our wonderful bus driver who will be staying with us through Killarney and Galway! We hopped on the bus, driving forth towards our next wonderful adventure.</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Our first stop was the very scenic Blarney Castle. The sun made a gracious appearance, so students dines on packed lunches in the lawn and pavilion before going to kiss the Blarney Stone, explore Blarney’s multitudes of GORGEOUS gardens—like the Fern Garden, the Vietnamese Garden, the Poison Garden, the Carnivorous Garden, or the Fairy Garden, or dine in the yummy little cafe. Fun fact—the stained glass windows in Blarney are actually crocheted granny squares. They look very similar, but the yarn won’t break quite as easily as glass!).</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Some people also got a 99 before we left. For those of you who don’t know, 99s are a delicious ice cream with a piece of chocolate called a ‘Flake’ in it—and they are named that because they used to cost 99 cents.</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">We then hopped on the bus once more, and everyone enjoyed the scenic view before we got to the Killarney Tesco. Guys, everyone is obsessed with Tesco, so of course this was an enthralling stop. Here, everyone received a stipend to go purchase their groceries for the next three days. Some people deigned for frozen pizzas, whilst others preferred fancier from-scratch meals. Some favorite ingredients purchased were Patrick's mozzarella, Hauk's fancy bread and olive oil, and Grace's sole onion. We cannot wait to see what everyone cooks up!</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Finally, everyone arrived home to our apartments—and these are certainly much fancier than our boarding school rooms! Everyone has their own kitchen, living room, dining room, and bedrooms. Killarney is about a 15 minutes walk away, so some students deigned for a quick adventure before heading home for supper.</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Several enthralling games of Werewolf (a student favorite) also ensued, but students slowly started trickling off to bed, one by one. Night all. Sleep well in the Kingdom of Kerry!</span></p>"
       },
       {
        "type": "image",
        "id": "2ef69e8",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0596.jpg",
        "alt": "Mary and Darcy--2024",
        "link": null
@@ -46,6 +49,7 @@
        "type": "image",
        "id": "48b188c",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0598.jpg",
        "alt": "Finola and Olivia--2024",
        "link": null
@@ -54,6 +58,7 @@
        "type": "image",
        "id": "381d7f0",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0597.jpg",
        "alt": "Tim, Patrick, and Hauk--2024",
        "link": null

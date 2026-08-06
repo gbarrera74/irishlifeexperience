@@ -4,6 +4,7 @@
  "path": "/blog/top-10-fundraising-ideas/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -20,10 +21,13 @@
        "id": "f92d478",
        "style": {
         "img": {
+         "width": "100%",
          "max-width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/bigstock-fundraising-donations-charity.jpg",
        "alt": "Fundraising",
        "link": null
@@ -33,9 +37,11 @@
        "id": "4af55eb",
        "style": {
         "img": {
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/153935812.jpg",
        "alt": "Community",
        "link": null
@@ -45,9 +51,11 @@
        "id": "4e8545d",
        "style": {
         "img": {
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/Spaghetti-dinner-landscape.png",
        "alt": "Spaghetti Feed",
        "link": null
@@ -57,9 +65,11 @@
        "id": "542afc9",
        "style": {
         "img": {
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/AOH-Vector-2-Logo-wTXT_CMYK.jpg",
        "alt": "Ancient Order of Hibernians",
        "link": null
@@ -69,9 +79,11 @@
        "id": "09b26f4",
        "style": {
         "img": {
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/Go_Fund_me_logo_courtesy_web_t670.jpg",
        "alt": "GoFundMe",
        "link": null
@@ -81,10 +93,13 @@
        "id": "aefad65",
        "style": {
         "img": {
+         "width": "100%",
          "max-width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/download-1.jpg",
        "alt": "Car Wash",
        "link": null
@@ -94,10 +109,13 @@
        "id": "e689389",
        "style": {
         "img": {
+         "width": "100%",
          "max-width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/download.jpg",
        "alt": "Irish Piggy Bank",
        "link": null
@@ -107,10 +125,13 @@
        "id": "7fa8e0e",
        "style": {
         "img": {
+         "width": "100%",
          "max-width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/christmas_presents.jpg",
        "alt": "Christmas Presents",
        "link": null
@@ -132,6 +153,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>While the Irish Life Experience is not a cheap program, it is an important investment that will continue to reap rewards for many years to come.  This unique summer of a lifetime in Ireland has a daunting price tag, but with hard work and creativity; you can definitely make your study abroad dream come true.</p><p>Here are some fundraising ideas that will help ease the financial strain.</p><h4><strong> 1.  Send Sponsorship Letters</strong></h4><p>Send sponsorship letters to acquaintances, friends, relatives, and teachers.  Contact anyone you can think of to help with your fundraising goals.  Ask them to pass along your letter to their network to help you spread the word.</p><p>Make sure to include information about yourself, along with a photo.  Express what has influenced your decision to study abroad, what the Irish Life Experience entails, and how you believe this is an important opportunity for your future.</p><p>Make donating as easy as possible and always ask for a specific amount-$20-$100 is appropriate.</p><p>Don't forget to send thank you letters to your supporters and make sure you keep in contact with them while you are in Ireland through e-mails, personal letters, and postcards.  They will also be able to follow along on the <a href=\"https://irishlifeexperience.com/blog/\">Irish Life Experience Blog</a>.  </p><h4><strong>2.  Ask Local Businesses for Assistance</strong></h4><p>Try to establish connections with nearby businesses in your community.  Make personal contact with them and give them a sponsorship request.</p><p>Be direct, polite, and ask them to contribute a specific amount of money.  If you are having an event to help you with your fundraising ideas, ask local businesses to donate gift certificates or merchandise for raffles instead.</p><h4><strong>3.  Have a Fundraising Party</strong></h4><p>Ice-cream socials, pancake breakfasts, and spaghetti dinners have proven to be very successful for past Irish Life Experience students. They require a lot of energy and time, but can be very profitable.</p><h4><strong>4.  Tap into Hometown Resources and Irish Clubs</strong></h4><p>Turn to community groups in your hometown and state to help with your fundraising ideas.  Beta, Elks, Kiwanis, Lions, Rotary, and Soroptimists are great associations that might consider sponsoring your study abroad experience.</p><p>Appeal to organizations that have a strong tie to Ireland.  Ancient Order of Hibernians, Ladies Ancient Order of Hibernians, Emerald Societies, Friendly Sons of St. Patrick, Gaelic Clubs, and Shamrock Clubs are very familiar with the Irish Life Experience.  Many of these groups might be interested in making a contribution to help you participate in the Irish Life Experience.</p><p>Offer to give a presentation when you return to show them everything you learned while studying abroad in Ireland.</p><h4><strong>5.  Build a Personal Website</strong></h4><p>GoFundMe is a perfect tool for you that is easy to create.  Share your story and attract support by sending via e-mail, Facebook, Instagram, and Twitter.  This has been the most popular way to earn money for Irish Life Experience students.</p><h4><strong>6.  Have a Sale</strong></h4><p>From bake sales to garage sales-these are fantastic events for you to get your community involved and share your fundraising ideas.  Make sure to promote the sale well in advance-through e-mails, flyers, and posts on social media.  You will be surprised how generous strangers can be, especially with educational programs.</p><h4><strong>7.  Have a Car Wash</strong></h4><p>Once the weather turns nice, be sure to take full advantage of the sunshine.  What better way to spend some time outdoors, than to get a few of your friends together and have a car wash!  You will have a blast and earn some money in the process.</p><h4><strong>8.  Ask Family Members to Donate Points</strong></h4><p>Many cardholders earn cash back, miles, and points that can be redeemed or transferred to family and friends.  This is a simple way that will get you closer to your fundraising ideas target.</p><h4><strong>9.  Raffle an iPad Off</strong></h4><p>Invest in an iPad and sell $5-$10 tickets to raffle it off.  Remember, you will have to sell enough tickets to pay off the iPad.  However, many people will most likely buy $20-$50 worth of tickets, which will make it very easy to raise enough money and well exceed the initial iPad cost.</p><h4><strong>10.  Wave All Holiday and Birthday Gifts for Financial Contributions</strong></h4><p>I know it might be difficult to not have a present to unwrap under the Christmas tree or a gift waiting after you blow out your candles on your cake, but imagine how excited you will be when you are on the Aer Lingus flight from Boston to Dublin.  Mission accomplished when your fundraising ideas have helped you pay for the Irish Life Experience.</p><p> </p><p>If you put your whole heart and soul into fundraising ideas for the Irish Life Experience, anything is possible!  Please let us know if you have any questions, as we are always willing to help and offer more suggestions.  It will take a lot of perseverance, but you will not regret it in the end!  Start NOW, before it's too late.  See you this summer in Ireland.</p><p><a href=\"https://irishlifeexperience.com/apply/\">APPLY</a> today and save $400 of you get your application in by January 1st.  </p>"
       }
      ],

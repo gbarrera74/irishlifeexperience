@@ -4,6 +4,7 @@
  "path": "/blog/ken-mare-you-believe-this-awesome-day/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "image",
        "id": "11f5cab",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/20230716_154320_3100EC.jpeg",
        "alt": "",
        "link": null
@@ -27,6 +29,7 @@
        "type": "image",
        "id": "bc826b5",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_5144-scaled.jpg",
        "alt": "",
        "link": null
@@ -48,6 +51,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Hello!!! Today dawned our first full day in the lovely county Kerry. Everyone made their breakfast and packed their lunches, for today we are doing the Ring of Kerry drive! Our first stop was the Kenmare Stone Circle in the charming little village of, well, you guessed it—Kenmare. The ILE has a tradition here where everyone receives their ‘earth names’ at the Stone Circle, and we all do a chant to ‘lock it in.’ It was very fun, to say the least. There were also several hawthorns here, and, per tradition, you write down your wish and tie it to the tree. There were thousands already on the tree, fluttering away in the soft breeze like little birds setting out in the sky to fulfill the many hopes and dreams of the passerby.</p><p>Taryn also took us on a little walk to Oliver Cromwell’s (*cue disgust*) Bridge. Although we do not like Cromwell, we do like his bridge! It was a small, heavily arched, stone bridge arcing over top of a tiny stream, tucked away among the maples and oaks and ragwort.</p><p>We had a little bit of free time in Kenmare as well, and most kids deigned for some coffee, ice cream, or a little wool, lace, and linen shop called ‘Quills.’</p><p>Then, we set off to our next destination—Torc Waterfall! It was a grueling, sweaty, difficult hike to get to—an entire 65 feet of trail! Once there, everyone marveled at the rushing cascades of water bursting forth from the ferns and boulders, watching as it churned and fell into the twining stream down the hillside, then vanished into the wild bracken.</p><p>After some pictures and a bit more marveling, we set off to Muckross House and Gardens! Here, everyone enjoyed the sweeping expanse of soft velvety lawn, and the Montana kids even took off their shoes and frolicked in the grass and crystal-clear lake. Others went into the café to get a coffee before pursuing the House and Gardens.</p><p>Our final stop was Ross Castle, a lovely castle perched on the edge of an island-strewn lake. if we wanted, we could use our OPW cards to take a tour of the castle, but most people preferred to sit on the battlements and ramparts, feed the ducks and swans, or stroll around the edge of the lake.</p><p>After a fantastic afternoon of all the touring, we returned to our apartments at 4—where everyone could either go to Killarney or hang around campus and swim, play games, golf, play tennis, watch a movie, socialize…the options are endless, really! We also had to say goodbye to our amazing, wonderful Mark—he has to head home to Waterford. He has really impacted the students, so it is an understatement to say that everyone was very sad to see him go. We LOVE you, Mark!!!!</p><p>Goodnight from our little corner of Ireland!</p>"
       },
       {
@@ -55,9 +59,11 @@
        "id": "bf4e24f",
        "style": {
         "": {
+         "width": "var( --container-widget-width, 47.567% )",
          "max-width": "47.567%"
         }
        },
+       "hide": null,
        "src": "/images/wp/2023/07/20230716_184602_CB36CA.jpeg",
        "alt": "",
        "link": null
@@ -67,9 +73,11 @@
        "id": "b5e937e",
        "style": {
         "": {
+         "width": "var( --container-widget-width, 49.051% )",
          "max-width": "49.051%"
         }
        },
+       "hide": null,
        "src": "/images/wp/2023/07/20230717_134320_8D0FFC.jpeg",
        "alt": "",
        "link": null

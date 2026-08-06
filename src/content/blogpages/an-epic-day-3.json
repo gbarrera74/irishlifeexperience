@@ -4,6 +4,7 @@
  "path": "/blog/an-epic-day-3/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,12 +25,14 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Today we had a fantastic tour-filled day! After a breakfast of Belgian waffles, we headed into Dublin with Neil, the most normal bus driver we've ever had. Our first stop was Croke Park Stadium! Able to hold up to 82,300 people--and being the fourth largest stadium in Europe--we had nearly the whole thing to ourselves. Students learned all about the history of Hill 16, the GAA, hurling, Gaelic football, and the behind-the-scenes before the game happens. It was an amazing glimpse into what'll happen before Sunday's match.&nbsp;</p>"
       },
       {
        "type": "image",
        "id": "29aaa61",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0060_Original-scaled.jpg",
        "alt": "Croke Park, empty--2024",
        "link": null,
@@ -39,6 +42,7 @@
        "type": "image",
        "id": "d698cb9",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_2070_Original-scaled.jpg",
        "alt": "Kilmainham Gaol Group--2024",
        "link": null,
@@ -61,12 +65,14 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>We enjoyed a packed lunch on the bus before stopping at EPIC Museum--the incredible Irish emigration museum. The self-guided tour leads you through Ireland's past, all while displaying a sense--or lack thereof--of place and person. It's an eye-opening museum, and a must-see for all. After the tour, the kids enjoyed looking around the gift shop (Darcy bought a bodhrán and tin whistle!), and shopping for coffee and snacks.&nbsp;<br></p>"
       },
       {
        "type": "image",
        "id": "026d2c6",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0058_Original.jpg",
        "alt": "EPIC Sign--2024",
        "link": null,
@@ -76,6 +82,7 @@
        "type": "image",
        "id": "222937f",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0059_Original.jpg",
        "alt": "Kilmainham Gaol--2024",
        "link": null,
@@ -85,6 +92,7 @@
        "type": "image",
        "id": "93f42e6",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_2073_Original-scaled.jpg",
        "alt": "Bridget and Joy--EPIC--2024",
        "link": null,
@@ -107,12 +115,14 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>We then had an hour or so to kill, so Neil and Taryn took us on a driving tour of Dublin to get our bearings before the free day on Monday. Dublin's a bustling and confusing city, but we promise to return them all safe and sound. Then it was time for our last tour of the day--Kilmainham Gaol! Built in 1796, the jail held host to all forms of \"prisoners--\" though we use that word lightly, as many were imprisoned for ridiculous \"crimes\" like \"being in possession of a stolen turnip.\" The youngest ever imprisoned was 4 years old, and the jail once held 7,000 people at overboard capacity. They also held many famous people of Irish past, like Eamonn de Valera and Maud McBride. Our tour guide was even related to one of the prisoners of the past!&nbsp;</p>\n<p>A morbidly fascinating tour, students certainly were a little more somber on the bus ride home, but were quickly rejuvenated with some Irish patriotic songs.&nbsp;</p>\n<p>Tea was a delicious lasagna bake, then the evening held host to the annual ILE Talent Show!! And wow, were there some incredible talents! Theo and Cat played us a duet, Finola presented on her light designing in theatre, Cash showed us a video of him wrestling a steer, Danny did some amazing card tricks, Errol performed a Shakespeare recitation, Alex did an incredible tin whistle performance, and Joy did a fantastic actor impression. We are SO impressed with these kids.&nbsp;</p><p>Bed check followed at 10:45, and these kids sure need to rest up for the next few exciting days!&nbsp;</p>"
       },
       {
        "type": "image",
        "id": "061c173",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_2085_Original-scaled.jpg",
        "alt": "Kilmainham Gaol Group--2024",
        "link": null,

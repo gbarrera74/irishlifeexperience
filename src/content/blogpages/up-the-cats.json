@@ -4,6 +4,7 @@
  "path": "/blog/up-the-cats/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Gooooddd morning!!! Everyone is FULL of excited energy--today we go to CROKE PARK!! Breakfast (choices of cereals, milk, yogurt, fruit, and a croissant) was full of anticipated chatter over who would be supporting who--Killkenny (Cill Channaigh) or Clare (An Clár). </p><p>But first, we had classes until 11--our one and only Taryn and Kaylee taught some wonderful classes this morning! Right before we left for Croke Park, everyone had time to face paint in their county colors of choice. Paul Boyle and Strider deigned for a half-and-half full face paint, complete with flags tied across their shoulders like capes. Others preferred small flags or stripes across their cheeks, and most also dressed in jerseys or color coordinating clothes. </p><p>Then, we grabbed our packed lunches and headed off to Croke Park! The stadium seats 82,300 people--making it the biggest sports stadium in Ireland, and the third largest in Europe! Crazy. After a bit of a walk down streets lined with sports vendors and clamoring, excited people, we made it to our AMAZING seats--right next to the pitch! Thanks, Taryn!</p><p>Our first match was camogie--the women's version of hurling!!! It was Cork (Corcaigh) vs Kilkenny (Cill Channaigh)--and, after some real nailbiters, Cork just barely won! Woo-hoo! </p><p>The stadium was really filling up by now, so some people decided to go get some snacks before the men's semi-final hurling match started. </p><p>Then, 20 minutes later, they were off! It was a CRAZY match--with injured players dropping like flies then bounding up again, impossible hits made, wild screaming from the impossibly huge stands--the adrenaline was running high. Clare fans shouted their support as they pulled up in score--they were winning, they were winning, 10 minutes left...then Kilkenny made a magic score out of nowhere at the end, and, just like that--KILKENNY WINS!!!!! The cumulative screaming from 80,000 people was almost unbearably loud, but in a rather infectious way--there wasn't a straight face in the stands, and everyone couldn't stop grinning ear-to-ear for hours afterwards. </p><p>\"That was the best thing I've ever done,\" Strider said with a huge grin once we were back on the bus. \"I screamed so much, I don't think I'll be able to talk tomorrow.\"  </p><p>And so the infectious mood continued, all through tea and into Dance and Drama, where everyone is hard at work on their Irish plays.</p><p>Goodnight to everyone! Up the Cats!!!!!!! (And up the Banners!!)  </p>"
       }
      ],
@@ -38,6 +40,7 @@
        "type": "image",
        "id": "4f79d38",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/20230709_173355_971361.jpeg",
        "alt": "",
        "link": null
@@ -46,6 +49,7 @@
        "type": "image",
        "id": "f9fd441",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_9773-scaled.jpg",
        "alt": "",
        "link": null
@@ -54,6 +58,7 @@
        "type": "image",
        "id": "900e83e",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/20230710_215813_5EEB52.jpeg",
        "alt": "",
        "link": null
@@ -70,6 +75,7 @@
        "type": "image",
        "id": "d6aac7c",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/20230709_212104_5B1114.jpeg",
        "alt": "",
        "link": null
@@ -78,6 +84,7 @@
        "type": "image",
        "id": "18a1065",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_3728-scaled.jpg",
        "alt": "",
        "link": null
@@ -86,6 +93,7 @@
        "type": "image",
        "id": "11f3699",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_4843-1-scaled.jpg",
        "alt": "",
        "link": null
@@ -93,7 +101,8 @@
       {
        "type": "google_maps",
        "id": "b6b208f",
-       "style": {}
+       "style": {},
+       "hide": null
       }
      ],
      "width": 25

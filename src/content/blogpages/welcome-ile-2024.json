@@ -4,6 +4,7 @@
  "path": "/blog/welcome-ile-2024/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,17 +25,20 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">There is something so intricately beautiful about airports. Despite the fact that they tend to be concrete metropolises, never slowing their relentless pace of come-and-go, they hold host to one of the most beautiful things of all—the epitome of human emotion. Friends leave family with teary eyes, People head off for some sort of grand adventure, all huge smiles and bright eyes. There’s running hugs and tears of joy, tears of grief and of sadness—even of anger. Every person from every different corner of our world—of every different nationality and culture and language—is meeting in this beautiful web of intricacy. And today, on June 30th, 2024, twenty-eight students from different corners of the US converge together—with little to no knowledge of these strange people they stand around—everyone simply there to embrace the beautiful unknown. So, with baited breath and curious hearts (and several overweight suitcases), this wonderful band of people took their first steps into the adventure of a lifetime—Ireland.</span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">After a (surprisingly fast) flight, the students and two of our lovely counselors, Clare and Kaylee, landed safely at the Dublin Airport. Bags were collected and everyone went out to meet Taryn, Mark, and Helen--some of our other lovely counselors--and we loaded up onto our fantastic Barton's Bus for our first glimpse of The Emerald Isle. The bustling outskirts of Dublin slowly eased into the rolling, lush countryside of Ireland. Fields of grazing sheep and sweet chocolate cows whizzed past, broken up by the occasional little stone cottage or crumbling ruin. Our first stop <i>also</i> happened to be a ruin--but a really gorgeous one at that. </span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; font-size: 1rem; color: var( --e-global-color-f3735e1 );\">Glendalough—meaning “Valley of the two lakes” in the Irish language. Founded by Saint Kevin, it’s one of Ireland’s oldest monastic sites–located in the Wicklow mountains. Before we headed off for our first adventure, we all settled gladly down for our yummy packed King’s Hospital lunch—an absolute classic of a chicken and lettuce sandwich, along with a side of Walker’s Chips (Irish Lays), an apple, and Oreos. </span></p><p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; font-size: 1rem; color: var( --e-global-color-f3735e1 );\"> </span></p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; font-size: 1rem;\">After eating, we first entered a path snaking its way through an old-growth oak forest. Like the name states, Glendalough is settled in a valley, making it give the perfect comforting sense of nature enveloping you. Huge, mossy oak limbs stretch up to the light, sheltering us with their rippling leaves from the light drizzle. As we walked down the bracken, shamrock, and buttercup lined path, we emerged onto a little bridge that sweeps over a rush-lined brook. This is merely the front yard for the monastery, which suddenly looms into view—along with a graveyard and 98-foot tall roundtower. Mark gave everyone a lovely blurb about its history, then the students banded together to put their first Irish legend to work—if you all hold hands and can wrap yourselves around the base of the tower, you’ll have good luck for 50 years. After taking a quick picture by the enchantingly blustery lake, we headed back to our bus.</span></p><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; font-size: 1rem; color: var( --e-global-color-f3735e1 );\"> </span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; font-size: 1rem; color: var( --e-global-color-f3735e1 );\">We then all got settled down at Newtown Boarding School, where everyone was given their room allocations, a quick tour, and some time to unpack, shower, and settle in before tea at 6 o'clock. Tea was delicious (not to mention, we ADORE the lunch ladies here), including lasagna, potatoes, soup, salad, cake, and custard. This was followed by icebreakers where we learned, among many other things, that Aidan can bench 300 pounds, Darcy is learning to play the bagpipes, Alex is learning 7 languages, Parker had a pet mouse named Tim Strawberry Roman Uzi Vert, and Danny knows the Gettysburg Address by heart.  </span></div><p> </p><p>Then it was time for bed. Exhausted and jet lagged, we had an an early bedtime at 8:30, where dreams of Ireland danced around in tired heads before being whisked off to sleep. Little do they know, these 28 incredible students have just started a journey that will absolutely change their lives. </p>"
       },
       {
        "type": "google_maps",
        "id": "be03139",
-       "style": {}
+       "style": {},
+       "hide": null
       },
       {
        "type": "google_maps",
        "id": "aec22f7",
-       "style": {}
+       "style": {},
+       "hide": null
       }
      ],
      "width": 50
@@ -48,6 +52,7 @@
        "type": "image",
        "id": "1916a1a",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0110-scaled.jpg",
        "alt": "",
        "link": null,
@@ -57,6 +62,7 @@
        "type": "image",
        "id": "1db388c",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0108-scaled.jpg",
        "alt": "",
        "link": null,
@@ -66,6 +72,7 @@
        "type": "image",
        "id": "00daec2",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_5384-scaled.jpg",
        "alt": "",
        "link": null,
@@ -75,6 +82,7 @@
        "type": "text-editor",
        "id": "0edf579",
        "style": {},
+       "hide": null,
        "html": "<p style=\"color: #000000; font-family: 'Open Sans', sans-serif; text-align: center;\"><em><span style=\"color: #484848; font-family: sans-serif, serif;\">Oh to be back home in Ireland now that April winds are blowing</span></em><br style=\"color: #484848; font-family: sans-serif, serif;\" /><em><span style=\"color: #484848; font-family: sans-serif, serif;\">And the weather getting milder and the green grass is a growing</span></em><br style=\"color: #484848; font-family: sans-serif, serif;\" /><em><span style=\"color: #484848; font-family: sans-serif, serif;\">And the breath of Spring is in the air and daylight hours grow long</span></em><br style=\"color: #484848; font-family: sans-serif, serif;\" /><em><span style=\"color: #484848; font-family: sans-serif, serif;\">And the skylark o’er the heather sings his merry April song.</span></em></p><p style=\"color: #000000; font-family: 'Open Sans', sans-serif; text-align: center;\"><span style=\"color: #484848; font-family: sans-serif, serif;\"><i>“Oh To Be Back Home in Ireland”</i></span></p><p style=\"color: #000000; font-family: 'Open Sans', sans-serif; text-align: center;\"><span style=\"color: #484848; font-family: sans-serif, serif;\"><i>~Francis Duggan</i></span></p>"
       }
      ],

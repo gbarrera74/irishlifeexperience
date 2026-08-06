@@ -4,6 +4,7 @@
  "path": "/blog/a-christmas-childhood-a-poem-for-ireland/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>In the poem, \"A Christmas Childhood,\" Patrick Kavanagh explores themes of memory and imagination.  The narrator explores the magical world of childhood and the mourning of its passing.  He uses amazing colorful and figurative language to adequately paint a picture of his youth and what it means to be a child.  </p><p>It is no wonder that this is one of the most quoted poems in Ireland during the Holiday Season.  </p>"
       }
      ],
@@ -51,6 +53,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>One side of the potato-pits was white with frost-<br />How wonderful that was, how wonderful!<br />And when we put our ears to the paling-post<br />The music that came out was magical.</p><p>The light between the ricks of hay and straw<br />Was a hole in Heaven’s gable.  An apple tree<br />With its December-glinting fruit we saw-<br />O you, Eve, were the world that tempted me.</p><p>To eat the knowledge that grew in clay<br />And death the germ within it!  Now and then<br />I can remember something of the gay<br />Garden that was childhood’s.  Again.</p><p>The tracks of cattle to a drinking-place,<br />A green stone lying sideways in a ditch,<br />Or any common sight, the transfigured face<br />Of a beauty that the world did not touch.</p><p>My father played the melodion<br />Outside at our gate;<br />There were stars in the morning east<br />And they danced to his music.</p><p>Across the wild bogs his melodion called<br />To Lennons and Callans.<br />As I pulled on my trousers in a hurry<br />I knew some strange thing had happened.</p><p>Outside in the cow-house my mother<br />Made the music of milking;<br />The light of her stable-lamp was a star<br />And the frost of Bethlehem made it twinkle.</p><p>A water-hen screeched in the bog,<br />Mass-going feet<br />Crunched the wafer-ice on the pot-holes,<br />Somebody wistfully twisted the bellows wheel.</p><p>My child poet picked out the letters<br />On the grey stone,<br />In silver the wonder of a Christmas townland,<br />The winking glitter of a frosty dawn.</p><p>Cassiopeia was over<br />Cassidy’s hanging hill,<br />I looked and three whin bushes rode across<br />The horizon-the Three Wise Kings.</p><p>And old man passing said:<br />‘Can’t he make it talk-<br />The melodion.’  I hid in the doorway<br />And tightened the belt of my box-pleated coat.</p><p>I nicked six nicks on the door-post<br />With my penknife’s big blade-<br />there was a little one for cutting tobacco.<br />And I was six Christmases of age.</p><p>My father played the melodion,<br />My mother milked the cows,<br />And I had a prayer like a white rose pinned<br />On the Virgin Mary’s blouse.</p><p><em>By Patrick Kavanagh</em></p>"
       }
      ],
@@ -73,9 +76,11 @@
        "id": "321167b",
        "style": {
         "img": {
+         "width": "42%",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/image.jpg",
        "alt": "Patrick Kavanagh",
        "link": null

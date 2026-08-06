@@ -4,6 +4,7 @@
  "path": "/thank-you/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"7528f6d\"] .elementor-container{min-height:73vh !important}[data-el=\"7528f6d\"]{padding:68px 0px 75px 0px !important}[data-el=\"c8da67a\"]{padding:0px 0px 0px 0px !important}[data-el=\"9b3b8cf\"]{padding:0px 0px 0px 0px !important}[data-el=\"b14d787\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"b14d787\"] .elementor-main-swiper{width:650px !important}}@media(max-width:767px){[data-el=\"7528f6d\"] .elementor-container{min-height:296px !important}[data-el=\"7528f6d\"]{padding:45px 15px 45px 15px !important}[data-el=\"56936ea\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"56936ea\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"28dea2b\"]{padding:10px 10px 10px 10px !important}[data-el=\"b14d787\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"b14d787\"] .elementor-main-swiper{width:100% !important}[data-el=\"b14d787\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"b14d787\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"4c55190\"]{margin-top:0px !important;margin-bottom:0px !important;padding:10px 0px 10px 0px !important}[data-el=\"2191d6de\"] :is(h1,h2,h3,h4,h5,h6){font-size:33px !important}}",
  "blocks": [
   {
    "type": "section",
@@ -21,10 +22,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -51,13 +54,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Thank You",
        "tag": "h1",
        "link": null,
@@ -87,7 +91,9 @@
      "opacity": "0.1"
     },
     "": {
-     "padding": "10px 10px 10px 10px"
+     "margin-top": "0em",
+     "margin-bottom": "0em",
+     "padding": "0em 0em 0em 0em"
     }
    },
    "children": [
@@ -119,6 +125,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Thank you for your application!",
        "tag": "h2",
        "link": null,
@@ -142,6 +149,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "We received your application and someone from our team will get back to you as soon as possible!",
        "tag": "h2",
        "link": null,
@@ -160,7 +168,9 @@
      "max-width": "1148px"
     },
     "": {
-     "padding": "0px 0px 0px 0px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -189,6 +199,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Testimonials",
        "tag": "h1",
        "link": null,
@@ -207,27 +218,66 @@
         ".swiper-pagination-fraction": {
          "color": "#74B843"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-swiper-button": {
          "font-size": "20px"
+        },
+        ".swiper-pagination-bullet": {
+         "height": "3px",
+         "width": "3px"
+        },
+        ".swiper-horizontal .swiper-pagination-progressbar": {
+         "height": "3px"
+        },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
         },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "30px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "120px",
+         "height": "120px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
@@ -272,7 +322,9 @@
      "background-color": "#F4EFEB"
     },
     "": {
-     "padding": "10px 0px 10px 0px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -293,7 +345,7 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "33px",
+         "font-size": "40px",
          "font-weight": "bold",
          "text-transform": "capitalize",
          "line-height": "1.5em",
@@ -301,6 +353,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "In The Meantime Check Out Our Instagram",
        "tag": "h2",
        "link": null,
@@ -310,6 +363,7 @@
        "type": "shortcode",
        "id": "62dff6c",
        "style": {},
+       "hide": null,
        "shortcode": "[instagram-feed num=3 cols=3]"
       }
      ],

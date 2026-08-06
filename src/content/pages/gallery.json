@@ -4,6 +4,7 @@
  "path": "/gallery/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"35a79d4\"] .elementor-container{min-height:73vh !important}[data-el=\"35a79d4\"]{padding:68px 0px 75px 0px !important}[data-el=\"cc99e6e\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"35a79d4\"] .elementor-container{min-height:296px !important}[data-el=\"35a79d4\"]{padding:45px 15px 45px 15px !important}[data-el=\"487c1b6\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"487c1b6\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"04d58d0\"]{text-align:center !important}[data-el=\"04d58d0\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"04d58d0\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"c3f3531\"]{padding:0px 15px 0px 15px !important}}",
  "blocks": [
   {
    "type": "section",
@@ -11,14 +12,16 @@
    "style": {
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "> .elementor-background-overlay": {
      "background-color": "#000000",
      "opacity": "0.18"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -41,17 +44,17 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         },
         "> .elementor-widget-container": {
-         "margin": "0px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "margin": "0px 0px -30px 0px"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h1",
        "link": null,
@@ -66,7 +69,7 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
@@ -77,6 +80,7 @@
          "padding": "0px 0px 0px 0px"
         }
        },
+       "hide": null,
        "text": "Gallery",
        "tag": "h1",
        "link": null,
@@ -86,6 +90,7 @@
        "type": "spacer",
        "id": "26cfa2d",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -102,7 +107,7 @@
      "max-width": "1405px"
     },
     "": {
-     "padding": "0px 15px 0px 15px"
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -126,6 +131,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "2019 Gallery",
        "tag": "h2",
        "link": null,
@@ -142,6 +148,7 @@
          "background-color": "rgba(0,0,0,0.5)"
         }
        },
+       "hide": null,
        "images": [
         "/images/wp/2021/09/65971934_2386661244734093_776088633198247936_n.jpg",
         "/images/wp/2021/07/IMG_5217-scaled.jpg",

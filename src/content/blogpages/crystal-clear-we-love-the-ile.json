@@ -4,6 +4,7 @@
  "path": "/blog/crystal-clear-we-love-the-ile/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,12 +25,14 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><span style=\"color: #1e3a43; font-family: 'Open Sans', sans-serif;\">Charles Haughey once stated that “Ireland is where strange tales begin, and happy endings are possible.” This truly feels as if it applies to our group (and perhaps everyone else who has ever travelled to Ireland), and already on day 3, everyone seems to be beginning on creating their own stories. The morning dawned with mandala-whorls of soft golden sunlight, slowly melting away the mist. Chaffinches garbled out their morning greetings from the maples and oaks, fluttering away into the dawn light as the students made their way down to breakfast–a choice of cereals, oatmeal, fruit, and some really lovely homemade brown bread. This morning was a lovely session of classes with our most wonderful Kaylee, Helen, and Mark (This included a wonderful taste testing of Irish snacks with Helen!). Then everyone headed off to a delicious lunch of stir fry, potatoes, all sorts of yummy salads, and banana bread.&nbsp;</span></p>\n<p>Then we headed off to our first tour--House of Waterford Crystal! This was incredible to see--there's several steps to the process of making Waterford Crystal, including glass blowing (and making wooden moulds for the crystal, these last 7-10 days and are made from imported pear wood from France...so neat.), cutting (there are over 600 separate cuts that each cutter must learn), and etching. After looking through the showroom and buying some gifts, the students had free time to hang around Waterford. They all made it back in time for Coach Mark's iconic hurling workshop. Safe to say they're ready for the Championship.&nbsp;</p>\n<p>We headed on down to a delicious tea, followed then by everyone's favorite; Dance and Drama. They finished up their brilliant limericks today (we're all really really impressed), then worked on their 3s and 7s with Our Amazing Clare. Then we had our Saint Brigid's Cross Workshop! It was amazing to see everyone's beautiful creations and teamwork.&nbsp;</p>\n<p>After some time to hang around campus, everyone hit the hay and was soon sound asleep, dreaming of far-off lands full of green hills and blustery coasts.&nbsp;</p>"
       },
       {
        "type": "google_maps",
        "id": "105607a",
-       "style": {}
+       "style": {},
+       "hide": null
       }
      ],
      "width": 50
@@ -53,6 +56,7 @@
            "type": "image",
            "id": "348803e",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0125-scaled.jpg",
            "alt": "Waterford Crystal Glassblowing--2024",
            "link": null,
@@ -62,6 +66,7 @@
            "type": "image",
            "id": "f8ec1b4",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0129-scaled.jpg",
            "alt": "Waterford Crystal, Quality Control--2024",
            "link": null,
@@ -71,6 +76,7 @@
            "type": "image",
            "id": "72ba29a",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0132-scaled.jpg",
            "alt": "Waterford Crystal, Cutting--2024",
            "link": null,
@@ -80,6 +86,7 @@
            "type": "image",
            "id": "e83711f",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0136-scaled.jpg",
            "alt": "Mark's Hurling Workshop, 2024",
            "link": null,
@@ -97,6 +104,7 @@
            "type": "image",
            "id": "b8aea15",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0126-scaled.jpg",
            "alt": "Waterford Crystal Glassblowing--2024",
            "link": null,
@@ -106,6 +114,7 @@
            "type": "image",
            "id": "0614877",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0130-scaled.jpg",
            "alt": "Waterford Crystal, Cutting--2024",
            "link": null,
@@ -115,6 +124,7 @@
            "type": "image",
            "id": "4348bb2",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0135-scaled.jpg",
            "alt": "Waterford, 2024",
            "link": null,

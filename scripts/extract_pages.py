@@ -33,6 +33,14 @@ STYLE_KEYS = (
     "color", "background-color", "font-size", "font-weight", "font-family",
     "text-align", "text-transform", "letter-spacing", "line-height",
     "border-radius", "padding", "margin", "max-width", "min-height", "opacity",
+    # Layout properties. Leaving these out silently changed geometry: the home
+    # page's card images carry `height:195px`, and without it they fell back to
+    # their natural ratio and every card came out 15px short.
+    "width", "height", "max-height", "object-fit", "font-style",
+    "margin-top", "margin-bottom", "margin-left", "margin-right",
+    "padding-top", "padding-bottom", "padding-left", "padding-right",
+    "align-items", "align-content", "justify-content", "box-shadow",
+    "border-width", "border-style", "border-color",
 )
 
 
@@ -43,11 +51,36 @@ def resolve(value: str) -> str:
     return re.sub(r"var\(\s*--e-global-color-([\w-]+)\s*\)", sub, value or "").strip()
 
 
-def parse_css(path: pathlib.Path) -> dict:
-    """element-id -> {sub-selector or '': {prop: value}}"""
-    if not path.exists():
-        return {}
-    css = path.read_text(errors="replace")
+def split_media(css: str):
+    """(css outside any @media, [(query, block-body), ...]).
+
+    Elementor writes desktop rules first and narrower breakpoints after. Parsing
+    the file as one flat stream therefore lets the *mobile* declarations win at
+    every width — the home page's audience cards were laid out with the
+    max-width:767px rules on desktop, so they touched instead of sitting in a
+    row with 20px gutters.
+    """
+    base, blocks, i = [], [], 0
+    while True:
+        m = re.compile(r"@media([^{]+)\{").search(css, i)
+        if not m:
+            base.append(css[i:])
+            break
+        base.append(css[i:m.start()])
+        depth, j = 1, m.end()
+        while j < len(css) and depth:
+            if css[j] == "{":
+                depth += 1
+            elif css[j] == "}":
+                depth -= 1
+            j += 1
+        blocks.append((m.group(1).strip(), css[m.end():j - 1]))
+        i = j
+    return "".join(base), blocks
+
+
+def rules_for(css: str) -> dict:
+    """element-id -> {sub-selector or '': {prop: value}} for one flat CSS chunk."""
     out: dict[str, dict] = {}
     for sel, body in re.findall(r"([^{}]+)\{([^{}]+)\}", css):
         for part in sel.split(","):
@@ -70,6 +103,59 @@ def parse_css(path: pathlib.Path) -> dict:
     return out
 
 
+# Wrapper sub-selectors that describe the element's own box rather than a child.
+SELF_TAILS = ("", "> .elementor-element-populated", "> .elementor-widget-container",
+              "> .elementor-widget-wrap")
+
+
+def responsive_css(blocks) -> str:
+    """Re-emit the @media rules against our own markup.
+
+    The rebuild does not reproduce Elementor's class names, so each rendered
+    element carries data-el="<id>" and the breakpoints are rewritten onto that.
+    """
+    out = []
+    for query, body in blocks:
+        decls = []
+        for eid, tails in rules_for(body).items():
+            for tail, props in tails.items():
+                # !important is required, not sloppiness: the base styles are
+                # applied inline, and an inline style beats any stylesheet rule
+                # regardless of specificity. Without it these breakpoints parse
+                # fine and change nothing.
+                block = ";".join(f"{k}:{v} !important" for k, v in props.items())
+                if not block:
+                    continue
+                if tail in SELF_TAILS or tail.endswith("> .elementor-widget-wrap"):
+                    sel = f'[data-el="{eid}"]'
+                elif "heading-title" in tail:
+                    sel = f'[data-el="{eid}"] :is(h1,h2,h3,h4,h5,h6)'
+                else:
+                    # Pass child selectors through unchanged. The components
+                    # carry the Elementor class names these target, so the
+                    # breakpoints keep working without a per-widget special case.
+                    sel = f'[data-el="{eid}"] {tail.lstrip("> ")}'
+                decls.append(f"{sel}{{{block}}}")
+        if decls:
+            out.append(f"@media{query}{{{''.join(decls)}}}")
+    return "".join(out)
+
+
+def parse_css(path: pathlib.Path) -> dict:
+    """element-id -> {sub-selector or '': {prop: value}}, desktop rules only."""
+    if not path.exists():
+        return {}
+    base, _ = split_media(path.read_text(errors="replace"))
+    return rules_for(base)
+
+
+def parse_responsive(path: pathlib.Path) -> str:
+    if not path.exists():
+        return ""
+    _, blocks = split_media(path.read_text(errors="replace"))
+    return responsive_css(blocks)
+
+
 def clean_html(s: str) -> str:
     return (s or "").strip()
 
@@ -84,12 +170,27 @@ def img(v):
     return None
 
 
+def hidden_at(st):
+    """Elementor's responsive visibility, which emits a class rather than CSS.
+
+    Like the heading size preset, this exists in no stylesheet the extractor
+    reads — a spacer hidden on phones kept its 50px there and made every card
+    on the home page 50px too tall at mobile.
+    """
+    out = []
+    for key, name in (("hide_desktop", "desktop"), ("hide_tablet", "tablet"),
+                      ("hide_mobile", "phone")):
+        if st.get(key):
+            out.append(name)
+    return out or None
+
+
 def widget_block(node, css):
     st = node.get("settings") or {}
     eid = node.get("id")
     w = node.get("widgetType")
     style = css.get(eid, {})
-    b = {"type": w, "id": eid, "style": style}
+    b = {"type": w, "id": eid, "style": style, "hide": hidden_at(st)}
 
     if w == "heading":
         b["text"] = plain(st.get("title", ""))
@@ -214,6 +315,7 @@ def resolve_term(post_type, term_ids, limit):
             "image": (p["featured_image"] or {}).get("url")
             if isinstance(p["featured_image"], dict) else p["featured_image"],
             "excerpt": p["excerpt"] or "",
+            "date": p["date"],
         }
         for p in hits
     ]
@@ -263,6 +365,7 @@ def build(source: str, out: pathlib.Path, label: str, elementor_only: bool = Fal
             path=re.sub(r"^https?://[^/]+", "", p["permalink"]),
             seo={k: v for k, v in seo.items() if v},
             hasCss=bool(css),
+            css=parse_responsive(ROOT / f"export/pagecss/{p['slug']}.css"),
             blocks=walk(p["elementor_data"], css),
         )
         (OUT_DIR / f"{p['slug']}.json").write_text(json.dumps(doc, indent=1, ensure_ascii=False))

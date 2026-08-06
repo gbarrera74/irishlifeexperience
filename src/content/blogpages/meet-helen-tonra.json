@@ -4,6 +4,7 @@
  "path": "/blog/meet-helen-tonra/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "image",
        "id": "3c649f2",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/02/1.jpg",
        "alt": "Helen Candid #2",
        "link": null
@@ -40,6 +42,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Hi Everyone!</p><p>I was born and raised in Dublin but have strong family connections to Mayo and Kerry where I was lucky to spend a lot of time growing up.  I took a year out of my studies in University College Dublin before my third year and worked abroad in the US in Chicago and then on Catalina Island, which was amazing.</p><p>I also spent some time after graduation living in Seville, Spain, where I worked with American High School Students on a Study Abroad Program.</p><p>I am now pursuing a Master's Degree to be a Secondary School Teacher and hope to qualify in 2025. I currently live in a boarding school in Dublin and help out with the students, which I love.</p><p>Travel, both long-term and short-term, has opened my eyes to the world, and I have enjoyed making friends from all over. For me, though, there is no place like home, and I have a real love for Irish history and culture. There’s nowhere more beautiful than Ireland in the sunshine!</p><p>Looking forward to meeting all of the 2025 ILE Students very soon.</p>"
       }
      ],
@@ -62,6 +65,7 @@
        "type": "image",
        "id": "fd797bd",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/02/1.jpg",
        "alt": "Helen Candid #4",
        "link": null
@@ -78,6 +82,7 @@
        "type": "image",
        "id": "224cf17",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/02/1.jpg",
        "alt": "Helen Candid #1",
        "link": null
@@ -94,6 +99,7 @@
        "type": "image",
        "id": "7eb83b6",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/02/1.jpg",
        "alt": "Helen Candid #3",
        "link": null

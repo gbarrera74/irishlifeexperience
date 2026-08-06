@@ -4,6 +4,7 @@
  "path": "/blog/dancing-the-night-away/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Maidin mhaith! The students had a lovely day of classes ahead of them...the second last day...sad! After breakfast and classes, students had some free time. Darcy and Mary tried the McDonalds over here, and exclaimed that \"it actually tastes like chicken!\" and Olivia bought a cute new pair of shoes.&nbsp;</p>\n<p>We had two workshops as well--felt shamrock ornaments and advanced Irish dance! Amazing!&nbsp;</p>\n<p>Then it was time to get ready for...RIVERDANCE! Though it's an optional event, most signed up for it. We had a quick tea of chicken sandwiches, then, everyone looking all spiffy and fancy, headed off. We found our seats at the Gaeity Theatre and everyone was AMAZED by the performance, lead by Amy-Mae Dolan. Afterwards, during a quick stop at Gino's for some gelato, the students couldn't stop clamoring about how incredible it was. Darcy, Mary, and Joy agreed it was the best thing so far on the trip.&nbsp;</p><p>Then it was time for bed--an amazing end to an amazing day!</p>"
       }
      ],
@@ -48,6 +50,7 @@
            "type": "image",
            "id": "60d1de2",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0466-scaled.jpg",
            "alt": "Gaeity Theatre--2024",
            "link": null
@@ -64,6 +67,7 @@
            "type": "image",
            "id": "45465ee",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0465-scaled.jpg",
            "alt": "Riverdance Group Pic--2024",
            "link": null
@@ -78,6 +82,7 @@
        "type": "image",
        "id": "1e9caf6",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0484.jpg",
        "alt": "Riverdance Group Pic--2024",
        "link": null

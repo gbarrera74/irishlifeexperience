@@ -4,6 +4,7 @@
  "path": "/clare-b-ile-2015-2/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"7f4325b\"] .elementor-container{min-height:73vh !important}[data-el=\"7f4325b\"]{padding:68px 0px 75px 0px !important}[data-el=\"dfd9b18\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"7f4325b\"] .elementor-container{min-height:296px !important}[data-el=\"7f4325b\"]{padding:45px 15px 45px 15px !important}[data-el=\"9af9ae7\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"b84bc1f\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"b84bc1f\"]{text-align:center !important}[data-el=\"b84bc1f\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"45debe2\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h1",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Ambassadors",
        "tag": "h1",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "2568ae0",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -96,7 +102,12 @@
   {
    "type": "section",
    "id": "4a7520f",
-   "style": {},
+   "style": {
+    "": {
+     "margin-top": "60px",
+     "margin-bottom": "60px"
+    }
+   },
    "children": [
     {
      "type": "column",
@@ -111,6 +122,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/10/DSC02261-scaled.jpg",
        "alt": "",
        "link": null
@@ -133,6 +145,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Clare B.-ILE 2015",
        "tag": "h2",
        "link": null,
@@ -147,6 +160,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>I'm Clare Broderick and I live in Chicago. I'm an Irish dancer at Mullane Healy Godley Academy and attend Regina Dominican High School.</p><p>This past summer I was lucky enough to go on #ILE15.  I had heard about the trip when my sisters went on it in '08 and '09.  For the past two years I had put off going on the ILE because of Nationals for Irish dance.  Thankfully, I came to my senses this year and decided to go on #ILE15.  It truly changed my life.  I went into the program incredibly nervous. </p><p>I come from a small high school with about 80 people in my grade.  I had never left the country before. I knew no one going on the trip and I thought the counselors would be super strict and scary.  Everything about the ILE was out of my comfort zone.  I could not have been more wrong!  From the minute I stepped off the plane, I knew I was at home.  There was not a single moment that I was lonely or uncomfortable.  Everything about the people and the country was perfect.</p><p>Every day was a new adventure!  I woke up every morning and was excited for the day ahead.  I loved the day spent in Northern Ireland at the Giant's Causeway and the day spent biking around the Aran Islands.  Even the rain at the Cliffs of Moher could not deter my excitement.  Although the sites were beautiful, my favorite part was the people.  I loved meeting teenagers from across the country and some even from Ireland.  I loved making friends with the counselors, even though they were ten years older than us.  I loved having my second family with me every single second of every single day.  I remember the nights we laughed until we cried or baked cookies together or just hung out. There was not a single minute that I was homesick.  I was constantly surrounded by people I loved and going on a new adventure every day.</p><p>I miss everything about the ILE, even the bus rides.  No matter how big or small an activity, everything on the ILE was exciting and memorable.  I encourage anyone interested in the program to apply because you are guaranteed to have a summer of a lifetime.  You will make new friends that will last forever and become at home in Ireland.  The #ILE15 was definitely the best summer I ever had and I can not wait to go back as a counselor!  If you have any questions at all, feel free to reach out to me!  I can talk about the ILE for hours and will answer any questions you have about the program!</p>"
       },
       {
@@ -160,6 +174,7 @@
          "color": "#6EC1E4"
         }
        },
+       "hide": null,
        "text": "Visit on Facebook»",
        "tag": "p",
        "link": "https://www.facebook.com/clare.broderick.1",
@@ -176,6 +191,7 @@
          "color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "E-Mail»cbroderick@rdhs.org",
        "tag": "p",
        "link": null,
@@ -191,18 +207,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Go Back",
        "link": ""
       }

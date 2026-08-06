@@ -4,6 +4,7 @@
  "path": "/blog/croke-aint-no-joke/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Up Ireland!!!! Today is our very exciting CROKE PARK MATCH! Whooop! And....last day of classes! So many exciting things happening. Students had a lovely breakfast, finished up classes...then even got out early for match face painting! Maroon and white for Galway, and green and yellow for Donegal. Once they were decked out, our bus driver navigated the busy roads and we found our seats in Croke Park!!! We settled into our seats to watch the Junior Match--Nua Eabhrac (New York) and Londain (London). Up the States!!!! Cheers abound when New York won.</p><p>After some concessions and 60,000 other people joining us in the stands, GALWAY and DONEGAL came out!!!! A riveting game! After a VERY close score, Galway just barely won. Woop! </p><p>Then it was time for a slow drive home with some fantastic people watching, some down time, a lovely tea, and our LAST Drama practice!! Tomorrow will be the performances, and we absolutely cannot wait for the results.</p><p>Goodnight, all! Sleep tight and dream of Gaelic footballs and the cheers of thousands...</p>"
       }
      ],
@@ -45,6 +47,7 @@
        "type": "image",
        "id": "35ee8fd",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0526.jpg",
        "alt": "Croke Park Match--2024",
        "link": null,
@@ -62,6 +65,7 @@
        "type": "image",
        "id": "909292b",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0514.jpg",
        "alt": "Eva and Grace--2024",
        "link": null,
@@ -79,6 +83,7 @@
        "type": "image",
        "id": "bac706c",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0513.jpg",
        "alt": "Nolan, Brogan, and Danny--2024",
        "link": null,

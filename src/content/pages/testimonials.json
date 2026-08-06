@@ -4,6 +4,7 @@
  "path": "/testimonials/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"751a0cc\"] .elementor-container{min-height:73vh !important}[data-el=\"751a0cc\"]{padding:68px 0px 75px 0px !important}[data-el=\"6bd551c\"]{padding:0px 0px 0px 0px !important}[data-el=\"3a2f334\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"3a2f334\"] .elementor-main-swiper{width:650px !important}[data-el=\"dafc3e0\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"dafc3e0\"] .elementor-main-swiper{width:650px !important}[data-el=\"b509553\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"b509553\"] .elementor-main-swiper{width:650px !important}[data-el=\"e988c5b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"e988c5b\"] .elementor-main-swiper{width:650px !important}[data-el=\"e54acf1\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"e54acf1\"] .elementor-main-swiper{width:650px !important}[data-el=\"5b76d1f\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"5b76d1f\"] .elementor-main-swiper{width:650px !important}[data-el=\"97c289d\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"97c289d\"] .elementor-main-swiper{width:650px !important}[data-el=\"a9c238a\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"a9c238a\"] .elementor-main-swiper{width:650px !important}[data-el=\"4e25cb4\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"4e25cb4\"] .elementor-main-swiper{width:650px !important}[data-el=\"71e43c8\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"71e43c8\"] .elementor-main-swiper{width:650px !important}[data-el=\"019c772\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"019c772\"] .elementor-main-swiper{width:650px !important}[data-el=\"ec3ccfb\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"ec3ccfb\"] .elementor-main-swiper{width:650px !important}[data-el=\"c0d2621\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"c0d2621\"] .elementor-main-swiper{width:650px !important}[data-el=\"71c7b3b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"71c7b3b\"] .elementor-main-swiper{width:650px !important}[data-el=\"f51cb72\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"f51cb72\"] .elementor-main-swiper{width:650px !important}[data-el=\"6c8b38b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"6c8b38b\"] .elementor-main-swiper{width:650px !important}[data-el=\"bd9a86b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"bd9a86b\"] .elementor-main-swiper{width:650px !important}[data-el=\"49be830\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"49be830\"] .elementor-main-swiper{width:650px !important}[data-el=\"3dc0e0d\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"3dc0e0d\"] .elementor-main-swiper{width:650px !important}[data-el=\"dcd2263\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"dcd2263\"] .elementor-main-swiper{width:650px !important}[data-el=\"c90835d\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"c90835d\"] .elementor-main-swiper{width:650px !important}[data-el=\"2a483e7\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"2a483e7\"] .elementor-main-swiper{width:650px !important}[data-el=\"6c8de6d\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"6c8de6d\"] .elementor-main-swiper{width:650px !important}[data-el=\"febe9eb\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"febe9eb\"] .elementor-main-swiper{width:650px !important}[data-el=\"2b504a2\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"2b504a2\"] .elementor-main-swiper{width:650px !important}[data-el=\"9a2d0a6\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"9a2d0a6\"] .elementor-main-swiper{width:650px !important}[data-el=\"5857f13\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"5857f13\"] .elementor-main-swiper{width:650px !important}[data-el=\"1f2781b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"1f2781b\"] .elementor-main-swiper{width:650px !important}[data-el=\"2109f55\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"2109f55\"] .elementor-main-swiper{width:650px !important}}@media(max-width:767px){[data-el=\"751a0cc\"] .elementor-container{min-height:296px !important}[data-el=\"751a0cc\"]{padding:45px 15px 45px 15px !important}[data-el=\"33e6005\"] :is(h1,h2,h3,h4,h5,h6){font-size:56px !important}[data-el=\"4f511c4\"]{padding:40px 0px 40px 0px !important}[data-el=\"d6bafe1\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"3a2f334\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"3a2f334\"] .elementor-main-swiper{width:100% !important}[data-el=\"3a2f334\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"3a2f334\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"3a2f334\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"3a2f334\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"3a2f334\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"3a2f334\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"3a2f334\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"3a2f334\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"dafc3e0\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"dafc3e0\"] .elementor-main-swiper{width:100% !important}[data-el=\"dafc3e0\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"dafc3e0\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"dafc3e0\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"dafc3e0\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"dafc3e0\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"dafc3e0\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"dafc3e0\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"dafc3e0\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"b509553\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"b509553\"] .elementor-main-swiper{width:100% !important}[data-el=\"b509553\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"b509553\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"b509553\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"b509553\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"b509553\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"b509553\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"b509553\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"b509553\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"e988c5b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"e988c5b\"] .elementor-main-swiper{width:100% !important}[data-el=\"e988c5b\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"e988c5b\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"e988c5b\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"e988c5b\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"e988c5b\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"e988c5b\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"e988c5b\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"e988c5b\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"e54acf1\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"e54acf1\"] .elementor-main-swiper{width:100% !important}[data-el=\"e54acf1\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"e54acf1\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"e54acf1\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"e54acf1\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"e54acf1\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"e54acf1\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"e54acf1\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"e54acf1\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"5b76d1f\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"5b76d1f\"] .elementor-main-swiper{width:100% !important}[data-el=\"5b76d1f\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"5b76d1f\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"5b76d1f\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"5b76d1f\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"5b76d1f\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"5b76d1f\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"5b76d1f\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"5b76d1f\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"97c289d\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"97c289d\"] .elementor-main-swiper{width:100% !important}[data-el=\"97c289d\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"97c289d\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"97c289d\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"97c289d\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"97c289d\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"97c289d\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"97c289d\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"97c289d\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"a9c238a\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"a9c238a\"] .elementor-main-swiper{width:100% !important}[data-el=\"a9c238a\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"a9c238a\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"a9c238a\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"a9c238a\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"a9c238a\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"a9c238a\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"a9c238a\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"a9c238a\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"4e25cb4\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"4e25cb4\"] .elementor-main-swiper{width:100% !important}[data-el=\"4e25cb4\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"4e25cb4\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"4e25cb4\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"4e25cb4\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"4e25cb4\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"4e25cb4\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"4e25cb4\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"4e25cb4\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"71e43c8\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"71e43c8\"] .elementor-main-swiper{width:100% !important}[data-el=\"71e43c8\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"71e43c8\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"71e43c8\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"71e43c8\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"71e43c8\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"71e43c8\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"71e43c8\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"71e43c8\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"019c772\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"019c772\"] .elementor-main-swiper{width:100% !important}[data-el=\"019c772\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"019c772\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"019c772\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"019c772\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"019c772\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"019c772\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"019c772\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"019c772\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"ec3ccfb\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"ec3ccfb\"] .elementor-main-swiper{width:100% !important}[data-el=\"ec3ccfb\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"ec3ccfb\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"ec3ccfb\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"ec3ccfb\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"ec3ccfb\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"ec3ccfb\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"ec3ccfb\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"ec3ccfb\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"c0d2621\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"c0d2621\"] .elementor-main-swiper{width:100% !important}[data-el=\"c0d2621\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"c0d2621\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"c0d2621\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"c0d2621\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"c0d2621\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"c0d2621\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"c0d2621\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"c0d2621\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"71c7b3b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"71c7b3b\"] .elementor-main-swiper{width:100% !important}[data-el=\"71c7b3b\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"71c7b3b\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"71c7b3b\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"71c7b3b\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"71c7b3b\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"71c7b3b\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"71c7b3b\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"71c7b3b\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"f51cb72\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"f51cb72\"] .elementor-main-swiper{width:100% !important}[data-el=\"f51cb72\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"f51cb72\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"f51cb72\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"f51cb72\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"f51cb72\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"f51cb72\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"f51cb72\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"f51cb72\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"6c8b38b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"6c8b38b\"] .elementor-main-swiper{width:100% !important}[data-el=\"6c8b38b\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"6c8b38b\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"6c8b38b\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"6c8b38b\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"6c8b38b\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"6c8b38b\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"6c8b38b\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"6c8b38b\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"27284e2\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"bd9a86b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"bd9a86b\"] .elementor-main-swiper{width:100% !important}[data-el=\"bd9a86b\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"bd9a86b\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"bd9a86b\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"bd9a86b\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"bd9a86b\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"bd9a86b\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"bd9a86b\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"bd9a86b\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"49be830\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"49be830\"] .elementor-main-swiper{width:100% !important}[data-el=\"49be830\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"49be830\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"49be830\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"49be830\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"49be830\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"49be830\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"49be830\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"49be830\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"3dc0e0d\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"3dc0e0d\"] .elementor-main-swiper{width:100% !important}[data-el=\"3dc0e0d\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"3dc0e0d\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"3dc0e0d\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"3dc0e0d\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"3dc0e0d\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"3dc0e0d\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"3dc0e0d\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"3dc0e0d\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"dcd2263\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"dcd2263\"] .elementor-main-swiper{width:100% !important}[data-el=\"dcd2263\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"dcd2263\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"dcd2263\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"dcd2263\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"dcd2263\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"dcd2263\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"dcd2263\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"dcd2263\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"c90835d\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"c90835d\"] .elementor-main-swiper{width:100% !important}[data-el=\"c90835d\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"c90835d\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"c90835d\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"c90835d\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"c90835d\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"c90835d\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"c90835d\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"c90835d\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"2a483e7\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"2a483e7\"] .elementor-main-swiper{width:100% !important}[data-el=\"2a483e7\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"2a483e7\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"2a483e7\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"2a483e7\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"2a483e7\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"2a483e7\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"2a483e7\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"2a483e7\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"6c8de6d\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"6c8de6d\"] .elementor-main-swiper{width:100% !important}[data-el=\"6c8de6d\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"6c8de6d\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"6c8de6d\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"6c8de6d\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"6c8de6d\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"6c8de6d\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"6c8de6d\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"6c8de6d\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"febe9eb\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"febe9eb\"] .elementor-main-swiper{width:100% !important}[data-el=\"febe9eb\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"febe9eb\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"febe9eb\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"febe9eb\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"febe9eb\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"febe9eb\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"febe9eb\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"febe9eb\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"2b504a2\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"2b504a2\"] .elementor-main-swiper{width:100% !important}[data-el=\"2b504a2\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"2b504a2\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"2b504a2\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"2b504a2\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"2b504a2\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"2b504a2\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"2b504a2\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"2b504a2\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"9a2d0a6\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"9a2d0a6\"] .elementor-main-swiper{width:100% !important}[data-el=\"9a2d0a6\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"9a2d0a6\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"9a2d0a6\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"9a2d0a6\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"9a2d0a6\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"9a2d0a6\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"9a2d0a6\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"9a2d0a6\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"5857f13\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"5857f13\"] .elementor-main-swiper{width:100% !important}[data-el=\"5857f13\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"5857f13\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"5857f13\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"5857f13\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"5857f13\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"5857f13\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"5857f13\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"5857f13\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"1f2781b\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"1f2781b\"] .elementor-main-swiper{width:100% !important}[data-el=\"1f2781b\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"1f2781b\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"1f2781b\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"1f2781b\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"1f2781b\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"1f2781b\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"1f2781b\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"1f2781b\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"2109f55\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"2109f55\"] .elementor-main-swiper{width:100% !important}[data-el=\"2109f55\"] .elementor-testimonial--layout-image_inline .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"2109f55\"] .elementor-testimonial--layout-image_stacked .elementor-testimonial__footer{margin-top:10px !important}[data-el=\"2109f55\"] .elementor-testimonial--layout-image_above .elementor-testimonial__footer{margin-bottom:10px !important}[data-el=\"2109f55\"] .elementor-testimonial--layout-image_left .elementor-testimonial__footer{padding-right:10px !important}[data-el=\"2109f55\"] .elementor-testimonial--layout-image_right .elementor-testimonial__footer{padding-left:10px !important}[data-el=\"2109f55\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"2109f55\"] .elementor-testimonial__title{font-size:12px !important}[data-el=\"2109f55\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "56px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Testimonials",
        "tag": "h1",
        "link": null,
@@ -60,6 +64,7 @@
        "type": "spacer",
        "id": "dddf0f3",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -72,6 +77,10 @@
    "type": "section",
    "id": "4f511c4",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     "> .elementor-container": {
      "max-width": "1320px",
      "text-align": "center"
@@ -80,19 +89,14 @@
      "opacity": "0.97"
     },
     "": {
-     "padding": "40px 0px 40px 0px"
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
     {
      "type": "column",
      "id": "d6bafe1",
-     "style": {
-      "> .elementor-element-populated": {
-       "margin": "0px 0px 0px 0px",
-       "padding": "0px 0px 0px 0px"
-      }
-     },
+     "style": {},
      "children": [
       {
        "type": "testimonial-carousel",
@@ -102,6 +106,12 @@
          "margin": "0px 0px 0px 0px",
          "padding": "20px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -109,27 +119,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Words can not express how grateful we are to Taryn and the ILE Team.  Our daughter had an amazing time in Ireland.  We had the added benefit of knowing Taryn from our hometown. \n That did give us reassurance and peace of mind when deciding to send her on this four week trip abroad.  Of course, as parents, we still worried. \n This would be Rowan’s first time traveling out of the country and she did not know any of the other students going on this trip.  The mix of educational classes and sightseeing makes this trip one of a kind.  The group activities really help the students bond and get to know each other.  The friendships made during this trip will last a lifetime.  The Irish Life Experience allowed our daughter to travel abroad and experience another culture in a safe and guided environment.  Taryn and the ILE Counselors are amazing.  I would highly recommend this trip to any parent considering a travel abroad program. \n It is truly a once in a lifetime experience!!!  Thank you ILE!!!",
@@ -148,6 +184,12 @@
          "margin": "0px 0px 0px 0px",
          "padding": "20px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -155,27 +197,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Being able to have the opportunity to travel to Ireland through the Irish Life Experience, was probably the best decision I could have ever made.  By far a summer I will never forget. I made some really great friendships from this program. And I will definitely be going back to the motherland soon!",
@@ -194,6 +262,12 @@
          "margin": "0px 0px 0px 0px",
          "padding": "20px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -201,27 +275,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Last summer I did the ILE and it was one of the best summers of my life.  I still think about it every day, although it has been two months since it ended.  Do not get me wrong:  I was terrified as the plane took off from Logan Airport. \n But soon enough, I was having too much fun to spend time feeling homesick.  Whether we were taking classes, or doing a group activity, or going out on excursions, everything we did was amazing.  I will never forget the other students, and by the end of the trip I had created a few great friendships.  The classes were fascinating, and, although I was a bit worried about them, the teachers made them all really fun. \n Everywhere we went was really interesting, and I definitely learned a lot over the course of the trip.  I think my favorite thing was seeing Riverdance, but it is so hard to decide!  The day that we spent biking around the Aran Islands was amazing, the Croke Park match was really fun, and seeing the Giant's Causeway and the rest of Northern Ireland was wonderful.  We also had free time in the various cities we stayed in, and I feel as though that time that I spent wandering around cities with my friends might have taught me the most about Ireland.  The Staff was great, and although they were always there if you needed them, they also gave us enough freedom that it did not feel as though we were under constant supervision.  This trip taught me so much, about Ireland and about myself, and I can not wait for one day (Hopefully.) to be a Counselor.",
@@ -240,6 +340,12 @@
          "margin": "0px 0px 0px 0px",
          "padding": "20px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -247,27 +353,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Everything about ILE is really wonderful.  The adults do a very professional job of organizing the travel logistics, classes, and activities before the trip.  And once they are there they really know how to support the kids, some of whom have not been away from home this far or for this long before and some of whom are taking their first trip broad.  My daughter got a lot out of the classes and especially liked the cultural experiences like learning to dance, or play hurling, making scones, or reading Irish literature.  \n They do so much sightseeing it is unbelievable.  My daughter, who has never been interested in spectator sports, loved going to Croke Park to see the Irish football final.  This, Riverdance, and visiting the Giant’s Causeway were the highlights for her.  But the experience is much more than that. \n They are with kids from all over the US and from all different ways of life.  My very urban NYC teen found a great friendship with a girl who lives on a farm in Montana.  Also, learning to live with roommates, shop and cook as a group, budget their money, get themselves up and out every day and so on is a great growing experience.  My daughter came home seeming much more mature and independent.  And she was talking about the ILE for weeks afterward, which is exactly what you want.",
@@ -286,6 +418,12 @@
          "margin": "0px 0px 0px 0px",
          "padding": "20px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -293,27 +431,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.  Our son Ian was nervous and skeptical about going overseas, not knowing anyone and being away from family and friends.  But it was transformative for him.  The combination of classes, traveling throughout the country with a new group of people-who became good friends, was exactly the type of immersive experience that allowed Ian to learn and have a great time doing it.",
@@ -331,6 +495,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -338,27 +508,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "The summer of 2019 was my favorite summer.  There was never a dull moment during the whole trip. \n I wasn’t too excited to take classes, but quickly I realized that the classes were tons of fun and informative.  The great counselors always had something fun planned, whether it was watching a movie, playing sports, or going on a tour. \n Visiting the Cliffs of Moher was my favorite memory because of the awesome views, then closely followed the killer bus trips on our way to many of the different counties.  Going into the ILE I was just a kid from the Jersey Shore not knowing if I was going to fit in, but then we came out on the other side one big family.  I would suggest the ILE to everyone.  I am looking forward to maybe being a Junior Counselor one day.  Thanks for the great trip, Irish Life Experience!",
@@ -376,6 +572,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -383,27 +585,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Being on #ILE17 was an amazing experience for me.  Between finally being able to see the beauty of Ireland and being with the amazing group of people I was with the past month, I wouldn’t change it for anything in the world.  Nothing changes you more than getting onto a bus with a group of people and going to a different place everyday to see the stunning scenery that Ireland holds.  I had a blast and hope that a couple years from now I will be able to be an Irish Life Experience Counselor and be able to experience Ireland again with a whole new group of people.",
@@ -421,6 +649,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -428,27 +662,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "The Irish Life Experience was truly a life-changing trip.  My two older sisters had both gone on the ILE and I was waiting for it to be my turn.  I had put it off for two years, but I finally came to my senses this year and went on #ILE15.  I am so happy that I did.  I would never want to see Ireland for the first time any other way.  Before I left, I was incredibly nervous about meeting new people and going to a new country.  I come from a small high school with about 80 people in my grade.  I had never left the country before.  I knew no one going on the trip and I thought the counselors would be super strict and scary. \n Everything about the ILE was out of my comfort zone.  I was freaking out for days before I left and literally sweat through my shirt at Logan Airport.  \n\nIn the end, there was nothing to be nervous about!  From the moment we stepped foot in Dublin, I felt right at home.  I made new friends instantly with both students and counselors.  Over the next 25 days, I became a part of a new family. \n Strangers became my best friends and I hate not seeing them every day.  We might live miles apart, but I know that we will be friends for life, even the counselors.  I was a little nervous when I met the ILE Staff, because they are all older than us and I thought that they would be really mean.  In reality, it was the complete opposite!  Every counselor made an effort to get to know each and every student. \n Mama T cared for us as if we were her own children.  There was never a moment on the ILE that I felt lonely or uncomfortable.  #ILE15 became my second family and they will hold a special place in my heart forever.  \n\nNot only did I make new friends-I got to explore another country.  I had always wanted to travel to Ireland, always hoping that my competitive Irish dancing career would take me there.  ILE allowed us to travel throughout the country and every day was a new adventure! \n I loved the day spent in Northern Ireland at the Giant’s Causeway and the day spent biking around the Aran Islands.  Even the rain at the Cliffs of Moher could not deter my excitement.  I distinctly remember a moment in Killarney National Park. A friend and I were standing on rocks in the middle of Torc Waterfall and we just freaked out, saying, “We are standing in a waterfall in Ireland!”  Every once and while, it would actually hit us that we were in a new country and we just could not believe our dream came true.  I woke up every single morning excited for the day ahead and I went to bed each night with a smile on my face.  The entire trip felt so surreal and sometimes I can not believe that I actually got to go on the ILE.  \n\nOn the last day, I was sobbing uncontrollably because I did not want to leave Ireland or my amazing new family.  While most of us could not pull ourselves together, the counselors were completely fine.  I asked them why they were not in tears and I remember one counselor telling me, “I’m not sad right now because so many people would kill to be on a trip like this. \n We were just lucky enough that it happened to us.”  And that is so true.  I am incredibly lucky and grateful that the ILE happened to me.  I could not thank Taryn, Angie, Shona, Miles, Kate, Kent, and Casey enough for the summer that they made happen.  The ILE was the most amazing trip in the world and words do not do it justice.  I came home with a new family and a new home.  The Irish Life Experience was the best summer of my life and I cannot wait to go back as a counselor.",
@@ -466,6 +726,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -473,27 +739,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "We could never express our sincere and heartfelt gratitude for the Irish Life Experience to Ireland our daughter, Emily, participated in this past summer.  When we first learned about the program we knew that it would be a wonderful experience and opportunity for any young person, but considering Emily had barely any experience with such independence we were not certain that this was the right time in her life to pursue this trip. \n The thought of sending a child abroad alone for nearly four weeks in the care of a group of unknown people would make any parent hesitate.  We continued researching and looking for other options that would be challenging and rewarding, but keep Emily closer to home.  We even looked at a few other study abroad programs, but we kept finding ourselves going back to the Irish Life Experience. \n The more we looked at the pictures on Taryn’s website and Facebook page, it became obvious that the kids had an amazing time, and after reading the detailed information provided it became clear that the ILE could offer Emily the chance to have a truly unique and authentic experience.  The ILE appeared to promote a less stressful and more well-rounded opportunity for Emily to join, interact and travel with a group of her peers in a well-supervised environment while being exposed to her Irish heritage by a group of enthusiastic and passionate counselors, guides, and teachers.  The other programs that we researched seemed competitive, stressful, and scripted with the hidden agenda of primarily providing students with a means to “pad” their resumes for college applications.  \n\nWe still can not believe that we took a “blind leap of faith” and sent our daughter on this trip.  In the beginning things were challenging and difficult for our homesick daughter.  Although we questioned whether or not we made the right decision we knew that Emily would have to persevere, because coming home early was not an option.  This could have easily been the most miserable four weeks that turned out to be the biggest mistake that we as a family made, but Taryn and the ILE Team proved to be everything that we had hoped for. \n The safe, caring, and nurturing environment that they provided helped Emily become more relaxed and comfortable so that she could finally enjoy herself.  This experience has given her so much more than she can even begin to realize.  She has made some great lifelong friends who have helped her discover so much more about herself.  The benefits of exploring the beautiful country of Ireland with a wonderful group of people will forever be a positive part of Emily’s life that will help shape who she becomes as an adult.  We can not thank Taryn and the Irish Life Experience enough for giving us the opportunity to give Emily this priceless gift.",
@@ -511,6 +803,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -518,27 +816,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "When we first decided to start researching study abroad programs, the Irish Life Experience had everything that my best friend, Aubrie, and I were looking for in a program.  As we were planning for the trip and getting ready to go, I started getting really excited about the trip and also being able to spend a month in Ireland with my best friend.  \n\nAs soon as I met everyone, they became a second family from starting at the airport.  We still keep in touch after four months and hopefully for many more years to come.  \n\nI loved Ireland and the landscape and cities-just everything about it.  I was not really looking forward to the classes and studying during my summer, but the staff and students created a fun atmosphere that made me love going to class!  The ILE allowed me to learn about the culture, the people, the country, and Irish studies in a way that all students with different learning types could gain knowledge and enjoy the classes without feeling pressured.  \n\nBeing able to stay in the dorms and apartments was an amazing experience, because there were people from all over the world staying there that we could interact with and hang out.  The apartment living allowed me to experience a little bit of college life with the staff allowing me freedom to explore and experience life without my parents, but also keeping a close eye on me too.  This made me feel very comfortable enough to loosen up and gain the full experience.  \n\nI would highly recommend this program.  I enjoyed it immensely.  It was the best summer I have ever had.  Through this program you will be able to gain a second family and another home across the pond.",
@@ -556,6 +880,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -563,27 +893,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "This experience for my daughter has been truly life changing and a blessing to us all.  Christina has grown and developed in such a way through the Irish Life Experience. \n My daughter was able to participate due to my dearest friend’s contribution, friendship and love.  Her daughter and my daughter are best friends and both of them have gleamed globally from this outstanding experience. \n Not to mention that this counts toward our daughter’s European cultural studies due to the broad nature and scope of academics this program provides.  \n\nThank you doesn’t seem enough for what this adventure truly entailed and continues to be brought to the surface day in and day out.  I would highly recommend this trip for any student willing to learn, advance, explore and have fun.  \n\nI would love to send my daughter each year to this outstanding program and quality leaders.  The Irish Life Experience enhances the senses, stirs the curiosity, and soothes the soul.  \n\nI am forever personally grateful.",
@@ -601,6 +957,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -608,27 +970,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "I just want to say what a phenomenal program the Irish Life Experience has been for my daughter and her best friend.  After many hours of research for a summer program in Ireland, I was ready to give up.  Then suddenly, during a search, the Irish Life Experience popped up.  Being an overprotective momma, I did not want my girls to stay with “families.”  I decided I needed to chat with someone from the ILE before I sent them so far away.  I sent a message and spoke with Taryn almost immediately.  After explaining my daughter’s experience with life in general, she reassured me that she understood my frustrations and concerns.  I did not feel foolish sharing my heart with her.  When Taryn told me that the ILE was a life-changing experience for her (From what we talked about, she was much like my daughter.) I was sold.  So…, I decided to send my daughter and her best friend on the trip.  \n\nLittle did I know Taryn really meant that it was truly a life-changing experience!!!  My daughter came home a different person…, more confident, mature, and full of life! \n Almost every picture I saw of her, she was three feet in the air jumping for joy!  Melted this mother’s heart!  She met the most absolutely AMAZING kids (Parents, you should be proud.) who loved her for her.  The counselors were caring, fun, generous, kind, and loving.  Momma T (Taryn) was extraordinary throughout the whole process from beginning to end.  I unfortunately had to e-mail Taryn about my father’s death the day they arrived in Ireland.  She assured me that she would watch over my girl and was available in case she needed a shoulder.  It comforted me to know she cared about me and my daughter and our feelings after only one day.  I could not imagine sending my child anywhere else.  I truly thought I was sending my daughter and her friend for the scenery and culture and that was definitely a plus for them, but it was the people of Ireland and EVERY.SINGLE.PERSON on ILE 2014 that made this experience forever life-changing.  I commend the staff and volunteers for this upstanding program.  It was worth every penny and more!  I would have gladly spent double for this experience.  Now the only thing that could be better is an Adult ILE!!! \n Thank you is not enough to express my gratitude and thankfulness for this amazing program and surely 5 stars is not enough.  What in the world are you waiting for???!!!  Sign your child up now!",
@@ -646,6 +1034,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -653,27 +1047,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "This program will change your life in every possible way for the better. \n It will teach you how to break out and meet new people (Who are all amazing.) and it will certainly make you grow up.  The Irish Life Experience makes you feel at home and the friends you meet will be like your family.  I have always had the dream of traveling to Ireland and living there, but I was unsure of what it would be like to pack up, leave everything behind, and go to another part of the world with no one you knew.  The Irish Life Experience, however, was perfect for learning everything about Ireland and I did not want to go back home once it was over!  \n\nSo my advice is just to apply for this program, because you have nothing to be scared of, unless you are terrified of having a lot of fun and meeting a lot of great people.  I guarantee that attending this trip will be full of precious memories and I do not think you will find any other study abroad program as great as the ILE.  \n\nI would also like to say Go Raibh Maith Agat to everyone associated with the ILE program; you made it possible for me to have the time of my life and I will always be eternally grateful!",
@@ -691,6 +1111,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -698,27 +1124,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "For whomever is thinking about going to Ireland through this amazing program, I can tell you it is definitely worth it.  When I was asked to possibly participate in a trip to Ireland, all I could think was that there was no way I was going to fly on a plane across the Atlantic Ocean and spend a month somewhere I had never been with people I had never met.  I had actually never flown or been out of the country so I was very hesitant about leaving Montana.  I also was not sure if my mom would be able to handle a month without me, but she did.  She was so happy I was able to have this experience.  \n\nIt is hard to describe how amazing this program was not only for me, but for all of the kids that I met on the program this summer.  It seems like we got to see all that Ireland had to offer within a month, yet the month did not seem like long enough.  From Glendalough, to the Cahir and Kilkenny Castles, to the Giant’s Causeway, to the Cliffs of Moher-every place we went was so deep in history and had many stories behind it.  The trip was also very educational and I learned so much abut Ireland through classes taught by some great teachers.  \n\nI can not even describe how incredible the trip was and how many relationships you will make. \n I have to say the worst part of the program was saying goodbye to the friends I made that summer, but I would still strongly recommend this program to anyone who wants to have the experience of a lifetime.  Even though I can not wait to go back to Ireland in the future, it will never be the same without the amazing group of kids, teachers, and counselors I was blessed to meet. \n I can not thank Taryn enough for the opportunity of a lifetime.  She was the key aspect in making our trip as enjoyable as it could be and she truly loves what she does.",
@@ -736,6 +1188,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -743,27 +1201,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "This was the greatest trip I have ever been on.  Ireland is the most beautiful place you can visit.  You meet the most amazing people, make lifelong friends, and the places you visit are just amazing. If you ever get a chance to join the Irish Life Experience, do it!  It will be the best thing you will ever do!",
@@ -781,6 +1265,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -788,27 +1278,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Dia Dhuit!  \n\nIf you are not exactly sure what I just said or what language I am even speaking, have no fear, if you were to join the Irish Life Experience, you would have all these answers and so much more!  \n\nMy name is Melanie Vecchia-Spooner and I was blessed with the opportunity to travel to Ireland this past summer with the ILE program.   Being from Danbury, a small city in Connecticut, I had never truly gotten out of the tri-state area, but I had always dreamed of going to the place where many of the ancestors had hailed from, and the ILE helped to achieve just that.  \n\nFrom that first nerve-wracking day at JFK to our final hours on the Emerald Isle, I felt at home with everyone I was lucky enough to travel with, from the ILE teachers, to the counselors, to Sista Taryn herself-they made me feel at home 3,000 miles away from Danbury.  \n\nI will never forget the first time I gazed upon the Cliffs of Moher or struggled to bike up the hills on the Aran Islands.   Every single experience I had in Ireland with the ILE is something I will cherish forever. \n\nI will continue to bother my parents until they send me off with a one-way ticket this time to Ireland, for it has become like a second home to me which I will never again want to leave.  If you have any questions about this amazing program, or  even just want to talk about our mutual love for Ireland, please don't hesitate to contact me!",
@@ -823,18 +1339,21 @@
        "type": "spacer",
        "id": "a8d7770",
        "style": {},
+       "hide": null,
        "size": 82
       },
       {
        "type": "spacer",
        "id": "c2b6a04",
        "style": {},
+       "hide": null,
        "size": 10
       },
       {
        "type": "spacer",
        "id": "f72ecf1",
        "style": {},
+       "hide": null,
        "size": 19
       }
      ],
@@ -843,12 +1362,7 @@
     {
      "type": "column",
      "id": "27284e2",
-     "style": {
-      "> .elementor-element-populated": {
-       "margin": "0px 0px 0px 0px",
-       "padding": "0px 0px 0px 0px"
-      }
-     },
+     "style": {},
      "children": [
       {
        "type": "testimonial-carousel",
@@ -857,6 +1371,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -864,27 +1384,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Have you ever looked up at the sky, watching as it changes from robin’s-egg blue to slate grey, gorgeously streaked with reds and oranges and pinks?  Staring and wondering in awe as thousands of stars begin to pinprick the inky darkness, as if the world itself was scattered with millions of fiery dreams?  That grand, humbling, deep-set sensation of realizing how majestically massive the world really is, and how tiny you are in relation to it, is truly the only way I can properly describe Ireland.  No words-no poetry, songs, music, books-or even a collection of books-can truly describe the Irish Life Experience and the magic that ebbs from deep within The Emerald Isle itself.  I can truly only relate it to nature’s most powerful masterpieces-the churning roar of the infinite ocean, swelling and sparkling with mystery and power. \n The remarkable might of a minute seed, growing and spreading roots deep into the earth, poking its tiny head from the loamy soil, stretching twiggy branches to the sky and, ever so slowly, becoming an ancient, steady, gnarled tree. \n I remember, in my daze of exhaustion and excitement and homesickness and all other sorts of emotions, staring out of one of the Aer Lingus plane windows and catching my first glimpse of Ireland:  A tiny, quaint lighthouse, resting on an even tinier, quainter island.  My mind instantly exploded with bursts of realization-I was actually in Ireland!  I was so excited, I felt as if I might spontaneously combust, although I figured travel insurance-or the flight attendants-might not be all that terribly pleased with me. \n Getting off the plane, feeling that first gentle breeze, catching my first views of the rolling green hills and little fields of grazing, cloud-like sheep, it all meant the world to me. \n I do not think I ever stopped smiling or gaping in awe at everything around me!  Seriously!  I would get excited over the most mundane of things, even the street signs-with their Irish and English descriptions-excited me!  I started every morning with a smile, anticipatedly enthralled for what the day would bring, and ended the evening with a smile, wildly impressed, once more, by Ireland’s magical grandeur. \nNot a single day-not even an hour-goes past without me remembering some ridiculous or glorious memory of the ILE and the family I found there.  I will be doing dishes and zoning off, recalling all of Ireland’s wonderful evenings spent journaling with my dear friend, Taryn having hilarious dance-offs in the bus isleways, conversing with Michael in Gaelic, or the fascinating, humorously intriguing classes.  I will be weeding in the garden and suddenly remember snippets of things:  Making boxty and bacon and scones, exploring cobbled, bunting-strung streets and long-lost castles, stumbling and grinning my way through one of Clare’s céilí dances, late-night singing and guitar playing with Kaylee and my friends, searching for rushes to make Brigid’s Crosses with, and-of course-the magical awe that just encapsulates all of ILE and Ireland. \nOf course, I have mentioned all of these incredible experiences, but it really was nothing compared to all of the amazing, caring, and wonderful people who quickly became my family.  The connections I made will last with me forever-I became closer to these people in three weeks than I had with most of my friends in eleven years of school!  With all of my deepest gratitude-thank you to Taryn, with her deep-set love and compassion and openness.  Thank you to Kaylee and Clare and Kylene and Miles-you all made Ireland feel even more like a home.  And thank you to all of my dear friends-without you, Ireland would not be half as magical and wondrous!  And to all of you reading this-trust me.  Going on the Irish Life Experience was the greatest decision of my life, and I truly hope you will all choose to make that same, miraculous decision as well!\nUpon arriving in Ireland, I felt-although I have never been there, or to Europe for that matter-as if I was coming home.  It was like taking a deep breath of fresh air, of feeling content with the world, of feeling and knowing that everything is-and always will be-absolutely, magically, perfect.",
@@ -902,6 +1448,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -909,27 +1461,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "This trip was absolutely worth it.  I had three big positives from the trip.  For the first one, my group was pretty great and I think I made some lifelong friends.  Without them, the trip would have fallen apart at some points.  To anyone going on the trip, BE OUTGOING! \n You aregoing to struggle if you do not like talking to people and you do not want to be stuck far away from your home for a month bored. \n Another positive was meeting other kids from other countries at the boarding schools.  I found it really fun and interesting to talk and become friends with other kids from different countries and see how they did things.  But if your going for the first time, you are also gonna have to put yourself out there for these people, because they are not always gonna be talking to you first.  The third final positive was the cites, which were amazing to look at and see (The Cliffs of Moher was my favorite.), but also the Staff was great, thank God.  Overall a great experience and I wish I could go back and do it again! \n\nThanks so much Taryn, Miles, and all the other counselors involved! You guys rock!",
@@ -947,6 +1525,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -954,27 +1538,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Ireland is a beautiful country with friendly people-just like the Irish Life Experience.  My daughter Elizabeth was so very fortunate to attend the Irish Life Experience this past summer in 2019.  As an alumni of the Irish Way in 1987, I have spoken highly of my summer in Ireland over the years and Elizabeth was eager for her turn.  I dropped off a shy, nervous girl that first day and she came home a stronger, more self-assured young woman.  She made many friends from all over the US and had so many experiences, that she cannot possibly top this trip of a lifetime! #ILE19 allowed her to spread her wings for the first time and gave her more self-confidence and poise.  \n\nShe is already talking about when she will be able to go back as a Counselor in a few years.  Thank you Irish Life Experience and Taryn for an amazing life-changing experience for my daughter.",
@@ -992,6 +1602,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -999,27 +1615,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "The Irish Life Experience was not only one of the greatest experiences of my life, but truly made me realize that there is so much out there!  The ILE Team were amazing and I can say they are truly family!  Between classes, tours, and workshops they made every moment special.  I am also so grateful to have left the program with so many new and beautiful friendships that I believe will last a lifetime!  Everyone on the trip holds a special place in my heart.  To say this program is amazing is an understatement.  There are not enough words to describe this once in a lifetime opportunity.  Not everyday do you get the chance to go explore and learn about Ireland with such an astounding group of people!  There is not a single thing I would have changed about my ILE trip and I would do it again any day!  The ILE is one of the best decisions I have ever made and I believe everyone should experience this incredible journey!",
@@ -1037,6 +1679,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -1044,27 +1692,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Traveling around the world with a bunch of strangers was not something that was on my bucket list.  Having been to Ireland before, I was no stranger to the sights that it had to offer.  Yet I was looking forward to seeing the motherland with a bunch of peers.  It had been years since I had traveled to Ireland and I was looking forward to falling in love with the country all over again.  \n\nAfter arriving at Logan Airport, I met Taryn/Mama T, who I could instantly tell had a motherly instinct as she treated us as if we were her own children.  The other staff were no different. They truly wanted a personal connection with the students. The ILE Team wanted to make this experience life-changing, awesome, and unforgettable.  \n\nEvery night on the trip, it was impossible to go bed not smiling. \n Every day was so much fun.  It might have been seeing sights, or just talking with other students that made that day enjoyable, but I never went to bed in a sad mood.  I went on this trip not knowing anyone and left with lifelong friends.  Waking up in the morning-although sometimes difficult, was fun.  You were able to check the calendar and see what adventures that day held.  It was just a time to have fun, and connect with these people who I did not know before the trip.  Every day turned out to be cool and awesome.  \n\nMy favorite day though was experiencing the Northern Ireland in Ulster.  Angie is from Northern Ireland and it was great to see the sights of the North.  She also told us about her time when she grew up in Belfast.  \n\nI could go on and on about my favorite points of the trip.  I loved the day trips in Galway.  I loved the spectacular view at the Cliffs of Moher despite the grim outlook of the day.  \n\nAlthough, at first I thought the bus rides would never end, I found they went very quickly.  It may have been Angie’s songs that she sang.  I do not know.  I had such a great time on the Irish Life Experience.  It will never be forgotten as long as I live. \n Although I questioned it at first-if I should go on the trip-I am glad I did. \n I can’t wait to go back as an ILE Counselor. #ILE15 forever.",
@@ -1082,6 +1756,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -1089,27 +1769,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "15px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "On a rainy summer’s night in Boston, I boarded a plane alongside thirty other teenagers whom I had never met, and embarked on what would become four of the greatest weeks in my life.  As an Irish Life Experience participant, I spent twenty-five days in various parts of Ireland, taking classes about Irish history and culture, and visiting some of the country’s most scenic areas.  My older brother went in 2012, and called it “the best experience of his life.”  I had been interested in going ever since then, but I always kept pushing it off.  I finally decided enough was enough, and I applied to join the ILE family!  \n\nThat decision was honestly one of the smartest things I had ever done. \n Everyone involved in the trip truly cares about you.  I thought that the ILE Staff would be these terrifying authority figures.  Instead, they were the best part of the trip!  The counselors always went above and beyond to make this trip great, and were some of the most fun people I have ever met.  Taryn is hilarious, but she will always take care of you, and help with any problem you might have.  Angie is the sweetest person alive, and the greatest storyteller you will ever meet.  The other ILE students are some of the best people you will have the privilege of knowing.  You really do make a new family when you are there, and the people I met are already some of my closest friends.  \n\nEveryday was an amazing experience.  The counselors made our classes so much fun!  Whether it was Gaelic twister or Irish Jeopardy, every teacher made their class as interesting as possible. \n Classes didn’t take up all the day though, and they made sure to give us plenty of free time in the cities we were in.  I recommend going to a cafe with your new friends and go people watching!  Most days we did not have classes, and those were the days we would do our excursions.  You will make awesome friends on those long bus rides, and maybe even sing a few One Direction songs with Angie! \n You will see so many amazing things, from Air Shows at Tramore beach to the amazing dancers at Riverdance to the intense Gaelic football matches at Croke Park-not a single day will bore you.  My grandma grew up right near the Cliffs of Moher, so visiting County Clare was a really important moment for me.  Everyday you experience a once in a lifetime opportunity, and make memories that will stay with you forever.  \n\nDay after day, I had a moment that made me remember “Oh my God, I’m in Ireland!”  It might have been something huge, like standing at the top of Blarney Castle, or something as basic as driving on the left side of the road.  You never really get over the excitement of being where you are.  Joining the Irish Life Experience was truly the best decision of my life and I will cherish every moment I spent in Ireland.  I am counting down the days until I can become an ILE Counselor!",
@@ -1127,6 +1833,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -1134,27 +1846,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Going away from home for a month with a group of complete strangers may not seem like a teenager’s idea of fun.  But I can guarantee you that if you go on the Irish Life Experience, you will not be leaving a group of strangers and a foreign country; you will walk away from the experience with a second family and a second home.  \n\nQuite honestly, I was extremely hesitant about going on the ILE this past summer.  Apart from my Irish heritage, I never heard much about Ireland and did not know a single person going on the trip.  Yet as soon as I got off my flight and met two of my counselors, my nerves started to calm.  The entire staff was extremely welcoming and filled with energy and excitement.  It touched my heart how every single staff member genuinely cared about each of us and wanted us to have the best summer of our lives. \n It was easy to make friends since everyone is just as nervous and excited as you are.  With each day of the trip I felt myself falling more and more in love with the beauty of Ireland and its culture.  This trip opened my eyes to so many beautiful new experiences and friendships, and I am truly and forever grateful to have been a part of ILE 2014 Program.",
@@ -1172,6 +1910,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -1179,27 +1923,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "I’m Eme and I went on the ILE this past summer.  I am 16 years old and live outside of Boston Massachusetts.  I am the biggest momma's girl!  I love to travel and learn about different cultures and appreciate how other parts of the world do things.  I have plenty of Irish blood in me and could not be more proud.  I have been to Ireland once before and absolutely fell in love with it, which is why I decided to join the ILE.  But when I visited Ireland a few years ago, I did not get to experience all that Ireland had to offer and see all the beauty Ireland truly had in store.  Thankfully the ILE made sure that I fell in love with the country all over again.  The ILE got me to appreciate everything so much more.  We visited everything you could ever imagine and went on every tour that the counties had to offer!  From the second you step into Dublin Airport, to the last second you have with your new friends, a memory is made.  You will never have a dull moment and I can assure you that you will want to stay in Ireland for the rest of the summer.  \n\nFor me the thought of leaving my family home and traveling to another country was a scary thought, but once the wonderful, brilliant, smart, beautiful, and hilarious Taryn showed me what I was missing out on by not going, I knew that I would be making the wrong decision by staying in my small town.  This trip showed me that there is so much more to life than what we think.  The little things we stress about, the small fights we have with people, the tough days we all have once in a while, it makes us who we are. \n However, we don’t necessarily need to drown ourselves in those things because if you can take a step back to appreciate all the little things, you will be a much happier person. \n That is what this program showed me.  Every opportunity you get to try something new should be taken. \n Every tour you are offered in Ireland you should go on.  Every hike you go on you should take.  You should take the time to just look around at the scenery because I promise you that you will not find a view like it anywhere in the world!  \n\nFor me, my favorite part of the entire trip was getting to meet new people.  Not every day do you get offered to go to another country for a month, with a group of other high school kids, from all over.  From the East Coast up to Massachusetts and down to Florida, to a small town in Ohio to the mountainside of Alaska, and to the glorious home of Mama T (Montana) to the country of Spain!  Never in a million years would I have been able to meet such great people if it was not for the ILE.  I went into the program very hesitant and nervous because meeting new people can be tough. \n But with all the doubts that I had, my fear was erased and I felt like I was at home with a bunch of new friends almost immediately.  Both the kids and the counselors are down to earth, kind hearted, and fun people.  They become friends you have for a lifetime and not just for 25 days.  From the obnoxious songs you sing, the awkward ice breakers, to the food fights, and the nights where you get no sleep, the trip is one to remember and I would not trade it for the world!  The ILE gave me best friends from all different parts of the US and Spain. \n If it were not for this specific group of counselors, I don’t think the ILE would be what it is today.  \n\nThe Irish Life Experience is a program that every teenager should take advantage and go on because it is truly life changing.  It will make you realize so much more about not only yourself but about everything else going on in your life.  With tears in my eyes and so many emotions running through me, I can honestly say this program made me a better person and I’m so thankful to have gone on it.  The month that I spent in Ireland was by far the best month of my entire life.  In the beginning I thought I could never survive, but when it came to packing my stuff and getting ready to come home I found myself having the hardest time getting everything together.  Going on the Irish Life Experience was a journey of a lifetime filled with many laughs and memories that I will never forget.  I met the most amazing people who I hate not being able seeing every second of every day.  I made friends that even though we may live miles apart I know that we will still continue our friendship. \n The Irish Life Experience changed me in so many ways I could never possibly explain them all.  If I could do this every summer I would in a heartbeat.  From having awesome counselors to making new Irish friends and traveling to amazing places I could not have asked for anything more.  This truly was the best experience and I recommend it to every teenager who gets the chance to spend a month in another country.  I promise you will never regret it.",
@@ -1217,6 +1987,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -1224,27 +2000,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "My mom approached my best friend, Christina, and me and asked us if we ever wanted to study abroad.  My intention was to go to New York City last summer to study on Broadway, but after my mom’s question we began searching for a program.  I had the Irish “bug” for a while not realizing my mom had it too.  We just never discussed it.  \n\nAfter several weeks of searching we found the ILE.  It was everything we were looking for so we contacted Mama T (Taryn) and hopped on board. I am an adventurer at heart, so I was crazy excited to get going.  \n\nUpon arrival at the airport in Boston my best friend and I met lifelong friends immediately.  The counselors were AMAZING!  We laughed, cried, danced, sang, and just enjoyed our four weeks together.  I have a second family of fabulous people who love me for me and my craziness.  \n\nI was able to experience freedom with supervision and NO PARENTS! \n It was a wonderful bonus to learn how to shop, cook, clean, and wake myself up all by myself (With a little help.).  We worked together and developed bonds that will never be forgotten.  I truly enjoyed the classes and learning all about Ireland’s culture and people.  Don’t get me wrong…  I was not too happy about studying over the summer, but the classes and instructors turned out to be pretty fabulous. \n When I landed in Ireland, the sights took my breath away.  We traveled all over-high and low. I  loved everything we did:  From watching a hurling match at Croke Park, slipping a few times at the Giants Causeway, performing skits about Irish writers, and all the other exciting adventures I had the privilege of sharing-all with my new family!\n\nTHIS TRIP CHANGED MY LIFE!!!  Go, enjoy, and experience Ireland with the IRISH LIFE EXPERIENCE!!! Best money your mom could ever spend! Thanks Mom!",
@@ -1262,6 +2064,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -1269,27 +2077,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "I just wanted to take a minute to thank you for making my son, David’s trip to Ireland so wonderful and memorable.  The Irish Life Experience-counselors and students contributed to making it an amazing summer that will be with him always.  It was a perfect preparation for college, and he has said so more than once.  David has had a great two weeks at Ohio Wesleyan University and believes the trip made the transition so much easier.  \n\nI have highly recommended this program to everyone who asks!",
@@ -1307,6 +2141,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -1314,27 +2154,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Hello future ILE'ers, concerned parents, and anyone else who may be reading this!  I would just like to tell you a little bit about my time spent on the Irish Life Experience.  \n\nFirst of all, it is one of the greatest experiences I have ever had.  Period.  At first I was a little hesitant about going away for a month with people I had never met before and to a country that I had never been to before.  Worries I had were quickly swept away.  The ILE Team was very welcoming and eager to get to know all of us that would be embarking on this new journey.  We all got to know each other and quickly became a close-knit group.  I will forever cherish the relationships I have made with every one of my newly made friends.  They have become like family to me and I would not have wanted to spend my time in Ireland with any other group of people.  As we toured across the country, I quickly began to fall in love with the land and people of Ireland.  Before attending the ILE, I did not really have much enthusiasm for my Irish heritage.  I thought it was cool that my family came from Ireland, but that was about it.  Now I can boldly say that I am proud to be Irish.  I have such a greater appreciation for my heritage and the place my family comes from.  I learned so much about the history and culture of Ireland.  From castles to scones, we covered it all.  \n\nI would highly recommend this trip for anyone that is interested in learning more about their Irish heritage or Ireland in general.  It will be an investment that you will not regret, but one that you will be forever grateful for as I am!",
@@ -1352,6 +2218,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -1359,27 +2231,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Thank you!  Kate had the time of her life in Ireland!  I was thrilled with every detail of the trip.  Your communications prior to the trip, and the blog during the trip gave me confidence that my daughter was safe and in good hands. \n Nothing is more important than that!  In addition to my feelings of safety and security, Kate had the trip of a lifetime!  She learned so much about our Irish heritage, saw and experienced so many amazing things.  Thank you for offering such a wonderful program.  Truly a “life experience” that will never be forgotten.",
@@ -1397,6 +2295,12 @@
         "> .elementor-widget-container": {
          "padding": "020px 0px 20px 0px"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-main-swiper .swiper-slide": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
@@ -1404,27 +2308,53 @@
         ".elementor-swiper-button": {
          "font-size": "20px"
         },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
+        },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
          "font-weight": "normal",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "25px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#54595F",
-         "font-size": "12px",
+         "font-size": "15px",
          "font-weight": "300",
          "text-transform": "uppercase",
+         "font-style": "normal",
          "line-height": "1.4em"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "94px",
+         "height": "94px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "Who was it that said a picture is worth a thousand words?  We were able to watch our son Reilly have the greatest summer of his sixteen years through the Irish Life Experience blog, the summer of 2013.  But even greater, I was also there in Dublin visiting with Reilly’s grandmother, who has sent eight of her grandchildren with Taryn to Ireland over the years!  \n\nMy Irish Mama is 90 years old and was able to live vicariously through all the photos of the adventures from the Giant's Causeway, Waterford, Dublin, Killarney, and Galway.  I hope that one day I will have grandchildren I can send to Ireland with the Irish Life Experience!  \n\nI have seen firsthand what a wonderful impact this experience has had on all three of my sons. \n The heart of this program is Taryn Harrison who loves what she does, as she loves the kids who travel on each adventure.  Bravo Taryn!  Well done!",
@@ -1439,6 +2369,7 @@
        "type": "spacer",
        "id": "c99cbb1",
        "style": {},
+       "hide": null,
        "size": 151
       }
      ],

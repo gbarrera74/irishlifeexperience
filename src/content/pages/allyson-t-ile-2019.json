@@ -4,6 +4,7 @@
  "path": "/allyson-t-ile-2019/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"ffdb110\"] .elementor-container{min-height:73vh !important}[data-el=\"ffdb110\"]{padding:68px 0px 75px 0px !important}[data-el=\"69043c1\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"ffdb110\"] .elementor-container{min-height:296px !important}[data-el=\"ffdb110\"]{padding:45px 15px 45px 15px !important}[data-el=\"fa3326d\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"dc9cc29\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"dc9cc29\"]{text-align:center !important}[data-el=\"dc9cc29\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"900ed80\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h1",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Ambassadors",
        "tag": "h1",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "f54e37a",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -96,7 +102,12 @@
   {
    "type": "section",
    "id": "4a7520f",
-   "style": {},
+   "style": {
+    "": {
+     "margin-top": "60px",
+     "margin-bottom": "60px"
+    }
+   },
    "children": [
     {
      "type": "column",
@@ -111,6 +122,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/08/IMG_9955-scaled.jpg",
        "alt": "Giant's Causeway-Allyson #3 2019",
        "link": null
@@ -133,6 +145,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Allyson T.-ILE 2019",
        "tag": "h2",
        "link": null,
@@ -147,6 +160,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>My name is Allyson Tracy and I was part of the Irish Life Experience in 2019.  I had always wanted to travel and this was my first big trip without my family.  It opened my eyes to the wonders of the world and gave me a new appreciation for travel and culture.  I was able to spread my wings and gain so much independence from exploring towns and cities and learning so much about a new place.  This trip is something I will always hold close to my heart and I hope to return to Ireland very soon.  </p><p>It has been a couple years now (I am not sure how the time has flown by so fast.) and I still feel the impact this trip had on my life every day.  I was able to sample living on my own and the feel of college while experiencing so many new opportunities.  The lessons we had and tours we took deepened my love for Ireland and travel and I am currently looking into further study abroad opportunities.  Before this trip, I was a ball of nerves and felt like I could not step up and do anything major for myself.  However, I was able to get lost and figure out how to navigate cities and do simple thinks like buying food for myself.  Learning a new history made me feel a deep connection to my family and Irish heritage.  I am already planning a trip back.  Before I embarked on this journey, I hoped to come back more confident and I came back with so much more.  </p><p>My time in Ireland holds some of my favorite memories.  From Angie's (Beautiful) lullabies to exploring so many amazing castles-these are the stories I hope to tell my future kids and grandkids.  I made some of my best friends on the trip (We still talk all the time.) and looking back I can not imagine my life without it.  </p><p>This trip changed my life in so many amazing ways and I can not wait to explore more and see all that Ireland has to offer in years to come.  If you have any questions about Ireland, the Irish Life Experience, or my adventure, please feel free to reach out to me at any time.  </p>"
       },
       {
@@ -160,6 +174,7 @@
          "color": "#6EC1E4"
         }
        },
+       "hide": null,
        "text": "Visit on Facebook»",
        "tag": "p",
        "link": "https://www.facebook.com/allyson.tracy.5",
@@ -176,6 +191,7 @@
          "color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "E-Mail»allytracy98@gmail.com",
        "tag": "p",
        "link": null,
@@ -191,18 +207,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Go Back",
        "link": ""
       }

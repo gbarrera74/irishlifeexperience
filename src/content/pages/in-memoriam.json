@@ -4,6 +4,7 @@
  "path": "/in-memoriam/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"76c7682\"] .elementor-container{min-height:73vh !important}[data-el=\"76c7682\"]{padding:68px 0px 75px 0px !important}[data-el=\"118a07c\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"76c7682\"] .elementor-container{min-height:296px !important}[data-el=\"76c7682\"]{padding:45px 15px 45px 15px !important}[data-el=\"c910e15\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"c910e15\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important;letter-spacing:2px !important}[data-el=\"91817e9\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"91817e9\"]{text-align:center !important}[data-el=\"91817e9\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"caca0ab\"]{text-align:center !important}[data-el=\"99d49da\"]{text-align:center !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -37,21 +40,21 @@
        "id": "c910e15",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "0px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "margin": "0px 0px -30px 0px"
         },
         "": {
          "text-align": "center"
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
-         "letter-spacing": "2px",
+         "letter-spacing": "2.1px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "In",
        "tag": "h1",
        "link": null,
@@ -70,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Memoriam",
        "tag": "h1",
        "link": null,
@@ -86,6 +90,7 @@
        "type": "spacer",
        "id": "961a7d9",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -123,6 +128,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Hannah Fernung 1992-2013",
        "tag": "h2",
        "link": null,
@@ -153,10 +159,10 @@
        "style": {
         "": {
          "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
-         "color": "#1E3A43",
-         "text-align": "center"
+         "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>On a seemingly ordinary day, a young life ended, but there is nothing ordinary anymore.&nbsp; Hannah Fernung died tragically in a senseless car accident on Sunday, November 24th, 2013 in Fishers, Indiana.&nbsp; If only momentarily, the world stopped for everyone who knew her, especially her Irish Life Experience family.&nbsp;</p>\n<p>&nbsp;Irish culture was a tremendous part of Hannah's heart, as she wanted to reconnect with her beloved grandfather's heritage.&nbsp;&nbsp;</p>\n<p>Hannah participated in the Irish Life Experience in 2010 and captured the hearts of everyone she encountered-students and staff alike.&nbsp; Not only was she an incredible Irish step dancer, but she was a talented musician, with the voice of an angel and a skillful aptitude for the tin whistle.&nbsp; She embodied the perfect example of an international ambassador.&nbsp; &nbsp;&nbsp;</p>\n<p>She embraced her time in Ireland, countlessly emphasizing it was the summer of a lifetime, and couldn't wait to return.&nbsp;&nbsp;</p>\n<p>Hannah always let her light shine through and that was her ultimate legacy.&nbsp; If you would like to keep Hannah's light shining, please consider making a donation in her name to the Hannah Fernung Memorial Fund through the Irish Life Experience.&nbsp;&nbsp;</p>"
       }
      ],
@@ -177,7 +183,12 @@
       {
        "type": "divider",
        "id": "d72afed",
-       "style": {}
+       "style": {
+        ".elementor-divider-separator": {
+         "width": "100%"
+        }
+       },
+       "hide": null
       }
      ],
      "width": 100
@@ -204,10 +215,10 @@
        "style": {
         "": {
          "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
-         "color": "#1E3A43",
-         "text-align": "center"
+         "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>\"When Taryn asked me to share my thoughts about the Irish Life Experience, I was stumped.  I had no idea where to start.  So many memories were made, laughs shared, and friendships born that will last forever.  </p><p>I laugh every time I think of my attempt at playing rugby and Gaelic football, not to mention hurling.  We were able to learn about the history of Ireland, its leaders, the language, music, poetry, dance, and spend quality time with its people.  Truly an amazing opportunity. </p><p>But what made the \"craic so mighty\" was the people whom I spent time with.  By the end of trip we all considered each other family.  We lived together, studied together, traveled together, laughed together, and cried together.  Not only the students, but our counselors as well.  Angie, Dan, Taryn, Pete, Siobhan, and Brian (The coolest bus driver ever!) made our trip an unforgettable experience.  </p><p>I will always remember my first visit to Ireland and it certainly will not be my last.  I highly recommend the Irish Life Experience; this program broadened my knowledge and opened my eyes to the wonderful world we live in.  I would like to thank everyone who was a part of ILE 2010 for being so amazing; you will never realize how much you mean to me!  I miss you all so much and love you even more.\"  -<strong>Hannah F.-Elwood, IN-Student 2010</strong></p>"
       }
      ],
@@ -237,6 +248,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/09/IMG_3394-scaled.jpg",
        "alt": "Cliffs of Moher-Hannah 2010",
        "link": null

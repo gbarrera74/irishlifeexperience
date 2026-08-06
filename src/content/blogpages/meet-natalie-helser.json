@@ -4,6 +4,7 @@
  "path": "/blog/meet-natalie-helser/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -23,6 +24,7 @@
          "border-radius": "0px 0px 0px 0px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2026/05/IMG_1917-scaled.jpg",
        "alt": "Natalie H. and Dog",
        "link": null
@@ -31,6 +33,7 @@
        "type": "spacer",
        "id": "b5b1f87",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -50,6 +53,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><span style=\"font-weight: 400;\">Hey All! </span></p><p><span style=\"font-weight: 400;\">My name is Natalie Helser, and I am beyond excited to be rejoining this year’s Irish Life Experience Dream Team as your Irish American History Teacher. I was lucky enough to attend in 2022 (It changed my life!), and have returned nearly every summer since as a Junior Counselor (It continued to change my life.).  Ireland is truly the most special place, and it will be an honor to welcome our ILE '26 crew to the Motherland. </span></p><p><span style=\"font-weight: 400;\">I am originally from Saint Ignatius, Montana, where my family runs a small organic farm, but after a gap year of backpacking Europe, I am now in my 3rd year studying Environmental Education and Spanish at Warren Wilson College in Asheville, North Carolina, where I also race for the Triathlon Team and work for our campus’s Herb Garden.</span></p><p><span style=\"font-weight: 400;\">If you can not find me on my bike, I am likely with my goofy cattle dog, Jose, concocting sourdough experiments, or knee-deep in too many projects to count. And if you can not find me there, I am probably in Ireland.</span></p><p><span style=\"font-weight: 400;\">Fáilte abhaile, ILE '26! </span></p>"
       }
      ],
@@ -72,6 +76,7 @@
        "type": "image",
        "id": "978b22e",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/IMG_2433-scaled.jpg",
        "alt": "Natalie H. and Friend Hiking",
        "link": null
@@ -88,6 +93,7 @@
        "type": "image",
        "id": "ae60c94",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/IMG_9721.jpg",
        "alt": "Natalie H. and Horse",
        "link": null
@@ -104,6 +110,7 @@
        "type": "image",
        "id": "54ad7db",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/FullSizeRender-scaled.jpg",
        "alt": "Natalie H. and Warren Wilson Triathlon",
        "link": null
@@ -120,6 +127,7 @@
        "type": "image",
        "id": "0cea81c",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/IMG_7391-scaled.jpg",
        "alt": "Natalie H. and Jose",
        "link": null

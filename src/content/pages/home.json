@@ -4,6 +4,7 @@
  "path": "/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"6c45d47\"] .elementor-container{min-height:73vh !important}[data-el=\"6c45d47\"]{padding:68px 0px 75px 0px !important}[data-el=\"088ee1b\"]{padding:0px 0px 0px 0px !important}[data-el=\"2a2bd4f\"]{padding:0em 0em 0em 0em !important}[data-el=\"2a2bd4f\"]{text-align:center !important}[data-el=\"5bf184e4\"]{padding:40px 15px 80px 15px !important}[data-el=\"5699d543\"]{margin:0px 0px 0px 0px !important;padding:1em 1em 1em 1em !important}[data-el=\"324cabfa\"]{margin:0px 0px 0px 0px !important;padding:1em 1em 1em 1em !important}[data-el=\"4d01d776\"]{margin:0px 0px 0px 0px !important;padding:1em 1em 1em 1em !important}[data-el=\"2d242977\"]{margin:0px 0px 0px 0px !important;padding:1em 1em 1em 1em !important}[data-el=\"656eb2b\"]{padding:30px 15px 80px 15px !important}[data-el=\"73101e9\"]{padding:25px 15px 30px 15px !important}[data-el=\"e55dfed\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"e55dfed\"]{text-align:center !important}[data-el=\"e55dfed\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important;line-height:1.2em !important}[data-el=\"9391e51\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"9391e51\"]{text-align:center !important}[data-el=\"3c5b53c\"]{padding:25px 15px 30px 15px !important}[data-el=\"61cfc7e\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"61cfc7e\"]{text-align:center !important}[data-el=\"61cfc7e\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important;line-height:1.2em !important}[data-el=\"02c75d9\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"02c75d9\"]{text-align:center !important}[data-el=\"29eb9e9\"]{padding:25px 15px 30px 15px !important}[data-el=\"fec5b71\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"fec5b71\"]{text-align:center !important}[data-el=\"fec5b71\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important;line-height:1.2em !important}[data-el=\"dd882cf\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"dd882cf\"]{text-align:center !important}[data-el=\"1242886\"]{padding:25px 15px 30px 15px !important}[data-el=\"2398609\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"2398609\"]{text-align:center !important}[data-el=\"2398609\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important;line-height:1.2em !important}[data-el=\"1e38b28\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"1e38b28\"]{text-align:center !important}[data-el=\"4e15ae0e\"]{padding:100px 25px 100px 25px !important}[data-el=\"16e68e7a\"]{padding:25px 0px 0px 0px !important}[data-el=\"222e9bac\"]{text-align:start !important}[data-el=\"222e9bac\"] img{max-width:100% !important}[data-el=\"cb146da\"] .elementor-container{min-height:73vh !important}[data-el=\"cb146da\"]{padding:68px 0px 75px 0px !important}[data-el=\"bf88a3f\"]{padding:0px 0px 0px 0px !important}[data-el=\"707964f\"] :is(h1,h2,h3,h4,h5,h6){font-size:9em !important}[data-el=\"8ba30fa\"]{padding:0px 0px 0px 0px !important}[data-el=\"9d74e28\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"9d74e28\"] .elementor-main-swiper{width:650px !important}[data-el=\"163b0ab\"]{padding:30px 15px 80px 15px !important}[data-el=\"bf3095c\"] :is(h1,h2,h3,h4,h5,h6){font-size:9em !important}}@media(max-width:767px){[data-el=\"6c45d47\"] .elementor-container{min-height:296px !important}[data-el=\"6c45d47\"]{padding:6px 15px 45px 15px !important}[data-el=\"2a2bd4f\"]{margin:9px 0px 0px 0px !important}[data-el=\"2a2bd4f\"]{text-align:end !important}[data-el=\"2a2bd4f\"] :is(h1,h2,h3,h4,h5,h6){font-size:43px !important}[data-el=\"ad8dce9\"]{padding:7px 7px 0px 7px !important}[data-el=\"ad8dce9\"]{text-align:end !important}[data-el=\"ad8dce9\"] :is(h1,h2,h3,h4,h5,h6){font-size:0.8em !important;letter-spacing:6.8px !important}[data-el=\"2cfd5f6\"]{padding:2px 2px 2px 2px !important}[data-el=\"cdde9ef\"] .elementor-field-group > label{font-size:16px !important}[data-el=\"cdde9ef\"] .elementor-field-group .elementor-field{font-size:16px !important}[data-el=\"cdde9ef\"] .elementor-field-subgroup label{font-size:16px !important}[data-el=\"1c271de\"] :is(h1,h2,h3,h4,h5,h6){font-size:53px !important}[data-el=\"5bf184e4\"]{padding:0px 15px 40px 15px !important}[data-el=\"5699d543\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"af73ade\"]{padding:0px 0px 10px 0px !important}[data-el=\"324cabfa\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"57f4b42\"]{padding:0px 0px 10px 0px !important}[data-el=\"4d01d776\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"79d5237\"]{padding:0px 0px 10px 0px !important}[data-el=\"2d242977\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"656eb2b\"]{padding:33px 15px 50px 15px !important}[data-el=\"8e2c7cd\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"b3644cb\"]{margin-top:0px !important;margin-bottom:0px !important;padding:0px 20px 0px 20px !important}[data-el=\"73101e9\"]{margin:5px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"fe3fb47\"]{margin:0px 0px 0px 0px !important}[data-el=\"e55dfed\"]{margin:0px 0px 0px 0px !important;padding:00px 0px 0px 0px !important}[data-el=\"e55dfed\"]{text-align:center !important}[data-el=\"e55dfed\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important}[data-el=\"9391e51\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 10px 0px !important}[data-el=\"9391e51\"]{text-align:center !important}[data-el=\"3c5b53c\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"aa5bddb\"]{margin:0px 0px 0px 0px !important}[data-el=\"61cfc7e\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"61cfc7e\"]{text-align:center !important}[data-el=\"61cfc7e\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important}[data-el=\"02c75d9\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 10px 0px !important}[data-el=\"02c75d9\"]{text-align:center !important}[data-el=\"29eb9e9\"]{margin:0px 0px 20px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"fec5b71\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"fec5b71\"]{text-align:center !important}[data-el=\"fec5b71\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important}[data-el=\"dd882cf\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 10px 0px !important}[data-el=\"dd882cf\"]{text-align:center !important}[data-el=\"1242886\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"2398609\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"2398609\"]{text-align:center !important}[data-el=\"2398609\"] :is(h1,h2,h3,h4,h5,h6){font-size:2em !important}[data-el=\"1e38b28\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 10px 0px !important}[data-el=\"1e38b28\"]{text-align:center !important}[data-el=\"4e15ae0e\"]{padding:0px 20px 50px 20px !important}[data-el=\"d330d97\"]{padding:25px 0px 0px 0px !important}[data-el=\"5548dfb2\"] :is(h1,h2,h3,h4,h5,h6){font-size:40px !important}[data-el=\"16e68e7a\"]{padding:0px 0px 0px 0px !important}[data-el=\"e7cd20a\"] .elementor-button{padding:1em 3em 1em 3em !important}[data-el=\"cb146da\"] .elementor-container{min-height:16px !important}[data-el=\"cb146da\"]{padding:15px 15px 15px 15px !important}[data-el=\"707964f\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"707964f\"]{text-align:center !important}[data-el=\"707964f\"] :is(h1,h2,h3,h4,h5,h6){font-size:3.4em !important}[data-el=\"8ba30fa\"]{padding:20px 0px 0px 0px !important}[data-el=\"a8e0f6a\"] :is(h1,h2,h3,h4,h5,h6){font-size:40px !important}[data-el=\"9d74e28\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"9d74e28\"] .elementor-main-swiper{width:100% !important}[data-el=\"9d74e28\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"9d74e28\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"c0e6cef\"]{padding:0px 0px 20px 0px !important}[data-el=\"c0e6cef\"] .elementor-button{padding:1em 3em 1em 3em !important}[data-el=\"163b0ab\"]{padding:33px 15px 50px 15px !important}[data-el=\"bf3095c\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"bf3095c\"]{text-align:center !important}[data-el=\"bf3095c\"] :is(h1,h2,h3,h4,h5,h6){font-size:40px !important}[data-el=\"a23950c\"]{padding:0px 0px 10px 0px !important}[data-el=\"a23950c\"] .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% ) !important}[data-el=\"a23950c\"] .elementor-post__thumbnail__link{width:100% !important}[data-el=\"629f994\"] .elementor-button{padding:1em 3em 1em 3em !important}[data-el=\"1f55323\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"7c5b45f\"] :is(h1,h2,h3,h4,h5,h6){font-size:40px !important}}@media(max-width:1024px) and (min-width:768px){[data-el=\"5699d543\"]{width:50% !important}[data-el=\"324cabfa\"]{width:50% !important}[data-el=\"4d01d776\"]{width:50% !important}[data-el=\"2d242977\"]{width:50% !important}[data-el=\"d330d97\"]{width:100% !important}[data-el=\"16e68e7a\"]{width:100% !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "70vh"
     },
     "": {
-     "padding": "6px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "060px 0px 60px 0px"
     }
    },
    "children": [
@@ -36,6 +39,9 @@
        "type": "spacer",
        "id": "884ebbd",
        "style": {},
+       "hide": [
+        "phone"
+       ],
        "size": null
       },
       {
@@ -43,21 +49,21 @@
        "id": "2a2bd4f",
        "style": {
         "> .elementor-widget-container": {
-         "padding": "0em 0em 0em 0em",
-         "margin": "9px 0px 0px 0px"
+         "padding": "0em 0em 0em 0em"
         },
         "": {
-         "text-align": "end"
+         "text-align": "center"
         },
         ".elementor-heading-title": {
          "font-family": "\"Quicksand\", Sans-serif",
-         "font-size": "43px",
+         "font-size": "85px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "-1.5px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Irish Summer Program",
        "tag": "h1",
        "link": null,
@@ -69,21 +75,22 @@
        "style": {
         "> .elementor-widget-container": {
          "margin": "0px 0px 0px 0px",
-         "padding": "7px 7px 0px 7px"
+         "padding": "0em 0em 1.5em 0em"
         },
         "": {
-         "text-align": "end"
+         "text-align": "center"
         },
         ".elementor-heading-title": {
          "font-family": "\"Oswald\", Sans-serif",
-         "font-size": "0.8em",
+         "font-size": "1.2em",
          "font-weight": "normal",
          "text-transform": "uppercase",
          "line-height": "1.6em",
-         "letter-spacing": "6.8px",
+         "letter-spacing": "10px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "We are the experts in international student travel!",
        "tag": "h2",
        "link": null,
@@ -93,6 +100,7 @@
        "type": "spacer",
        "id": "0db9ab9",
        "style": {},
+       "hide": null,
        "size": 10
       },
       {
@@ -107,7 +115,9 @@
         },
         "": {
          "border-radius": "14px 14px 14px 14px",
-         "padding": "2px 2px 2px 2px"
+         "margin-top": "56px",
+         "margin-bottom": "0px",
+         "padding": "15px 15px 15px 15px"
         },
         "> .elementor-background-overlay": {
          "border-radius": "14px 14px 14px 14px"
@@ -123,21 +133,54 @@
            "type": "form",
            "id": "cdde9ef",
            "style": {
+            ".elementor-field-group": {
+             "padding-right": "calc( 10px/2 )",
+             "padding-left": "calc( 10px/2 )",
+             "margin-bottom": "10px"
+            },
+            ".elementor-form-fields-wrapper": {
+             "margin-left": "calc( -10px/2 )",
+             "margin-right": "calc( -10px/2 )",
+             "margin-bottom": "-10px"
+            },
+            ".elementor-field-group.recaptcha_v3-bottomleft": {
+             "margin-bottom": "0"
+            },
+            ".elementor-field-group.recaptcha_v3-bottomright": {
+             "margin-bottom": "0"
+            },
+            ".elementor-labels-inline .elementor-field-group > label": {
+             "padding-left": "10px",
+             "padding-right": "10px"
+            },
+            ".elementor-labels-above .elementor-field-group > label": {
+             "padding-bottom": "10px"
+            },
+            ".elementor-labels-inline .elementor-field-group > abbr": {
+             "padding-left": "10px",
+             "padding-right": "10px"
+            },
+            ".elementor-labels-above .elementor-field-group > abbr": {
+             "padding-bottom": "10px"
+            },
             ".elementor-field-group > label": {
              "color": "#FFFFFF",
              "font-family": "\"Open Sans\", Sans-serif",
-             "font-size": "16px",
+             "font-size": "1.1em",
              "font-weight": "700"
             },
             ".elementor-field-subgroup label": {
-             "color": "#FFFFFF",
-             "font-size": "16px"
+             "color": "#FFFFFF"
+            },
+            ".elementor-field-type-html": {
+             "padding-bottom": "0px"
             },
             ".dce-signature-wrapper": {
              "text-align": "left"
             },
             ".dce-signature-canvas": {
              "border-radius": "3px 3px 3px 3px",
+             "border-width": "1px 1px 1px 1px",
              "background-color": "#ffffff"
             },
             ".dce-signature-button-clear": {
@@ -147,9 +190,12 @@
              "color": "#e62626",
              "font-size": "16px"
             },
+            ".dce-signature-button-clear svg": {
+             "width": "16px",
+             "height": "16px"
+            },
             ".elementor-field-group .elementor-field": {
-             "color": "#1E3A43",
-             "font-size": "16px"
+             "color": "#1E3A43"
             },
             ".select2-container--default .select2-selection--single .select2-selection__rendered": {
              "color": "#1E3A43"
@@ -185,26 +231,33 @@
              "font-weight": "800",
              "text-transform": "capitalize",
              "letter-spacing": "1.8px",
+             "border-style": "solid",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "20px 20px 20px 20px"
             },
             ".e-form__buttons__wrapper__button-next": {
              "background-color": "#61CE70",
-             "color": "#ffffff"
+             "color": "#ffffff",
+             "border-color": "#61CE70"
             },
             ".elementor-button[type=\"submit\"]": {
              "background-color": "#61CE70",
-             "color": "#ffffff"
+             "color": "#ffffff",
+             "border-color": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-previous": {
-             "color": "#ffffff"
+             "color": "#ffffff",
+             "border-color": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-next:hover": {
              "background-color": "#FFFFFF40",
-             "color": "#ffffff"
+             "color": "#ffffff",
+             "border-color": "#61CE70"
             },
             ".elementor-button[type=\"submit\"]:hover": {
              "background-color": "#FFFFFF40",
-             "color": "#ffffff"
+             "color": "#ffffff",
+             "border-color": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-previous:hover": {
              "color": "#ffffff"
@@ -212,9 +265,12 @@
             ".elementor-field-label-description:after": {
              "border-radius": "50%",
              "padding": "2px 0",
+             "height": "1.2em",
              "line-height": "1",
              "font-size": "80%",
+             "width": "1.2em",
              "text-align": "center",
+             "margin-left": "0.2em",
              "color": "#ffffff",
              "background-color": "#777777"
             },
@@ -225,6 +281,7 @@
              "opacity": "1"
             }
            },
+           "hide": null,
            "formName": "Homepage Learn more",
            "fields": [
             {
@@ -336,13 +393,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Quicksand\", Sans-serif",
-         "font-size": "53px",
+         "font-size": "64px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "-1.5px",
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Why Us?",
        "tag": "h4",
        "link": null,
@@ -367,7 +425,9 @@
      "max-width": "1170px"
     },
     "": {
-     "padding": "0px 15px 40px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "20px 20px 20px 20px"
     }
    },
    "children": [
@@ -376,7 +436,7 @@
      "id": "5699d543",
      "style": {
       "> .elementor-element-populated": {
-       "margin": "0px 0px 0px 0px",
+       "margin": "0px 22px 0px 0px",
        "padding": "0px 0px 0px 0px"
       }
      },
@@ -389,10 +449,12 @@
          "background-color": "#61CE70"
         },
         ".elementor-view-framed .elementor-icon": {
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-view-default .elementor-icon": {
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-icon-box-title": {
          "font-family": "\"Quicksand\", Sans-serif",
@@ -406,11 +468,9 @@
         ".elementor-icon-box-description": {
          "font-family": "\"Open Sans\", Sans-serif",
          "color": "#1E3A43"
-        },
-        "> .elementor-widget-container": {
-         "padding": "0px 0px 10px 0px"
         }
        },
+       "hide": null,
        "icon": "hm hm-compass",
        "title": "Discover a Different Culture",
        "description": "Learn the language, cooking techniques, dancing, and more genuine ways of life.",
@@ -424,7 +484,7 @@
      "id": "324cabfa",
      "style": {
       "> .elementor-element-populated": {
-       "margin": "0px 0px 0px 0px",
+       "margin": "0px 22px 0px 0px",
        "padding": "0px 0px 0px 0px"
       }
      },
@@ -437,10 +497,12 @@
          "background-color": "#E4978E"
         },
         ".elementor-view-framed .elementor-icon": {
-         "color": "#E4978E"
+         "color": "#E4978E",
+         "border-color": "#E4978E"
         },
         ".elementor-view-default .elementor-icon": {
-         "color": "#E4978E"
+         "color": "#E4978E",
+         "border-color": "#E4978E"
         },
         ".elementor-icon-box-title": {
          "font-family": "\"Quicksand\", Sans-serif",
@@ -455,11 +517,9 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "400",
          "color": "#1E3A43"
-        },
-        "> .elementor-widget-container": {
-         "padding": "0px 0px 10px 0px"
         }
        },
+       "hide": null,
        "icon": "hm hm-direction-both",
        "title": "Explore Your Heritage",
        "description": "Join our program to discover how your ancestors lived, worked, and played.",
@@ -473,7 +533,7 @@
      "id": "4d01d776",
      "style": {
       "> .elementor-element-populated": {
-       "margin": "0px 0px 0px 0px",
+       "margin": "0px 22px 0px 0px",
        "padding": "0px 0px 0px 0px"
       }
      },
@@ -486,10 +546,12 @@
          "background-color": "#F8DB6B"
         },
         ".elementor-view-framed .elementor-icon": {
-         "color": "#F8DB6B"
+         "color": "#F8DB6B",
+         "border-color": "#F8DB6B"
         },
         ".elementor-view-default .elementor-icon": {
-         "color": "#F8DB6B"
+         "color": "#F8DB6B",
+         "border-color": "#F8DB6B"
         },
         ".elementor-icon-box-title": {
          "font-family": "\"Quicksand\", Sans-serif",
@@ -503,11 +565,9 @@
         ".elementor-icon-box-description": {
          "font-family": "\"Open Sans\", Sans-serif",
          "color": "#1E3A43"
-        },
-        "> .elementor-widget-container": {
-         "padding": "0px 0px 10px 0px"
         }
        },
+       "hide": null,
        "icon": "hm hm-team-member",
        "title": "Make Lifelong Friends",
        "description": "Journey with a group of young people and find friends you will have for life.",
@@ -521,7 +581,7 @@
      "id": "2d242977",
      "style": {
       "> .elementor-element-populated": {
-       "margin": "0px 0px 0px 0px",
+       "margin": "0px 22px 0px 0px",
        "padding": "0px 0px 0px 0px"
       }
      },
@@ -534,10 +594,12 @@
          "background-color": "#6EC1E4"
         },
         ".elementor-view-framed .elementor-icon": {
-         "color": "#6EC1E4"
+         "color": "#6EC1E4",
+         "border-color": "#6EC1E4"
         },
         ".elementor-view-default .elementor-icon": {
-         "color": "#6EC1E4"
+         "color": "#6EC1E4",
+         "border-color": "#6EC1E4"
         },
         ".elementor-icon-box-title": {
          "font-family": "\"Quicksand\", Sans-serif",
@@ -553,6 +615,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "icon": "hm hm-map-marker",
        "title": "Experience Life Abroad",
        "description": "Travel with us to see and appreciate all the beauty the world has to offer.",
@@ -578,7 +641,9 @@
      "max-width": "1250px"
     },
     "": {
-     "padding": "33px 15px 50px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "60px 60px 60px 60px"
     }
    },
    "children": [
@@ -600,7 +665,9 @@
          "max-width": "1369px"
         },
         "": {
-         "padding": "0px 20px 0px 20px"
+         "margin-top": "0px",
+         "margin-bottom": "0px",
+         "padding": "0px 0px 0px 0px"
         }
        },
        "children": [
@@ -619,7 +686,7 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "5px 0px 20px 0px",
+           "margin": "0px 10px 0px 10px",
            "padding": "0px 0px 0px 0px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
@@ -635,13 +702,12 @@
            "id": "fe3fb47",
            "style": {
             "img": {
+             "height": "195px",
              "opacity": "1",
              "border-radius": "12px 12px 0px 0px"
-            },
-            "> .elementor-widget-container": {
-             "margin": "0px 0px 0px 0px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/07/IMG_3301-scaled.jpg",
            "alt": "Burren View #2-Ellie 2016",
            "link": null
@@ -652,7 +718,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "00px 0px 0px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -661,11 +727,12 @@
              "font-family": "\"Quicksand\", Sans-serif",
              "font-size": "2em",
              "font-weight": "bold",
-             "line-height": "1.2em",
+             "line-height": "1.4em",
              "letter-spacing": "-1.2px",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Program",
            "tag": "h2",
            "link": null,
@@ -677,7 +744,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "0px 0px 10px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -687,6 +754,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Be Inspired to Travel",
            "tag": "h4",
            "link": null,
@@ -696,6 +764,9 @@
            "type": "spacer",
            "id": "4e6fcc7",
            "style": {},
+           "hide": [
+            "phone"
+           ],
            "size": null
           }
          ],
@@ -716,7 +787,7 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
+           "margin": "0px 10px 0px 10px",
            "padding": "0px 0px 0px 0px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
@@ -732,12 +803,11 @@
            "id": "aa5bddb",
            "style": {
             "img": {
+             "height": "195px",
              "border-radius": "12px 12px 0px 0px"
-            },
-            "> .elementor-widget-container": {
-             "margin": "0px 0px 0px 0px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/07/IMG_1749-scaled.jpg",
            "alt": "Giant's Causeway-Maggie and Manon Laugh 2016",
            "link": null
@@ -748,7 +818,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "0px 0px 0px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -757,11 +827,12 @@
              "font-family": "\"Quicksand\", Sans-serif",
              "font-size": "2em",
              "font-weight": "bold",
-             "line-height": "1.2em",
+             "line-height": "1.4em",
              "letter-spacing": "-1.2px",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Students",
            "tag": "h2",
            "link": null,
@@ -773,7 +844,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "0px 0px 10px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -783,6 +854,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Create Lifelong Memories",
            "tag": "h4",
            "link": null,
@@ -806,7 +878,7 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
+           "margin": "0px 10px 0px 10px",
            "padding": "0px 0px 0px 0px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
@@ -825,10 +897,14 @@
              "background-color": "#F8DB6B"
             },
             "img": {
+             "width": "732px",
              "max-width": "100%",
+             "height": "195px",
+             "object-fit": "fill",
              "border-radius": "12px 12px 0px 0px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/10/IMG_2063-scaled.jpg",
            "alt": "",
            "link": null
@@ -839,7 +915,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "0px 0px 0px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -848,11 +924,12 @@
              "font-family": "\"Quicksand\", Sans-serif",
              "font-size": "2em",
              "font-weight": "bold",
-             "line-height": "1.2em",
+             "line-height": "1.4em",
              "letter-spacing": "-1.2px",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Parents",
            "tag": "h2",
            "link": null,
@@ -864,7 +941,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "0px 0px 10px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -874,6 +951,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Book with Confidence",
            "tag": "h4",
            "link": null,
@@ -897,7 +975,7 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
+           "margin": "0px 10px 0px 10px",
            "padding": "0px 0px 0px 0px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
@@ -913,9 +991,11 @@
            "id": "7991116",
            "style": {
             "img": {
+             "height": "195px",
              "border-radius": "12px 12px 0px 0px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/07/IMG_1979-scaled.jpg",
            "alt": "Muckross House-Circle Group 2014",
            "link": null
@@ -926,7 +1006,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "0px 0px 0px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -935,11 +1015,12 @@
              "font-family": "\"Quicksand\", Sans-serif",
              "font-size": "2em",
              "font-weight": "bold",
-             "line-height": "1.2em",
+             "line-height": "1.4em",
              "letter-spacing": "-1.2px",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Alumni",
            "tag": "h2",
            "link": null,
@@ -951,7 +1032,7 @@
            "style": {
             "> .elementor-widget-container": {
              "margin": "0px 0px 0px 0px",
-             "padding": "0px 0px 10px 0px"
+             "padding": "18px 0px 0px 0px"
             },
             "": {
              "text-align": "center"
@@ -961,6 +1042,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Connect and Promote the Program",
            "tag": "h4",
            "link": null,
@@ -981,8 +1063,12 @@
    "type": "section",
    "id": "4e15ae0e",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     "": {
-     "padding": "0px 20px 50px 20px"
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -991,7 +1077,7 @@
      "id": "d330d97",
      "style": {
       "> .elementor-element-populated": {
-       "padding": "25px 0px 0px 0px"
+       "padding": "0% 10% 0% 0%"
       }
      },
      "children": [
@@ -1014,6 +1100,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Céad Mile Fáilte",
        "tag": "h4",
        "link": null,
@@ -1032,6 +1119,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>The Irish Life Experience is a study abroad program in Ireland offered to high school students.&nbsp;&nbsp;</p>\n<p>During the summer in Ireland, students are introduced to its magical landscape and rich heritage through a variety of workshops, classes, and tours.&nbsp; Emphasizing culture, education, travel, safety, and fun, our programs ensure a unique and unforgettable journey for every student.</p>"
       }
      ],
@@ -1040,11 +1128,7 @@
     {
      "type": "column",
      "id": "16e68e7a",
-     "style": {
-      "> .elementor-element-populated": {
-       "padding": "0px 0px 0px 0px"
-      }
-     },
+     "style": {},
      "children": [
       {
        "type": "image",
@@ -1052,12 +1136,10 @@
        "style": {
         "img": {
          "border-radius": "20px 20px 20px 20px",
-         "max-width": "100%"
-        },
-        "": {
-         "text-align": "start"
+         "box-shadow": "0px 0px 0px 0px rgba(0,0,0,0.5)"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/07/IMG_8282-scaled.jpg",
        "alt": "Dingle Peninsula-Group 2015",
        "link": null
@@ -1072,18 +1154,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Learn More",
        "link": ""
       }
@@ -1103,10 +1192,12 @@
     },
     "> .elementor-container": {
      "max-width": "1045px",
-     "min-height": "16px"
+     "min-height": "50vh"
     },
     "": {
-     "padding": "15px 15px 15px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "60px 60px 60px 60px"
     }
    },
    "children": [
@@ -1124,6 +1215,10 @@
        "type": "spacer",
        "id": "89710ff",
        "style": {},
+       "hide": [
+        "tablet",
+        "phone"
+       ],
        "size": null
       },
       {
@@ -1139,7 +1234,7 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Quicksand\", Sans-serif",
-         "font-size": "3.4em",
+         "font-size": "64px",
          "font-weight": "bold",
          "text-transform": "capitalize",
          "line-height": "1.5em",
@@ -1147,6 +1242,7 @@
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our Magical Video",
        "tag": "h1",
        "link": null,
@@ -1156,6 +1252,7 @@
        "type": "spacer",
        "id": "ed8ad63",
        "style": {},
+       "hide": null,
        "size": null
       },
       {
@@ -1167,12 +1264,14 @@
          "padding": "0px 0px 0px 0px"
         }
        },
+       "hide": null,
        "url": "https://www.youtube.com/watch?v=w8d55DRvlJk"
       },
       {
        "type": "spacer",
        "id": "7fde696",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -1195,7 +1294,7 @@
      "max-width": "1148px"
     },
     "": {
-     "padding": "20px 0px 0px 0px"
+     "padding": "60px 60px 60px 60px"
     }
    },
    "children": [
@@ -1223,6 +1322,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "What People Say About Us",
        "tag": "h1",
        "link": null,
@@ -1241,27 +1341,66 @@
         ".swiper-pagination-fraction": {
          "color": "#74B843"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-swiper-button": {
          "font-size": "20px"
+        },
+        ".swiper-pagination-bullet": {
+         "height": "3px",
+         "width": "3px"
+        },
+        ".swiper-horizontal .swiper-pagination-progressbar": {
+         "height": "3px"
+        },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
         },
         ".elementor-testimonial__text": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "30px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#1E3A43",
          "font-family": "\"Open Sans\", Sans-serif",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "120px",
+         "height": "120px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
@@ -1318,21 +1457,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
-        },
-        "> .elementor-widget-container": {
-         "padding": "0px 0px 20px 0px"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "See More Testimonials",
        "link": ""
       }
@@ -1355,7 +1498,9 @@
      "max-width": "1170px"
     },
     "": {
-     "padding": "33px 15px 50px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "60px 30px 60px 30px"
     }
    },
    "children": [
@@ -1375,7 +1520,7 @@
        "style": {
         "> .elementor-widget-container": {
          "margin": "0px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "padding": "0px 0px 22px 0px"
         },
         "": {
          "text-align": "center"
@@ -1390,6 +1535,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Our Latest  News",
        "tag": "h1",
        "link": null,
@@ -1398,31 +1544,50 @@
       {
        "type": "sbi-widget",
        "id": "b3d50bb",
-       "style": {}
+       "style": {},
+       "hide": null
       },
       {
        "type": "spacer",
        "id": "54235ea",
        "style": {},
+       "hide": null,
        "size": null
       },
       {
        "type": "posts",
        "id": "a23950c",
        "style": {
+        ".elementor-posts-container .elementor-post__thumbnail": {
+         "padding-bottom": "calc( 0.66 * 100% )"
+        },
+        ".elementor-post__thumbnail__link": {
+         "width": "100%"
+        },
         ".elementor-post": {
          "border-radius": "12px",
          "padding": "10px 10px 10px 10px",
+         "box-shadow": "0px 0px 5px 0px rgba(0, 0, 0, 0.42)",
          "background-color": "#FFFFFF"
         },
         ".elementor-post__text": {
          "padding": "12px 12px 12px 12px"
         },
+        ".elementor-posts--thumbnail-left .elementor-post__thumbnail__link": {
+         "margin-right": "20px"
+        },
+        ".elementor-posts--thumbnail-right .elementor-post__thumbnail__link": {
+         "margin-left": "20px"
+        },
+        ".elementor-posts--thumbnail-top .elementor-post__thumbnail__link": {
+         "margin-bottom": "20px"
+        },
         ".elementor-post__title": {
          "color": "#61CE70",
          "font-family": "\"Quicksand\", Sans-serif",
          "font-size": "23px",
-         "font-weight": "700"
+         "font-weight": "700",
+         "margin-bottom": "12px"
         },
         ".elementor-post__title a": {
          "color": "#61CE70",
@@ -1442,11 +1607,9 @@
         },
         "a.elementor-post__read-more": {
          "font-size": "14px"
-        },
-        "> .elementor-widget-container": {
-         "padding": "0px 0px 10px 0px"
         }
        },
+       "hide": null,
        "postType": "post",
        "perPage": null,
        "readMore": null
@@ -1455,6 +1618,7 @@
        "type": "spacer",
        "id": "842b016",
        "style": {},
+       "hide": null,
        "size": 20
       },
       {
@@ -1467,18 +1631,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "View More",
        "link": ""
       }
@@ -1499,12 +1670,7 @@
     {
      "type": "column",
      "id": "1f55323",
-     "style": {
-      "> .elementor-element-populated": {
-       "margin": "0px 0px 0px 0px",
-       "padding": "0px 0px 0px 0px"
-      }
-     },
+     "style": {},
      "children": [
       {
        "type": "heading",
@@ -1518,14 +1684,16 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "40px",
+         "font-size": "36px",
          "font-weight": "bold",
          "text-transform": "none",
+         "font-style": "normal",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Our Trusted Partners",
        "tag": "h2",
        "link": null,
@@ -1542,6 +1710,7 @@
          "color": "#19447359"
         }
        },
+       "hide": null,
        "images": [
         "/images/wp/2021/10/IACI.png",
         "/images/wp/2021/10/goblue.png",
@@ -1558,6 +1727,7 @@
        "type": "spacer",
        "id": "c901a46",
        "style": {},
+       "hide": null,
        "size": null
       }
      ],

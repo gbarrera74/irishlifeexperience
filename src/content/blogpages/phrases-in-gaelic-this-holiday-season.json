@@ -4,6 +4,7 @@
  "path": "/blog/phrases-in-gaelic-this-holiday-season/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Would you like to impress your loved ones this Holiday Season and learn a few phrases in Gaelic?  Now is your chance!</p><p><strong>Christmas happiness be with you! </strong> Nollaig shona duit!  <em>&lt;&lt;Noll-ag hunna ditch&gt;&gt; </em></p><p><strong>A happy and prosperous Christmas to you!  </strong>Nollaig faoi shéan is faoi shaonas duit!  &lt;&lt;<em>Noll-ag fwee shee-an iss fwee show-nas-ditch</em>&gt;&gt;</p><p><strong>The blessings of Christmas be with you!</strong>  Beannachtaí na Nollag duit!  <em>&lt;&lt;Ban-ach-tee na noll-ag ditch&gt;&gt;</em></p><p><strong>Happy New Year!  </strong>Athbhliain faoi mhaise duit!  <em>&lt;&lt;Ah-vleen fwee vosh-ah ditch&gt;&gt;</em></p><p><strong>Season's Greetings!  </strong>Beannachtaí an tSéasúir!  <em>&lt;&lt;Ban-ach-tee on tay-sur&gt;&gt;</em></p><p><em>Written by Taryn Harrison</em> </p>"
       }
      ],
@@ -38,6 +40,7 @@
        "type": "video",
        "id": "151f271",
        "style": {},
+       "hide": null,
        "url": "https://www.youtube.com/watch?v=rGKjAtHoxTc&t=1s"
       }
      ],

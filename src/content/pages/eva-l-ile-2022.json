@@ -4,6 +4,7 @@
  "path": "/eva-l-ile-2022/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"50b2c77\"] .elementor-container{min-height:73vh !important}[data-el=\"50b2c77\"]{padding:68px 0px 75px 0px !important}[data-el=\"56205eb5\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"50b2c77\"] .elementor-container{min-height:296px !important}[data-el=\"50b2c77\"]{padding:45px 15px 45px 15px !important}[data-el=\"4bd69439\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"72bfd0f3\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"72bfd0f3\"]{text-align:center !important}[data-el=\"72bfd0f3\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"263e15a0\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h3",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Ambassadors",
        "tag": "h3",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "74e379b6",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -96,7 +102,12 @@
   {
    "type": "section",
    "id": "7f22078c",
-   "style": {},
+   "style": {
+    "": {
+     "margin-top": "60px",
+     "margin-bottom": "60px"
+    }
+   },
    "children": [
     {
      "type": "column",
@@ -111,6 +122,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/11/IMG_0390-scaled.jpg",
        "alt": "Kilkenny Castle-Eva 2022",
        "link": null
@@ -133,6 +145,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Eva L.-ILE 2022",
        "tag": "h2",
        "link": null,
@@ -147,6 +160,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<div class=\"gmail_default\">My name is Eva Lang, and I live in Brooklyn, New York.  I am a sophomore in high school, and some of my favorite things to do are reading, cooking, and traveling.</div><div> </div><div class=\"gmail_default\">Last summer, I went on ILE.  My mom went on it when she was a teenager, and I had been wanting to do it for a couple of years. On my first day in Ireland, I was terrified, and I thought I had made a terrible mistake by doing it.  But by the end of the program, I did not want to go home.</div><div class=\"gmail_default\"> </div><div class=\"gmail_default\">Everything about ILE was incredible, from Riverdance to the day we spent biking around the Aran Islands.  Even the things I was skeptical about were really fun, like the Gaelic football match at Croke Park.  The classes were really interesting, and the people were amazing.  I know that, although memories of exploring the Burren, or seeing the Rock of Cashel might fade away, I will always remember the wonderful people that I travelled around Ireland with. </div><div> </div><div class=\"gmail_default\">Please reach out to me with any questions you have.</div>"
       },
       {
@@ -160,6 +174,7 @@
          "color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "E-Mail»evalang396@gmail.com",
        "tag": "p",
        "link": null,
@@ -175,18 +190,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Go Back",
        "link": ""
       }

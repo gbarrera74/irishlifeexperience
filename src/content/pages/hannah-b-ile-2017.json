@@ -4,6 +4,7 @@
  "path": "/hannah-b-ile-2017/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"fd78fd4\"] .elementor-container{min-height:73vh !important}[data-el=\"fd78fd4\"]{padding:68px 0px 75px 0px !important}[data-el=\"b5c37e3\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"fd78fd4\"] .elementor-container{min-height:296px !important}[data-el=\"fd78fd4\"]{padding:45px 15px 45px 15px !important}[data-el=\"0653ca9\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"4d32ddf\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"4d32ddf\"]{text-align:center !important}[data-el=\"4d32ddf\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"45debe2\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h1",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Ambassadors",
        "tag": "h1",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "1f8844a",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -96,7 +102,12 @@
   {
    "type": "section",
    "id": "4a7520f",
-   "style": {},
+   "style": {
+    "": {
+     "margin-top": "60px",
+     "margin-bottom": "60px"
+    }
+   },
    "children": [
     {
      "type": "column",
@@ -111,6 +122,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/10/20841156_1913146842235965_4210053887803783594_n.jpg",
        "alt": "",
        "link": null
@@ -133,6 +145,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Hannah B.-ILE 2017",
        "tag": "h2",
        "link": null,
@@ -147,6 +160,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>My name is Hannah Borgra and I am from Joliet, IL-a town about an hour south of Chicago.  I am currently a senior at Joliet West High School.</p><p>I was so lucky to be able to attend the Irish Life Experience this past summer thanks to the Irish American Society of County Will and some amazing family and friend support.  From the moment I found out I was going to be attending, I knew it would be a journey of a lifetime!</p><p>I did not know what to expect going into a trip with a bunch of strangers, but I instantly made connections with each and every student and I knew those friendships would last a lifetime.  We were all there to be immersed in the Irish culture and learn everything from Irish literature to the best sights to the little things like traditional Irish terms-the whole experience was life-changing.  The counselors and teachers were amazing and were always there to make you feel safe and make the trip more exciting.  There is not another group of amazing people I would have rather taken this journey with and I am so grateful for everyone who helped make my summer in Ireland probably the most amazing adventure of my life.</p><p>I could go on for days talking about the experience.  It is crazy going into such a unique and unfamiliar situation and I am sure anyone will have a million and one questions about the program (I know I did.) so if you have any questions or just want to hear more about the trip feel free to reach out to me. (I could talk for hours about ILE)!  The Irish Life Experience is for sure the best experience for any student who loves to travel, make new friends, and learn so much about the truly amazing country of Ireland, so apply today!</p>"
       },
       {
@@ -160,6 +174,7 @@
          "color": "#6EC1E4"
         }
        },
+       "hide": null,
        "text": "Visit on Facebook»",
        "tag": "p",
        "link": "hborgra@comcast.net",
@@ -176,6 +191,7 @@
          "color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "E-Mail»hborgra@comcast.net",
        "tag": "p",
        "link": null,
@@ -191,18 +207,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Go Back",
        "link": ""
       }

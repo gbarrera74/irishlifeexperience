@@ -4,6 +4,7 @@
  "path": "/blog/a-sweet-present/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Many Irish people have selected this tradition as one of their favorites.  Have you heard of it?  While quite foreign to Americans, every Holiday Season grocery stores around the Emerald Isle stock these mouth-melting treasures, called Selection Boxes. </p><p>It is no surprise that these rectangle shaped gifts filled with delicious chocolate bars are always a hit carefully wrapped underneath the tree.  And what could be better than indulging in some sugary goodness, while opening presents, and watching movies with your family on Christmas morning? </p><p>From Aeros, to Crunchies, to Curly Wurlies, there is a plethora to choose from on Amazon.  We hope Santa will not disappoint and you will consider asking him for these delicious treats.  We know you will like it a choco-late.   </p><p><em>Written by Taryn Harrison</em> </p>"
       }
      ],
@@ -42,6 +44,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/Mondelez-ditches-plastic-trays-from-its-selection-boxes-in-UK-Ireland-this-Christmas.jpg",
        "alt": "Selection Box #2",
        "link": null

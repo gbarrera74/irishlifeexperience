@@ -4,6 +4,7 @@
  "path": "/blog/waterford-historical-experts/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "spacer",
        "id": "d4b4ecc",
        "style": {},
+       "hide": null,
        "size": 80
       },
       {
@@ -26,9 +28,11 @@
        "id": "bef6731",
        "style": {
         "img": {
+         "height": "500px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/July-2.jpg",
        "alt": "Waterford Crystal-Paddy 2022",
        "link": null
@@ -50,6 +54,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><span style=\"font-weight: 400;\">Today might have been the students’ favorite day so far.&nbsp; After breakfast at 8:15, the group started with their first day of classes-Irish Literature with Angie, Irish American History with Miles, and Irish Studies with Taryn.&nbsp; After class and lunch in the Newtown cafeteria, they headed into Waterford for the Waterford Crystal Tour.&nbsp; The students got to see the process of making the crystal and learning about the history of the company.&nbsp; Waterford Crystal requires 4 steps-blowing, marking, cutting, and polishing-and can take anywhere from a few hours to multiple days to create.&nbsp; Seeing the process up close really makes you appreciate how much time and effort goes into each piece!&nbsp; Some students even bought some crystal to take home to their families.</span></p>\n<p><span style=\"font-weight: 400;\">Next, Miles led the students on a Waterford Walking Tour.&nbsp; They learned about the Viking history of the city and saw Reginald’s Tower, which was previously part of the defensive walls of the city and has been in continuous use for 800 years.&nbsp; Next stop was the statue of Thomas Francis Meager-an Irish nationalist who later served as the first governor of Montana.&nbsp; Natalie and Rowan were excited to see some Montana history on this side of the pond!&nbsp; We also saw Christ Church Cathedral and the Cathedral of the Most Holy Trinity Within, the oldest Roman Catholic Church in Ireland.&nbsp; Following the tour, the students got free time in Waterford to explore the city and do some shopping.</span></p>\n<p><span style=\"font-weight: 400;\">The students returned to Newtown for dinner, followed by their first dance and drama classes.&nbsp; The students loved learning an Irish jig and the beginning of some ceili steps.&nbsp; Their Irish Dancing teacher, Clare says they are world champs in the making!&nbsp; Clare, Miles, Kaylee, and Kylene then led them through drama where each group wrote a limerick about a historical Irish figure. The creativity was flowing, and we are excited to see what they come up with. Eva said drama has been her favorite class so far.</span></p>\n<p><span style=\"font-weight: 400;\">We ended the night with some free time around campus. Some kids played soccer with some Italian students also staying at Newtown, a few played some card games, and others just used the night to catch up with family and friends and relaxing. Lights were out by 11:30pm to get a good night’s rest before another busy day tomorrow.&nbsp;&nbsp;</span></p>"
       }
      ],
@@ -72,6 +77,7 @@
        "type": "spacer",
        "id": "9a12ce7",
        "style": {},
+       "hide": null,
        "size": 75
       },
       {
@@ -82,6 +88,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/July-2.jpg",
        "alt": "Waterford Crystal-2022",
        "link": null
@@ -102,6 +109,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/July-2.jpg",
        "alt": "Waterford Crystal-Group 2022",
        "link": null
@@ -118,6 +126,7 @@
        "type": "spacer",
        "id": "d7c6b65",
        "style": {},
+       "hide": null,
        "size": 80
       },
       {
@@ -128,6 +137,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/July-2.jpg",
        "alt": "Waterford Crystal-Small Group 2022",
        "link": null

@@ -41,11 +41,21 @@ function toStyle(props?: Record<string, string>): CSSProperties {
   return out as CSSProperties;
 }
 
-/** First value for `prop` across the element's sub-selectors, ignoring hover states. */
+/**
+ * Interaction states, which must never be folded into the resting style.
+ *
+ * Skipping only :hover is not enough. Elementor writes a :focus rule alongside
+ * it, and because these are merged in source order the :focus declarations were
+ * landing on top — every button rendered with its focus colours (transparent
+ * background, green text) instead of its real ones.
+ */
+const STATEFUL = /:(hover|focus|active|visited|focus-within|focus-visible)\b/;
+
+/** First value for `prop` across the element's sub-selectors, resting state only. */
 function pick(style: StyleMap | undefined, prop: string, match?: RegExp): string | undefined {
   if (!style) return undefined;
   for (const [sel, props] of Object.entries(style)) {
-    if (sel.includes(":hover") || sel.includes("motion-effects-layer")) continue;
+    if (STATEFUL.test(sel) || sel.includes("motion-effects-layer")) continue;
     if (match && !match.test(sel)) continue;
     if (props[prop]) return props[prop];
   }
@@ -57,7 +67,7 @@ function typography(style: StyleMap | undefined, match: RegExp): CSSProperties {
   if (!style) return {};
   const merged: Record<string, string> = {};
   for (const [sel, props] of Object.entries(style)) {
-    if (sel.includes(":hover")) continue;
+    if (STATEFUL.test(sel)) continue;
     if (!match.test(sel)) continue;
     Object.assign(merged, props);
   }
@@ -82,6 +92,7 @@ function SectionBlock({ block }: { block: Block }) {
 
   return (
     <section
+      data-el={block.id}
       className="relative w-full"
       style={{
         backgroundColor: bg,
@@ -129,13 +140,23 @@ function ColumnBlock({ block }: { block: Block }) {
   const padding = pick(block.style, "padding", /populated|^$/);
 
   return (
+    // Width goes through a custom property rather than an inline flex-basis so
+    // the stacking breakpoint in globals.css can still override it — an inline
+    // width would pin the column at its desktop share on phones.
     <div
-      className="min-w-0 grow basis-full md:basis-0"
-      style={{ flexBasis: width ? `${width}%` : undefined, maxWidth: width ? `${width}%` : undefined }}
+      className="e-col min-w-0 grow"
+      style={{ "--col-w": width ? `${width}%` : "100%" } as CSSProperties}
     >
       <div
+        data-el={block.id}
         className="h-full"
-        style={{ backgroundColor: bg, borderRadius: radius, padding, overflow: radius ? "hidden" : undefined }}
+        style={{
+          backgroundColor: bg,
+          borderRadius: radius,
+          padding,
+          margin: pick(block.style, "margin", /populated|^$/),
+          overflow: radius ? "hidden" : undefined,
+        }}
       >
         <Blocks blocks={block.children ?? []} />
       </div>
@@ -163,7 +184,9 @@ function Heading({ block }: { block: Block }) {
   const preset = HEADING_SIZES[(block.size as string) ?? ""];
   const text = block.text as string;
   // An explicit font-size in the page CSS still wins over the preset.
-  const inner = <Tag style={{ fontSize: preset, ...type }}>{text}</Tag>;
+  // Elementor's .elementor-heading-title resets line-height to 1. Anything the
+  // page CSS declares still wins, since `type` spreads last.
+  const inner = <Tag style={{ lineHeight: 1, fontSize: preset, ...type }}>{text}</Tag>;
   return (
     <div style={{ textAlign: align as CSSProperties["textAlign"] }}>
       {block.link ? <Link href={block.link as string}>{inner}</Link> : inner}
@@ -186,7 +209,15 @@ function ImageWidget({ block }: { block: Block }) {
   const src = block.src as string | undefined;
   if (!src) return null;
   const align = block.style?.[""]?.["text-align"];
-  const radius = pick(block.style, "border-radius");
+  // Elementor targets the <img> itself for height, radius and opacity.
+  const imgStyle = typography(block.style, /(^|\s)img$/);
+  // The original sets object-fit: fill, which stretches the photo to whatever
+  // height it declares. Filling the same box with cover keeps the card geometry
+  // identical without distorting the picture.
+  const fitted = imgStyle.height ? ({ objectFit: "cover" } as CSSProperties) : {};
+  // Applied after the extracted styles so a declared `fill` cannot reintroduce
+  // the stretch on individual cards.
+  const fitOverride = imgStyle.height ? fitted : {};
   const img = (
     <Image
       src={src}
@@ -194,8 +225,8 @@ function ImageWidget({ block }: { block: Block }) {
       width={1200}
       height={800}
       sizes="(min-width: 1024px) 600px, 100vw"
-      className="h-auto w-full"
-      style={{ borderRadius: radius }}
+      className={imgStyle.height ? "w-full" : "h-auto w-full"}
+      style={{ ...fitted, ...imgStyle, ...fitOverride }}
       unoptimized={!localSrc(src)}
     />
   );
@@ -225,16 +256,18 @@ function ButtonWidget({ block }: { block: Block }) {
   const href = (block.link as string) || "#";
   const align = block.style?.[""]?.["text-align"];
   const cls =
-    "inline-block px-8 py-3 transition-opacity hover:opacity-90 " +
+    "elementor-button inline-block px-8 py-3 transition-opacity hover:opacity-90 " +
     (style.backgroundColor ? "" : "bg-accent text-white ");
+  // .elementor-button's own defaults, below anything the page CSS sets.
+  const base: CSSProperties = { fontSize: "15px", lineHeight: 1 };
   return (
     <div style={{ textAlign: align as CSSProperties["textAlign"] }}>
       {/^https?:\/\//.test(href) ? (
-        <a href={href} className={cls} style={style}>
+        <a href={href} className={cls} style={{ ...base, ...style }}>
           {block.text as string}
         </a>
       ) : (
-        <Link href={href} className={cls} style={style}>
+        <Link href={href} className={cls} style={{ ...base, ...style }}>
           {block.text as string}
         </Link>
       )}
@@ -288,7 +321,7 @@ function Divider() {
   return <hr className="my-6 border-navy/15" />;
 }
 
-type PostCard = { title: string; href: string; image?: string; excerpt?: string };
+type PostCard = { title: string; href: string; image?: string; excerpt?: string; date?: string };
 
 /**
  * Elementor's posts widget. When it filters on a term the extractor resolves
@@ -296,6 +329,14 @@ type PostCard = { title: string; href: string; image?: string; excerpt?: string 
  * uses it to show the 13 ambassador pages, not blog posts. Otherwise it falls
  * back to recent posts, which is what the home page and /blog/ want.
  */
+function formatPostDate(raw?: string) {
+  if (!raw) return null;
+  const d = new Date(raw.replace(" ", "T"));
+  return Number.isNaN(d.getTime())
+    ? null
+    : d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+}
+
 function PostsGrid({ block }: { block: Block }) {
   const resolved = block.items as PostCard[] | undefined;
   const perPage = typeof block.perPage === "number" ? block.perPage : 6;
@@ -307,30 +348,61 @@ function PostsGrid({ block }: { block: Block }) {
           href: `/blog/${p.slug}/`,
           image: p.featuredImage,
           excerpt: p.excerpt,
+          date: p.date,
         }));
   if (!cards.length) return null;
 
-  const readMore = (block.readMore as string) || "Learn More";
+  // Elementor styles the card, its title, meta row and read-more link
+  // separately; all of it is in the page CSS.
+  const card = typography(block.style, /\.elementor-post$/);
+  const text = typography(block.style, /__text/);
+  const title = typography(block.style, /__title/);
+  const meta = typography(block.style, /__meta-data/);
+  const excerpt = typography(block.style, /__excerpt/);
+  const more = typography(block.style, /__read-more/);
+  const readMore = (block.readMore as string) || "Read More »";
+
   return (
     <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {cards.map((c) => (
-        <Link key={c.href} href={c.href} className="block">
+        <article key={c.href} style={{ overflow: "hidden", ...card }}>
           {c.image && (
-            <div className="relative mb-3 aspect-[3/2] overflow-hidden rounded-lg bg-mist">
-              <Image
-                src={c.image}
-                alt=""
-                fill
-                sizes="380px"
-                className="object-cover"
-                unoptimized={!localSrc(c.image)}
-              />
-            </div>
+            <Link href={c.href} className="block">
+              <div className="relative aspect-[3/2] overflow-hidden bg-mist">
+                <Image
+                  src={c.image}
+                  alt=""
+                  fill
+                  sizes="380px"
+                  className="object-cover"
+                  unoptimized={!localSrc(c.image)}
+                />
+              </div>
+            </Link>
           )}
-          <h3 className="font-display text-xl font-bold text-navy">{c.title}</h3>
-          {c.excerpt && <p className="mt-2 text-navy/80">{c.excerpt}</p>}
-          <span className="mt-2 inline-block font-bold text-accent">{readMore}</span>
-        </Link>
+          <div style={text}>
+            <h3 className="elementor-post__title" style={title}>
+              <Link href={c.href} style={title}>
+                {c.title}
+              </Link>
+            </h3>
+            {(formatPostDate(c.date) || resolved) && (
+              <div className="elementor-post__meta-data mt-1 text-sm" style={meta}>
+                {formatPostDate(c.date)}
+                {formatPostDate(c.date) && <span className="mx-2">·</span>}
+                No Comments
+              </div>
+            )}
+            {c.excerpt && (
+              <p className="elementor-post__excerpt mt-2" style={excerpt}>
+                {c.excerpt}
+              </p>
+            )}
+            <Link href={c.href} className="elementor-post__read-more mt-2 inline-block font-bold" style={more}>
+              {readMore}
+            </Link>
+          </div>
+        </article>
       ))}
     </div>
   );
@@ -417,6 +489,9 @@ function Widget({ block }: { block: Block }) {
       return (
         <TestimonialCarousel
           items={(block.slides ?? []) as { quote: string; name: string; detail?: string; image?: string }[]}
+          quoteStyle={typography(block.style, /__text/)}
+          nameStyle={typography(block.style, /__name/)}
+          detailStyle={typography(block.style, /__title/)}
         />
       );
     case "image-carousel":
@@ -481,8 +556,19 @@ export default function Blocks({ blocks }: { blocks: Block[] }): ReactNode {
         if (b.type === "column") {
           return <ColumnBlock key={b.id ?? i} block={b} />;
         }
+        // Elementor wraps every widget in .elementor-widget-container and puts
+        // the widget's own spacing there. Applying it here rather than in each
+        // component means no widget can quietly lose its padding — without it
+        // the home page's audience cards came out 51px short.
+        const container = b.style?.["> .elementor-widget-container"] ?? {};
+        const hide = ((b.hide as string[] | null) ?? []).map((h) => `e-hide-${h}`).join(" ");
         return (
-          <div key={b.id ?? i} className="w-full">
+          <div
+            key={b.id ?? i}
+            data-el={b.id}
+            className={`w-full ${hide}`.trim()}
+            style={{ padding: container.padding, margin: container.margin }}
+          >
             <Widget block={b} />
           </div>
         );

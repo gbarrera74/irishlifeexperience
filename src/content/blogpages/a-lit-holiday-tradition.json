@@ -4,6 +4,7 @@
  "path": "/blog/a-lit-holiday-tradition/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "spacer",
        "id": "7d3be10",
        "style": {},
+       "hide": null,
        "size": 55
       },
       {
@@ -29,6 +31,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/lights_in_the_window_christmas___getty.jpg",
        "alt": "",
        "link": null
@@ -50,6 +53,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>On Christmas Eve, it was said that many people put candles in their windows to help light the way for Mary and Joseph to the stable in Bethlehem.&nbsp; And now every year during the Holiday Season, many homes in Ireland will continue to illuminate their windows.&nbsp; Not only does it represent a beacon of hope for the Holy Family, but it is a wonderful symbol of hospitality-to welcome any friend or stranger.&nbsp;&nbsp;</p>\n<p>It does seem to be a tradition more associated with Catholics in the southern part of Ireland and the practice today seems to come out of the Penal laws when it was against the law for Catholics to practice their faith.&nbsp;&nbsp;</p>\n<p>The candles became a secret message to the traveling priests that they were welcome and were encouraged to spread their faith to the community.&nbsp; And when some of the government officials would question the candles, they were told they were lit in honor of Mary and Joseph.&nbsp; Therefore, the lawmakers did not question families.&nbsp;</p>\n<p>It was both a symbol for the birth of Jesus and an invitation for a priest to preach and the Irish realized they never had to lie.&nbsp; Aren't they clever?</p>\n<p>It is a pretty lit tradition.</p>\n<p><em>Written by Taryn Harrison</em></p>"
       }
      ],

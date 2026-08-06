@@ -7,6 +7,7 @@
   "description": "This is my third year doing the Irish Life Experience and I can't wait to meet you all this summer..."
  },
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -22,6 +23,7 @@
        "type": "image",
        "id": "d6656d5",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/IMG_2977-scaled.jpg",
        "alt": "Liam B. at Ladies View",
        "link": null
@@ -43,6 +45,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Hi Everyone! </p><p>I’m Liam, and I will be one of your Junior Counselors helping you adjust to Ireland! I will be 17 at the time that we leave for Ireland, and I am super excited to meet you all! </p><p>I am from southwest Montana, and have been doing the Irish Life Experience Program for two years, making this my third. I am super excited to see everyone going to a new (Or familiar) place! </p><p>I am currently a Ski Patroller in training and am a certified Wilderness First Responder. I like to ski, go driving, and play games with my friends. A fun fact about me is that although I am from Montana, I go to school on the East Coast.</p><p>And a personal tip from me is to make sure to bring a card game so that you can find common interests with some of the other travelers! </p><p>See you soon!</p>"
       }
      ],
@@ -65,6 +68,7 @@
        "type": "image",
        "id": "5c96a8c",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/IMG_3089-scaled.jpg",
        "alt": "Joey and Liam at Inch Beach",
        "link": null
@@ -81,6 +85,7 @@
        "type": "image",
        "id": "df1fd6e",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/IMG_3358-scaled.jpg",
        "alt": "Liam and Taryn at the Cliffs of Moher",
        "link": null

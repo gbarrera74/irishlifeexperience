@@ -21,5 +21,10 @@ export function generateMetadata(): Metadata {
 export default function Home() {
   const page = getPage("home");
   if (!page) notFound();
-  return <Blocks blocks={page.blocks} />;
+  return (
+    <>
+      {page.css && <style>{page.css}</style>}
+      <Blocks blocks={page.blocks} />
+    </>
+  );
 }

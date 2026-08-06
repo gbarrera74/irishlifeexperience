@@ -4,11 +4,16 @@
  "path": "/high-school-credit/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"a2dfc0d\"]{margin:0% 20% 0% 20% !important}[data-el=\"41968361\"] :is(h1,h2,h3,h4,h5,h6){font-size:1.5em !important}}@media(max-width:767px){[data-el=\"4dc9c41d\"]{text-align:center !important}[data-el=\"a2dfc0d\"]{margin:0% 2% 0% 2% !important;padding:20px 20px 20px 20px !important}[data-el=\"41968361\"]{text-align:center !important}[data-el=\"41968361\"] :is(h1,h2,h3,h4,h5,h6){font-size:1.5em !important}}@media(max-width:1024px) and (min-width:768px){[data-el=\"a2dfc0d\"]{width:100% !important}}",
  "blocks": [
   {
    "type": "section",
    "id": "44a59de3",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     ":not(.elementor-motion-effects-element-type-background)": {
      "background-color": "#001c31"
     },
@@ -23,6 +28,8 @@
      "max-width": "800px"
     },
     "": {
+     "margin-top": "0px",
+     "margin-bottom": "0px",
      "padding": "100px 0px 100px 0px"
     }
    },
@@ -49,6 +56,7 @@
          "color": "#FFFFFF"
         }
        },
+       "hide": null,
        "text": "High School Credit",
        "tag": "h2",
        "link": null,
@@ -96,6 +104,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p class=\"fsSectionHeading\"><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">It may be possible for you to receive high school credit for participation on the Irish Life Experience, but this is something that you must arrange yourself with your school.</span></p><div class=\"fsSectionText\"><p>Prior to granting credit for your Irish Life Experience summer, your school may have certain conditions and/or state legal requirements such as:</p><ul><li>A specified amount of classroom time dedicated to a particular subject matter.</li></ul><ul><li>Registration for independent study credit in advance.</li><li>Additional requirements as established by a principal or teacher.</li></ul><div> </div><p>If you wish to obtain credit for the Irish Life Experience, we strongly recommend that you check now with someone from your school.  Your school, not the Irish Life Experience, decides whether you receive credit for participation.  Upon your request, we will be happy to provide a class syllabus and course requirements to your school in advance before the trip.  In September, after submittal of your Irish Life Experience notebook, we will send an official letter to the appropriate person at your school summarizing your participation and courses successfully completed.</p></div>"
           }
          ],
@@ -127,8 +136,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "10px 10px 10px 10px",
-           "margin": "0% 2% 0% 2%",
-           "padding": "20px 20px 20px 20px"
+           "margin": "0% 0% 0% 0%",
+           "padding": "3em 3em 3em 3em"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "10px 10px 10px 10px"
@@ -142,6 +151,36 @@
            "type": "form",
            "id": "d1ef6a9",
            "style": {
+            ".elementor-field-group": {
+             "padding-right": "calc( 24px/2 )",
+             "padding-left": "calc( 24px/2 )",
+             "margin-bottom": "11px"
+            },
+            ".elementor-form-fields-wrapper": {
+             "margin-left": "calc( -24px/2 )",
+             "margin-right": "calc( -24px/2 )",
+             "margin-bottom": "-11px"
+            },
+            ".elementor-field-group.recaptcha_v3-bottomleft": {
+             "margin-bottom": "0"
+            },
+            ".elementor-field-group.recaptcha_v3-bottomright": {
+             "margin-bottom": "0"
+            },
+            ".elementor-labels-inline .elementor-field-group > label": {
+             "padding-left": "0px",
+             "padding-right": "0px"
+            },
+            ".elementor-labels-above .elementor-field-group > label": {
+             "padding-bottom": "0px"
+            },
+            ".elementor-labels-inline .elementor-field-group > abbr": {
+             "padding-left": "0px",
+             "padding-right": "0px"
+            },
+            ".elementor-labels-above .elementor-field-group > abbr": {
+             "padding-bottom": "0px"
+            },
             ".elementor-field-group > label": {
              "color": "#1E3A43",
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
@@ -151,6 +190,7 @@
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
             },
             ".elementor-field-type-html": {
+             "padding-bottom": "0px",
              "font-family": "\"Open Sans\", Sans-serif"
             },
             ".dce-signature-wrapper": {
@@ -158,6 +198,7 @@
             },
             ".dce-signature-canvas": {
              "border-radius": "3px 3px 3px 3px",
+             "border-width": "1px 1px 1px 1px",
              "background-color": "#ffffff"
             },
             ".dce-signature-button-clear": {
@@ -166,6 +207,10 @@
             ".dce-signature-button-clear i": {
              "color": "#e62626",
              "font-size": "16px"
+            },
+            ".dce-signature-button-clear svg": {
+             "width": "16px",
+             "height": "16px"
             },
             ".elementor-field-group .elementor-field": {
              "color": "#1E3A43",
@@ -179,18 +224,26 @@
             },
             ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-field-group .elementor-select-wrapper select": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-field-group .elementor-select-wrapper .select2": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
              "background-color": "#ffffff",
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".mce-panel": {
@@ -200,33 +253,41 @@
              "color": "#DDDDDD"
             },
             ".elementor-field-group .mce-panel": {
+             "border-color": "#DDDDDD",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "12px 12px 12px 12px"
             },
             ".elementor-button": {
              "font-family": "\"Open Sans\", Sans-serif",
              "font-weight": "bold",
              "text-transform": "uppercase",
+             "border-style": "solid",
+             "border-width": "1px 1px 1px 1px",
              "border-radius": "100px 100px 100px 100px",
              "padding": "16px 16px 16px 16px"
             },
             ".e-form__buttons__wrapper__button-next": {
              "background-color": "#61CE70",
-             "color": "#ffffff"
+             "color": "#ffffff",
+             "border-color": "#61CE70"
             },
             ".elementor-button[type=\"submit\"]": {
              "background-color": "#61CE70",
-             "color": "#ffffff"
+             "color": "#ffffff",
+             "border-color": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-previous": {
              "color": "#ffffff"
             },
             ".e-form__buttons__wrapper__button-next:hover": {
              "background-color": "#E4978E00",
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-button[type=\"submit\"]:hover": {
              "background-color": "#E4978E00",
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-previous:hover": {
              "color": "#ffffff"
@@ -234,9 +295,12 @@
             ".elementor-field-label-description:after": {
              "border-radius": "50%",
              "padding": "2px 0",
+             "height": "1.2em",
              "line-height": "1",
              "font-size": "80%",
+             "width": "1.2em",
              "text-align": "center",
+             "margin-left": "0.2em",
              "color": "#ffffff",
              "background-color": "#777777"
             },
@@ -247,6 +311,7 @@
              "opacity": "1"
             }
            },
+           "hide": null,
            "formName": "New Form",
            "fields": [
             {
@@ -315,6 +380,7 @@
        "type": "spacer",
        "id": "6bdcdcb3",
        "style": {},
+       "hide": null,
        "size": 10
       },
       {
@@ -337,10 +403,12 @@
             },
             ".elementor-view-framed .elementor-icon": {
              "color": "#61CE70",
+             "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-icon": {
              "font-size": "30px",
@@ -360,6 +428,7 @@
              "color": "#ffffff"
             }
            },
+           "hide": null,
            "icon": "fas fa-map",
            "title": "Address",
            "description": "1 Central Street\n Suite 205\n\n  Middleton, MA 01949",
@@ -383,10 +452,12 @@
             },
             ".elementor-view-framed .elementor-icon": {
              "color": "#61CE70",
+             "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-view-framed:has(:hover) .elementor-icon": {
              "background-color": "#ffffff"
@@ -417,6 +488,7 @@
              "color": "#ffffff"
             }
            },
+           "hide": null,
            "icon": "fas fa-envelope",
            "title": "E-Mail Address",
            "description": "Info@IrishLifeExperience.com",
@@ -440,10 +512,12 @@
             },
             ".elementor-view-framed .elementor-icon": {
              "color": "#61CE70",
+             "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
-             "color": "#61CE70"
+             "color": "#61CE70",
+             "border-color": "#61CE70"
             },
             ".elementor-icon": {
              "font-size": "30px",
@@ -462,6 +536,7 @@
              "color": "#ffffff"
             }
            },
+           "hide": null,
            "icon": "fas fa-phone",
            "title": "Call Us",
            "description": "855-IRISH-LIFE",
@@ -481,17 +556,26 @@
          "padding": "0px 0px 0px 10px"
         },
         ".elementor-divider-separator": {
+         "width": "606px",
          "margin": "0 auto"
         },
         ".elementor-divider": {
          "text-align": "center"
         }
-       }
+       },
+       "hide": [
+        "phone"
+       ]
       },
       {
        "type": "section",
        "id": "6e1e0b20",
-       "style": {},
+       "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        }
+       },
        "children": [
         {
          "type": "column",
@@ -503,20 +587,21 @@
            "id": "41968361",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 15px"
+             "padding": "0px 0px 0px 15px",
+             "border-style": "solid",
+             "border-width": "0px 0px 0px 3px",
+             "border-color": "#61CE70"
             },
             ".elementor-heading-title": {
              "font-family": "\"Open Sans Condensed\", Sans-serif",
-             "font-size": "1.5em",
+             "font-size": "2.1em",
              "font-weight": "bold",
              "text-transform": "uppercase",
              "letter-spacing": "2px",
              "color": "#ffffff"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Our Social Media",
            "tag": "h4",
            "link": null,
@@ -550,6 +635,7 @@
              "color": "#ff7f50"
             }
            },
+           "hide": null,
            "icons": [
             {
              "name": "fab fa-facebook-f",

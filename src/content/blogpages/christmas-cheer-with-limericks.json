@@ -4,6 +4,7 @@
  "path": "/blog/christmas-cheer-with-limericks/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>A limerick is often comical in nature and is composed of five-line stanzas.  It adheres to a strict rhyme scheme and bouncy rhythm, typically making it east to memorize.  </p><p>The scheme is an AABBA structure with an accentual pattern that contains sets of double weakly-stressed syllables.  </p><ol><li> -/--/--/</li><li>-/--/--/</li><li>-/--/</li><li>-/--/</li><li>-/--/--/</li></ol><div> </div><p>While the etymology of the word \"limerick\" has inspired some debate, historians agree it does make reference to the Irish city and county of Limerick.  However, the poems trace more back to England.  Some credit William Shakespeare, some Mother Goose nursery rhymes, and some Edward Lear's self-illustrated <em>Book of Nonsense </em>in 1846.</p><p>Here are some Irish Christmas limericks to sum up the humor and wisdom of the Irish people and to help you spice up the Holiday Season.  </p><p>Dust off the rhyming dictionary, polish up your puns, and share your best limerick with us.  Our mailbox is waiting. </p>"
       }
      ],
@@ -52,6 +54,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><em>A jolly gent from the North Pole,</em></p><p><em>Had a red stocking with a hole.</em></p><p><em>Mrs. Claus stitched it,</em></p><p><em>On the fireplace hitched it,</em></p><p><em>Then filled it with a lump of coal.  </em></p><p> </p><p><em>For Christmas, it is Barbies and Kens,</em></p><p><em>And bicycles, game boys, and light pens.</em></p><p><em>But Dad wrote a letter,</em></p><p><em>Told Santa he would be better,</em></p><p><em>Deliver a Mercedes-Benz!</em></p><p> </p><p><em>When Rudolph got hurt in a fight,</em></p><p><em>He could not lead Santa that night.</em></p><p><em>Too much Christmas cheer, </em></p><p><em>And eggnog, and beer,</em></p><p><em>His red nose was shiny, all night!</em></p><p> </p><p><em>Written by Taryn Harrison</em></p>"
       }
      ],
@@ -67,9 +70,11 @@
        "id": "1c6ac0c",
        "style": {
         "img": {
+         "height": "350px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/maxresdefault.jpg",
        "alt": "Limerick",
        "link": null
@@ -79,9 +84,11 @@
        "id": "659f93f",
        "style": {
         "img": {
+         "height": "350px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/Santa-Claus-Meets-Leprechaun.jpg",
        "alt": "Santa Claus Meets Leprechaun",
        "link": null

@@ -4,6 +4,7 @@
  "path": "/blog/iles-reel-review/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>The Irish have always had the gift of storytelling, so it is no surprise that they have made some brilliant movies over the years.  Grab a bowl of popcorn, turn on Netflix and watch our favorite Irish movies. </p><h4><strong>1.  <em>MICHAEL COLLINS</em>-1996</strong></h4><p><em>Michael Collins</em> paints a picture of the Irish Republican Army’s inspirational strategist and military leader, who fought the British Empire to a standstill.  Liam Neeson has a wonderful performance charged with zest and conviction.  Most who know the history of Ireland know the fate of Michael Collins.  This film leaves the viewer thinking that Ireland may have been united and many lives might have been saved if Collins would have lived.  We will never know, but it is definitely a riveting account.</p><h4><strong>2.  <em>THE QUIET MAN</em>-1952</strong></h4><p>This is an American romantic comedy starring John Wayne and Maureen O’Hara.  It follows a story about an American ex-boxer who returns to his native homeland-Ireland.  He tries to swoon the hand of a spirited young woman but is only questioned by cautious locals and the woman’s protective brother.  Much of the movie is set in some gorgeous Irish scenery with the Irish Life Experience will visit on some of their <a href=\"https://irishlifeexperience.com/students/tours/\">tours</a>.</p><h4><strong>3.  <em>THE WIND THAT SHAKES THE BARLEY-</em>1996</strong></h4><p>This movie is not for the faint of heart.  Set during the Irish War of Independence, Damien (Cillian Murphy) is about to leave Ireland to become a doctor.  Before leaving, he makes the decision to join his brother, Teddy, in the Irish Republican Army.  It becomes a story of two brothers who are torn apart by the Irish’s revolt against the British.  This brings the struggle down to a few people who lay their lives on the line for independence and will leave you shedding some tears.</p><h4><strong>4.  <em>IN THE NAME OF THE FATHER</em>-1993</strong></h4><p>This is a great movie for Irish history buffs, especially those who have an interest in the Troubles of Northern Ireland.  Daniel Day-Lewis stars in this drama about an Irishman and his fight to overturn his wrongful conviction with the Guildford Four in an Irish Republican Army bombing.  It is a beautifully crafted film and an emotional rollercoaster that has great acting!  The bulk of the filming actually took place at <a href=\"https://irishlifeexperience.com/students/tours/\">Kilmainham Gaol</a>, so remember this when the program visits this unique location</p><h4><strong>5.  <em>IN AMERICA</em>-2002</strong></h4><p>This film is about a story of Irish immigrants who move to Manhattan and face some very hard times in America.  We give it a thumbs up.  While emotional, it is eventually up-lifting.  It deals with loss and grief, relationship challenges, personal discovery, and ultimately recovery and triumph as a family starts life over in a new country.</p><h4><strong>6.  <em>PS, I LOVE YOU</em>-2007</strong></h4><p>A tear-jerker for sure, as Hilary Swank (Holly) and Gerard Butler (Gerry) deliver captivating performances based on Cecelia Ahern’s novel.  It is a little different from the book as the film was set in New York.  However, Holly meets Gerry in Ireland while he is singing Galway Girl (If you haven’t heard this song-download the Steve Earle version right away.)  They fall in love and tragedy strikes the couple!  To help cope, Holly returns to Ireland with some of her friends.  As always, before you watch the movie, I would recommend reading the book first.</p><h4><strong>7.  <em>ONCE</em>-2007</strong></h4><p>This is an adorable tale of two kindred spirits who find one another on the bustling streets of Dublin.  Based on a true story and played by themselves, Glen Hansard and Marketa Irglova give a delightful performance that captures the creative process and dreams that music inspires.  The music is delightful and has been turned into a play that was performed in various theaters throughout the US and at the Olympia Theatre in Ireland.</p><h4><strong>8.  <em>FAR AND AWAY</em>-1992</strong></h4><p>While Tom Cruise and Nicole Kidman might have some of the worst Irish accents portrayed in any movie, many still think it is a classic!  It is a story about two Irish immigrants who find freedom, love, and land in America.  Not only are the beginning scenes filmed at <a href=\"https://irishlifeexperience.com/students/tours/\">Muckross House</a> in County Kerry, but Ron Howard creates a story about a romance blooming in a faraway place from home that will leave you with a smile on your face.</p><h4><strong>9.  <em>WAKING NED DEVINE</em>-1998</strong></h4><p>This is a funny, charming, and thoroughly entertaining picture revolving around a winning lottery ticket that transforms the lives of a rural Irish village.  If you enjoy wicked jokes, you will find this movie delightful.  It can lead to a good discussion of the morality of the decisions made by the characters and what they are likely to do after the movie ends.</p><h4><strong>10.  <em>THE COMMITMENTS</em>-1991</strong></h4><p>You have to pay attention carefully, as the Irish brogue and sarcastic wit will go over your head if you are not paying attention.  Jimmy Rabbite aspires to manage the world’s greatest band with only one music in mind-soul.  He holds auditions for musicians in Dublin and assembles a band.  Mustang Sally will leave you toe-tapping along with other tunes. It is both timeless and hilarious!</p><p>What are some of your favorite Irish movies?  We would love to hear yours!</p><p><em>Written by Taryn Harrison</em><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; font-size: 1rem;\"> </span></p>"
       }
      ],
@@ -39,9 +41,11 @@
        "id": "ddb27db",
        "style": {
         "img": {
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/0_collinsPNG.png",
        "alt": "Michael Collins Movie",
        "link": null
@@ -51,9 +55,11 @@
        "id": "372e9ae",
        "style": {
         "img": {
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/11f3e36074d2bf2302b5b76f4e3d48e1.jpg",
        "alt": "Quiet Man Movie",
        "link": null
@@ -63,9 +69,12 @@
        "id": "e9427b5",
        "style": {
         "img": {
+         "width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/download.jpg",
        "alt": "Wind that Shakes the Barley Movie",
        "link": null
@@ -75,9 +84,12 @@
        "id": "e827035",
        "style": {
         "img": {
+         "width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/q4wR7WnWqmyplrcXpvBvepPIUbD.jpg",
        "alt": "In the Name of the Father Movie",
        "link": null
@@ -87,9 +99,12 @@
        "id": "58cbfae",
        "style": {
         "img": {
+         "width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/mcdpsii-ec070-1552487061-scaled.jpg",
        "alt": "PS, I Love You Movie",
        "link": null
@@ -99,9 +114,12 @@
        "id": "34760f2",
        "style": {
         "img": {
+         "width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/in-america-1200-1200-675-675-crop.jpg",
        "alt": "In America Movie",
        "link": null
@@ -111,9 +129,12 @@
        "id": "f7a990a",
        "style": {
         "img": {
+         "width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/once.jpg",
        "alt": "Once Movie",
        "link": null
@@ -123,9 +144,12 @@
        "id": "6ab3575",
        "style": {
         "img": {
+         "width": "100%",
+         "height": "230px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/lYTimGLaSjxZPiyoJjg3fHeCj5D.jpg",
        "alt": "Far and Away Movie",
        "link": null
@@ -150,6 +174,7 @@
        "type": "video",
        "id": "44377a6",
        "style": {},
+       "hide": null,
        "url": "https://www.youtube.com/watch?v=_25Hpf3EOyU"
       }
      ],

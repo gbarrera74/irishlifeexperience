@@ -4,6 +4,7 @@
  "path": "/blog/belfast-a-must-see-movie/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -29,6 +30,7 @@
            "type": "text-editor",
            "id": "112f161",
            "style": {},
+           "hide": null,
            "html": "<p>\"We all have a story to tell.  But what makes each one different is not how the story ends, but rather, the place where it begins.\" Granny in <i>Belfast</i></p><div>Opening in theaters on November 12th, <i>Belfast</i> is the winner of the TIFF People's Choice Award and might be the triumph movie of the year.  Everyone has a story from childhood that will forever remain a vivid memory, but Director Kenneth Branagh has created a heartfelt story from his mind to be one of the glories of this year's cinema.  </div><div> </div><div>The main character, Buddy, grew up during the Troubles in Northern Ireland between the Catholics and the Protestants when violence seemed unescapable.  Buddy's family members were Protestants living in harmony with their Catholic neighbors in a Catholic neighborhood-a neighborhood that was getting attacked by Protestants.  </div><div> </div><div>While the family is living in the epicenter of a civil war, the story is about so much more.  It is about the normalcy of everyday life in a city that craves the interlude of peace.  With a star-studded cast, the emotion that builds in this movie will tear at the heart strings and linger in the memory that will give you a glimpse of the history of Northern Ireland.  </div><div> </div><div>For the last 15 years, the Irish Life Experience has offered a <a href=\"https://irishlifeexperience.com/students/workshops/\">workshop</a> of the Troubles and continues to bring students to some of the gems of Ireland-Belfast and the Antrim Coast.  This gives the Irish Life Experience a better understanding of Northern Ireland's tumultuous past and how far they have come as a nation.  <a href=\"https://irishlifeexperience.com/apply/\">Apply</a> to the program today, g<span style=\"font-size: 1rem;\">rab your friends, and head to the movies to see </span><i style=\"font-size: 1rem;\">Belfast</i><span style=\"font-size: 1rem;\">-this must-see film of the year! </span></div><div><span style=\"font-size: 1rem;\"> </span></div><div><span style=\"font-size: 1rem;\"><i>Written by Taryn Harrison</i></span></div>"
           }
          ],
@@ -47,6 +49,7 @@
              "border-radius": "12px 12px 12px 12px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/11/MV5BODMwYTYyY2ItOWQ5Yi00OTI1LTllYTQtYTdlNWM4YzJhYTM0XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
            "alt": "Belfast-Movie Cover",
            "link": null

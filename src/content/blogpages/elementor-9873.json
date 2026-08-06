@@ -4,6 +4,7 @@
  "path": "/blog/elementor-9873/",
  "seo": {},
  "hasCss": false,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "video",
        "id": "050a4a2",
        "style": {},
+       "hide": null,
        "url": "https://www.youtube.com/watch?v=ZZ5UI1B6sCg"
       }
      ],
@@ -40,6 +42,7 @@
        "type": "video",
        "id": "ccbb663",
        "style": {},
+       "hide": null,
        "url": "https://youtu.be/3OBTC8HhKXw"
       }
      ],
@@ -61,6 +64,7 @@
        "type": "video",
        "id": "65c32ec",
        "style": {},
+       "hide": null,
        "url": "https://youtu.be/CUcBHJ8X_M4"
       }
      ],

@@ -4,6 +4,7 @@
  "path": "/blog/no-treble-whistlin-today/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Greetings from Dublin!! Everyone seemed to sleep soundly through the night...and breakfast was a busy affair, as we share King's Hos with several hundred international kids...some have even made friends with our group. Breakfast was some DELICIOUS crispy hash browns, boiled eggs, choices of cereals with milk or yogurt, and fruit.&nbsp;</p>\n<p>Then, they all had classes--but this time with a surprise! Our Dear Máire (the captain for the Woman's Gaelic Football team--she's basically a celebrity!) came in to teach the kids Gaelic! Dia dhuit, conas atá tú, slán, etc. They also had their normal--and equally amazing--classes from Kaylee, Helen, and Mark.&nbsp;</p>\n<p>Then it was time for dinner! We had delicious wraps, chips, and salad. Mmm. At 2, students had free time to go to Liffey Valley Shopping Center--a shopping mall across the road. It's pretty much the only place you can go outside from King's Hos, as we are fairly far outside of Dublin.&nbsp; But you can also explore the King's Hos grounds, which are vast and lovely. The kids had a grand time playing tennis, volleyball, and hurling.&nbsp;</p>\n<p>Kaylee's amazing tin whistle workshop truly inspired lots of new musicians--we're all impressed.</p>\n<p>Then it was time for tea (breaded chicken, chips, salad, guac, and a brownie), then finishing off the evening with Dance and Drama! Yay!</p>"
       }
      ],
@@ -38,6 +40,7 @@
        "type": "image",
        "id": "cd7b571",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_1986_Original-1-scaled.jpg",
        "alt": "Brogan, Alex, Darcy, and Mary--tin whistle workshop 2024",
        "link": null,

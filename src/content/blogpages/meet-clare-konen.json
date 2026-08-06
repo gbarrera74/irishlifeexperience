@@ -4,6 +4,7 @@
  "path": "/blog/meet-clare-konen/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "image",
        "id": "d081522",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2025/05/20230727_175132_740A51.jpeg",
        "alt": "Clare K. on Bus",
        "link": null
@@ -40,6 +42,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><span style=\"font-weight: 400;\">Hi!  </span></p><p><span style=\"font-weight: 400;\">My name is Clare Konen, and I was born and raised in Montana with a huge family.  I did not have many traveling opportunities until the Irish Life Experience of 2023. </span></p><p><span style=\"font-weight: 400;\">I was encouraged to sign up for the Program by my dad, who wanted me to explore more of the world and find a passion. </span></p><p><span style=\"font-weight: 400;\">I graduated Polson High School last year, and I am currently a Barista at Starbucks in Kalispell, Montana.  </span></p><p><span style=\"font-weight: 400;\">I am going to be starting school and would like to pursue a degree to become a Surgical Technologist.  In the meantime, I enjoy spending my time reading, with my KitchenAid, friends, and family. </span></p><p><span style=\"font-weight: 400;\">Other than the perfect camping spot on a river, Ireland became one of my safe spaces, and I cannot wait to return with all these wonderful people and meet the 2025 Irish Life Experience students!</span></p>"
       }
      ],
@@ -62,6 +65,7 @@
        "type": "image",
        "id": "895e260",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2025/05/IMG_6231-rotated.jpg",
        "alt": "Clare K. with Brother and Dad",
        "link": null
@@ -78,6 +82,7 @@
        "type": "image",
        "id": "b040f40",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2025/05/IMG_6302-scaled.jpeg",
        "alt": "Princess Clare K.",
        "link": null
@@ -94,6 +99,7 @@
        "type": "image",
        "id": "e497de3",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2025/05/IMG_5792-preview-1-scaled.jpg",
        "alt": "Clare K. with Cowboy Hat",
        "link": null

@@ -4,6 +4,7 @@
  "path": "/blog/goodbye-waterford/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "text-editor",
        "id": "d1a47b2",
        "style": {},
+       "hide": null,
        "html": "<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif; font-size: 1rem;\">This Friday morning students had the chance to lay in a bit.&nbsp; The group ate breakfast at 8:45 AM and had some toast, fruit, and cereal.&nbsp; After that, many students finished packing for Dublin.&nbsp; Once everyone’s room was clean and cleared, they packed the bus with their things.&nbsp; Of course, they had to take a picture by the Newtown School sign, as it is tradition.&nbsp; Then it was sadly time to say goodbye to Waterford.&nbsp; We thanked all the wonderful staff for their hospitality and a special thanks to Hugh and John for taking care of our students! It was then 10:30 AM and before we knew it, it was time to get on the bus and travel up to Dublin.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">The bus ride from Waterford to Dublin is about 3 hours in total.&nbsp; About an hour into our trip to Dublin, the group stopped to take a tour of the Irish Heritage National Park at 11:45 AM.&nbsp; The National Heritage Park is an authentic recreation of Ireland's heritage.&nbsp; This remarkable heritage trail features prehistoric campsites, ring forts, crannogs, and other historic landmarks.&nbsp; Not only does this park tell us how we got to where we are, but it tells us so much about who we are today.&nbsp; The tour guide took us through a walk back in time.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">First we were shown the small huts by a fire from the mesolithic era.&nbsp; These campsites were typically small and the homes were made of straw and mud.&nbsp; The students were very engaged and asked lots of questions.&nbsp; Some of the boys wondered how long it took to build these homes during that time.&nbsp; According to history, getting materials and prepping everything would take about 4 months.&nbsp; It would then take an additional 2 months to physically build the home. Following this question Joey asked, “How many families would live in a home like this?”&nbsp; During this time they had smaller families and would try to fit as many people as they could in each home.&nbsp; Because of this it made it easier for them to travel when they needed and to gather all of their belongings.&nbsp; Another good question that students asked was what was the child mortality rate during this time?&nbsp; Our tour guide explained that it was not too high because during this time people were having lots of kids.&nbsp; He said if children made it to at least 15 years old, their life expectancy would be until about 45 years old.&nbsp; It was very interesting to learn more about the history of these campsites through the students questions.</span></p>\n<p><span style=\"font-weight: 400;\">After the tour, the students indulged in their packed lunches and sat at the entrance of the park.&nbsp; Once everyone was done eating, their lunches, the group packed up their trash and headed back to the bus.</span></p>\n<p><span style=\"font-weight: 400;\">They still had about two and a half hours left until they got to King's Hospital.&nbsp; This gave students some time to get a little shut eye.&nbsp; Once they arrived to the school, they got their rooms sorted and everyone settled in.&nbsp; They then had dinner at 5:30 PM, which they had a delicious chicken sandwich with some potatoes on the side and a chocolate chip cookie for dessert.&nbsp; After dinner, students had Dance and Drama at 8:00 PM and then had some time to to relax in their dorms after, before retiring for the evening.&nbsp;&nbsp;</span></p>"
       }
      ],
@@ -37,6 +39,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/image0.jpeg",
        "alt": "Irish National Heritage Park-Group 2022",
        "link": null
@@ -49,6 +52,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/image4.jpeg",
        "alt": "Irish National Heritage Park-2022",
        "link": null
@@ -61,6 +65,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/image8.jpeg",
        "alt": "Irish National Heritage Park Viking Ship-2022",
        "link": null
@@ -89,6 +94,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/image1-1-rotated.jpeg",
        "alt": "Irish National Heritage Park-2022",
        "link": null
@@ -109,6 +115,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "https://irishlifeexperience.com/wp-content/uploads/2022/07/image9-rotated.jpeg",
        "alt": "",
        "link": null

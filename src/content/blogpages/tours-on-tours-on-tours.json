@@ -4,6 +4,7 @@
  "path": "/blog/tours-on-tours-on-tours/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p><span style=\"font-weight: 400;\">After a hearty breakfast at 8:15 AM, students hopped on the bus for a full day of tours and fun.  They started at Kilmainham Gaol, the location where Padraig Pearse and many of the Irish Rebellion leaders were executed.  The guide began with us in the chapel where Grace Gifford and Joseph Plunkett were married before he was promptly executed a few hour later.  We saw several cells in the oldest section, then moved into the wide, Panopticon-style atrium.  Grace Gifford was later imprisoned in Kilmainham like her husband and painted a moving image of the Virgin and Christ inside her cell.</span></p><p><span style=\"font-weight: 400;\">In their Irish History class, the students have been covering the happenings of the Civil War, which took place between June 1922 and May 1923.  The ability to touch the very cell doors in which the figureheads were constrained, brought reality to the words studied in their history books.  Natalie called the tour and jail “morbidly interesting” as the history is fascinating but sad to hear.</span></p><p><span style=\"font-weight: 400;\">The students then had a packed lunch in the beautiful Phoenix Park.  They sat near the Papal Cross and enjoyed the nice weather.  The bus driver gave a quick tour through the park and pointed out the President’s House and the Wellington Monument. </span></p><p><span style=\"font-weight: 400;\">After lunch, they headed to the EPIC Museum about the history of Irish Emigration.  The tour was self-guided and included a passport to stamp in each room.  As the students walked from one interactive room to the next in this modern museum, Ireland’s history unfolded before their eyes.  Each room took them through Ireland’s rich tapestry of history.  This modern museum kept the students engaged and they seemed to enjoy each exhibit.</span></p><p><span style=\"font-weight: 400;\">The next tour was Croke Park.  They got to see the GAA Museum and get a tour of the locker rooms, practice rooms, and see the field up close.  The students loved seeing the empty stadium and locker rooms after enjoying the crowds on Sunday!  It was great learning not just about the GAA and Irish sports, but also how integral Gaelic sports and Croke Park are to Irish culture and history.  They also learned that all athletes in the GAA are amateurs and not paid for playing.  Paddy was absolutely shocked to hear that, as the GAA is the biggest and most watched sports league in Ireland.  </span></p><p><span style=\"font-weight: 400;\">The group headed back to King’s Hospital for a quick dinner and to freshen up, as some students were going to Riverdance at the Gaiety Theatre.  Riverdance opened in 1995, and they are celebrating their 25</span><span style=\"font-weight: 400;\">th</span><span style=\"font-weight: 400;\"> anniversary.  The students were mesmerized with the dancing and the music and could not believe how talented the cast was.  Keira said she could have watched Riverdance all day long. </span></p><p><span style=\"font-weight: 400;\">Exhausted but happy, they went back to King’s Hospital by 10 PM.  The students had some time to relax, but most headed to bed early after such a busy day.</span></p>"
       }
      ],
@@ -42,6 +44,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/IMG_0939-scaled.jpg",
        "alt": "Kilmainham Gaol-Group 2022",
        "link": null
@@ -54,6 +57,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/IMG_0953-scaled.jpg",
        "alt": "EPIC Museum-Group 2022",
        "link": null
@@ -66,6 +70,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/IMG_0962-scaled.jpg",
        "alt": "Croke Park Museum-Group 2022",
        "link": null
@@ -78,6 +83,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/07/July-12.jpg",
        "alt": "Croke Park-2022",
        "link": null

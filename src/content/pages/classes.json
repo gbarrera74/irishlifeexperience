@@ -4,6 +4,7 @@
  "path": "/students/classes/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(min-width:768px){[data-el=\"bc87aea\"]{width:38% !important}[data-el=\"5f5e4d5\"]{width:61.949% !important}[data-el=\"9750745\"]{width:38% !important}[data-el=\"45320da\"]{width:61.949% !important}[data-el=\"60af3aa\"]{width:38% !important}[data-el=\"9a853f7\"]{width:61.949% !important}[data-el=\"55d6830\"]{width:38% !important}[data-el=\"606f748\"]{width:61.949% !important}[data-el=\"9e6a1f0\"]{width:38% !important}[data-el=\"e295af9\"]{width:61.949% !important}[data-el=\"dcfab4c\"]{width:38% !important}[data-el=\"6d71acd\"]{width:61.949% !important}[data-el=\"e3317fc\"]{width:38% !important}[data-el=\"fb3d1ed\"]{width:61.949% !important}}@media(max-width:1024px){[data-el=\"f2e8833\"] .elementor-container{min-height:73vh !important}[data-el=\"f2e8833\"]{padding:68px 0px 75px 0px !important}[data-el=\"555ce17\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"f2e8833\"] .elementor-container{min-height:296px !important}[data-el=\"f2e8833\"]{padding:45px 15px 45px 15px !important}[data-el=\"6cfe6ed\"]{margin:0px 0px 0px 0px !important}[data-el=\"6cfe6ed\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"19d7424\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"19d7424\"]{text-align:center !important}[data-el=\"19d7424\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"c979c62\"]{padding:5px 5px 5px 5px !important}[data-el=\"1fdaa79\"] .elementor-container{max-width:500px !important;min-height:0px !important}[data-el=\"bc87aea\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"bc87aea\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"bc87aea\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"5f5e4d5\"]{padding:16px 16px 16px 16px !important}[data-el=\"c21827a\"]{text-align:center !important}[data-el=\"c21827a\"] :is(h1,h2,h3,h4,h5,h6){font-size:25px !important}[data-el=\"7632c3d\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"7d3b1a7\"]{padding:5px 5px 5px 5px !important}[data-el=\"9750745\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"9750745\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"9750745\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"45320da\"]{padding:16px 16px 16px 16px !important}[data-el=\"7a20a27\"]{text-align:center !important}[data-el=\"7a20a27\"] :is(h1,h2,h3,h4,h5,h6){font-size:25px !important}[data-el=\"192b084\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"721d7f3\"]{padding:5px 5px 5px 5px !important}[data-el=\"60af3aa\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"60af3aa\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"60af3aa\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"9a853f7\"]{padding:16px 16px 16px 16px !important}[data-el=\"4cf8072\"]{text-align:center !important}[data-el=\"4cf8072\"] :is(h1,h2,h3,h4,h5,h6){font-size:25px !important}[data-el=\"5101615\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"b019673\"]{padding:5px 5px 5px 5px !important}[data-el=\"55d6830\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"55d6830\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"55d6830\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"606f748\"]{padding:16px 16px 16px 16px !important}[data-el=\"f5b89bc\"]{text-align:center !important}[data-el=\"f5b89bc\"] :is(h1,h2,h3,h4,h5,h6){font-size:25px !important}[data-el=\"21d0116\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"21d0116\"]{font-size:16px !important}[data-el=\"0813ee3\"]{padding:5px 5px 5px 5px !important}[data-el=\"9e6a1f0\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"9e6a1f0\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"9e6a1f0\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"e295af9\"]{padding:16px 16px 16px 16px !important}[data-el=\"a203cfe\"]{text-align:center !important}[data-el=\"a203cfe\"] :is(h1,h2,h3,h4,h5,h6){font-size:25px !important}[data-el=\"9c7811b\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"9c7811b\"]{font-size:16px !important}[data-el=\"0e40b3e\"]{padding:5px 5px 5px 5px !important}[data-el=\"dcfab4c\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"dcfab4c\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"dcfab4c\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"6d71acd\"]{padding:16px 16px 16px 16px !important}[data-el=\"bfe25e1\"]{text-align:center !important}[data-el=\"bfe25e1\"] :is(h1,h2,h3,h4,h5,h6){font-size:25px !important}[data-el=\"f9fb4a5\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"f9fb4a5\"]{font-size:16px !important}[data-el=\"c78092b\"]{padding:5px 5px 5px 5px !important}[data-el=\"e3317fc\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"e3317fc\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"e3317fc\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"fb3d1ed\"]{padding:16px 16px 16px 16px !important}[data-el=\"19c3072\"]{text-align:center !important}[data-el=\"19c3072\"] :is(h1,h2,h3,h4,h5,h6){font-size:25px !important}[data-el=\"2324df8\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"2324df8\"]{font-size:16px !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -37,20 +40,21 @@
        "id": "6cfe6ed",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "0px 0px 0px 0px"
+         "margin": "0px 0px -30px 0px"
         },
         "": {
          "text-align": "center"
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Student",
        "tag": "h1",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "101px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Classes",
        "tag": "h1",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "8b53609",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -107,7 +113,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -120,6 +126,10 @@
        "type": "section",
        "id": "1fdaa79",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -127,8 +137,7 @@
          "background-color": "#F2F2F2"
         },
         "> .elementor-container": {
-         "min-height": "0px",
-         "max-width": "500px"
+         "min-height": "18vw"
         },
         "": {
          "border-radius": "12px 12px 12px 12px",
@@ -136,6 +145,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -144,14 +156,13 @@
          "id": "bc87aea",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -159,6 +170,7 @@
            "type": "spacer",
            "id": "4e52edd",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -170,7 +182,7 @@
          "id": "5f5e4d5",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -183,14 +195,12 @@
             },
             ".elementor-heading-title": {
              "font-family": "\"Quicksand\", Sans-serif",
-             "font-size": "25px",
+             "font-size": "1.7em",
              "font-weight": "900",
              "color": "#61CE70"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Gaelic Language-8 Hours",
            "tag": "h3",
            "link": null,
@@ -201,14 +211,14 @@
            "id": "7632c3d",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Study basic Irish language, grammar, and vocabulary.  You will also have the chance to hear Gaelic spoken firsthand throughout your journey, especially when you visit the Aran Islands where Gaelic is still their first language.</p>"
           }
          ],
@@ -237,7 +247,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "20px 20px 20px 20px"
     }
    },
    "children": [
@@ -250,6 +260,10 @@
        "type": "section",
        "id": "cf037c5",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -264,6 +278,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -272,14 +289,13 @@
          "id": "9750745",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -287,6 +303,7 @@
            "type": "spacer",
            "id": "024834b",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -298,7 +315,7 @@
          "id": "45320da",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -311,14 +328,12 @@
             },
             ".elementor-heading-title": {
              "font-family": "\"Quicksand\", Sans-serif",
-             "font-size": "25px",
+             "font-size": "1.7em",
              "font-weight": "900",
              "color": "#E4978E"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Irish American History-8 Hours",
            "tag": "h3",
            "link": null,
@@ -329,14 +344,14 @@
            "id": "192b084",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Learn how Ireland and its historic culture was formed, dating back to 2500 BC including:  Pre-Celtic Ireland (c. 2500 BC)-Early Christian Ireland to the Vikings (c. 458-900)-The Normans and Ireland (c. 1200-1400)-Daniel O’Connell and Catholic Emancipation-The English and the Anglo Irish in Ireland-The Famine and Emigration (c. 1850)-From Rising to Independence (c. 1916-1922).</p>"
           }
          ],
@@ -364,7 +379,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "20px 20px 20px 20px"
     }
    },
    "children": [
@@ -377,6 +392,10 @@
        "type": "section",
        "id": "102be08",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -391,6 +410,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -399,14 +421,13 @@
          "id": "60af3aa",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -414,6 +435,7 @@
            "type": "spacer",
            "id": "47b82e6",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -425,7 +447,7 @@
          "id": "9a853f7",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -438,14 +460,12 @@
             },
             ".elementor-heading-title": {
              "font-family": "\"Quicksand\", Sans-serif",
-             "font-size": "25px",
+             "font-size": "1.7em",
              "font-weight": "900",
              "color": "#F3C820"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Irish History-8 Hours",
            "tag": "h3",
            "link": null,
@@ -456,14 +476,14 @@
            "id": "5101615",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Learn how the Irish originally helped American settlements and how it still affects American culture, with a focus on:  Ulster Men and Women Emigrate to Colonies (c. 1750)-The Famine and Mass Emigration (c.1860-1900)-The Irish and the Towns (New York, Boston, Chicago)-“From Shanty to Lace Curtains”-The Irish Join the Middle Classes-The Irish Contributions to the United States-Famous Irish Men and Women.</p>"
           }
          ],
@@ -491,7 +511,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "20px 20px 20px 20px"
     }
    },
    "children": [
@@ -504,6 +524,10 @@
        "type": "section",
        "id": "c3eff8c",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -518,6 +542,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -526,14 +553,13 @@
          "id": "55d6830",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -541,6 +567,7 @@
            "type": "spacer",
            "id": "745d0dc",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -552,7 +579,7 @@
          "id": "606f748",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -565,14 +592,12 @@
             },
             ".elementor-heading-title": {
              "font-family": "\"Quicksand\", Sans-serif",
-             "font-size": "25px",
+             "font-size": "1.7em",
              "font-weight": "900",
              "color": "#6EC1E4"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Irish Literature-8 Hours",
            "tag": "h3",
            "link": null,
@@ -583,14 +608,13 @@
            "id": "21d0116",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
-             "font-family": "\"Open Sans\", Sans-serif",
-             "font-size": "16px"
+             "font-family": "\"Open Sans\", Sans-serif"
             }
            },
+           "hide": null,
            "html": "<p>Study of the Irish writers, playwrights, and poets including:  Paul Durcan, Brian Friel,  Seamus Heaney,  James Joyce, Hugh Leonard, Frank O’Connor, Liam O’Flaherty, JM Synge, Oscar Wilde, and WB Yeats.</p>"
           }
          ],
@@ -618,7 +642,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "20px 20px 20px 20px"
     }
    },
    "children": [
@@ -631,6 +655,10 @@
        "type": "section",
        "id": "0479042",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -645,6 +673,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -653,14 +684,13 @@
          "id": "9e6a1f0",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -668,6 +698,7 @@
            "type": "spacer",
            "id": "b206625",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -679,7 +710,7 @@
          "id": "e295af9",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -692,14 +723,12 @@
             },
             ".elementor-heading-title": {
              "font-family": "\"Quicksand\", Sans-serif",
-             "font-size": "25px",
+             "font-size": "1.7em",
              "font-weight": "900",
              "color": "#61CE70"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Irish Studies-8 Hours",
            "tag": "h3",
            "link": null,
@@ -710,14 +739,13 @@
            "id": "9c7811b",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
-             "font-family": "\"Open Sans\", Sans-serif",
-             "font-size": "16px"
+             "font-family": "\"Open Sans\", Sans-serif"
             }
            },
+           "hide": null,
            "html": "<p>Study of the currency, education, and genealogy, geography of Ireland; the European community, law, media, politics, and social concerns.</p>"
           }
          ],
@@ -745,7 +773,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "20px 20px 20px 20px"
     }
    },
    "children": [
@@ -758,6 +786,10 @@
        "type": "section",
        "id": "a66e856",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -772,6 +804,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -780,14 +815,13 @@
          "id": "dcfab4c",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -795,6 +829,7 @@
            "type": "spacer",
            "id": "ddcaff4",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -806,7 +841,7 @@
          "id": "6d71acd",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -819,14 +854,12 @@
             },
             ".elementor-heading-title": {
              "font-family": "\"Quicksand\", Sans-serif",
-             "font-size": "25px",
+             "font-size": "1.7em",
              "font-weight": "900",
              "color": "#E4978E"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Dance-5 Hours",
            "tag": "h3",
            "link": null,
@@ -837,14 +870,13 @@
            "id": "f9fb4a5",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
-             "font-family": "\"Open Sans\", Sans-serif",
-             "font-size": "16px"
+             "font-family": "\"Open Sans\", Sans-serif"
             }
            },
+           "hide": null,
            "html": "<p>Learn, participate in, and enjoy the traditional folk dances of Ireland.</p>"
           }
          ],
@@ -872,7 +904,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -885,6 +917,10 @@
        "type": "section",
        "id": "6fe8e38",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -899,6 +935,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -907,14 +946,13 @@
          "id": "e3317fc",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -922,6 +960,7 @@
            "type": "spacer",
            "id": "73244bf",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -933,7 +972,7 @@
          "id": "fb3d1ed",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -946,14 +985,12 @@
             },
             ".elementor-heading-title": {
              "font-family": "\"Quicksand\", Sans-serif",
-             "font-size": "25px",
+             "font-size": "1.7em",
              "font-weight": "900",
              "color": "#F3C820"
-            },
-            "": {
-             "text-align": "center"
             }
            },
+           "hide": null,
            "text": "Drama-5 Hours",
            "tag": "h3",
            "link": null,
@@ -964,14 +1001,13 @@
            "id": "2324df8",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
-             "font-family": "\"Open Sans\", Sans-serif",
-             "font-size": "16px"
+             "font-family": "\"Open Sans\", Sans-serif"
             }
            },
+           "hide": null,
            "html": "<p>A study of contemporary Irish drama.&nbsp; Students will be assigned to groups and given historical Irish figures, study them, write a limerick, and prepare a creative group performance.</p>"
           }
          ],

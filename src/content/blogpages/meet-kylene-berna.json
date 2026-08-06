@@ -4,6 +4,7 @@
  "path": "/blog/meet-kylene-berna/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -23,6 +24,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2022/05/279161875_408904711053006_7309040422216414832_n.jpg",
        "alt": "Kylene-2022",
        "link": null
@@ -44,6 +46,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<div>Kylene Berna will be joining the Irish Life Experience Team for 2022 as a Junior Counselor.</div>\n<div>&nbsp;</div>\n<div>Kylene is from Georgetown, Delaware, and is currently studying at La Roche University in Pittsburgh Pennsylvania.&nbsp; She is a motivated student working toward a Bachelor of Fine Arts degree in Interior Design and Architecture.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Kylene loves anything involving art.&nbsp; She spends her time with friends and family, watching movies, and listening to music.</div>\n<div>&nbsp;</div>\n<div>She has a strong passion for traveling and has been to several different countries including Austria, Ecuador, Galapagos Islands, Germany, Ireland, Italy, Jamaica, and Switzerland.</div>\n<div>&nbsp;</div>\n<div>Kylene is a 2019 Irish Life Experience Alumna and <a href=\"https://irishlifeexperience.com/kylene-b-ile-2019/\">Ambassador</a>.&nbsp; She is very thankful and excited to continue her journey with the ILE as a Junior Counselor for 2022.&nbsp; She loves traveling to Ireland and believes it holds a special place in her heart.&nbsp; Taking this journey to a foreign country and getting to observe and study the culture fascinates Kylene.&nbsp; Kylene says, \"Ireland makes me happy and one day I hope to live there!\"</div>\n<div><br></div>\n<div class=\"yj6qo\">&nbsp;She is truly looking forward to meeting all of the 2022 ILE'ers.&nbsp;&nbsp;</div>\n<div class=\"adL\">&nbsp;</div>"
       }
      ],

@@ -4,6 +4,7 @@
  "path": "/blog/irish-christmas-blessings/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:767px){[data-el=\"941194b\"] img{max-width:100% !important}[data-el=\"babf66b\"] img{max-width:100% !important}[data-el=\"2ebfad5\"] img{max-width:100% !important}[data-el=\"78da041\"] img{max-width:100% !important}[data-el=\"d6a889c\"] img{max-width:100% !important}[data-el=\"28a4c41\"] img{max-width:100% !important}}",
  "blocks": [
   {
    "type": "section",
@@ -20,10 +21,12 @@
        "id": "941194b",
        "style": {
         "img": {
-         "max-width": "100%",
+         "max-width": "60%",
+         "height": "400px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/Pinterest-Size-May-the-Blessings-of-Christmas-be-With-You.jpg",
        "alt": "Irish Christmas Blessing #1",
        "link": null
@@ -41,10 +44,12 @@
        "id": "babf66b",
        "style": {
         "img": {
-         "max-width": "100%",
+         "max-width": "60%",
+         "height": "400px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/Pinterest-Size-The-Light-of-the-Christmas-Star-to-you.jpg",
        "alt": "Irish Christmas Blessing #2",
        "link": null
@@ -70,10 +75,12 @@
        "id": "2ebfad5",
        "style": {
         "img": {
-         "max-width": "100%",
+         "max-width": "60%",
+         "height": "400px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/Pinterest-Size-May-you-be-blessed-with-the-spirit-of-the-season.jpg",
        "alt": "Irish Christmas Blessing #3",
        "link": null
@@ -91,10 +98,12 @@
        "id": "78da041",
        "style": {
         "img": {
-         "max-width": "100%",
+         "max-width": "60%",
+         "height": "400px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/Pinterest-Size-This-Christmas-may-you-have…-Walls-for-the-wind-.jpg",
        "alt": "Irish Christmas Blessing #4",
        "link": null
@@ -120,10 +129,12 @@
        "id": "d6a889c",
        "style": {
         "img": {
-         "max-width": "100%",
+         "max-width": "60%",
+         "height": "400px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/Pinterest-Size-The-Magic-of-Christmas-Lingers-On.jpg",
        "alt": "Irish Christmas Blessing #5",
        "link": null
@@ -141,10 +152,12 @@
        "id": "28a4c41",
        "style": {
         "img": {
-         "max-width": "100%",
+         "max-width": "60%",
+         "height": "400px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/12/Pinterest-Size-May-you-never-forget-what-is-worth-remembering-Portrait-Greeting-Card.jpg",
        "alt": "Irish Christmas Blessing #6",
        "link": null
@@ -175,6 +188,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Thank you, Irish American Mom!</p>"
       }
      ],

@@ -4,6 +4,7 @@
  "path": "/blog/give-the-gift-of-travel/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>With the holiday season just around the corner, many people are more excited to give the gift of travel.  And what better way than to help a high school student travel to Ireland with the Irish Life Experience this Christmas.  This will be a wonderful surprise to a student and give our program a much-need boost going into 2022.  </p><p>The travel industry's future is looking bright for the upcoming year and this holiday season will be critical for us to prepare for the year to come.  If anything, this pandemic has helped many people realize what they have taken for granted and what is truly important.  Teenagers have lost so much of their formative years during Covid.  Therefore, there is no better time than this holiday season to share a message of cheer and goodwill as high school students think about the people, places, and things that mean the most to them and their family. </p><p>And when gifting travel, get creative.  Here are some ideas of how to make it look more presentable under the Christmas tree.  </p><p>1.  Wrap a gift card in travel themed wrapping paper.  </p><p>2.  Buy plastic toiletry bottles and fill them with confetti as clues.</p><p>3.  Put a gift card in a travel backpack.  </p><p>4.  Buy a travel guidebook of Ireland and put a gift card inside the pages.</p><p>5.  Buy a journal and write an inscription on the first page.  </p><p>Don't waste any time.  Call 855-IRISH-LIFE to order a gift card today and help a student have a dream trip and create unforgettable memories that will last a lifetime.  </p><p><em>Written by Taryn Harrison</em></p>"
       }
      ],
@@ -39,9 +41,11 @@
        "id": "912ca94",
        "style": {
         "img": {
+         "height": "250px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/11/33930969_s.jpg",
        "alt": "Christmas Present #1",
        "link": null
@@ -51,9 +55,11 @@
        "id": "f46c6ab",
        "style": {
         "img": {
+         "height": "250px",
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/07/AF387BFA-7F95-4933-BF02-1E672D05BD88.png",
        "alt": "Cliffs of Moher Flowers",
        "link": null

@@ -4,6 +4,7 @@
  "path": "/peirce-r-ile-2017/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px){[data-el=\"5fca87f\"] .elementor-container{min-height:73vh !important}[data-el=\"5fca87f\"]{padding:68px 0px 75px 0px !important}[data-el=\"66a7dd0\"]{padding:0px 0px 0px 0px !important}}@media(max-width:767px){[data-el=\"5fca87f\"] .elementor-container{min-height:296px !important}[data-el=\"5fca87f\"]{padding:45px 15px 45px 15px !important}[data-el=\"fe2daf8\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"5e30bf8\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"5e30bf8\"]{text-align:center !important}[data-el=\"5e30bf8\"] :is(h1,h2,h3,h4,h5,h6){font-size:50px !important}[data-el=\"45debe2\"] .elementor-button{padding:1em 3em 1em 3em !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -44,13 +47,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h1",
        "link": null,
@@ -69,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "50px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Ambassadors",
        "tag": "h1",
        "link": null,
@@ -85,6 +90,7 @@
        "type": "spacer",
        "id": "584639f",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -96,7 +102,12 @@
   {
    "type": "section",
    "id": "4a7520f",
-   "style": {},
+   "style": {
+    "": {
+     "margin-top": "60px",
+     "margin-bottom": "60px"
+    }
+   },
    "children": [
     {
      "type": "column",
@@ -111,6 +122,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "src": "/images/wp/2021/10/IMG_7404.jpg",
        "alt": "",
        "link": null
@@ -133,6 +145,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Peirce R.-ILE 2017",
        "tag": "h2",
        "link": null,
@@ -147,6 +160,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>My name is Peirce Robinson.  I live in a suburb outside of Philadelphia, PA and right now I'm a senior at Abington Senior High School.</p><p>This past summer, thanks to my grandparents, I had the opportunity to spend four weeks in Ireland with the Irish Life Experience.  My family has been going on the trip for years and every one of my relatives can attest to the uniqueness of this experience.</p><p>First of all, I just want to say that I did not necessarily think that the people I met on the ILE would change my life.  I had never really been forced to spend such a long time with all new people before, so I was considerably hesitant going into it.  But now I can safely say that I have made so many lifelong friends from different walks of life-friends that I probably never would have spoken to otherwise.  The most amazing thing about the ILE is that every person, despite their differences, has a common drive:  To learn about Irish culture..., and well..., life.</p><p>Now I could rave all about Ireland, the adults, and my fellow students for days, but that would get old for most people very quickly.  So feel free to reach out to me and I'll gladly spend the day going on and on about how amazing the ILE is and how you should apply ASAP.</p>"
       },
       {
@@ -160,6 +174,7 @@
          "color": "#6EC1E4"
         }
        },
+       "hide": null,
        "text": "Visit on Facebook»",
        "tag": "p",
        "link": "https://www.facebook.com/profile.php?id=100008275724073&sk=photos_by",
@@ -175,18 +190,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Go Back",
        "link": ""
       }

@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import type { CSSProperties } from "react";
 import { useCallback, useEffect, useRef, useState } from "react";
 
 export type Testimonial = {
@@ -13,8 +14,11 @@ export type Testimonial = {
 /**
  * Testimonial carousel, matching the Elementor original: two slides visible at
  * a time with a 22px gutter, each a 120px circular photo beside left-aligned
- * copy. Name is 30px/900 coral uppercase, role 16px uppercase, quote 16px
- * Open Sans. Pagination dots only — the original has no arrows.
+ * copy. Pagination dots only — the original has no arrows.
+ *
+ * Name/role/quote typography comes from the page CSS rather than being baked
+ * in: the sister site sets the name at 30px but this one sets it at 20px, and
+ * a hardcoded size silently renders the wrong one.
  *
  * Elementor's version auto-rotated with no way to stop it and no keyboard
  * access. This one pauses on hover and focus, honours prefers-reduced-motion,
@@ -23,9 +27,15 @@ export type Testimonial = {
 export default function TestimonialCarousel({
   items,
   interval = 6000,
+  quoteStyle,
+  nameStyle,
+  detailStyle,
 }: {
   items: Testimonial[];
   interval?: number;
+  quoteStyle?: CSSProperties;
+  nameStyle?: CSSProperties;
+  detailStyle?: CSSProperties;
 }) {
   const [index, setIndex] = useState(0);
   const [paused, setPaused] = useState(false);
@@ -97,12 +107,19 @@ export default function TestimonialCarousel({
                 />
               )}
               <div>
-                <p className="font-sans text-base leading-6 text-navy">{t.quote}</p>
-                <p className="mt-3 font-sans text-[30px] leading-tight font-black text-coral uppercase">
+                <p className="elementor-testimonial__text font-sans text-base leading-6 text-navy" style={quoteStyle}>
+                  {t.quote}
+                </p>
+                <p
+                  className="elementor-testimonial__name mt-3 font-black text-coral uppercase"
+                  style={{ lineHeight: 1.5, ...nameStyle }}
+                >
                   {t.name}
                 </p>
                 {t.detail && (
-                  <p className="font-sans text-base text-navy uppercase">{t.detail}</p>
+                  <p className="elementor-testimonial__title font-sans text-base text-navy uppercase" style={detailStyle}>
+                    {t.detail}
+                  </p>
                 )}
               </div>
             </li>

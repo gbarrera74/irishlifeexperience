@@ -4,6 +4,7 @@
  "path": "/blog/a-fortunate-day-you-couldnt-even-put-a-cork-in-it/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "image",
        "id": "922fd93",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0235-scaled.jpg",
        "alt": "Kinsale--2024",
        "link": null,
@@ -28,6 +30,7 @@
        "type": "image",
        "id": "ab463be",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0222-scaled.jpg",
        "alt": "Charles Fort--2024",
        "link": null,
@@ -37,6 +40,7 @@
        "type": "image",
        "id": "b21471a",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0231-scaled.jpg",
        "alt": "Clare and Mini Mark--2024",
        "link": null,
@@ -46,6 +50,7 @@
        "type": "image",
        "id": "11b039b",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0251.jpg",
        "alt": "Olivia and Finola--2024",
        "link": null,
@@ -63,6 +68,7 @@
        "type": "image",
        "id": "a288978",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0229-scaled.jpg",
        "alt": "Group Pic at Charles Fort--2024",
        "link": null,
@@ -72,6 +78,7 @@
        "type": "image",
        "id": "11a1ae7",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0227-scaled.jpg",
        "alt": "Charles Fort--2024",
        "link": null,
@@ -81,6 +88,7 @@
        "type": "image",
        "id": "08a9281",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0253.jpg",
        "alt": "Neassa, Cork Walking Tour--2024",
        "link": null,
@@ -113,6 +121,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Hello hello hello! What a lovely tour day that approaches us...but first, breakfast and laundry. We then had a sleepy 2-hour bus ride to Cork!!! The sky was a soft blue full of bright sun and wispy clouds, which felt like such a treat when in Ireland (it did, of course, rain several times later in the day). Charles Fort, constructed in 1640, is Europe's best-preserved star-shaped fort. We learned all about the purpose to the star shape, the history of the sole siege on the fort (they lost), the ghost that haunts the barracks, and why the walls are full of dirt. </p><p>After the tour and some wandering time, we headed back to the bus for our lunches. Theo and Cat were particularly excited for our packed lunch, which was great to hear. Everyone grabbed their sandwiches, crisps, water, apples, and chocolate, and we drove on over to Kinsale, Ireland's foodie capitol and one of our most favorite towns. A beautiful rainbow of little buildings set amongst the glittering bay, we all had an hour or so to stroll around. Ice cream and book shops were among some favorite stops, though some preferred to bask in the rare sunshine. </p><p>After a little while, it was time to head back for our last stop of the day--Cork! You know what they say about Cork--'Ireland is like a bottle, without a Cork, it sinks!' The second biggest city in Ireland, Cork is a bustling hub of culture, so we first had a walking tour with the lovely Neassa. She walked the kids around Cork, stopping at famous landmarks and offering out really fab tips. Then Taryn let everyone go (with their buddies, of course) with a 10 Euro stipend each for dinner. SuperMacs (Irish McDonald's), and Nando's being the popular choices. The girls also popped into Penneys. </p><p>Then, we all sleepily clambered back onto the bus. The hour and a half drive back sported an unreal view of the hills and coasts, though most were lulled into an irresistible sleep. Upon arriving home, Lauren, Elia, and a few others decided to watch the Goonies, and some of the boys (including Errol, Brogan, and Alex), enjoyed some time to play with their hurleys and slíotars. </p><p>Then it was bed check, and everyone really hit the hay hard after such a tiring--yet fulfilling--tour day. </p>"
           }
          ],
@@ -134,6 +143,7 @@
            "type": "image",
            "id": "0cbf911",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0250.jpg",
            "alt": "James, Aiden, Errol, Cecilia, Joy, Kate, and Parker--Kinsale--2024",
            "link": null,
@@ -151,6 +161,7 @@
            "type": "image",
            "id": "1230858",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0249.jpg",
            "alt": "Aiden and puppy--2024",
            "link": null,

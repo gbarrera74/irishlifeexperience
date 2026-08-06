@@ -4,6 +4,7 @@
  "path": "/blog/could-you-ask-for-a-kylemore-perfect-day/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -34,12 +35,14 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The morning dawned in a rush of warm sunlight and a gentle sprinkling of rain here and there. Everyone is very very excited for today–we are going to the incredible Connemara region! This is a landscape full of untamed beauty–a wildness that only Mother Earth can create herself.&nbsp;</p><p>We had a quick picture stop at a little feed a lamb farm, which Patrick, Hauk, and Tim especially loved (cafe, sheep, and rock throwing all at once?! Say no more).</p><p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Our first tour is</span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">&nbsp;a fan favorite–Kylemore Abbey! Once a school, it is now kept open by the Kylemore nuns as a tourist attraction. The Abbey is perched at the edge of a huge lake, standing sentinel amongst the hardwood trees and ferns and the many creatures that call this wooded area home, like the famous Connemara ponies. Everyone strolled around both the Abbey and the gorgeous church, or across the grounds to the Victorian Walled Garden. It was amazing!</span><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">&nbsp;</span></p>\n<p><span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">Next up is an ILE classic–Dan O’ Hara’s Cottage, a realistic famine farm. Everyone loaded into a shuttle pulled by a big ol' famine tractor. Although the Montana and Idaho kids felt right at home (cough cough, Parker, Liam, Olivia, and Cash!), some of the other kids seemed to be in a state of perpetual confusion. Martin, our hilarious tour guide and absolute icon, showed us how to cut turf with a tradition tool called a “sléan,” and lots of students got to try cutting some!&nbsp;</span><br></p>\n<p>We then got a tour of the house and small property, where you can look out at the surrounding valley sprawled below you like a massive quilt, complete with squares of bogland and rushes and grazing sheep.&nbsp;<span style=\"color: var( --e-global-color-f3735e1 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: 1rem;\">&nbsp;</span></p>\n<p>We then all headed home to Gort Na Coirbe. Here, we had free time in Galway, then free time at campus after 8, where the apartments hung out together, watched movies, and ate their home-cooked meals. Goodnight from Galway! We are ready for two more incredible days of adventure!&nbsp;</p>"
           },
           {
            "type": "google_maps",
            "id": "619ba78",
-           "style": {}
+           "style": {},
+           "hide": null
           }
          ],
          "width": 50
@@ -53,6 +56,7 @@
            "type": "image",
            "id": "bec1d6a",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0725-scaled.jpg",
            "alt": "Kylemore abbey--2024",
            "link": null
@@ -61,6 +65,7 @@
            "type": "image",
            "id": "57726ff",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0723-scaled.jpg",
            "alt": "Kylemore abbey group pic--2024",
            "link": null
@@ -69,6 +74,7 @@
            "type": "image",
            "id": "6dfa07a",
            "style": {},
+           "hide": null,
            "src": "/images/wp/2024/07/IMG_0721-scaled.jpg",
            "alt": "Group Pic Connemara--2024",
            "link": null

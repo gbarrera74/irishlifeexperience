@@ -4,6 +4,7 @@
  "path": "/blog/a-fair-ly-fun-day-what-tra-more-could-you-want/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "image",
        "id": "8ea5cd4",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0244.jpg",
        "alt": "Mary and Cash, Tramore--2024",
        "link": null,
@@ -28,6 +30,7 @@
        "type": "image",
        "id": "7bef0b0",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0243.jpg",
        "alt": "Helen, Cecilia, Joy, Kate, and Bridget in Tramore--2024",
        "link": null,
@@ -36,7 +39,8 @@
       {
        "type": "google_maps",
        "id": "fd56e1d",
-       "style": {}
+       "style": {},
+       "hide": null
       }
      ],
      "width": 16
@@ -55,6 +59,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Good morning, loves!! What a delightful day we had today. We started off with our classic breakfast and amazing classes (Irish American History, Irish History, Irish Literature, and Irish Studies), followed by a delightful dinner of pork chops, stuffing, veg, gravy, soup, and naturally, potatoes. :)&nbsp;</p>\n<p>Then we all boarded up on our bus, where Anthony, our bus driver, took us through rolling green hills and windy roads to a lovely little shop called <i>Peter Flanagan Hurleys.</i>&nbsp;Peter and Patrice&nbsp;have been long-standing friends with Taryn, and they hand make arguably the best hurleys in all of Ireland. Lots of kids picked out their own hurleys and slíotars (balls similar to baseballs), and happy faces were all around as we headed off in the bus again.&nbsp;</p>\n<p>But happy skies were not in our future, and everyone looked out the window to see the fast-approaching storm clouds rumbling towards us. Plans were quickly changed, and instead of doing our Deise Greenway Bike Ride, we rode on over to Tramore, a lovely little coastal vacation town. Students had about two hours to try out the carnival rides and walk along the coastal shops. Theo and Cat had a lovely plunge in the ocean, Ava and Grace strolled around the shopfronts and got some lovely ice cream, and the rest of the kids tried out all the fair rides.&nbsp;</p><p>After a pleasant drive home, we were greeted with spaghetti and garlic bread for tea, some down time, then another lovely session of dance and drama. Students are working on a music video, and our lovely Clare taught them the first few counts to a cáilí! (The Walls of Limerick).&nbsp;</p><p>We also have a new friend...Mini Mark. Stay tuned for more adventures.&nbsp;</p><p>There was some down time on campus before everyone headed off to bed. Zzzzz. Sweet dreams, all! Big tour day tomorrow!&nbsp;</p>"
       }
      ],
@@ -69,6 +74,7 @@
        "type": "image",
        "id": "e693d9a",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0241.jpg",
        "alt": "Dance Class! 2024",
        "link": null,
@@ -78,6 +84,7 @@
        "type": "image",
        "id": "7364c9c",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/IMG_0240.jpg",
        "alt": "Peter Flanagan Hurleys, 2024",
        "link": null,
@@ -87,6 +94,7 @@
        "type": "image",
        "id": "ce85b00",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2024/07/8552de36-47c9-46b6-a771-a60bf4f22c20.jpg",
        "alt": "Errol and Mini Mark--2024",
        "link": null,

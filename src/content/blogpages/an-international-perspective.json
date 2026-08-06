@@ -4,6 +4,7 @@
  "path": "/blog/an-international-perspective/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>The Irish Life Experience, to me, means freedom, independence, education, and an international perspective.</p><p>Raised by my Dad, an Irish immigrant and Mom, the daughter of Irish immigrants, I had a strong Irish background.  What I gained the summer I was sixteen was so much more than experiencing the Irish family connection.  The trip had such an impact on me that I returned to Gormanston College, the main location of our 1978 adventure in 2018 for a visit.</p><p>The grounds of Gormanston, where I spent so much time that summer, did not disappoint as an adult.  They were still beautiful and powerful.</p><p>The memories came flooding back.</p><p>Of soccer games,</p><p>Irish dancing,</p><p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; font-size: 1rem;\">The Gaelic language lessons,</span></p><p>The Irish history lessons,</p><p>The bus trips,</p><p>The sing-songs,</p><p>The theatre shows,</p><p>The camaraderie with students across the country.</p><p>No parents or siblings, just a group of teenagers to spend 5 1/2 weeks studying all things Irish.</p><p>The freedom, the fun, the laughter, and the experiences changed me that summer of my 16th year.  I gained life-long friends and a love of my Dad’s homeland along with knowledge of the country.</p><p>I finished Trinity while on the Irish Life Experience, complementing all I was learning in class at Gormanston.  That fascinating summer, nothing beat the dormitory living:  The “private space” we all had drawn by a curtain, that opened to the sounds of the huge room.  After lights out, flashlights on as chocolate was shared and confidences whispered.</p><p>Phone access was limited to two in the hallway covered by a clear plastic dome.  Phone calls were expensive.  A few students lined up weekly, others once during our time, but all of us wrote letters.</p><p>In 2018, I traveled trailing my light purple carry-on, instead of the soft-sided light blue mammoth of a suitcase I needed to carry of old.  A trip to Newgrange, where we went for a picnic with no entry fee, was like a new site after forty years-now a UNESCO site and tourist attraction.</p><p>I think of today’s group whose experience will be so different.  With access to Wi-Fi and the internet, connecting to home no longer will be a project.  Traveling around Ireland with its better roads and much improved tourist sites, learning will be easier.  The experience will be the same though-a mix of Irish education and self-knowledge.</p><p>In 1978, The Irish Life Experience created a freedom and fun opportunity to learn and to experience so much more than our limited American lives.  By traveling overseas for education, my perspective was broadened not just of Ireland, but an understanding of the international culture of groups across the world.</p><p>Times have changed and the program has shifted, but not lost focus.  I am forever thankful to the fine people who have continued offering this program.  I would go again in a heartbeat. </p><p>-<b>Christine Moriarty</b></p>"
       }
      ],
@@ -45,6 +47,7 @@
        "type": "image",
        "id": "6359029",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/05/unnamed-2-scaled.jpg",
        "alt": "Christine Moriarty-2018",
        "link": null
@@ -61,6 +64,7 @@
        "type": "image",
        "id": "97cc730",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/05/unnamed.jpg",
        "alt": "Trees-2018",
        "link": null
@@ -85,6 +89,7 @@
        "type": "image",
        "id": "b921f3a",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/05/unnamed.jpg",
        "alt": "Newgrange #1-2018",
        "link": null
@@ -101,6 +106,7 @@
        "type": "image",
        "id": "34ea534",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/05/unnamed-1-scaled.jpg",
        "alt": "Newgrange #2-2018",
        "link": null

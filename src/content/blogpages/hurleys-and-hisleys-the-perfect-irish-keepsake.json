@@ -4,6 +4,7 @@
  "path": "/blog/hurleys-and-hisleys-the-perfect-irish-keepsake/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Hurling is a traditional Irish team sport, along with camogie (The female version of hurling.)  It is one of the fastest games on grass and quite possibly one of the most skillful games in the world.  It is also one of the oldest with its traditions dating back to 1272 BC. </p><p>It is a stick and ball game, played by teams of 15 on a rectangular grass pitch with H-shaped goals.  The stick that is used is called a hurley and the ball is called a sliotar.  The objective is to score by putting the ball over the bar by scoring a point or through the net by scoring three points. </p><p>Every summer students participate in this <a href=\"https://irishlifeexperience.com/students/workshops/\">workshop</a> and it becomes one of their favorite experiences of the program.  Many students fall in love with the sport, purchase a hurley and a sliotar, and try to introduce it to their skillful friends back home.  </p><p>If you are looking for a unique Irish gift, then Peter Flanagan's Hurleys might be the perfect answer.  These beautifully crafted masterpieces are handmade in Knockenduff, Tramore in County Waterford and are used by camogie and hurlers all around Ireland and beyond.  Peter and Patrice Flanagan have been in business for over 15 years and their products have been helping victorious Irish players for years.    </p><p>You will definitely be victorious with this amazing Irish purchase for either yourself or a loved one.  And if you are ever in the southeast of Ireland on a vacation with <a href=\"https://junipertours.com/\">Juniper Tours</a>, then be sure to stop by the Flanagans and say hello to Patrice and Peter from the Irish Life Experience.  </p><p>Shop online at <a href=\"https://www.peterflanaganhurleysandsports.ie/shop/\">Peter Flanagan Hurleys and Sports Store</a>.  They even ship abroad.  You will definitely be impressed with your keepsake of a treasure.  </p><p><em>Written by Taryn Harrison</em></p>"
       }
      ],
@@ -38,12 +40,14 @@
        "type": "spacer",
        "id": "fa79a3a",
        "style": {},
+       "hide": null,
        "size": 95
       },
       {
        "type": "image",
        "id": "4d46b03",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2021/10/IMG_5451-scaled.jpg",
        "alt": "Peter Flanagan Hurleys-Small Group 2019",
        "link": null
@@ -68,6 +72,7 @@
        "type": "video",
        "id": "84848cc",
        "style": {},
+       "hide": null,
        "url": "https://www.youtube.com/watch?v=ulnqGSNvAmw&t=8s"
       }
      ],

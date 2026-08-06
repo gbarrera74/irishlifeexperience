@@ -4,6 +4,7 @@
  "path": "/blog/meet-kaytlin-dwyer/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -19,6 +20,7 @@
        "type": "image",
        "id": "7e53e70",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/OVERALLFAV-scaled.jpg",
        "alt": "Kaytlin D. at University of Arkansas Headshot",
        "link": null
@@ -40,6 +42,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p class=\"isSelectedEnd\">Hello!</p><p class=\"isSelectedEnd\">My name is Kaytlin Dwyer, and I am from Springdale, Arkansas. I am a graduating senior at the University of Arkansas, where I majored in Anthropology, a field that has deepened my appreciation for culture, history, and human connection.</p><p class=\"isSelectedEnd\">I am also an Open Champion Irish dancer and have been competing and performing for 17 years. Irish dance has been such a meaningful part of my life, shaping not only my discipline and work ethic but also my love for Irish culture and traditions.</p><p>This will be my first time traveling to Ireland, which makes this experience even more special. I am incredibly excited to finally visit a place that has been such a big part of my life through dance. I feel so grateful to share this journey with such an amazing group, and I can not wait to meet everyone, teach some Irish dance, and experience all that Ireland has to offer together.</p><p>I am especially looking forward to making lasting memories, building connections, and celebrating Irish culture in a whole new way!</p><p>See you soon!</p>"
       }
      ],
@@ -62,6 +65,7 @@
        "type": "image",
        "id": "c250e4b",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/Screenshot-2026-05-06-at-10.22.58-AM.png",
        "alt": "Kaytlin D. Irish Dancing",
        "link": null
@@ -78,6 +82,7 @@
        "type": "image",
        "id": "4308f02",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2026/05/1Fave-scaled.jpg",
        "alt": "A woman in a red dress and high heels stands smiling near a black stone fountain with statues of wild boars on rocks behind her.",
        "link": null

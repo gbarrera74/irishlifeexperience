@@ -4,6 +4,7 @@
  "path": "/alumni/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(min-width:768px){[data-el=\"cdd85c1\"]{width:38% !important}[data-el=\"6cbccd5\"]{width:61.949% !important}[data-el=\"305ad97\"]{width:38% !important}[data-el=\"359baec\"]{width:61.949% !important}[data-el=\"4879a8c\"]{width:38% !important}[data-el=\"18400dd\"]{width:61.949% !important}[data-el=\"0d5e6b4\"]{width:38% !important}[data-el=\"dc31e11\"]{width:61.949% !important}[data-el=\"03aef14\"]{width:38% !important}[data-el=\"6424240\"]{width:61.949% !important}}@media(max-width:1024px){[data-el=\"76c7682\"] .elementor-container{min-height:73vh !important}[data-el=\"76c7682\"]{padding:68px 0px 75px 0px !important}[data-el=\"118a07c\"]{padding:0px 0px 0px 0px !important}[data-el=\"946ab97\"]{padding:2em 2em 2em 2em !important}[data-el=\"b512700\"]{text-align:center !important}[data-el=\"9ac14d7\"]{text-align:center !important}}@media(max-width:767px){[data-el=\"76c7682\"] .elementor-container{min-height:296px !important}[data-el=\"76c7682\"]{padding:45px 15px 45px 15px !important}[data-el=\"c910e15\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"c910e15\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important;letter-spacing:2px !important}[data-el=\"91817e9\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"91817e9\"]{text-align:center !important}[data-el=\"91817e9\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"25d1636\"]{margin-top:0px !important;margin-bottom:0px !important;padding:0px 0px 0px 0px !important}[data-el=\"946ab97\"]{padding:10px 10px 10px 10px !important}[data-el=\"b512700\"] :is(h1,h2,h3,h4,h5,h6){font-size:30px !important}[data-el=\"9ac14d7\"]{padding:1px 1px 1px 1px !important}[data-el=\"7112a2d\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"7112a2d\"]{text-align:center !important}[data-el=\"0a46b34\"]{padding:5px 5px 5px 5px !important}[data-el=\"cdd85c1\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"cdd85c1\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"cdd85c1\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"6cbccd5\"]{padding:16px 16px 16px 16px !important}[data-el=\"9dd3f80\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"27d2a05\"]{padding:5px 5px 5px 5px !important}[data-el=\"305ad97\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"305ad97\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"305ad97\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"359baec\"]{padding:16px 16px 16px 16px !important}[data-el=\"237626e\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"701960c\"]{padding:5px 5px 5px 5px !important}[data-el=\"4879a8c\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"4879a8c\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"4879a8c\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"18400dd\"]{padding:16px 16px 16px 16px !important}[data-el=\"6c64706\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"9119004\"]{padding:5px 5px 5px 5px !important}[data-el=\"0d5e6b4\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"0d5e6b4\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"0d5e6b4\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"dc31e11\"]{padding:16px 16px 16px 16px !important}[data-el=\"8bd9a2d\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"4391c7d\"]{padding:5px 5px 5px 5px !important}[data-el=\"03aef14\"]{border-radius:5px 05px 0px 0px !important;padding:60px 0px 60px 0px !important}[data-el=\"03aef14\"] .elementor-element-populated > .elementor-background-overlay{border-radius:5px 05px 0px 0px !important}[data-el=\"03aef14\"] .elementor-background-slideshow{border-radius:5px 05px 0px 0px !important}[data-el=\"6424240\"]{padding:16px 16px 16px 16px !important}[data-el=\"d8ecf38\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"b92029e\"]{padding:10px 10px 10px 10px !important}[data-el=\"7a60e03\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"7a60e03\"]{text-align:center !important}[data-el=\"d32c6d0\"]{padding:5px 5px 5px 5px !important}[data-el=\"de8a1da\"] .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.54 * 100% ) !important}[data-el=\"de8a1da\"] .elementor-post__thumbnail__link{width:100% !important}}@media(max-width:1024px) and (min-width:768px){[data-el=\"0d1c9e4\"]{width:100% !important}[data-el=\"946ab97\"]{width:100% !important}[data-el=\"05cf473\"]{width:100% !important}}",
  "blocks": [
   {
    "type": "section",
@@ -15,10 +16,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -37,21 +40,21 @@
        "id": "c910e15",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "0px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "margin": "0px 0px -30px 0px"
         },
         "": {
          "text-align": "center"
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
-         "letter-spacing": "2px",
+         "letter-spacing": "2.1px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Our",
        "tag": "h1",
        "link": null,
@@ -70,13 +73,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Alumni",
        "tag": "h1",
        "link": null,
@@ -86,6 +90,7 @@
        "type": "spacer",
        "id": "961a7d9",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -98,6 +103,10 @@
    "type": "section",
    "id": "98213a5",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     ":not(.elementor-motion-effects-element-type-background)": {
      "background-color": "#ffffff"
     },
@@ -118,19 +127,16 @@
        "type": "section",
        "id": "25d1636",
        "style": {
-        "": {
-         "padding": "0px 0px 0px 0px"
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-end",
+         "align-items": "flex-end"
         }
        },
        "children": [
         {
          "type": "column",
          "id": "946ab97",
-         "style": {
-          "> .elementor-element-populated": {
-           "padding": "10px 10px 10px 10px"
-          }
-         },
+         "style": {},
          "children": [
           {
            "type": "heading",
@@ -140,11 +146,11 @@
              "margin": "0px 0px 0px 0px"
             },
             "": {
-             "text-align": "center"
+             "text-align": "start"
             },
             ".elementor-heading-title": {
              "font-family": "\"Nothing You Could Do\", Sans-serif",
-             "font-size": "30px",
+             "font-size": "40px",
              "font-weight": "bold",
              "text-transform": "capitalize",
              "line-height": "1.5em",
@@ -152,6 +158,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Welcome Friends",
            "tag": "h3",
            "link": null,
@@ -163,13 +170,10 @@
            "style": {
             "": {
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
-             "color": "#1E3A43",
-             "text-align": "center"
-            },
-            "> .elementor-widget-container": {
-             "padding": "1px 1px 1px 1px"
+             "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Throughout the years, our alumni have played a tremendous part in the success and sustainability of our programs.  We will always be indebted to our community for helping us promote these special opportunities to today's youth.  </p><p>We are committed to helping engage with students past, present, and future and hoping this will serve as a great resource to stay connected with one another moving forward.  </p><p>Let us remember how impactful this program was in our formative years and work together to make sure this program lasts forever.</p>"
           }
          ],
@@ -198,6 +202,7 @@
          "border-radius": "12px 12px 12px 12px"
         }
        },
+       "hide": null,
        "images": [
         "/images/wp/2021/09/IW.jpg",
         "/images/wp/2021/09/IMG_0304-scaled.jpg",
@@ -235,7 +240,7 @@
        "style": {
         "> .elementor-widget-container": {
          "margin": "0px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "padding": "0px 0px 22px 0px"
         },
         "": {
          "text-align": "center"
@@ -247,6 +252,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Stay Connected",
        "tag": "h1",
        "link": null,
@@ -271,7 +277,9 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -284,6 +292,10 @@
        "type": "section",
        "id": "f4a2e1c",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -298,6 +310,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -306,14 +321,13 @@
          "id": "cdd85c1",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -321,6 +335,7 @@
            "type": "spacer",
            "id": "0fd2ea6",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -339,7 +354,7 @@
          "id": "6cbccd5",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -357,6 +372,7 @@
              "color": "#61CE70"
             }
            },
+           "hide": null,
            "text": "Durham Family Thoughts",
            "tag": "h3",
            "link": null,
@@ -367,14 +383,14 @@
            "id": "9dd3f80",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The Durham family has been a huge supporter of this program for decades. Starting with four siblings and now with four from the next generation.&nbsp; This is not just a tourist trip to Ireland.&nbsp; This is an opportunity of a lifetime.&nbsp; Traveling to Ireland, learning the history and culture, making new friends, learning self-reliance, and gaining independence are just a few of the benefits.&nbsp; Simply put, this program is priceless.</p>\n<p>Listen to Maureen and give the gift of a lifetime to a special teen in your life!</p>"
           }
          ],
@@ -402,7 +418,9 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -415,6 +433,10 @@
        "type": "section",
        "id": "5232bf5",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -429,6 +451,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -437,14 +462,13 @@
          "id": "305ad97",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -452,6 +476,7 @@
            "type": "spacer",
            "id": "6656ca0",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -463,7 +488,7 @@
          "id": "359baec",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -481,6 +506,7 @@
              "color": "#61CE70"
             }
            },
+           "hide": null,
            "text": "A New Book from Alumna Author",
            "tag": "h3",
            "link": null,
@@ -491,14 +517,14 @@
            "id": "237626e",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div>\n<p>Get your copy on Amazon of Elevation and Beyond.&nbsp; It is the true story of the birth of unreasonable devotion to a rock band.&nbsp; It is one fan's voyage through life within the context of that devotion.&nbsp; The narrative follows an arcing, sometimes looping, process from self-centered isolation to connection and integration.</p>\n<p>The process begins within the context of an Irish Catholic family upbringing in the eighties, where the author as a child is exposed to and impressed upon by the music of U2 through the vinyl records of her older siblings.&nbsp; Upon arrival into adolescence, she sustains a traumatic brain injury; the subsequent blanket of post-concussive depression and isolated misery is infiltrated only by the lighted images of Bono singing and smoking alone at a darkened bar in the video for \"One\" in 1992.</p>\n<p>From there, the chase begins.&nbsp; Movement out of fear and alienation is spurred by the fire of her passion for U2 and U2 music.&nbsp; From a lonely teenage bedroom wall-papered with pictures of Bono and U2, she makes her debut at college with a drive to see U2 live in concert again, and again, and again.</p>\n</div>\n<div><em>Written by Marcy Gannon-Author and Irish Life Experience/Irish Way Alumna 1993</em></div>"
           }
          ],
@@ -526,7 +552,9 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -539,6 +567,10 @@
        "type": "section",
        "id": "cf1594b",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -553,6 +585,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -561,14 +596,13 @@
          "id": "4879a8c",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -576,6 +610,7 @@
            "type": "spacer",
            "id": "bf48287",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -587,7 +622,7 @@
          "id": "18400dd",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -605,6 +640,7 @@
              "color": "#61CE70"
             }
            },
+           "hide": null,
            "text": "Reconnecting on Social Media",
            "tag": "h3",
            "link": null,
@@ -615,14 +651,14 @@
            "id": "6c64706",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Have you lost contact with friends from your summer on the Irish Life Experience?</p><p>Over the years, groups have established their own social media pages. If you are having difficulties finding your friends on Instagram and Facebook, please reach out to our team to see if they can help you.</p>"
           }
          ],
@@ -650,7 +686,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "10px 10px 10px 10px"
     }
    },
    "children": [
@@ -663,6 +699,10 @@
        "type": "section",
        "id": "b1ad767",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -677,6 +717,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -685,14 +728,13 @@
          "id": "0d5e6b4",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -700,6 +742,7 @@
            "type": "spacer",
            "id": "5969a5c",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -711,7 +754,7 @@
          "id": "dc31e11",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -729,6 +772,7 @@
              "color": "#E4978E"
             }
            },
+           "hide": null,
            "text": "Irish Dance Journals",
            "tag": "h3",
            "link": null,
@@ -739,14 +783,14 @@
            "id": "8bd9a2d",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Calling all Irish dancers.  Irish alumna, counselor, and dancer extraordinaire, Casey O'Connor Kelly recently published three Irish Dance Journals on Amazon.</p><p>It is sprinkled with coloring pages, inspiration, and tips to encourage you along the way to meeting your dance goals.  </p><p>Order them, check it out, and keep practicing those 1, 2, 3's!</p>"
           }
          ],
@@ -774,7 +818,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "10px 10px 10px 10px"
     }
    },
    "children": [
@@ -787,6 +831,10 @@
        "type": "section",
        "id": "cf451fc",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "center",
+         "align-items": "center"
+        },
         ":not(.elementor-motion-effects-element-type-background)": {
          "background-color": "#F2F2F2"
         },
@@ -801,6 +849,9 @@
         },
         "> .elementor-background-overlay": {
          "border-radius": "12px 12px 12px 12px"
+        },
+        ":hover": {
+         "box-shadow": "0px 4px 8px 0px rgba(0,0,0,0.1)"
         }
        },
        "children": [
@@ -809,14 +860,13 @@
          "id": "03aef14",
          "style": {
           "> .elementor-element-populated": {
-           "border-radius": "5px 05px 0px 0px",
-           "padding": "60px 0px 60px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           },
           "> .elementor-background-slideshow": {
-           "border-radius": "5px 05px 0px 0px"
+           "border-radius": "2% 0% 0% 2%"
           }
          },
          "children": [
@@ -824,6 +874,7 @@
            "type": "spacer",
            "id": "62511b5",
            "style": {},
+           "hide": null,
            "size": null
           }
          ],
@@ -835,7 +886,7 @@
          "id": "6424240",
          "style": {
           "> .elementor-element-populated": {
-           "padding": "16px 16px 16px 16px"
+           "padding": "32px 32px 32px 32px"
           }
          },
          "children": [
@@ -853,6 +904,7 @@
              "color": "#F3C820"
             }
            },
+           "hide": null,
            "text": "Alumna Starts Life in Ireland",
            "tag": "h3",
            "link": null,
@@ -863,14 +915,14 @@
            "id": "d8ecf38",
            "style": {
             "> .elementor-widget-container": {
-             "padding": "0px 0px 0px 0px",
-             "margin": "0px 0px 0px 0px"
+             "padding": "0px 20px 0px 0px"
             },
             "": {
              "font-family": "var( --e-global-typography-text-font-family ), Sans-serif",
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Ireland has become my home this past year and what a year it has been.  My journey started here at 17 with the ILE Program.  They say all roads lead to Ireland and for me this rings true.  If it was not for the ILE, I would have never met some of my nearest and dearest friends, eventually meeting the love of my life, and recently giving birth to my miracle Irish baby.  </p><p>As a teenager, you never picture what your life will be like in 20 years from a summer of a lifetime abroad.  I have lived, loved, and breathed the Irish air and now it is my new home.  Thank you so much to the ILE for giving me some of the biggest Irish blessings I could have every asked for in my life.</p><p>There is so much to discover in Ireland, that you might just discover yourself and your future.  <em>-Katy Farrell O'Connor</em></p>"
           }
          ],
@@ -895,6 +947,8 @@
      "background-color": "#FFFFFF"
     },
     "": {
+     "margin-top": "0px",
+     "margin-bottom": "0px",
      "padding": "30px 0px 0px 0px"
     }
    },
@@ -905,7 +959,7 @@
      "style": {
       "> .elementor-element-populated": {
        "margin": "0px 0px 0px 0px",
-       "padding": "10px 10px 10px 10px"
+       "padding": "0px 0px 0px 0px"
       }
      },
      "children": [
@@ -914,8 +968,8 @@
        "id": "7a60e03",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "0px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "margin": "0px 4px 0px 0px",
+         "padding": "0px 0px 22px 0px"
         },
         "": {
          "text-align": "center"
@@ -929,6 +983,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Our Ambassadors",
        "tag": "h1",
        "link": null,
@@ -953,7 +1008,7 @@
      "opacity": "0.92"
     },
     "": {
-     "padding": "5px 5px 5px 5px"
+     "padding": "20px 10px 10px 10px"
     }
    },
    "children": [
@@ -966,9 +1021,18 @@
        "type": "posts",
        "id": "de8a1da",
        "style": {
+        ".elementor-posts-container .elementor-post__thumbnail": {
+         "padding-bottom": "calc( 0.48 * 100% )"
+        },
+        ".elementor-post__thumbnail__link": {
+         "width": "100%"
+        },
         ".elementor-post__card": {
          "background-color": "#F2F2F2",
          "border-radius": "12px"
+        },
+        ".elementor-post__text": {
+         "margin-top": "0px"
         },
         ".elementor-post__title": {
          "color": "#1E3A43",
@@ -990,8 +1054,17 @@
         },
         ".elementor-pagination": {
          "text-align": "center"
+        },
+        ".elementor-pagination .page-numbers:not(:first-child)": {
+         "margin-left": "calc( 10px/2 )",
+         "margin-right": "calc( 10px/2 )"
+        },
+        ".elementor-pagination .page-numbers:not(:last-child)": {
+         "margin-right": "calc( 10px/2 )",
+         "margin-left": "calc( 10px/2 )"
         }
        },
+       "hide": null,
        "postType": "page",
        "perPage": 13,
        "readMore": null,
@@ -1000,79 +1073,92 @@
          "title": "Natalie H.-ILE 2022",
          "href": "/nathalie-h-ile-2022/",
          "image": "/images/wp/2022/09/nathalie-ambassador-scaled.jpeg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2022-09-08 14:50:12"
         },
         {
          "title": "Eva L.-ILE 2022",
          "href": "/eva-l-ile-2022/",
          "image": "/images/wp/2022/11/IMG_0390-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2022-09-01 23:39:17"
         },
         {
          "title": "Kylene B.-ILE 2019",
          "href": "/kylene-b-ile-2019/",
          "image": "/images/wp/2021/10/IMG_9569-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-10 10:00:48"
         },
         {
          "title": "Mesa M.-ILE 2019",
          "href": "/mesa-m-ile-2019/",
          "image": "/images/wp/2021/11/IMG_9941-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-10 09:30:28"
         },
         {
          "title": "Daniel S.-ILE 2019",
          "href": "/daniel-s-ile-2019/",
          "image": "/images/wp/2021/10/IMG_9755-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-10 09:00:20"
         },
         {
          "title": "Allyson T.-ILE 2019",
          "href": "/allyson-t-ile-2019/",
          "image": "/images/wp/2021/08/IMG_9955-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-10 08:00:31"
         },
         {
          "title": "Nancy B.-ILE 2018",
          "href": "/nancy-b-ile-2018/",
          "image": "/images/wp/2021/10/IMG_8927-1-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-09 09:00:24"
         },
         {
          "title": "Kennedy P.-ILE 2018",
          "href": "/kennedy-p-ile-2018/",
          "image": "/images/wp/2021/10/IMG_8899-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-09 08:55:25"
         },
         {
          "title": "Hannah B.-ILE 2017",
          "href": "/hannah-b-ile-2017/",
          "image": "/images/wp/2021/10/20841156_1913146842235965_4210053887803783594_n.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-08 08:40:59"
         },
         {
          "title": "Peirce R.-ILE 2017",
          "href": "/peirce-r-ile-2017/",
          "image": "/images/wp/2021/10/IMG_7404.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-08 08:30:52"
         },
         {
          "title": "Johanna B.-ILE 2015",
          "href": "/johanna-b-ile-2015/",
          "image": "/images/wp/2021/10/DSC02441-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-07 07:30:04"
         },
         {
          "title": "Robert B.-ILE 2015",
          "href": "/robert-b-ile-2015/",
          "image": "/images/wp/2021/10/DSC02465-2-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-07 07:25:54"
         },
         {
          "title": "Clare B.-ILE 2015",
          "href": "/clare-b-ile-2015-2/",
          "image": "/images/wp/2021/10/DSC02261-scaled.jpg",
-         "excerpt": ""
+         "excerpt": "",
+         "date": "2021-11-07 07:20:12"
         }
        ]
       }

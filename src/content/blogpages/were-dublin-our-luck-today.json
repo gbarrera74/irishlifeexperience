@@ -4,6 +4,7 @@
  "path": "/blog/were-dublin-our-luck-today/",
  "seo": {},
  "hasCss": true,
+ "css": "",
  "blocks": [
   {
    "type": "section",
@@ -24,6 +25,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "html": "<p>Maidin mhaith! Good morning! Today is a day everyone has been looking forward to for a while…our free day in Dublin! But first, we had a wonderful breakfast—the usual cereals/fruits/yogurt, as well as a yummy custardy raisiny croissant thing. Then, everyone scrambled onto the bus and we were off to Dublin!</p><p>Before our free day began, we had a guided tour of Dublinia—a fascinating interactive museum with three levels—viking Ireland, medieval Ireland, and a short film. It was very neat! Liam and Aiden were very excited to find all sorts of viking and medieval merchandise in the gift shop, including a drinking horn and a small shield.</p><p>Then, Taryn set everyone off on their way (in small groups, of course)! Some people headed for Elvery’s, the sports store. Maddie wanted to get a Gaelic football and have Máire sign it, and Strider also purchased one—along with a Waterford and Meath jersey. Lydia, Ana, Cassidy, and Clare headed for Caroll’s, an Irish Gift Shop. Aspen and Adi won the county quiz, so their prize was to go see The Book of Kells at Trinity College! They said it was AMAZING. Some of the boys found a Lego shop and created their own custom minifigures—Tucker even designed a jersey for his. Shawn and the girls were also very sweet, because they bought Taryn a beautiful bouquet of flowers.</p><p>After the 4 hours of free time around Dublin, it was safe to say that everyone had sore feet but happy smiles, and we all made it on the bus safe and sound. No lost kids today! Phew.</p><p>However, our day was not yet done… we still had a WONDERFUL performance ahead of us…the much-awaited RIVERDANCE!!!!! Woo-hoo!!!!! We got back to King’s Hospital in time for tea, where we had a delicious rice and curry dish, salad, a bread roll, and a coconut jam cake. Everyone was then busy getting ready, and we all met out by the bus an hour later in fancy shirts and wonderful jumpsuits and gorgeous dresses. Everyone looks so nice!!!!</p><p>We made it to Riverdance just in time—and—thank you, Taryn!!!!! Taryn scored us some amazing floor seats! Soon, the lights were dimming, the curtains were rising, and the show was beginning. Everyone was in a state of impressed, amazed, awe. The music, the lights, the singing, the instruments, the story, the dancers—it was all mind-blowingly incredible.</p><p>Everyone was very inspired and full of a new appreciation for Ireland as we left the theatre. I’m pretty sure about half the kids want to become Irish dancers now! Our wonderful Clare, who used to briefly dance for Riverdance, was pummeled with questions.</p><p>Everyone gratefully fell sound asleep once we returned, dreaming soundly of wild songs sung across the wind-swept moors.</p>"
       },
       {
@@ -31,9 +33,11 @@
        "id": "4bd9ecc",
        "style": {
         "": {
+         "width": "var( --container-widget-width, 47.837% )",
          "max-width": "47.837%"
         }
        },
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_5024-scaled.jpg",
        "alt": "",
        "link": null,
@@ -44,9 +48,11 @@
        "id": "bd4906f",
        "style": {
         "": {
+         "width": "var( --container-widget-width, 47.971% )",
          "max-width": "47.971%"
         }
        },
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_5029-scaled.jpg",
        "alt": "",
        "link": null,
@@ -57,9 +63,11 @@
        "id": "fb58b7f",
        "style": {
         "": {
+         "width": "var( --container-widget-width, 2.431% )",
          "max-width": "2.431%"
         }
        },
+       "hide": null,
        "src": "/images/wp/2023/07/IMG_5038-scaled.jpg",
        "alt": "",
        "link": null
@@ -76,6 +84,7 @@
        "type": "image",
        "id": "e385a48",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/20230713_235124_EA6572.jpeg",
        "alt": "",
        "link": null,
@@ -85,6 +94,7 @@
        "type": "image",
        "id": "f5f8c3f",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/20230714_123155_06CED3.jpeg",
        "alt": "",
        "link": null,
@@ -94,6 +104,7 @@
        "type": "image",
        "id": "eb90415",
        "style": {},
+       "hide": null,
        "src": "/images/wp/2023/07/20230713_165327_95C246.jpeg",
        "alt": "",
        "link": null,

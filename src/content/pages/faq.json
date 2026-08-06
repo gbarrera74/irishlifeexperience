@@ -4,6 +4,7 @@
  "path": "/parents/faq/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(min-width:768px){[data-el=\"9143730\"]{width:65% !important}[data-el=\"c64f7ea\"]{width:35% !important}}@media(max-width:1024px){[data-el=\"f2e8833\"] .elementor-container{min-height:73vh !important}[data-el=\"f2e8833\"]{padding:68px 0px 75px 0px !important}[data-el=\"555ce17\"]{padding:0px 0px 0px 0px !important}[data-el=\"19d7424\"] :is(h1,h2,h3,h4,h5,h6){font-size:9em !important}[data-el=\"d933e07\"]{padding:100px 25px 100px 25px !important}[data-el=\"24a8264\"]{padding:4em 4em 4em 4em !important}[data-el=\"1e26255\"] :is(h1,h2,h3,h4,h5,h6){font-size:6em !important}[data-el=\"ec0cad1\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"73fdf304\"]{padding:100px 25px 100px 25px !important}}@media(max-width:767px){[data-el=\"f2e8833\"] .elementor-container{max-width:500px !important;min-height:296px !important}[data-el=\"f2e8833\"]{padding:45px 15px 45px 15px !important}[data-el=\"19d7424\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"19d7424\"]{text-align:center !important}[data-el=\"19d7424\"] :is(h1,h2,h3,h4,h5,h6){font-size:58px !important}[data-el=\"d933e07\"]{padding:50px 10px 50px 10px !important}[data-el=\"c6daf98\"]{padding:0px 10px 0px 10px !important}[data-el=\"3283caa\"]{padding:20px 0px 0px 0px !important}[data-el=\"b480caa\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"97f2093\"] :is(h1,h2,h3,h4,h5,h6){font-size:22px !important}[data-el=\"c6a623c\"]{font-size:16px !important}[data-el=\"985bff9\"]{margin:0px 0px 00px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"17bac09\"] :is(h1,h2,h3,h4,h5,h6){font-size:22px !important}[data-el=\"764053f\"]{font-size:16px !important}[data-el=\"f55fd12\"]{padding:20px 0px 0px 0px !important}[data-el=\"e5697ac\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"2ca1767\"] :is(h1,h2,h3,h4,h5,h6){font-size:22px !important}[data-el=\"a22d90b\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"9bf76c1\"]{padding:20px 0px 0px 0px !important}[data-el=\"3dc608f\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"1a80257\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"c0b5ba0\"]{padding:20px 0px 0px 0px !important}[data-el=\"d1b9e59\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"b858018\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"4793c25\"]{padding:20px 0px 0px 0px !important}[data-el=\"0cd3c42\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"4386e33\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"70b4b23\"]{padding:20px 0px 0px 0px !important}[data-el=\"84c2f76\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"1ee9e18\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"eff8d57\"]{padding:20px 0px 0px 0px !important}[data-el=\"5128318\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"b3e112c\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"42d49f7\"]{padding:20px 0px 0px 0px !important}[data-el=\"3182f25\"]{margin:0px 0px 020px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"fc70cd8\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"7feb624\"]{padding:20px 0px 0px 0px !important}[data-el=\"209d996\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"c8f15f3\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"57fd6ba\"]{padding:20px 0px 0px 0px !important}[data-el=\"d256d68\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"1ade022\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"a99e769\"]{padding:20px 0px 0px 0px !important}[data-el=\"8039640\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"3f351e4\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"eee74cd\"]{padding:20px 0px 0px 0px !important}[data-el=\"9b4e89a\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"1d27700\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"4b668a0\"]{padding:20px 0px 0px 0px !important}[data-el=\"ea131b6\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"f140800\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"8b9fde8\"]{padding:20px 0px 0px 0px !important}[data-el=\"b094e40\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"03b1d63\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"081aec0\"]{padding:20px 0px 0px 0px !important}[data-el=\"9d003f1\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"180d905\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"e5beba2\"]{padding:20px 0px 0px 0px !important}[data-el=\"d4d2409\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"e3204c2\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"c95d507\"]{padding:20px 0px 0px 0px !important}[data-el=\"bf1eabe\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"0524fec\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"ae79076\"]{padding:20px 0px 0px 0px !important}[data-el=\"8f75a85\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"37d7106\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"e303edb\"]{padding:20px 0px 0px 0px !important}[data-el=\"5c63cf4\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"b444756\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"ff8c91b\"]{padding:20px 0px 0px 0px !important}[data-el=\"9f11cd2\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"a509d1f\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"aa810ff\"]{padding:20px 0px 0px 0px !important}[data-el=\"f14edbd\"]{margin:0px 0px 20px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"381fdbf\"]{margin:0px 0px 0px 0px !important;padding:15px 15px 15px 15px !important}[data-el=\"24a8264\"] .elementor-container{min-height:0px !important}[data-el=\"24a8264\"]{padding:50px 15px 50px 15px !important}[data-el=\"9143730\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"1e26255\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"1e26255\"]{text-align:start !important}[data-el=\"1e26255\"] :is(h1,h2,h3,h4,h5,h6){font-size:3.1em !important}[data-el=\"79c4afe\"]{margin:-34px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"79c4afe\"] :is(h1,h2,h3,h4,h5,h6){line-height:1.7em !important}[data-el=\"ec0cad1\"]{margin:-19px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"ec0cad1\"]{text-align:start !important}[data-el=\"244fe9f\"] .elementor-button{padding:1em 3em 1em 3em !important}[data-el=\"73fdf304\"]{padding:20px 20px 20px 20px !important}}",
  "blocks": [
   {
    "type": "section",
@@ -14,11 +15,13 @@
      "opacity": "0.34"
     },
     "> .elementor-container": {
-     "max-width": "500px",
-     "min-height": "296px"
+     "max-width": "1170px",
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -45,13 +48,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "58px",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "FAQ's",
        "tag": "h1",
        "link": null,
@@ -61,6 +65,7 @@
        "type": "spacer",
        "id": "8b53609",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -76,6 +81,10 @@
    "type": "section",
    "id": "d933e07",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     ":not(.elementor-motion-effects-element-type-background)": {
      "background-color": "#FFFFFF"
     },
@@ -86,25 +95,27 @@
      "max-width": "1600px"
     },
     "": {
-     "padding": "50px 10px 50px 10px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
     {
      "type": "column",
      "id": "c6daf98",
-     "style": {
-      "> .elementor-element-populated": {
-       "padding": "0px 10px 0px 10px"
-      }
-     },
+     "style": {},
      "children": [
       {
        "type": "section",
        "id": "3283caa",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -120,8 +131,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -137,10 +148,10 @@
            "style": {
             ".elementor-heading-title": {
              "font-family": "\"Open Sans\", Sans-serif",
-             "color": "#1E3A43",
-             "font-size": "22px"
+             "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 1:  Who is eligible for the Irish Life Experience?",
            "tag": "h4",
            "link": null,
@@ -152,10 +163,10 @@
            "style": {
             "": {
              "font-family": "\"Open Sans\", Sans-serif",
-             "color": "#1E3A43",
-             "font-size": "16px"
+             "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The Irish Life Experience is a summer program designed for students who are interested in other cultures and international travel.  Students who have graduated from the eighth grade and are entering high school after the program through students graduating high school just before the program begins (Generally 14-18 years old.) are eligible to participate.  </p>"
           }
          ],
@@ -173,8 +184,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 00px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -190,10 +201,10 @@
            "style": {
             ".elementor-heading-title": {
              "font-family": "\"Open Sans\", Sans-serif",
-             "color": "#1E3A43",
-             "font-size": "22px"
+             "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 2:  How do students apply to the Irish Life Experience?",
            "tag": "h4",
            "link": null,
@@ -205,10 +216,10 @@
            "style": {
             "": {
              "font-family": "\"Open Sans\", Sans-serif",
-             "color": "#1E3A43",
-             "font-size": "16px"
+             "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>There is an application with questions for the applicant and the parents and/or guardians of the student.  Written recommendations are also required from at least one teacher and one counselor as well as a copy of their current school transcripts.  </p>"
           }
          ],
@@ -221,8 +232,12 @@
        "type": "section",
        "id": "f55fd12",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -238,8 +253,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -255,10 +270,10 @@
            "style": {
             ".elementor-heading-title": {
              "font-family": "\"Open Sans\", Sans-serif",
-             "color": "#1E3A43",
-             "font-size": "22px"
+             "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 3:  Is acceptance to the Irish Life Experience competitive?",
            "tag": "h4",
            "link": null,
@@ -272,6 +287,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Yes, it is fairly competitive.&nbsp; We look for intelligent, independent, motivated, enthusiastic, and well-rounded young men and women who are looking to set forth on an incredible journey abroad.&nbsp; Everyone must have a passion for experiencing a new and different culture and should be excited to be a part of this incredible adventure.&nbsp;&nbsp;</p>"
           }
          ],
@@ -289,8 +305,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -309,6 +325,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 4:  When should I submit my application?",
            "tag": "h4",
            "link": null,
@@ -323,6 +340,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>It is recommended that you submit your application as soon as possible to ensure that the program does not reach its capacity before you have a chance to apply.  The final deadline is April 1st, but we will continue to accept applications if there is space available and subject to an increased fare or you will be put on a waiting list in case there are any cancellations.  </p>"
           }
          ],
@@ -335,8 +353,12 @@
        "type": "section",
        "id": "9bf76c1",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -352,8 +374,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -372,6 +394,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 5:  When will I find out if I have been accepted into the program?",
            "tag": "h4",
            "link": null,
@@ -386,6 +409,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Once the Irish Life Experience receives your completed application and recommendations with the required deposit, it should take 2-3 weeks to review and notify you of the decision.  </p>"
           }
          ],
@@ -403,8 +427,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -423,6 +447,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 6:  What is the cost of the Irish Life Experience and what does it include?",
            "tag": "h4",
            "link": null,
@@ -437,6 +462,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The cost of the Irish Life Experience is $6,050 if applicants apply and pay in full before January 1st.  After January 1st, the cost of the program is $6,550.  (If paid with a credit card, there will be a $140 processing fee not included with the price.). The cost covers round-trip airfare from Logan Airport (BOS) to Ireland, room and board, tuition, group tours, transportation, and activities.  Personal items such as souvenirs and snacks are not included.  There will occasionally be optional activities offered at an additional cost, such as amusement park rides, concerts, and movies.  </p>"
           }
          ],
@@ -449,8 +475,12 @@
        "type": "section",
        "id": "c0b5ba0",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -466,8 +496,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -486,6 +516,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 7:  Is full payment required with the application?",
            "tag": "h4",
            "link": null,
@@ -500,6 +531,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>No.  Students are required to send a $600 deposit with their application, of which $100 is non-refundable if they are not accepted into the program or we have to cancel the program.  If accepted, an additional $1,000 is required by March 1st and the full balance by June 1st, unless you qualify for the Early Bird Special prior to January 1st.  ($500 discount with full payment.)</p>"
           }
          ],
@@ -517,8 +549,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -537,6 +569,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 8:  After I'm accepted into the program, when will I hear from the Irish Life Experience?",
            "tag": "h4",
            "link": null,
@@ -551,6 +584,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The Irish Life Experience will send out a packet of information and contracts to students and parents a few weeks after being notified of acceptance.  It is important to complete all of the required information in a timely fashion.  Once you have paid in full, you will receive a handbook via e-mail the beginning of June.  The handbook will contain all of the necessary information that students and parents will need to know about the program.  If students and parents have additional questions, they are welcome to contact the Irish Life Experience at any time.  </p>"
           }
          ],
@@ -563,8 +597,12 @@
        "type": "section",
        "id": "4793c25",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -580,8 +618,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -600,6 +638,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 9:  Where are the students typically from?",
            "tag": "h4",
            "link": null,
@@ -614,6 +653,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Students come from every corner of America and some from Canada and Europe.  Students will be invited to social network groups to connect with one another prior to departure.  </p>"
           }
          ],
@@ -631,8 +671,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -651,6 +691,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 10:  How many students participate in the Irish Life Experience each year?",
            "tag": "h4",
            "link": null,
@@ -665,6 +706,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The number of students varies each summer, but there are typically between 30-60 students.  </p>"
           }
          ],
@@ -677,8 +719,12 @@
        "type": "section",
        "id": "70b4b23",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -694,8 +740,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -714,6 +760,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 11:  What are the ages of the students who participate in the Irish Life Experience?",
            "tag": "h4",
            "link": null,
@@ -728,6 +775,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Again, this varies with every program, but there is a good mix of all ages from 14-18 years old.  </p>"
           }
          ],
@@ -745,8 +793,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -765,6 +813,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 12:  Can I bring a friend or relative with me?",
            "tag": "h4",
            "link": null,
@@ -779,6 +828,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Absolutely!  The majority of students join the program by themselves, but some students choose to bring a friend along to share their experience.  And although most students leave home without knowing anyone in the program, then tend to return home with lifelong friends.  </p>"
           }
          ],
@@ -791,8 +841,12 @@
        "type": "section",
        "id": "eff8d57",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -808,8 +862,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -828,6 +882,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 13:  Does the Irish Life Experience provide contact information for past students and parents who can answer first-hand questions about the program?",
            "tag": "h4",
            "link": null,
@@ -842,6 +897,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Our alumni are our best advocates.  They are often the ones who are best able to share unique details about the experience.  You can contact past students directly through e-mail when you visit the Alumni Ambassador page.  </p>"
           }
          ],
@@ -859,8 +915,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -879,6 +935,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 14:  Where will the students live?",
            "tag": "h4",
            "link": null,
@@ -893,6 +950,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Students will live in boarding schools and apartments.  They are comfortable accommodations which provide the basic necessities.  See <a href=\"https://irishlifeexperience.com/parents/accommodations/\">Accommodations</a>.  </p>"
           }
          ],
@@ -905,8 +963,12 @@
        "type": "section",
        "id": "42d49f7",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -922,8 +984,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 020px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -942,6 +1004,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 15:  What kind of classes will the students take?",
            "tag": "h4",
            "link": null,
@@ -956,6 +1019,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>The core curriculum for the Irish Life Experience is Gaelic language, Irish history, Irish American history, Irish studies, literature, dance and drama.  There will also be various required and optional workshops.  These classes and workshops, combined with tours and field trips, will provide a wonderful comprehensive introduction to Irish culture.  Each student will have a better understanding of and a deeper appreciation for the history and traditions of Ireland by the end of the program.</p></div>"
           }
          ],
@@ -973,8 +1037,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -993,6 +1057,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 16:  How are the students supervised?",
            "tag": "h4",
            "link": null,
@@ -1007,6 +1072,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The students are supervised by coordinators, teachers, and counselors.&nbsp; There will be a staff member on duty at all times.&nbsp; The size of the group will determine the exact number of staff, but we typically maintain a student-to-staff ratio of 7:1.&nbsp;&nbsp;</p>"
           }
          ],
@@ -1019,8 +1085,12 @@
        "type": "section",
        "id": "7feb624",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -1036,8 +1106,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1056,6 +1126,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 17:  Is there a curfew?",
            "tag": "h4",
            "link": null,
@@ -1070,6 +1141,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Yes.  Depending on the daily schedule, students must be on campus for dinner before having free time until bed check.  The Irish Life Experience enforces a strict lights-out policy.  Students must be in their rooms by 10:45 PM and lights-out is at 11:00 PM.  Since the Irish Life Experience has a very demanding schedule of classes, activities, and tours it is important for each student to get the required amount of sleep.</p>"
           }
          ],
@@ -1087,8 +1159,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1107,6 +1179,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 18:  Can parents attend the program with their child(ren)?",
            "tag": "h4",
            "link": null,
@@ -1121,6 +1194,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>The program is reserved for students only.  However, parents may meet their child(ren) after the program and travel with them in Ireland.  Through an exclusive partnership with <a href=\"http://www.JuniperTours.com\">Juniper Tours</a>, parents will be offered a specially-designed package at a discounted rate.  <a href=\"http://www.JuniperTours.com\">Juniper Tours</a> provides international travel experiences in Europe year-round through numerous packages.  </p></div>"
           }
          ],
@@ -1133,8 +1207,12 @@
        "type": "section",
        "id": "57fd6ba",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -1150,8 +1228,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1170,6 +1248,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 19:  Will students have access to laundry facilities?",
            "tag": "h4",
            "link": null,
@@ -1184,6 +1263,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The Irish Life Experience will have two pick-up dates for laundry.&nbsp; The first will be during the last few days in Waterford (About 6 days into the program.) and the other will be the last few days in Dublin (About a week before returning home.).&nbsp; We suggest students bring a laundry bag, wash and wear clothes, and put initials on all of their clothing tags.&nbsp; There are also laundry facilities at Gleneagle in Killarney and Gort na Coiribe in Galway, but the expense is not covered by the Irish Life Experience.</p>"
           }
          ],
@@ -1201,8 +1281,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1221,6 +1301,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 20:  How do students communicate with family and friends back home?",
            "tag": "h4",
            "link": null,
@@ -1235,6 +1316,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>Students will have limited access to phones while on the Irish Life Experience.  While international plans are very expensive, data plans are more reasonable.  Some students purchase SIM cards for unlocked phones as another option.  WiFi is also available through various hot spots, which most students find the easiest way to communicate with friends and family overseas.</p></div>"
           }
          ],
@@ -1247,8 +1329,12 @@
        "type": "section",
        "id": "a99e769",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -1264,8 +1350,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1284,6 +1370,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 21:  Can I bring a cell phone?",
            "tag": "h4",
            "link": null,
@@ -1298,6 +1385,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>While cell phones are allowed, they are often a distraction during the program.  A significant part of the Irish Life Experience is stepping outside of your everyday world to experience new things.  You want to make sure you’re not letting things pass you by while you are on the phone. If you do decide you would like a cell phone while in Ireland, we recommend using it just for pictures and only communicating when on WiFi during free time.</p></div>"
           }
          ],
@@ -1315,8 +1403,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1335,6 +1423,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 22:  Can I bring a laptop?",
            "tag": "h4",
            "link": null,
@@ -1349,6 +1438,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>Although we understand that life may not be complete without a laptop back home, we find one to be unnecessary during the Irish Life Experience.  They can be heavy and cumbersome to travel with.  </p></div>"
           }
          ],
@@ -1361,8 +1451,12 @@
        "type": "section",
        "id": "eee74cd",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -1378,8 +1472,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1398,6 +1492,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 23:  When can parents expect to hear from their child(ren)?",
            "tag": "h4",
            "link": null,
@@ -1412,6 +1507,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Students will be very busy with classes and tours the first week, so it is important to be patient.  Your child(ren) are in good hands as they adjust to a new country, learn a new culture, travel the land, make new friends, and have the most fun possible!</p>"
           }
          ],
@@ -1429,8 +1525,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1449,6 +1545,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 24:  What is the best way for students to get/carry money?",
            "tag": "h4",
            "link": null,
@@ -1463,6 +1560,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>We recommend that students carry a limited amount of cash and use a credit/debit card as needed.  We have found that debit cards are the best option for accessing cash.  Students should be aware of current exchange rates and remember that amounts withdrawn overseas are stated in the local currency, so “100” would be 100 Euros.  We recommend they withdraw infrequent larger amounts, rather than frequent smaller withdrawals, as most banks charge an international transaction fee.  The issuing bank for the card should be notified in advance to avoid problems with using the card overseas.  </p>"
           }
          ],
@@ -1475,8 +1573,12 @@
        "type": "section",
        "id": "4b668a0",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -1492,8 +1594,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1512,6 +1614,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 25:  How much do students spend on the Irish Life Experience?",
            "tag": "h4",
            "link": null,
@@ -1526,6 +1629,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>We recommend a budget between $500-$700 for out-of-pocket expenses.  It is important to discuss a spending budget with your child(ren) prior to departure so expectations are met.  Students will receive a list of popular souvenirs costs before they depart, which will help determine what they may need to spend to fulfill their \"wish list.\"</p>"
           }
          ],
@@ -1543,8 +1647,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1563,6 +1667,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 26:  How will I reach my child(ren) if there is an emergency?",
            "tag": "h4",
            "link": null,
@@ -1577,6 +1682,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\">Students and parents will be given the Irish Life Experience Coordinator’s mobile number before the program departs.  The number is only to be used for emergency purposes.<p> </p></div>"
           }
          ],
@@ -1589,8 +1695,12 @@
        "type": "section",
        "id": "8b9fde8",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -1606,8 +1716,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1626,6 +1736,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 27:  Is health insurance included?",
            "tag": "h4",
            "link": null,
@@ -1640,6 +1751,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Health insurance is not included in the Irish Life Experience.  We do require that participants have valid international health coverage for the duration of the program and that a copy of their insurance information be submitted to our US office prior to the departure date.</p>"
           }
          ],
@@ -1657,8 +1769,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1677,6 +1789,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 28:  What do I do if I get sick abroad?",
            "tag": "h4",
            "link": null,
@@ -1691,6 +1804,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>The Irish Life Experience takes all precautions available to ensure that students are traveling within a safe environment, eating well-prepared meals, getting an appropriate amount of sleep, and sleeping within clean and safe surroundings at all times.  However, sometimes sickness is unavoidable in a large group setting.  We take every measure to ensure that students receive appropriate medical care when necessary.  Doctors are close to every lodging location, and in cases where professional medical care is needed the Irish Life Experience will arrange a medical appointment.  A staff member always stays with any student receiving medical care and will alert family members that treatment was given.  We recommend each student bring cold medicine, as the type found abroad may be different.</p></div>"
           }
          ],
@@ -1703,8 +1817,12 @@
        "type": "section",
        "id": "081aec0",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -1720,8 +1838,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1740,6 +1858,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 29:  Are there any special rules or policies I should be aware of?",
            "tag": "h4",
            "link": null,
@@ -1754,6 +1873,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Each student/parent will have to sign a Participant and Parent Release.  The Irish Life Experience takes the safety and behavior of our students very seriously.  Violation of any of our rules could result in a phone call to parents, suspension from daily activities, or immediate expulsion from the program.</p>"
           }
          ],
@@ -1771,8 +1891,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1791,6 +1911,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 30:  Who are the coordinators?",
            "tag": "h4",
            "link": null,
@@ -1805,6 +1926,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Our leaders are full-time coordinators for the Irish Life Experience.  Each coordinator has extensive knowledge of Europe. Our guides have led countless groups of students abroad since 1998.  Each coordinator holds a common set of values regarding the standards of the company, a single-minded dedication to excellence across the organization, and an absolute focus on the safety of the program and its participants.</p>"
           }
          ],
@@ -1817,8 +1939,12 @@
        "type": "section",
        "id": "e5beba2",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -1834,8 +1960,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1854,6 +1980,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 31:  Who are the counselors?",
            "tag": "h4",
            "link": null,
@@ -1868,6 +1995,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>The counselors are college graduates who have a passion for education and travel.  Most are alumni of the program who have studied different cultures at college, studied abroad, and have experience working with teenagers.  They are responsible adults whose priority is to ensure the safety of each student and to help them have the experience of a lifetime.</p></div>"
           }
          ],
@@ -1885,8 +2013,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1905,6 +2033,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 32:  Are staff members qualified in First Aid?",
            "tag": "h4",
            "link": null,
@@ -1919,6 +2048,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>Yes.  Students’ safety is our number one priority.  It is a requirement for each staff member to be trained in CPR and First Aid.  Staff will have an orientation and be trained how to respond in any emergency situation.</p></div>"
           }
          ],
@@ -1931,8 +2061,12 @@
        "type": "section",
        "id": "c95d507",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -1948,8 +2082,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -1968,6 +2102,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 33:  Can my child visit family in Ireland?",
            "tag": "h4",
            "link": null,
@@ -1982,6 +2117,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>If students have family in Ireland, they will be able to visit them during their free time as long as it does not interfere with required classes and tours.  They must have a permission slip from their parents, which must include their family’s contact details.  These visits must be pre-approved by the Irish Life Experience Coordinators.</p></div>"
           }
          ],
@@ -1999,8 +2135,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -2019,6 +2155,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 34:  What if I want to extend my trip?",
            "tag": "h4",
            "link": null,
@@ -2033,6 +2170,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>This is not uncommon, and in fact, recommended as part of our parents’ trip through <a href=\"http://www.JuniperTours.com\">Juniper Tours</a>.  Many students will want to extend their amazing journey in Ireland and be able to show their parents a snapshot of their experience.  Any difference in airfare due to a change in itinerary will be the responsibility of the passenger(s).</p>"
           }
          ],
@@ -2045,8 +2183,12 @@
        "type": "section",
        "id": "ae79076",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -2062,8 +2204,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -2082,6 +2224,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 35:  What if I have to come home for a personal reason?",
            "tag": "h4",
            "link": null,
@@ -2096,6 +2239,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The Irish Life Experience will look into these circumstances on a case-by-case basis.  In most situations, parents will have to pay for the expense of a one-way ticket home.</p>"
           }
          ],
@@ -2113,8 +2257,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -2133,6 +2277,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 36:  Will I have free time?",
            "tag": "h4",
            "link": null,
@@ -2147,6 +2292,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The Irish Life Experience is designed to give you free time in all of the various locations we stay. Time to write home, reflect on your experience, and explore with your friends. All of these are important parts of your journey.</p>"
           }
          ],
@@ -2159,8 +2305,12 @@
        "type": "section",
        "id": "e303edb",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -2176,8 +2326,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -2196,6 +2346,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 37:  Will there be someone to meet me at the airport if I have a connecting flight prior to departure?",
            "tag": "h4",
            "link": null,
@@ -2210,6 +2361,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Yes. Students with connecting flights into Logan Airport (BOS) are met after security by Irish Life Experience Counselors. They will escort each student to the Aer Lingus Terminal and help them check-in to the correct flight.  It is important to have all of the connecting flight information for each student in advance, so we will be able to coordinate these arrangements.  We encourage students with connecting flights to bring cell phones in case a counselor is unable to connect with a student.  This will help the counselor set up a specific location to meet the student.  Staff will also be there to assist students with connecting flights after they return from the program.  Our goal is to ensure each student reaches their appropriate destination safely.</p>"
           }
          ],
@@ -2227,8 +2379,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -2247,6 +2399,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 38:  What is the food like?",
            "tag": "h4",
            "link": null,
@@ -2261,6 +2414,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>The food is typical dormitory food.&nbsp; Irish food can sometimes be bland and it takes a while for students to adjust to a different diet.&nbsp; We emphasize that students should be open to trying new flavors and not be picky.&nbsp; Each boarding school does their best to make sure students are eating healthy, balanced, and nutritious meals.&nbsp; While in Killarney and Galway, the Irish Life Experience will give each student a set amount of money to go shopping with their roommates, so they will be able to prepare breakfast, lunch, and dinner on their own.&nbsp; We recommend that parents send students care packages with their favorite snacks, as students will often crave some comforts from home.</p>"
           }
          ],
@@ -2273,8 +2427,12 @@
        "type": "section",
        "id": "ff8c91b",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -2290,8 +2448,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -2310,6 +2468,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 39:  What if I am lactose intolerant, a vegan, or a vegetarian?",
            "tag": "h4",
            "link": null,
@@ -2324,6 +2483,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<div class=\"message_body\"><p>The Irish Life Experience can accommodate almost all dietary needs.  It is necessary to indicate food restrictions so we can make proper arrangements.  In addition, it is imperative to specify any particular food allergies that you may have in order for us to properly ensure you are getting the correct diet while traveling abroad.</p></div>"
           }
          ],
@@ -2341,8 +2501,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -2361,6 +2521,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 40:  Are the classes hard?",
            "tag": "h4",
            "link": null,
@@ -2375,6 +2536,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Classes are not rigorous.  We realize that this is your summer vacation, so teachers do their best to make sure each class is as fun and interactive as possible.</p>"
           }
          ],
@@ -2387,8 +2549,12 @@
        "type": "section",
        "id": "aa810ff",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-start",
+         "align-items": "flex-start"
+        },
         "": {
-         "padding": "20px 0px 0px 0px"
+         "padding": "25px 25px 25px 25px"
         }
        },
        "children": [
@@ -2404,8 +2570,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 20px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -2424,6 +2590,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 41:  How are students graded?",
            "tag": "h4",
            "link": null,
@@ -2438,6 +2605,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Each student will receive a grade at the end of the program.  The grade will be based on attendance, participation in class, note-taking ability, drama presentations, completion of three workshops, and overall behavior.  </p>"
           }
          ],
@@ -2455,8 +2623,8 @@
           },
           "> .elementor-element-populated": {
            "border-radius": "12px 12px 12px 12px",
-           "margin": "0px 0px 0px 0px",
-           "padding": "15px 15px 15px 15px"
+           "margin": "0px 025px 0px 0px",
+           "padding": "25px 25px 25px 25px"
           },
           "> .elementor-element-populated > .elementor-background-overlay": {
            "border-radius": "12px 12px 12px 12px"
@@ -2475,6 +2643,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Q 42:  Are there precautions with Covid?",
            "tag": "h4",
            "link": null,
@@ -2489,6 +2658,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>No.  We will be following CDC guidelines, as well as European protocols for traveling.</p>"
           }
          ],
@@ -2512,10 +2682,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "0px"
+     "min-height": "359px"
     },
     "": {
-     "padding": "50px 15px 50px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "0px 0px 0px 0px"
     }
    },
    "children": [
@@ -2534,7 +2706,7 @@
        "id": "1e26255",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "0px 0px 0px 0px",
+         "margin": "0px 0px -34px 0px",
          "padding": "0px 0px 0px 0px"
         },
         "": {
@@ -2542,13 +2714,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Quicksand\", Sans-serif",
-         "font-size": "3.1em",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "-5px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "The Adventure",
        "tag": "h2",
        "link": null,
@@ -2559,8 +2732,7 @@
        "id": "79c4afe",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "-34px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "margin": "-6px 0px 0px 0px"
         },
         "": {
          "text-align": "start"
@@ -2569,10 +2741,10 @@
          "font-family": "\"Dancing Script\", Sans-serif",
          "font-size": "70px",
          "font-weight": "bold",
-         "color": "#ffffff",
-         "line-height": "1.7em"
+         "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "awaits...",
        "tag": "h2",
        "link": null,
@@ -2583,7 +2755,7 @@
        "id": "ec0cad1",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "-19px 0px 0px 0px",
+         "margin": "0px 0px 0px 0px",
          "padding": "0px 0px 0px 0px"
         },
         "": {
@@ -2596,6 +2768,7 @@
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "html": "<p>Experience the world and make lifelong friends!</p>"
       }
      ],
@@ -2615,6 +2788,7 @@
        "type": "spacer",
        "id": "e474639",
        "style": {},
+       "hide": null,
        "size": null
       },
       {
@@ -2627,18 +2801,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Request Info",
        "link": ""
       },
@@ -2646,6 +2827,9 @@
        "type": "spacer",
        "id": "87efaea",
        "style": {},
+       "hide": [
+        "phone"
+       ],
        "size": null
       }
      ],
@@ -2659,11 +2843,15 @@
    "type": "section",
    "id": "73fdf304",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     "> .elementor-container": {
      "max-width": "758px"
     },
     "": {
-     "padding": "20px 20px 20px 20px"
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -2691,6 +2879,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Still Have Questions?",
        "tag": "h4",
        "link": null,
@@ -2700,6 +2889,36 @@
        "type": "form",
        "id": "a6451d1",
        "style": {
+        ".elementor-field-group": {
+         "padding-right": "calc( 10px/2 )",
+         "padding-left": "calc( 10px/2 )",
+         "margin-bottom": "10px"
+        },
+        ".elementor-form-fields-wrapper": {
+         "margin-left": "calc( -10px/2 )",
+         "margin-right": "calc( -10px/2 )",
+         "margin-bottom": "-10px"
+        },
+        ".elementor-field-group.recaptcha_v3-bottomleft": {
+         "margin-bottom": "0"
+        },
+        ".elementor-field-group.recaptcha_v3-bottomright": {
+         "margin-bottom": "0"
+        },
+        ".elementor-labels-inline .elementor-field-group > label": {
+         "padding-left": "0px",
+         "padding-right": "0px"
+        },
+        ".elementor-labels-above .elementor-field-group > label": {
+         "padding-bottom": "0px"
+        },
+        ".elementor-labels-inline .elementor-field-group > abbr": {
+         "padding-left": "0px",
+         "padding-right": "0px"
+        },
+        ".elementor-labels-above .elementor-field-group > abbr": {
+         "padding-bottom": "0px"
+        },
         ".elementor-field-group > label": {
          "color": "#1E3A43",
          "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
@@ -2709,6 +2928,7 @@
          "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
         },
         ".elementor-field-type-html": {
+         "padding-bottom": "0px",
          "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
         },
         ".dce-signature-wrapper": {
@@ -2716,6 +2936,7 @@
         },
         ".dce-signature-canvas": {
          "border-radius": "3px 3px 3px 3px",
+         "border-width": "1px 1px 1px 1px",
          "background-color": "#ffffff"
         },
         ".dce-signature-button-clear": {
@@ -2724,6 +2945,10 @@
         ".dce-signature-button-clear i": {
          "color": "#e62626",
          "font-size": "16px"
+        },
+        ".dce-signature-button-clear svg": {
+         "width": "16px",
+         "height": "16px"
         },
         ".elementor-field-group .elementor-field": {
          "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
@@ -2754,6 +2979,8 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "border-style": "solid",
+         "border-width": "1px 1px 1px 1px",
          "border-radius": "100px 100px 100px 100px",
          "padding": "16px 16px 16px 16px"
         },
@@ -2782,9 +3009,12 @@
         ".elementor-field-label-description:after": {
          "border-radius": "50%",
          "padding": "2px 0",
+         "height": "1.2em",
          "line-height": "1",
          "font-size": "80%",
+         "width": "1.2em",
          "text-align": "center",
+         "margin-left": "0.2em",
          "color": "#ffffff",
          "background-color": "#777777"
         },
@@ -2795,6 +3025,7 @@
          "opacity": "1"
         }
        },
+       "hide": null,
        "formName": "Contact Us",
        "fields": [
         {

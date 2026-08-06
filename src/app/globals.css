@@ -56,8 +56,19 @@
  * on every heading.
  */
 @layer base {
+  /* hello-elementor's body default, measured off the live site: the system
+   * stack at 16px/1.5, not Open Sans. Elementor sets Open Sans explicitly
+   * wherever the design calls for it, and those declarations arrive as inline
+   * styles from the page CSS. Defaulting the body to Open Sans instead made
+   * every unstyled element — testimonial names, post meta, read-more links —
+   * render in the wrong face. */
   body {
-    font-family: var(--font-sans);
+    font-family:
+      -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+      "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+      "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 16px;
+    line-height: 1.5;
     color: var(--color-navy);
     background: #fff;
   }
@@ -103,5 +114,45 @@
     font-family: var(--font-display);
     letter-spacing: 0.25em;
     text-transform: uppercase;
+  }
+}
+
+/* Elementor columns. The width comes in as --col-w so Elementor's own
+ * breakpoints (emitted per page as !important rules on [data-el]) and this
+ * stacking rule can both override it; an inline flex-basis could not be beaten. */
+@layer base {
+  .e-col {
+    flex-basis: var(--col-w, 100%);
+    max-width: var(--col-w, 100%);
+  }
+
+  @media (max-width: 767px) {
+    .e-col {
+      flex-basis: 100%;
+      max-width: 100%;
+    }
+  }
+}
+
+/* Elementor's responsive visibility controls, which it applies as classes
+ * (elementor-hidden-phone and friends) rather than as declarations in the
+ * per-page CSS. Breakpoints match Elementor's: phone <=767, tablet 768-1024. */
+@layer base {
+  @media (max-width: 767px) {
+    .e-hide-phone {
+      display: none;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .e-hide-tablet {
+      display: none;
+    }
+  }
+
+  @media (min-width: 1025px) {
+    .e-hide-desktop {
+      display: none;
+    }
   }
 }

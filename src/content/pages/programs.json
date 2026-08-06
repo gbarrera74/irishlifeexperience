@@ -4,6 +4,7 @@
  "path": "/programs/",
  "seo": {},
  "hasCss": true,
+ "css": "@media(max-width:1024px) and (min-width:768px){[data-el=\"7381a6e2\"]{width:100% !important}[data-el=\"575952aa\"]{width:100% !important}[data-el=\"34c66e15\"]{width:100% !important}[data-el=\"b42916e\"]{width:100% !important}}@media(max-width:1024px){[data-el=\"7528f6d\"] .elementor-container{min-height:73vh !important}[data-el=\"7528f6d\"]{padding:68px 0px 75px 0px !important}[data-el=\"c8da67a\"]{padding:0px 0px 0px 0px !important}[data-el=\"b29a9c5\"] :is(h1,h2,h3,h4,h5,h6){font-size:9em !important}[data-el=\"ad4ed09\"]{margin:0px 0px 0px 0px !important;padding:26px 0px 0px 0px !important}[data-el=\"ad4ed09\"] :is(h1,h2,h3,h4,h5,h6){font-size:1.8em !important;line-height:1.2em !important}[data-el=\"575952aa\"]{padding:2em 2em 2em 2em !important}[data-el=\"29a61b8a\"]{text-align:center !important}[data-el=\"28444c97\"]{text-align:center !important}[data-el=\"0f00785\"] .elementor-container{min-height:73vh !important}[data-el=\"0f00785\"]{padding:68px 0px 75px 0px !important}[data-el=\"a7380b9\"]{padding:0px 0px 0px 0px !important}[data-el=\"65c4819\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 650px - 40px ) !important}[data-el=\"65c4819\"] .elementor-main-swiper{width:650px !important}}@media(max-width:767px){[data-el=\"7528f6d\"] .elementor-container{min-height:296px !important}[data-el=\"7528f6d\"]{padding:45px 15px 45px 15px !important}[data-el=\"fb8dff0\"]{margin:0px 0px -27px 0px !important}[data-el=\"fb8dff0\"] :is(h1,h2,h3,h4,h5,h6){font-size:43px !important}[data-el=\"b29a9c5\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"b29a9c5\"]{text-align:center !important}[data-el=\"b29a9c5\"] :is(h1,h2,h3,h4,h5,h6){font-size:3.7em !important}[data-el=\"ad4ed09\"]{margin:-13px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"ad4ed09\"]{text-align:center !important}[data-el=\"ad4ed09\"] :is(h1,h2,h3,h4,h5,h6){font-size:1.8em !important}[data-el=\"5739db2\"]{margin:0px 0px 0px 0px !important;padding:0px 0px 0px 0px !important}[data-el=\"5739db2\"] .elementor-countdown-wrapper{max-width:18% !important}[data-el=\"5739db2\"] .elementor-countdown-item:not(:first-of-type){margin-left:calc( 13px/2 ) !important;margin-right:calc( 13px/2 ) !important}[data-el=\"5739db2\"] .elementor-countdown-item:not(:last-of-type){margin-right:calc( 13px/2 ) !important;margin-left:calc( 13px/2 ) !important}[data-el=\"5739db2\"] .elementor-countdown-item{padding:10px 10px 10px 10px !important}[data-el=\"5739db2\"] .elementor-countdown-digits{font-size:35px !important}[data-el=\"5739db2\"] .elementor-countdown-label{font-size:14px !important}[data-el=\"cbaa8f0\"] :is(h1,h2,h3,h4,h5,h6){font-size:40px !important}[data-el=\"4301663a\"]{padding:0px 0px 0px 0px !important}[data-el=\"29a61b8a\"] :is(h1,h2,h3,h4,h5,h6){font-size:40px !important}[data-el=\"eb93620\"]{margin:0px 15px 35px 15px !important}[data-el=\"eb93620\"] .elementor-button{border-width:1.5px 1.5px 1.5px 1.5px !important;padding:1em 3em 1em 3em !important}[data-el=\"0d7c536\"]{padding:0px 20px 2px 20px !important}[data-el=\"992684d\"]{border-radius:20px 20px 20px 20px !important}[data-el=\"992684d\"] img{width:86% !important;height:203px !important}[data-el=\"b9c957f\"] img{width:86% !important;height:203px !important}[data-el=\"0f00785\"] .elementor-container{min-height:0px !important}[data-el=\"0f00785\"]{padding:10px 10px 10px 10px !important}[data-el=\"65c4819\"] .elementor-arrows-yes .elementor-main-swiper{width:calc( 100% - 40px ) !important}[data-el=\"65c4819\"] .elementor-main-swiper{width:100% !important}[data-el=\"65c4819\"] .elementor-testimonial__name{font-size:20px !important}[data-el=\"65c4819\"] .elementor-testimonial__image img{width:54px !important;height:54px !important}[data-el=\"6980d6b\"]{padding:10px 10px 10px 10px !important}}",
  "blocks": [
   {
    "type": "section",
@@ -21,10 +22,12 @@
     },
     "> .elementor-container": {
      "max-width": "1170px",
-     "min-height": "296px"
+     "min-height": "60vh"
     },
     "": {
-     "padding": "45px 15px 45px 15px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "60px 0px 60px 0px"
     }
    },
    "children": [
@@ -43,14 +46,14 @@
        "id": "fb8dff0",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "0px 0px -27px 0px"
+         "margin": "0px 0px -30px 0px"
         },
         "": {
          "text-align": "center"
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "43px",
+         "font-size": "100px",
          "font-weight": "bold",
          "text-transform": "none",
          "line-height": "1em",
@@ -58,6 +61,7 @@
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "The best",
        "tag": "h1",
        "link": null,
@@ -76,13 +80,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Quicksand\", Sans-serif",
-         "font-size": "3.7em",
+         "font-size": "100px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "-1.5px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "Adventure of a Lifetime",
        "tag": "h1",
        "link": null,
@@ -93,22 +98,23 @@
        "id": "ad4ed09",
        "style": {
         "> .elementor-widget-container": {
-         "margin": "-13px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "margin": "0px 0px 0px 0px",
+         "padding": "18px 0px 0px 0px"
         },
         "": {
          "text-align": "center"
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "1.8em",
+         "font-size": "100px",
          "font-weight": "bold",
          "text-transform": "none",
-         "line-height": "1.2em",
+         "line-height": "0.4em",
          "letter-spacing": "2px",
          "color": "#ffffff"
         }
        },
+       "hide": null,
        "text": "starts in",
        "tag": "h3",
        "link": null,
@@ -120,30 +126,39 @@
        "style": {
         "> .elementor-widget-container": {
          "margin": "0px 0px 0px 0px",
-         "padding": "0px 0px 0px 0px"
+         "padding": "76px 3px 3px 3px"
         },
         ".elementor-countdown-wrapper": {
-         "max-width": "18%"
+         "max-width": "70%"
+        },
+        ".elementor-countdown-item:not(:first-of-type)": {
+         "margin-left": "calc( 100px/2 )",
+         "margin-right": "calc( 100px/2 )"
+        },
+        ".elementor-countdown-item:not(:last-of-type)": {
+         "margin-right": "calc( 100px/2 )",
+         "margin-left": "calc( 100px/2 )"
         },
         ".elementor-countdown-item": {
-         "padding": "10px 10px 10px 10px",
+         "padding": "25px 10px 22px 10px",
          "background-color": "#FFFFFF",
          "border-radius": "65px 65px 65px 65px"
         },
         ".elementor-countdown-digits": {
          "color": "#000000",
-         "font-size": "35px"
+         "font-size": "59px"
         },
         ".elementor-countdown-label": {
-         "color": "#000000",
-         "font-size": "14px"
+         "color": "#000000"
         }
-       }
+       },
+       "hide": null
       },
       {
        "type": "spacer",
        "id": "686a38e",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -175,13 +190,14 @@
         },
         ".elementor-heading-title": {
          "font-family": "\"Nothing You Could Do\", Sans-serif",
-         "font-size": "40px",
+         "font-size": "60px",
          "font-weight": "bold",
          "line-height": "1.5em",
          "letter-spacing": "-1.5px",
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "June 28-July 23, 2026",
        "tag": "h2",
        "link": null,
@@ -196,6 +212,10 @@
    "type": "section",
    "id": "4301663a",
    "style": {
+    "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+     "align-content": "center",
+     "align-items": "center"
+    },
     ":not(.elementor-motion-effects-element-type-background)": {
      "background-color": "#ffffff"
     },
@@ -203,7 +223,7 @@
      "background-color": "#ffffff"
     },
     "": {
-     "padding": "0px 0px 0px 0px"
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -216,6 +236,10 @@
        "type": "section",
        "id": "677f9bd3",
        "style": {
+        "> .elementor-container > .elementor-column > .elementor-widget-wrap": {
+         "align-content": "flex-end",
+         "align-items": "flex-end"
+        },
         "": {
          "padding": "0px 0px 0px 0px"
         }
@@ -224,11 +248,7 @@
         {
          "type": "column",
          "id": "575952aa",
-         "style": {
-          "> .elementor-element-populated": {
-           "padding": "2em 2em 2em 2em"
-          }
-         },
+         "style": {},
          "children": [
           {
            "type": "heading",
@@ -250,6 +270,7 @@
              "color": "#1E3A43"
             }
            },
+           "hide": null,
            "text": "Ireland",
            "tag": "h3",
            "link": null,
@@ -264,10 +285,10 @@
              "font-size": "1rem",
              "font-weight": "500",
              "line-height": "1.6em",
-             "color": "#1E3A43",
-             "text-align": "center"
+             "color": "#1E3A43"
             }
            },
+           "hide": null,
            "html": "<p>Our Irish Life Experience Team have a deep affinity with Ireland and have created the ultimate itinerary to make each students' journey-not only unique, but unforgettable.  </p><p>Students will discover unmissable experiences when they choose to travel to the Emerald Isle with our program.  A small island with a memorable punch, Ireland's breathtaking landscapes and friendly, welcoming people make everyone wanting to return for more craic.  </p><p>We encourage you to apply as soon as possible to guarantee your spot for the summer of a lifetime.   </p>"
           }
          ],
@@ -285,21 +306,25 @@
          "font-weight": "bold",
          "text-transform": "uppercase",
          "color": "#FFFFFF",
+         "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
+         "border-style": "solid",
+         "border-width": "1.5px 1.5px 1.5px 1.5px",
+         "border-color": "#61CE70",
          "border-radius": "100px 100px 100px 100px",
-         "padding": "1em 3em 1em 3em"
+         "padding": "15px 30px 15px 30px"
         },
         ".elementor-button:hover": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button:focus": {
          "background-color": "rgba(54,244,133,0)",
-         "color": "#61CE70"
-        },
-        "> .elementor-widget-container": {
-         "margin": "0px 15px 35px 15px"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         }
        },
+       "hide": null,
        "text": "Apply Now",
        "link": ""
       }
@@ -314,11 +339,7 @@
       {
        "type": "section",
        "id": "0d7c536",
-       "style": {
-        "": {
-         "padding": "0px 20px 2px 20px"
-        }
-       },
+       "style": {},
        "children": [
         {
          "type": "column",
@@ -330,13 +351,13 @@
            "id": "992684d",
            "style": {
             "img": {
+             "width": "100%",
              "max-width": "100%",
-             "border-radius": "20px 20px 20px 20px"
-            },
-            "> .elementor-widget-container": {
+             "height": "195px",
              "border-radius": "20px 20px 20px 20px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/10/D2D8FE29-89CD-4F01-B9D7-BF11876036C5.png",
            "alt": "",
            "link": null
@@ -346,10 +367,12 @@
            "id": "b9c957f",
            "style": {
             "img": {
+             "height": "195px",
              "opacity": "1",
              "border-radius": "20px 20px 20px 20px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/07/198C3239-A205-4959-A506-79DA46D7B579.png",
            "alt": "Giant's Causeway Sunset #2",
            "link": null
@@ -367,11 +390,14 @@
            "id": "a287d64",
            "style": {
             "img": {
+             "width": "100%",
              "max-width": "100%",
+             "height": "195px",
              "opacity": "1",
              "border-radius": "20px 20px 20px 20px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/10/60583E78-6F98-4B33-9FE7-4A0FB84BA130.png",
            "alt": "",
            "link": null
@@ -382,9 +408,11 @@
            "style": {
             "img": {
              "max-width": "100%",
+             "height": "195px",
              "border-radius": "20px 20px 20px 20px"
             }
            },
+           "hide": null,
            "src": "/images/wp/2021/07/DSC02461-scaled.jpg",
            "alt": "Kylemore Abbey-2015",
            "link": null
@@ -411,10 +439,12 @@
     },
     "> .elementor-container": {
      "max-width": "1045px",
-     "min-height": "0px"
+     "min-height": "50vh"
     },
     "": {
-     "padding": "10px 10px 10px 10px"
+     "margin-top": "30px",
+     "margin-bottom": "30px",
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -447,6 +477,7 @@
          "color": "#FFFFFF"
         }
        },
+       "hide": null,
        "text": "Testimonials",
        "tag": "h1",
        "link": null,
@@ -465,27 +496,66 @@
         ".swiper-pagination-fraction": {
          "color": "#74B843"
         },
+        ".elementor-arrows-yes .elementor-main-swiper": {
+         "width": "calc( 100% - 40px )"
+        },
+        ".elementor-main-swiper": {
+         "width": "100%"
+        },
         ".elementor-swiper-button": {
          "font-size": "20px"
+        },
+        ".swiper-pagination-bullet": {
+         "height": "3px",
+         "width": "3px"
+        },
+        ".swiper-horizontal .swiper-pagination-progressbar": {
+         "height": "3px"
+        },
+        ".elementor-testimonial--layout-image_inline .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_stacked .elementor-testimonial__footer": {
+         "margin-top": "22px"
+        },
+        ".elementor-testimonial--layout-image_above .elementor-testimonial__footer": {
+         "margin-bottom": "22px"
+        },
+        ".elementor-testimonial--layout-image_left .elementor-testimonial__footer": {
+         "padding-right": "22px"
+        },
+        ".elementor-testimonial--layout-image_right .elementor-testimonial__footer": {
+         "padding-left": "22px"
         },
         ".elementor-testimonial__text": {
          "color": "#FFFFFF",
          "font-family": "\"Open Sans\", Sans-serif",
          "font-size": "16px",
-         "text-transform": "none"
+         "text-transform": "none",
+         "font-style": "normal"
         },
         ".elementor-testimonial__name": {
          "color": "#E4978E",
-         "font-size": "20px",
+         "font-size": "30px",
          "font-weight": "900",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
         },
         ".elementor-testimonial__title": {
          "color": "#FFFFFF",
          "font-family": "\"Open Sans\", Sans-serif",
-         "text-transform": "uppercase"
+         "text-transform": "uppercase",
+         "font-style": "normal"
+        },
+        ".elementor-testimonial__image img": {
+         "width": "120px",
+         "height": "120px",
+         "border-style": "solid",
+         "border-color": "#d6d6d6",
+         "border-width": "2px"
         }
        },
+       "hide": null,
        "slides": [
         {
          "quote": "The Irish Life Experience was everything we could have asked for-and more-thank you so much.",
@@ -518,6 +588,7 @@
        "type": "spacer",
        "id": "e9e56f0",
        "style": {},
+       "hide": null,
        "size": 10
       }
      ],
@@ -540,7 +611,9 @@
      "max-width": "850px"
     },
     "": {
-     "padding": "10px 10px 10px 10px"
+     "margin-top": "0px",
+     "margin-bottom": "0px",
+     "padding": "30px 30px 30px 30px"
     }
    },
    "children": [
@@ -569,6 +642,7 @@
          "color": "#1E3A43"
         }
        },
+       "hide": null,
        "text": "Still Have Questions?",
        "tag": "h2",
        "link": null,
@@ -581,6 +655,36 @@
         "> .elementor-widget-container": {
          "margin": "0px 0px 0px 0px"
         },
+        ".elementor-field-group": {
+         "padding-right": "calc( 10px/2 )",
+         "padding-left": "calc( 10px/2 )",
+         "margin-bottom": "15px"
+        },
+        ".elementor-form-fields-wrapper": {
+         "margin-left": "calc( -10px/2 )",
+         "margin-right": "calc( -10px/2 )",
+         "margin-bottom": "-15px"
+        },
+        ".elementor-field-group.recaptcha_v3-bottomleft": {
+         "margin-bottom": "0"
+        },
+        ".elementor-field-group.recaptcha_v3-bottomright": {
+         "margin-bottom": "0"
+        },
+        ".elementor-labels-inline .elementor-field-group > label": {
+         "padding-left": "0px",
+         "padding-right": "0px"
+        },
+        ".elementor-labels-above .elementor-field-group > label": {
+         "padding-bottom": "0px"
+        },
+        ".elementor-labels-inline .elementor-field-group > abbr": {
+         "padding-left": "0px",
+         "padding-right": "0px"
+        },
+        ".elementor-labels-above .elementor-field-group > abbr": {
+         "padding-bottom": "0px"
+        },
         ".elementor-field-group > label": {
          "color": "#1E3A43",
          "font-family": "var( --e-global-typography-text-font-family ), Sans-serif"
@@ -589,11 +693,15 @@
          "color": "#1E3A43",
          "font-family": "\"Lato\", Sans-serif"
         },
+        ".elementor-field-type-html": {
+         "padding-bottom": "0px"
+        },
         ".dce-signature-wrapper": {
          "text-align": "left"
         },
         ".dce-signature-canvas": {
          "border-radius": "3px 3px 3px 3px",
+         "border-width": "1px 1px 1px 1px",
          "background-color": "#ffffff"
         },
         ".dce-signature-button-clear": {
@@ -602,6 +710,10 @@
         ".dce-signature-button-clear i": {
          "color": "#e62626",
          "font-size": "16px"
+        },
+        ".dce-signature-button-clear svg": {
+         "width": "16px",
+         "height": "16px"
         },
         ".elementor-field-group .elementor-field": {
          "color": "#000000",
@@ -615,18 +727,22 @@
         },
         ".elementor-field-group .elementor-field:not(.elementor-select-wrapper)": {
          "background-color": "#ffffff",
+         "border-color": "#BEBEBE",
          "border-radius": "12px 12px 12px 12px"
         },
         ".elementor-field-group .elementor-select-wrapper select": {
          "background-color": "#ffffff",
+         "border-color": "#BEBEBE",
          "border-radius": "12px 12px 12px 12px"
         },
         ".elementor-field-group .elementor-select-wrapper .select2": {
          "background-color": "#ffffff",
+         "border-color": "#BEBEBE",
          "border-radius": "12px 12px 12px 12px"
         },
         ".elementor-field-group .elementor-select-wrapper .select2 .elementor-field-textual": {
          "background-color": "#ffffff",
+         "border-color": "#BEBEBE",
          "border-radius": "12px 12px 12px 12px"
         },
         ".mce-panel": {
@@ -636,12 +752,15 @@
          "color": "#BEBEBE"
         },
         ".elementor-field-group .mce-panel": {
+         "border-color": "#BEBEBE",
          "border-radius": "12px 12px 12px 12px"
         },
         ".elementor-button": {
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "border-style": "solid",
+         "border-width": "1px 1px 1px 1px",
          "border-radius": "100px 100px 100px 100px",
          "padding": "16px 16px 16px 16px"
         },
@@ -659,11 +778,13 @@
         },
         ".e-form__buttons__wrapper__button-next:hover": {
          "background-color": "#FFFFFF",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".elementor-button[type=\"submit\"]:hover": {
          "background-color": "#FFFFFF",
-         "color": "#61CE70"
+         "color": "#61CE70",
+         "border-color": "#61CE70"
         },
         ".e-form__buttons__wrapper__button-previous:hover": {
          "color": "#ffffff"
@@ -671,9 +792,12 @@
         ".elementor-field-label-description:after": {
          "border-radius": "50%",
          "padding": "2px 0",
+         "height": "1.2em",
          "line-height": "1",
          "font-size": "80%",
+         "width": "1.2em",
          "text-align": "center",
+         "margin-left": "0.2em",
          "color": "#ffffff",
          "background-color": "#777777"
         },
@@ -687,6 +811,7 @@
          "opacity": "1"
         }
        },
+       "hide": null,
        "formName": "Learn More",
        "fields": [
         {
