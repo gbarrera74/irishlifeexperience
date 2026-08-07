@@ -106,6 +106,9 @@ function SectionBlock({ block }: { block: Block }) {
           alt=""
           fill
           sizes="100vw"
+          // Elementor paints section backgrounds with CSS rather than an <img>;
+          // marked so inventory checks do not read this as extra content.
+          data-bg="1"
           className="object-cover"
           unoptimized={!localSrc(slideshow?.[0] ?? bgImage)}
         />

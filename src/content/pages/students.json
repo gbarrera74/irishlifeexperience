@@ -147,7 +147,7 @@
        "hide": null,
        "src": "/images/wp/2021/09/F0B73DC2-3CD5-474D-BF32-AE8980870FDE.png",
        "alt": "Ireland Map #1",
-       "link": null
+       "link": "/students/"
       },
       {
        "type": "heading",
@@ -169,7 +169,7 @@
        "hide": null,
        "text": "Classes",
        "tag": "h2",
-       "link": null,
+       "link": "/students/",
        "size": null
       },
       {
@@ -210,7 +210,7 @@
        },
        "hide": null,
        "text": "Learn More",
-       "link": null
+       "link": "/students/classes/"
       }
      ],
      "width": 25
@@ -251,7 +251,7 @@
        "hide": null,
        "src": "/images/wp/2021/07/AF387BFA-7F95-4933-BF02-1E672D05BD88.png",
        "alt": "Cliffs of Moher Flowers",
-       "link": null
+       "link": "/students/"
       },
       {
        "type": "heading",
@@ -273,7 +273,7 @@
        "hide": null,
        "text": "Tours",
        "tag": "h2",
-       "link": null,
+       "link": "/students/",
        "size": null
       },
       {
@@ -314,7 +314,7 @@
        },
        "hide": null,
        "text": "Learn More",
-       "link": null
+       "link": "/students/tours/"
       }
      ],
      "width": 25
@@ -354,7 +354,7 @@
        "hide": null,
        "src": "/images/wp/2021/09/IMG_2557-scaled.jpg",
        "alt": "St. Brigid's Cross Workshop-Katie 2010",
-       "link": null
+       "link": "/students/"
       },
       {
        "type": "heading",
@@ -379,7 +379,7 @@
        "hide": null,
        "text": "Workshops",
        "tag": "h2",
-       "link": null,
+       "link": "/students/",
        "size": null
       },
       {
@@ -422,7 +422,7 @@
        },
        "hide": null,
        "text": "Learn More",
-       "link": null
+       "link": "/students/workshops/"
       }
      ],
      "width": 25
@@ -464,7 +464,7 @@
        "hide": null,
        "src": "/images/wp/2021/10/The-Gleneagle-Apartment-Living-room.jpg",
        "alt": "Gleneagle Living Room-2021",
-       "link": null
+       "link": "/students/"
       },
       {
        "type": "heading",
@@ -489,7 +489,7 @@
        "hide": null,
        "text": "Accommodations",
        "tag": "h2",
-       "link": null,
+       "link": "/students/",
        "size": null
       },
       {
@@ -530,7 +530,7 @@
        },
        "hide": null,
        "text": "Learn More",
-       "link": null
+       "link": "/parents/accommodations/"
       }
      ],
      "width": 25
@@ -687,7 +687,7 @@
        },
        "hide": null,
        "text": "Request Info",
-       "link": ""
+       "link": null
       },
       {
        "type": "spacer",
@@ -878,7 +878,7 @@
        },
        "hide": null,
        "text": "See More Testimonials",
-       "link": ""
+       "link": "/testimonials/"
       }
      ],
      "width": 100

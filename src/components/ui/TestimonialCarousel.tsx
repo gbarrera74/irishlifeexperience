@@ -93,6 +93,7 @@ export default function TestimonialCarousel({
           {reel.map((t, i) => (
             <li
               key={t.name + i}
+              data-clone={i >= items.length ? "1" : undefined}
               aria-hidden={i >= items.length}
               className="flex shrink-0 items-center gap-5 text-left"
               style={{ width: `calc((100% - ${(perView - 1) * 22}px) / ${perView})` }}

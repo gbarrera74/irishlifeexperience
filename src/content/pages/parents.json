@@ -182,7 +182,7 @@
            "hide": null,
            "src": "/images/wp/2021/10/The-Gleneagle-Apartment-Living-room.jpg",
            "alt": "Gleneagle Living Room-2021",
-           "link": null
+           "link": "/parents/accommodations/"
           },
           {
            "type": "heading",
@@ -204,7 +204,7 @@
            "hide": null,
            "text": "Accommodations",
            "tag": "h2",
-           "link": null,
+           "link": "/parents/accommodations/",
            "size": null
           },
           {
@@ -245,7 +245,7 @@
            },
            "hide": null,
            "text": "Learn More",
-           "link": null
+           "link": "/parents/accommodations/"
           }
          ],
          "width": 25
@@ -286,7 +286,7 @@
            "hide": null,
            "src": "/images/wp/2021/09/388DCEF0-BC9B-4AD5-92A8-DD0C2D699F3B.png",
            "alt": "Questions #2",
-           "link": null
+           "link": "/parents/faq/"
           },
           {
            "type": "heading",
@@ -308,7 +308,7 @@
            "hide": null,
            "text": "FAQ",
            "tag": "h2",
-           "link": null,
+           "link": "/parents/faq/",
            "size": null
           },
           {
@@ -349,7 +349,7 @@
            },
            "hide": null,
            "text": "Learn More",
-           "link": null
+           "link": "/parents/faq/"
           }
          ],
          "width": 25
@@ -389,7 +389,7 @@
            "hide": null,
            "src": "/images/wp/2021/09/1EBFBFF5-D4BF-423A-A6AB-0A821D6E9B80.png",
            "alt": "Airplane at Sunset",
-           "link": null
+           "link": "/parents/travel/"
           },
           {
            "type": "heading",
@@ -414,7 +414,7 @@
            "hide": null,
            "text": "Travel",
            "tag": "h2",
-           "link": null,
+           "link": "/about-us/",
            "size": null
           },
           {
@@ -455,7 +455,7 @@
            },
            "hide": null,
            "text": "Learn More",
-           "link": null
+           "link": "/parents/travel/"
           }
          ],
          "width": 25
@@ -496,7 +496,7 @@
            "hide": null,
            "src": "/images/wp/2021/09/20232822_10155603969914939_3120689033503150462_o.jpg",
            "alt": "Poulnabrone Dolmen-Staff 2016",
-           "link": null
+           "link": "/about-us/"
           },
           {
            "type": "heading",
@@ -521,7 +521,7 @@
            "hide": null,
            "text": "About Us",
            "tag": "h2",
-           "link": null,
+           "link": "/about-us/",
            "size": null
           },
           {
@@ -562,7 +562,7 @@
            },
            "hide": null,
            "text": "Learn More",
-           "link": null
+           "link": "/about-us/"
           }
          ],
          "width": 25
@@ -861,7 +861,7 @@
        },
        "hide": null,
        "text": "Apply Now",
-       "link": null
+       "link": "/apply/"
       }
      ],
      "width": 50
@@ -1043,7 +1043,7 @@
        },
        "hide": null,
        "text": "See More Testimonials",
-       "link": ""
+       "link": "/testimonials/"
       }
      ],
      "width": 100

@@ -15,6 +15,7 @@ import html
 import json
 import pathlib
 import re
+import urllib.parse
 from collections import OrderedDict
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -156,6 +157,50 @@ def parse_responsive(path: pathlib.Path) -> str:
     return responsive_css(blocks)
 
 
+# id -> permalink path, for resolving Elementor's dynamic internal-url tags.
+_PERMALINKS: dict = {}
+
+
+def _permalinks() -> dict:
+    if not _PERMALINKS:
+        for src in ("export/pages.json", "export/posts.json"):
+            for item in json.loads((ROOT / src).read_text()):
+                _PERMALINKS[int(item["id"])] = re.sub(r"^https?://[^/]+", "", item["permalink"])
+    return _PERMALINKS
+
+
+def dynamic_link(st):
+    """Resolve a link stored as an Elementor dynamic tag.
+
+    Buttons that point at another page through Elementor's "internal URL"
+    control keep nothing in settings.link — the destination lives in
+    __dynamic__ as a shortcode with URL-encoded JSON settings. Reading only
+    settings.link dropped the destination from every such button, which is most
+    of the "Learn More" buttons on the site.
+    """
+    tag = ((st.get("__dynamic__") or {}).get("link") or "")
+    if not tag:
+        return None
+    m = re.search(r'settings="([^"]*)"', tag)
+    if not m:
+        return None
+    try:
+        cfg = json.loads(urllib.parse.unquote(m.group(1)))
+    except ValueError:
+        return None
+    if cfg.get("url"):
+        return cfg["url"]
+    pid = cfg.get("post_id") or cfg.get("id")
+    if pid and int(pid) in _permalinks():
+        return _permalinks()[int(pid)]
+    return None
+
+
+def link_of(st):
+    """settings.link.url, falling back to the dynamic tag."""
+    return (st.get("link") or {}).get("url") or dynamic_link(st)
+
+
 def clean_html(s: str) -> str:
     return (s or "").strip()
 
@@ -195,7 +240,7 @@ def widget_block(node, css):
     if w == "heading":
         b["text"] = plain(st.get("title", ""))
         b["tag"] = st.get("header_size", "h2")
-        b["link"] = (st.get("link") or {}).get("url")
+        b["link"] = link_of(st)
         # Elementor's preset size control. It emits a class, not a declaration,
         # so the size appears nowhere in the page CSS — the home page's audience
         # captions are 'medium' (19px) and rendered 5px too large without it.
@@ -205,20 +250,20 @@ def widget_block(node, css):
     elif w == "image":
         b["src"] = img(st.get("image"))
         b["alt"] = (st.get("image") or {}).get("alt", "")
-        b["link"] = (st.get("link") or {}).get("url")
+        b["link"] = link_of(st)
         # Elementor only renders the caption when caption_source is set; with
         # 'attachment' it comes from the media library rather than the widget.
         if st.get("caption_source") in ("custom", "attachment"):
             b["caption"] = plain(st.get("caption", ""))
     elif w == "button":
         b["text"] = st.get("text")
-        b["link"] = (st.get("link") or {}).get("url")
+        b["link"] = link_of(st)
     elif w == "icon-box":
         ic = st.get("selected_icon") or {}
         b["icon"] = ic.get("value") if isinstance(ic, dict) else ic
         b["title"] = plain(st.get("title_text", ""))
         b["description"] = plain(st.get("description_text", ""))
-        b["link"] = (st.get("link") or {}).get("url")
+        b["link"] = link_of(st)
     elif w == "icon-list":
         b["items"] = [
             {"text": plain(i.get("text", "")), "link": (i.get("link") or {}).get("url")}
@@ -299,8 +344,15 @@ def widget_block(node, css):
         # the ambassador pages. Without the query settings it silently renders
         # recent blog posts instead, which is a different list entirely.
         b["postType"] = st.get("posts_post_type") or "post"
-        b["perPage"] = st.get("cards_posts_per_page") or st.get("posts_per_page")
-        b["readMore"] = plain(st.get("read_more_text", "")) or None
+        # Elementor prefixes these per skin, so the same control is
+        # classic_posts_per_page on one widget and cards_posts_per_page on
+        # another. Reading one name only left the home page showing six posts
+        # where the original shows three.
+        b["perPage"] = (st.get("classic_posts_per_page") or st.get("cards_posts_per_page")
+                        or st.get("posts_per_page"))
+        b["readMore"] = (plain(st.get("classic_read_more_text", ""))
+                         or plain(st.get("cards_read_more_text", ""))
+                         or plain(st.get("read_more_text", "")) or None)
         inc = st.get("posts_include_term_ids") or st.get("posts_include_ids")
         term_ids = {int(i) for i in inc if str(i).isdigit()} if isinstance(inc, list) else set()
         if term_ids:

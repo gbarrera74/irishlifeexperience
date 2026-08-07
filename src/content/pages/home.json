@@ -732,7 +732,7 @@
            "hide": null,
            "src": "/images/wp/2021/07/IMG_3301-scaled.jpg",
            "alt": "Burren View #2-Ellie 2016",
-           "link": null
+           "link": "/programs/"
           },
           {
            "type": "heading",
@@ -757,7 +757,7 @@
            "hide": null,
            "text": "Program",
            "tag": "h2",
-           "link": null,
+           "link": "/programs/",
            "size": null
           },
           {
@@ -779,7 +779,7 @@
            "hide": null,
            "text": "Be Inspired to Travel",
            "tag": "h4",
-           "link": null,
+           "link": "/programs/",
            "size": "medium"
           },
           {
@@ -832,7 +832,7 @@
            "hide": null,
            "src": "/images/wp/2021/07/IMG_1749-scaled.jpg",
            "alt": "Giant's Causeway-Maggie and Manon Laugh 2016",
-           "link": null
+           "link": "/students/"
           },
           {
            "type": "heading",
@@ -857,7 +857,7 @@
            "hide": null,
            "text": "Students",
            "tag": "h2",
-           "link": null,
+           "link": "/students/",
            "size": null
           },
           {
@@ -879,7 +879,7 @@
            "hide": null,
            "text": "Create Lifelong Memories",
            "tag": "h4",
-           "link": null,
+           "link": "/students/",
            "size": "medium"
           }
          ],
@@ -929,7 +929,7 @@
            "hide": null,
            "src": "/images/wp/2021/10/IMG_2063-scaled.jpg",
            "alt": "",
-           "link": null
+           "link": "/parents/"
           },
           {
            "type": "heading",
@@ -954,7 +954,7 @@
            "hide": null,
            "text": "Parents",
            "tag": "h2",
-           "link": null,
+           "link": "/parents/",
            "size": null
           },
           {
@@ -976,7 +976,7 @@
            "hide": null,
            "text": "Book with Confidence",
            "tag": "h4",
-           "link": null,
+           "link": "/parents/",
            "size": "medium"
           }
          ],
@@ -1020,7 +1020,7 @@
            "hide": null,
            "src": "/images/wp/2021/07/IMG_1979-scaled.jpg",
            "alt": "Muckross House-Circle Group 2014",
-           "link": null
+           "link": "/alumni/"
           },
           {
            "type": "heading",
@@ -1045,7 +1045,7 @@
            "hide": null,
            "text": "Alumni",
            "tag": "h2",
-           "link": null,
+           "link": "/alumni/",
            "size": null
           },
           {
@@ -1067,7 +1067,7 @@
            "hide": null,
            "text": "Connect and Promote the Program",
            "tag": "h4",
-           "link": null,
+           "link": "/alumni/",
            "size": "medium"
           }
          ],
@@ -1196,7 +1196,7 @@
        },
        "hide": null,
        "text": "Learn More",
-       "link": ""
+       "link": null
       }
      ],
      "width": 50
@@ -1499,7 +1499,7 @@
        },
        "hide": null,
        "text": "See More Testimonials",
-       "link": ""
+       "link": "/testimonials/"
       }
      ],
      "width": 100
@@ -1633,8 +1633,8 @@
        },
        "hide": null,
        "postType": "post",
-       "perPage": null,
-       "readMore": null
+       "perPage": 3,
+       "readMore": "Read More »"
       },
       {
        "type": "spacer",
@@ -1673,7 +1673,7 @@
        },
        "hide": null,
        "text": "View More",
-       "link": ""
+       "link": "/blog/"
       }
      ],
      "width": 100

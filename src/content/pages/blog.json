@@ -181,8 +181,8 @@
        },
        "hide": null,
        "postType": "post",
-       "perPage": null,
-       "readMore": null
+       "perPage": 12,
+       "readMore": "Read More »"
       }
      ],
      "width": 100
@@ -311,7 +311,7 @@
        },
        "hide": null,
        "text": "Apply Now",
-       "link": null
+       "link": "/apply/"
       }
      ],
      "width": 50

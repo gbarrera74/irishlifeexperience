@@ -40,9 +40,13 @@ export default function Gallery({
   return (
     <div className={`my-8 grid grid-cols-1 gap-3 ${cols}`}>
       {images.map((img, i) => (
-        <div
+        // Each thumbnail links to the full-size file, as the original does —
+        // there every gallery item is an <a> opening the image in a lightbox,
+        // so an unlinked grid loses the only way to see a photo at full size.
+        <a
           key={`${img.src}-${i}`}
-          className="relative aspect-4/3 overflow-hidden rounded-lg bg-mist"
+          href={img.src}
+          className="relative block aspect-4/3 overflow-hidden rounded-lg bg-mist"
         >
           <Image
             src={img.src}
@@ -52,7 +56,7 @@ export default function Gallery({
             className="object-cover transition-transform duration-300 hover:scale-105"
             unoptimized={/^https?:\/\//.test(img.src)}
           />
-        </div>
+        </a>
       ))}
     </div>
   );
