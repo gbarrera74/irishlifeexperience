@@ -80,6 +80,51 @@ function localSrc(src?: string) {
 
 // ---------------------------------------------------------------- containers
 
+type Shape = { name?: string; svg?: string; negative?: boolean; fill?: string };
+
+/**
+ * Elementor's shape dividers — the torn-paper and arrow edges between sections.
+ *
+ * The SVG is taken verbatim from the page capture rather than rebuilt from the
+ * shape name, because the site uses Happy Addons' variants rather than
+ * Elementor's stock shapes. A `negative` divider is flipped vertically and cuts
+ * into the section instead of sitting on top of it.
+ */
+function ShapeDividers({ block }: { block: Block }) {
+  const shapes = block.shapes as Record<string, Shape> | undefined;
+  if (!shapes) return null;
+  return (
+    <>
+      {(["top", "bottom"] as const).map((side) => {
+        const s = shapes[side];
+        if (!s?.svg) return null;
+        return (
+          <div
+            key={side}
+            aria-hidden="true"
+            data-shape={side}
+            className={`pointer-events-none absolute inset-x-0 overflow-hidden leading-none ${
+              side === "top" ? "top-0" : "bottom-0"
+            }`}
+            style={{
+              // The fill is declared on .elementor-shape-fill in the page CSS,
+              // so it is applied here rather than baked into the markup.
+              ["--shape-fill" as string]: s.fill,
+              // Measured off the original: a bottom divider is rotated 180°,
+              // and `negative` cancels that rotation rather than adding a flip
+              // of its own. Treating negative as an extra scaleY mirrored the
+              // hero's arrow the wrong way.
+              transform:
+                side === "bottom" && !s.negative ? "rotate(180deg)" : undefined,
+            }}
+            dangerouslySetInnerHTML={{ __html: s.svg }}
+          />
+        );
+      })}
+    </>
+  );
+}
+
 function SectionBlock({ block }: { block: Block }) {
   const base = block.style?.[""] ?? {};
   const bg = pick(block.style, "background-color");
@@ -113,6 +158,7 @@ function SectionBlock({ block }: { block: Block }) {
           unoptimized={!localSrc(slideshow?.[0] ?? bgImage)}
         />
       )}
+      <ShapeDividers block={block} />
       {overlay && (
         <div
           aria-hidden="true"

@@ -96,6 +96,14 @@
      "width": 100
     }
    ],
+   "shapes": {
+    "bottom": {
+     "name": "arrow",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 700 10\" preserveAspectRatio=\"none\"> <path class=\"elementor-shape-fill\" d=\"M360 0L350 9.9 340 0 0 0 0 10 700 10 700 0\"/> </svg>",
+     "negative": true,
+     "fill": null
+    }
+   },
    "bgImage": "/images/wp/2021/09/6715277B-C52D-49C2-952A-BD639701CA01.png"
   },
   {

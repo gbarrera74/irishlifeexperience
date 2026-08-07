@@ -104,6 +104,14 @@
      "width": 100
     }
    ],
+   "shapes": {
+    "bottom": {
+     "name": "arrow",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 700 10\" preserveAspectRatio=\"none\"> <path class=\"elementor-shape-fill\" d=\"M360 0L350 9.9 340 0 0 0 0 10 700 10 700 0\"/> </svg>",
+     "negative": true,
+     "fill": null
+    }
+   },
    "bgImage": "/images/wp/2021/07/IMG_2266-scaled.jpg"
   },
   {
@@ -215,6 +223,7 @@
          "font-size": "16px"
         },
         ".dce-signature-button-clear svg": {
+         "fill": "#e62626",
          "width": "16px",
          "height": "16px"
         },
@@ -275,6 +284,9 @@
          "background-color": "#61CE70",
          "color": "#ffffff"
         },
+        ".elementor-button[type=\"submit\"] svg *": {
+         "fill": "#ffffff"
+        },
         ".e-form__buttons__wrapper__button-previous": {
          "background-color": "#FFFFFF",
          "color": "#ffffff"
@@ -288,6 +300,9 @@
          "background-color": "#FFFFFF",
          "color": "#61CE70",
          "border-color": "#61CE70"
+        },
+        ".elementor-button[type=\"submit\"]:hover svg *": {
+         "fill": "#61CE70"
         },
         ".e-form__buttons__wrapper__button-previous:hover": {
          "color": "#ffffff"

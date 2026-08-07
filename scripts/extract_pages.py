@@ -42,6 +42,8 @@ STYLE_KEYS = (
     "padding-top", "padding-bottom", "padding-left", "padding-right",
     "align-items", "align-content", "justify-content", "box-shadow",
     "border-width", "border-style", "border-color",
+    # Shape-divider colour.
+    "fill",
 )
 
 
@@ -199,6 +201,46 @@ def dynamic_link(st):
 def link_of(st):
     """settings.link.url, falling back to the dynamic tag."""
     return (st.get("link") or {}).get("url") or dynamic_link(st)
+
+
+# ---------------------------------------------------------------- shape dividers
+
+_SHAPES: dict = {}
+
+
+def shapes_for(slug: str) -> dict:
+    """element-id -> {"top": svg, "bottom": svg} from the page's live capture.
+
+    Elementor renders shape dividers as inline SVG, and the site uses Happy
+    Addons' variants rather than the stock ones (its torn-paper carries
+    opacity="0.7"), so the markup is lifted verbatim from the capture instead
+    of being reconstructed from the shape name.
+    """
+    if slug in _SHAPES:
+        return _SHAPES[slug]
+    out: dict = {}
+    path = ROOT / f"export/html/{slug}.html"
+    if path.exists():
+        markup = path.read_text(errors="replace")
+        # Each shape div sits immediately inside its section's opening tag, so
+        # the nearest preceding elementor-element-<id> owns it.
+        ids = [(m.start(), m.group(1))
+               for m in re.finditer(r"elementor-element-([a-z0-9]+)", markup)]
+        for m in re.finditer(
+                r'<div class="elementor-shape elementor-shape-(top|bottom)".*?</div>',
+                markup, re.S):
+            owner = None
+            for pos, eid in ids:
+                if pos < m.start():
+                    owner = eid
+                else:
+                    break
+            if owner:
+                svg = re.search(r"<svg.*?</svg>", m.group(), re.S)
+                if svg:
+                    out.setdefault(owner, {})[m.group(1)] = re.sub(r"\s+", " ", svg.group())
+    _SHAPES[slug] = out
+    return out
 
 
 def clean_html(s: str) -> str:
@@ -394,7 +436,8 @@ def resolve_term(post_type, term_ids, limit):
     ]
 
 
-def walk(nodes, css):
+def walk(nodes, css, shapes=None):
+    shapes = shapes or {}
     out = []
     for n in nodes or []:
         el = n.get("elType")
@@ -407,8 +450,23 @@ def walk(nodes, css):
                 "type": el,  # section / column / container
                 "id": eid,
                 "style": css.get(eid, {}),
-                "children": walk(n.get("elements"), css),
+                "children": walk(n.get("elements"), css, shapes),
             }
+            # Shape dividers — the torn-paper and arrow edges between sections.
+            if st.get("shape_divider_top") or st.get("shape_divider_bottom"):
+                svgs = shapes.get(eid, {})
+                block["shapes"] = {
+                    side: {
+                        "name": st.get(f"shape_divider_{side}"),
+                        "svg": svgs.get(side),
+                        "negative": st.get(f"shape_divider_{side}_negative") == "yes",
+                        "fill": (css.get(eid, {})
+                                 .get(f"> .elementor-shape-{side} .elementor-shape-fill", {})
+                                 .get("fill")),
+                    }
+                    for side in ("top", "bottom")
+                    if st.get(f"shape_divider_{side}")
+                }
             if el == "column":
                 block["width"] = st.get("_column_size")
             if st.get("background_image"):
@@ -439,7 +497,7 @@ def build(source: str, out: pathlib.Path, label: str, elementor_only: bool = Fal
             seo={k: v for k, v in seo.items() if v},
             hasCss=bool(css),
             css=parse_responsive(ROOT / f"export/pagecss/{p['slug']}.css"),
-            blocks=walk(p["elementor_data"], css),
+            blocks=walk(p["elementor_data"], css, shapes_for(p["slug"])),
         )
         (OUT_DIR / f"{p['slug']}.json").write_text(json.dumps(doc, indent=1, ensure_ascii=False))
         index.append({"slug": p["slug"], "title": p["title"], "path": doc["path"], "hasCss": bool(css)})

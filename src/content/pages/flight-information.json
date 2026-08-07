@@ -160,6 +160,7 @@
              "font-size": "16px"
             },
             ".dce-signature-button-clear svg": {
+             "fill": "#e62626",
              "width": "16px",
              "height": "16px"
             },
@@ -227,6 +228,9 @@
              "color": "#ffffff",
              "border-color": "#61CE70"
             },
+            ".elementor-button[type=\"submit\"] svg *": {
+             "fill": "#ffffff"
+            },
             ".e-form__buttons__wrapper__button-previous": {
              "color": "#ffffff"
             },
@@ -239,6 +243,9 @@
              "background-color": "#E4978E00",
              "color": "#61CE70",
              "border-color": "#61CE70"
+            },
+            ".elementor-button[type=\"submit\"]:hover svg *": {
+             "fill": "#61CE70"
             },
             ".e-form__buttons__wrapper__button-previous:hover": {
              "color": "#ffffff"
@@ -513,14 +520,17 @@
            "style": {
             ".elementor-view-stacked .elementor-icon": {
              "background-color": "#61CE70",
+             "fill": "#ffffff",
              "color": "#ffffff"
             },
             ".elementor-view-framed .elementor-icon": {
+             "fill": "#61CE70",
              "color": "#61CE70",
              "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
+             "fill": "#61CE70",
              "color": "#61CE70",
              "border-color": "#61CE70"
             },
@@ -562,14 +572,17 @@
            "style": {
             ".elementor-view-stacked .elementor-icon": {
              "background-color": "#61CE70",
+             "fill": "#ffffff",
              "color": "#ffffff"
             },
             ".elementor-view-framed .elementor-icon": {
+             "fill": "#61CE70",
              "color": "#61CE70",
              "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
+             "fill": "#61CE70",
              "color": "#61CE70",
              "border-color": "#61CE70"
             },
@@ -580,9 +593,11 @@
              "background-color": "#ffffff"
             },
             ".elementor-view-stacked:has(:hover) .elementor-icon": {
+             "fill": "#ffffff",
              "color": "#ffffff"
             },
             ".elementor-view-stacked:has(:focus) .elementor-icon": {
+             "fill": "#ffffff",
              "color": "#ffffff"
             },
             ".elementor-icon": {
@@ -622,14 +637,17 @@
            "style": {
             ".elementor-view-stacked .elementor-icon": {
              "background-color": "#61CE70",
+             "fill": "#ffffff",
              "color": "#ffffff"
             },
             ".elementor-view-framed .elementor-icon": {
+             "fill": "#61CE70",
              "color": "#61CE70",
              "border-color": "#61CE70",
              "background-color": "#ffffff"
             },
             ".elementor-view-default .elementor-icon": {
+             "fill": "#61CE70",
              "color": "#61CE70",
              "border-color": "#61CE70"
             },
@@ -742,11 +760,17 @@
             ".elementor-social-icon i": {
              "color": "#ffffff"
             },
+            ".elementor-social-icon svg": {
+             "fill": "#ffffff"
+            },
             ".elementor-social-icon:hover": {
              "background-color": "rgba(255,255,255,0)"
             },
             ".elementor-social-icon:hover i": {
              "color": "#ff7f50"
+            },
+            ".elementor-social-icon:hover svg": {
+             "fill": "#ff7f50"
             }
            },
            "hide": null,

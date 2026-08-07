@@ -95,6 +95,14 @@
      "width": 100
     }
    ],
+   "shapes": {
+    "bottom": {
+     "name": "arrow",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 700 10\" preserveAspectRatio=\"none\"> <path class=\"elementor-shape-fill\" d=\"M360 0L350 9.9 340 0 0 0 0 10 700 10 700 0\"/> </svg>",
+     "negative": true,
+     "fill": null
+    }
+   },
    "bgImage": "/images/wp/2021/10/DSC00607-scaled.jpg"
   },
   {
@@ -188,6 +196,7 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "fill": "#FFFFFF",
          "color": "#FFFFFF",
          "border-style": "solid",
          "border-width": "1.5px 1.5px 1.5px 1.5px",
@@ -206,6 +215,12 @@
         },
         "> .elementor-widget-container": {
          "margin": "13px 0px 13px 0px"
+        },
+        ".elementor-button:hover svg": {
+         "fill": "#61CE70"
+        },
+        ".elementor-button:focus svg": {
+         "fill": "#61CE70"
         }
        },
        "hide": null,
@@ -292,6 +307,7 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "fill": "#FFFFFF",
          "color": "#FFFFFF",
          "border-style": "solid",
          "border-width": "1.5px 1.5px 1.5px 1.5px",
@@ -310,6 +326,12 @@
         },
         "> .elementor-widget-container": {
          "margin": "13px 0px 13px 0px"
+        },
+        ".elementor-button:hover svg": {
+         "fill": "#E4978E"
+        },
+        ".elementor-button:focus svg": {
+         "fill": "#E4978E"
         }
        },
        "hide": null,
@@ -400,6 +422,7 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "fill": "#FFFFFF",
          "color": "#FFFFFF",
          "border-style": "solid",
          "border-width": "1.5px 1.5px 1.5px 1.5px",
@@ -418,6 +441,12 @@
         },
         "> .elementor-widget-container": {
          "margin": "13px 0px 13px 0px"
+        },
+        ".elementor-button:hover svg": {
+         "fill": "#F3C820"
+        },
+        ".elementor-button:focus svg": {
+         "fill": "#F3C820"
         }
        },
        "hide": null,
@@ -508,6 +537,7 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "fill": "#FFFFFF",
          "color": "#FFFFFF",
          "border-style": "solid",
          "border-width": "1.5px 1.5px 1.5px 1.5px",
@@ -526,6 +556,12 @@
         },
         "> .elementor-widget-container": {
          "margin": "13px 0px 13px 0px"
+        },
+        ".elementor-button:hover svg": {
+         "fill": "#6EC1E4"
+        },
+        ".elementor-button:focus svg": {
+         "fill": "#6EC1E4"
         }
        },
        "hide": null,
@@ -666,6 +702,7 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "fill": "#FFFFFF",
          "color": "#FFFFFF",
          "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
          "border-style": "solid",
@@ -683,6 +720,12 @@
          "background-color": "rgba(54,244,133,0)",
          "color": "#61CE70",
          "border-color": "#61CE70"
+        },
+        ".elementor-button:hover svg": {
+         "fill": "#61CE70"
+        },
+        ".elementor-button:focus svg": {
+         "fill": "#61CE70"
         }
        },
        "hide": null,
@@ -857,6 +900,7 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "fill": "#FFFFFF",
          "color": "#FFFFFF",
          "box-shadow": "3px 5px 0px 0px rgba(0,0,0,0.12)",
          "border-style": "solid",
@@ -874,6 +918,12 @@
          "background-color": "rgba(54,244,133,0)",
          "color": "#61CE70",
          "border-color": "#61CE70"
+        },
+        ".elementor-button:hover svg": {
+         "fill": "#61CE70"
+        },
+        ".elementor-button:focus svg": {
+         "fill": "#61CE70"
         }
        },
        "hide": null,

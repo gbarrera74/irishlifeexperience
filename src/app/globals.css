@@ -156,3 +156,20 @@
     }
   }
 }
+
+/* Elementor shape dividers. The SVG is inlined verbatim from the source page;
+ * these rules give it the sizing Elementor's own shapes.min.css provides, and
+ * pass the fill through from the per-section value. */
+@layer base {
+  [data-shape] svg {
+    display: block;
+    width: calc(100% + 1.3px);
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  [data-shape] .elementor-shape-fill {
+    fill: var(--shape-fill, #fff);
+  }
+}

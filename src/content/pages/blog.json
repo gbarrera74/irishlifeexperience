@@ -97,6 +97,14 @@
      "width": 100
     }
    ],
+   "shapes": {
+    "bottom": {
+     "name": "arrow",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 700 10\" preserveAspectRatio=\"none\"> <path class=\"elementor-shape-fill\" d=\"M360 0L350 9.9 340 0 0 0 0 10 700 10 700 0\"/> </svg>",
+     "negative": true,
+     "fill": null
+    }
+   },
    "bgImage": "/images/wp/2021/07/IMG_8283-scaled.jpg"
   },
   {
@@ -291,6 +299,7 @@
          "font-family": "\"Open Sans\", Sans-serif",
          "font-weight": "bold",
          "text-transform": "uppercase",
+         "fill": "#FFFFFF",
          "color": "#FFFFFF",
          "border-style": "solid",
          "border-width": "1px 1px 1px 1px",
@@ -307,6 +316,12 @@
          "background-color": "rgba(54,244,133,0)",
          "color": "#61CE70",
          "border-color": "#ffffff"
+        },
+        ".elementor-button:hover svg": {
+         "fill": "#61CE70"
+        },
+        ".elementor-button:focus svg": {
+         "fill": "#61CE70"
         }
        },
        "hide": null,

@@ -28,6 +28,9 @@
      "margin-top": "0px",
      "margin-bottom": "0px",
      "padding": "0px 0px 0px 0px"
+    },
+    "> .elementor-shape-bottom .elementor-shape-fill": {
+     "fill": "#FFFFFF"
     }
    },
    "children": [
@@ -103,6 +106,14 @@
      "width": 100
     }
    ],
+   "shapes": {
+    "bottom": {
+     "name": "arrow",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 700 10\" preserveAspectRatio=\"none\"> <path class=\"elementor-shape-fill\" d=\"M360 0L350 9.9 340 0 0 0 0 10 700 10 700 0\"/> </svg>",
+     "negative": true,
+     "fill": "#FFFFFF"
+    }
+   },
    "bgImage": "/images/wp/2021/07/IMG_8896-scaled.jpg"
   },
   {
@@ -5768,6 +5779,12 @@
          "background-color": "rgba(54,244,133,0)",
          "color": "#61CE70",
          "border-color": "#61CE70"
+        },
+        ".elementor-button:hover svg": {
+         "fill": "#61CE70"
+        },
+        ".elementor-button:focus svg": {
+         "fill": "#61CE70"
         }
        },
        "hide": null,
