@@ -272,7 +272,10 @@
              "placeholder": null,
              "options": null,
              "html": "Outbound:  EI (Aer Lingus 136)<br>\nSunday, June 28-Departing Logan Airport (BOS) at 9:25 PM.<br>\nMonday, June 29-Arriving Dublin Airport (DUB) at 8:25 AM.<br><br>\nInbound:  EI (Aer Lingus 135)<br>\nThursday, July 23-Departing Shannon Airport (SNN) at 1:45 PM.<br>\nThursday, July 23-Arriving Logan Airport (BOS) at 3:30 PM.  ",
-             "id": "field_d7c339b"
+             "id": "field_d7c339b",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Participant's Name",
@@ -281,7 +284,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "name"
+             "id": "name",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -290,7 +296,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "be51549"
+             "id": "be51549",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Do you have a connecting flight into Logan Airport (BOS) on Sunday, June 28, 2026?",
@@ -299,7 +308,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_ef41dc8"
+             "id": "field_ef41dc8",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Section 2",
@@ -308,7 +320,10 @@
              "placeholder": null,
              "options": null,
              "html": "<p>Inbound Connecting Flight Information\n<p>If you answered \"Yes\" to having a connecting flight into Logan Airport (BOS) on Sunday, June 29, 2025, please answer the following.</p><hr>\n",
-             "id": "field_c5bae5d"
+             "id": "field_c5bae5d",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -317,7 +332,10 @@
              "placeholder": "Airline",
              "options": null,
              "html": null,
-             "id": "field_6ad3f21"
+             "id": "field_6ad3f21",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -326,7 +344,10 @@
              "placeholder": "Flight Number",
              "options": null,
              "html": null,
-             "id": "field_c348e41"
+             "id": "field_c348e41",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -335,7 +356,10 @@
              "placeholder": "City",
              "options": null,
              "html": null,
-             "id": "field_9c9c747"
+             "id": "field_9c9c747",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -344,7 +368,10 @@
              "placeholder": "Time Departing",
              "options": null,
              "html": null,
-             "id": "field_3cd6abb"
+             "id": "field_3cd6abb",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -353,7 +380,10 @@
              "placeholder": "Time Arriving",
              "options": null,
              "html": null,
-             "id": "field_1c2d3b7"
+             "id": "field_1c2d3b7",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Do you have a connecting flight out of Logan Airport (BOS) on Thursday, July 23, 2026?",
@@ -362,7 +392,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_deee5f5"
+             "id": "field_deee5f5",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Section 2",
@@ -371,7 +404,10 @@
              "placeholder": null,
              "options": null,
              "html": "<p>Outbound Connecting Flight Information\n<p>If you answered \"Yes\" to having a connecting flight out of Logan Airport (BOS) on Thursday, July 23, 2026, please answer the following.",
-             "id": "field_580758c"
+             "id": "field_580758c",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -380,7 +416,10 @@
              "placeholder": "Airline",
              "options": null,
              "html": null,
-             "id": "field_d80590d"
+             "id": "field_d80590d",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -389,7 +428,10 @@
              "placeholder": "Flight",
              "options": null,
              "html": null,
-             "id": "field_79e21bf"
+             "id": "field_79e21bf",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -398,7 +440,10 @@
              "placeholder": "City",
              "options": null,
              "html": null,
-             "id": "field_a408741"
+             "id": "field_a408741",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -407,7 +452,10 @@
              "placeholder": "Time Departing",
              "options": null,
              "html": null,
-             "id": "field_dbf9fd7"
+             "id": "field_dbf9fd7",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -416,7 +464,10 @@
              "placeholder": "Time Arriving",
              "options": null,
              "html": null,
-             "id": "field_7de10a0"
+             "id": "field_7de10a0",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Are you extending your stay in Ireland before Sunday, June 28 or after Thursday, July 23, 2026?",
@@ -425,10 +476,14 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_d220bce"
+             "id": "field_d220bce",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             }
            ],
-           "submit": "Submit"
+           "submit": "Submit",
+           "submitWidth": "25"
           }
          ],
          "width": 100

@@ -490,7 +490,14 @@
        },
        "hide": null,
        "images": [],
-       "slidesPerView": null
+       "slidesPerView": null,
+       "thumbSize": "thumbnail",
+       "autoplay": true,
+       "autoplaySpeed": 5000,
+       "speed": 500,
+       "infinite": true,
+       "pauseOnHover": true,
+       "navigation": "both"
       }
      ],
      "width": 100
@@ -589,7 +596,14 @@
        },
        "hide": null,
        "images": [],
-       "slidesPerView": null
+       "slidesPerView": null,
+       "thumbSize": "thumbnail",
+       "autoplay": true,
+       "autoplaySpeed": 5000,
+       "speed": 500,
+       "infinite": true,
+       "pauseOnHover": true,
+       "navigation": "both"
       }
      ],
      "width": 100
@@ -688,7 +702,14 @@
        },
        "hide": null,
        "images": [],
-       "slidesPerView": null
+       "slidesPerView": null,
+       "thumbSize": "thumbnail",
+       "autoplay": true,
+       "autoplaySpeed": 5000,
+       "speed": 500,
+       "infinite": true,
+       "pauseOnHover": true,
+       "navigation": "both"
       }
      ],
      "width": 100
@@ -758,7 +779,14 @@
         "/images/wp/2021/10/oconnor.png",
         "/images/wp/2021/11/quest.png"
        ],
-       "slidesPerView": null
+       "slidesPerView": "3",
+       "thumbSize": "thumbnail",
+       "autoplay": true,
+       "autoplaySpeed": 5000,
+       "speed": 500,
+       "infinite": true,
+       "pauseOnHover": true,
+       "navigation": "both"
       },
       {
        "type": "spacer",

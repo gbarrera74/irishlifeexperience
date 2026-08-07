@@ -230,7 +230,21 @@ def widget_block(node, css):
         b["description"] = plain(st.get("description_text", ""))
     elif w in ("image-carousel", "media-carousel"):
         b["images"] = [img(g) for g in st.get("carousel", []) if img(g)]
-        b["slidesPerView"] = st.get("slides_per_view")
+        # image-carousel calls it slides_to_show; media-carousel slides_per_view.
+        # Reading only the latter left the partner logos unconstrained, so eight
+        # of them rendered at 374px instead of three at 150px.
+        b["slidesPerView"] = st.get("slides_to_show") or st.get("slides_per_view")
+        # Elementor defaults this widget to WordPress's 150x150 thumbnail crop.
+        b["thumbSize"] = st.get("thumbnail_size") or "thumbnail"
+        # Behaviour controls. None of these are stored unless an editor changed
+        # them, so the defaults below are Elementor's own — the partner logos
+        # rely entirely on them and sat motionless without.
+        b["autoplay"] = st.get("autoplay", "yes") != "no"
+        b["autoplaySpeed"] = int(st.get("autoplay_speed") or 5000)
+        b["speed"] = int(st.get("speed") or 500)
+        b["infinite"] = st.get("infinite", "yes") != "no"
+        b["pauseOnHover"] = st.get("pause_on_hover", "yes") != "no"
+        b["navigation"] = st.get("navigation", "both")
     elif w == "gallery":
         b["images"] = [img(g) for g in st.get("gallery", []) if img(g)]
     elif w == "testimonial-carousel":
@@ -257,10 +271,17 @@ def widget_block(node, css):
                 "options": f.get("field_options"),
                 "html": f.get("field_html"),
                 "id": f.get("custom_id") or f.get("_id"),
+                # Percentage column width. Elementor lays its forms out in a
+                # row; without this every field stacked, so the home page's
+                # five-across enquiry form became five separate lines.
+                "width": f.get("width"),
+                "widthTablet": f.get("width_tablet"),
+                "widthMobile": f.get("width_mobile"),
             }
             for f in st.get("form_fields", [])
         ]
         b["submit"] = st.get("button_text", "Submit")
+        b["submitWidth"] = st.get("button_width")
     elif w == "shortcode":
         b["shortcode"] = st.get("shortcode")
     elif w == "spacer":

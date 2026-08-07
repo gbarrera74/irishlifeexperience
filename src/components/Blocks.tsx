@@ -496,7 +496,19 @@ function Widget({ block }: { block: Block }) {
       );
     case "image-carousel":
     case "media-carousel":
-      return <ImageCarousel images={((block.images ?? []) as string[]).map((src) => ({ src }))} />;
+      return (
+        <ImageCarousel
+          images={((block.images ?? []) as string[]).map((src) => ({ src }))}
+          perView={Number(block.slidesPerView) || 3}
+          thumb={block.thumbSize === "thumbnail"}
+          autoplay={block.autoplay !== false}
+          autoplaySpeed={Number(block.autoplaySpeed) || 5000}
+          speed={Number(block.speed) || 500}
+          infinite={block.infinite !== false}
+          pauseOnHover={block.pauseOnHover !== false}
+          navigation={(block.navigation as string) || "both"}
+        />
+      );
     case "gallery":
       return <Gallery images={((block.images ?? []) as string[]).map((src) => ({ src }))} />;
     case "video":
@@ -506,6 +518,7 @@ function Widget({ block }: { block: Block }) {
         <WordPressForm
           name={(block.formName as string) ?? "form"}
           fields={(block.fields ?? []) as FormField[]}
+          submitWidth={block.submitWidth as string | undefined}
           submitLabel={(block.submit as string) ?? "Submit"}
           source={(block.formName as string) ?? "page"}
         />

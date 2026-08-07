@@ -280,7 +280,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "name"
+             "id": "name",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -289,7 +292,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "be51549"
+             "id": "be51549",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Today's Date",
@@ -298,7 +304,10 @@
              "placeholder": "Date",
              "options": null,
              "html": null,
-             "id": "expiration_date"
+             "id": "expiration_date",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Parent's Name",
@@ -307,7 +316,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "field_edf1c83"
+             "id": "field_edf1c83",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -316,7 +328,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "field_b90e5e1"
+             "id": "field_b90e5e1",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Today's Date",
@@ -325,7 +340,10 @@
              "placeholder": "Date",
              "options": null,
              "html": null,
-             "id": "field_e2d00ba"
+             "id": "field_e2d00ba",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Parent's Name",
@@ -334,7 +352,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "field_53b9acd"
+             "id": "field_53b9acd",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -343,7 +364,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "field_d9d81c7"
+             "id": "field_d9d81c7",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Today's Date",
@@ -352,10 +376,14 @@
              "placeholder": "Date",
              "options": null,
              "html": null,
-             "id": "field_eb5b660"
+             "id": "field_eb5b660",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             }
            ],
-           "submit": "Submit"
+           "submit": "Submit",
+           "submitWidth": "25"
           }
          ],
          "width": 100

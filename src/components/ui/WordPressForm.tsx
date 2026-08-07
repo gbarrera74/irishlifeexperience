@@ -10,6 +10,10 @@ export type FormField = {
   options?: string | null;
   html?: string | null;
   id: string;
+  /** Elementor column width as a percentage string, e.g. "20". */
+  width?: string | null;
+  widthTablet?: string | null;
+  widthMobile?: string | null;
 };
 
 type Status = "idle" | "sending" | "sent" | "error";
@@ -25,8 +29,10 @@ export default function WordPressForm({
   name,
   fields,
   submitLabel = "Submit",
+  submitWidth,
   source,
 }: {
+  submitWidth?: string | null;
   name: string;
   fields: FormField[];
   submitLabel?: string;
@@ -71,23 +77,32 @@ export default function WordPressForm({
   const labelCls = "mb-1.5 block font-sans text-[15px] font-semibold text-navy";
 
   return (
-    <form onSubmit={onSubmit} noValidate className="mx-auto max-w-3xl text-left">
+    <form onSubmit={onSubmit} noValidate className="w-full text-left">
       <div aria-hidden="true" className="absolute -left-[9999px]">
         <label htmlFor={`${name}-company`}>Company</label>
         <input id={`${name}-company`} name="company" tabIndex={-1} autoComplete="off" />
       </div>
 
-      <div className="grid gap-5">
+      <div className="-mx-2.5 flex flex-wrap items-end gap-y-5">
         {fields.map((f, i) => {
           const id = `${name}-${f.id || i}`;
+          // Elementor gives each field a percentage column width; fields without
+          // one take the full row, as they do in the original.
+          const basis = f.width ? `${f.width}%` : "100%";
+          const wrap = (node: React.ReactNode) =>
+            node == null ? null : (
+              <div key={id} className="min-w-[11rem] grow px-2.5" style={{ flexBasis: basis, maxWidth: basis }}>
+                {node}
+              </div>
+            );
           const options = (f.options || "").split("\n").map((o) => o.trim()).filter(Boolean);
 
           // Elementor "html" fields are section headings inside the form.
           if (f.type === "html") {
             // Elementor html fields are in-form headings/notes; the body sits in
             // `html`, with `label` used as its heading.
-            return (
-              <div key={id} className="mt-4">
+            return wrap(
+              <div className="mt-4">
                 {f.label && (
                   <h3 className="font-display text-xl font-bold text-navy">{f.label}</h3>
                 )}
@@ -101,8 +116,8 @@ export default function WordPressForm({
             );
           }
           if (f.type === "step") {
-            return (
-              <h3 key={id} className="mt-6 border-b border-navy/15 pb-2 font-display text-2xl font-bold text-navy">
+            return wrap(
+              <h3 className="mt-6 border-b border-navy/15 pb-2 font-display text-2xl font-bold text-navy">
                 {f.label}
               </h3>
             );
@@ -112,8 +127,8 @@ export default function WordPressForm({
           const labelText = f.label || f.placeholder || "";
 
           if (f.type === "radio" || f.type === "checkbox") {
-            return (
-              <fieldset key={id}>
+            return wrap(
+              <fieldset>
                 <legend className={labelCls}>
                   {labelText}
                   {f.required && <span aria-hidden="true"> *</span>}
@@ -136,8 +151,8 @@ export default function WordPressForm({
           }
 
           if (f.type === "select") {
-            return (
-              <div key={id}>
+            return wrap(
+              <div>
                 <label className={labelCls} htmlFor={id}>
                   {labelText}
                   {f.required && <span aria-hidden="true"> *</span>}
@@ -155,8 +170,8 @@ export default function WordPressForm({
           }
 
           if (f.type === "textarea") {
-            return (
-              <div key={id}>
+            return wrap(
+              <div>
                 <label className={labelCls} htmlFor={id}>
                   {labelText}
                   {f.required && <span aria-hidden="true"> *</span>}
@@ -170,8 +185,8 @@ export default function WordPressForm({
             ? f.type
             : "text";
 
-          return (
-            <div key={id}>
+          return wrap(
+            <div>
               <label className={labelCls} htmlFor={id}>
                 {labelText}
                 {f.required && <span aria-hidden="true"> *</span>}
@@ -198,6 +213,7 @@ export default function WordPressForm({
       <button
         type="submit"
         disabled={status === "sending"}
+        style={submitWidth ? { flexBasis: `${submitWidth}%` } : undefined}
         className="mt-6 rounded-[20px] border border-accent bg-accent px-9 py-3 font-display text-[12px] font-extrabold tracking-[1.8px] text-white capitalize transition-colors hover:bg-transparent hover:text-accent disabled:opacity-60"
       >
         {status === "sending" ? "Sending…" : submitLabel}

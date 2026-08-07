@@ -321,7 +321,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "name"
+             "id": "name",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -330,7 +333,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "be51549"
+             "id": "be51549",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -339,7 +345,10 @@
              "placeholder": "Address",
              "options": null,
              "html": null,
-             "id": "field_150450d"
+             "id": "field_150450d",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -348,7 +357,10 @@
              "placeholder": "City",
              "options": null,
              "html": null,
-             "id": "field_b0ac35d"
+             "id": "field_b0ac35d",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -357,7 +369,10 @@
              "placeholder": "State",
              "options": null,
              "html": null,
-             "id": "field_e778dc8"
+             "id": "field_e778dc8",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -366,7 +381,10 @@
              "placeholder": "City",
              "options": null,
              "html": null,
-             "id": "field_3ab0e0a"
+             "id": "field_3ab0e0a",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -375,7 +393,10 @@
              "placeholder": "Zip",
              "options": null,
              "html": null,
-             "id": "field_32c726c"
+             "id": "field_32c726c",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Parent's/Guardian's Name",
@@ -384,7 +405,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "field_f7cddc4"
+             "id": "field_f7cddc4",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -393,7 +417,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "field_9e8a06b"
+             "id": "field_9e8a06b",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -402,7 +429,10 @@
              "placeholder": "Address",
              "options": null,
              "html": null,
-             "id": "field_e35f211"
+             "id": "field_e35f211",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -411,7 +441,10 @@
              "placeholder": "City",
              "options": null,
              "html": null,
-             "id": "field_0827f0e"
+             "id": "field_0827f0e",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -420,7 +453,10 @@
              "placeholder": "State",
              "options": null,
              "html": null,
-             "id": "field_8874ecc"
+             "id": "field_8874ecc",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -429,7 +465,10 @@
              "placeholder": "Zip",
              "options": null,
              "html": null,
-             "id": "field_1854293"
+             "id": "field_1854293",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -438,7 +477,10 @@
              "placeholder": "Home Phone",
              "options": null,
              "html": null,
-             "id": "field_33594d4"
+             "id": "field_33594d4",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -447,7 +489,10 @@
              "placeholder": "Mobile Phone",
              "options": null,
              "html": null,
-             "id": "field_4b2812c"
+             "id": "field_4b2812c",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Person other than parent to be notified",
@@ -456,7 +501,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "field_d771a95"
+             "id": "field_d771a95",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -465,7 +513,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "field_c0bd48b"
+             "id": "field_c0bd48b",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -474,7 +525,10 @@
              "placeholder": "Address",
              "options": null,
              "html": null,
-             "id": "field_50fe788"
+             "id": "field_50fe788",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -483,7 +537,10 @@
              "placeholder": "City",
              "options": null,
              "html": null,
-             "id": "field_9ce3581"
+             "id": "field_9ce3581",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -492,7 +549,10 @@
              "placeholder": "State",
              "options": null,
              "html": null,
-             "id": "field_9747b0b"
+             "id": "field_9747b0b",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -501,7 +561,10 @@
              "placeholder": "Zip",
              "options": null,
              "html": null,
-             "id": "field_af091b4"
+             "id": "field_af091b4",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -510,7 +573,10 @@
              "placeholder": "Home Phone",
              "options": null,
              "html": null,
-             "id": "field_1716285"
+             "id": "field_1716285",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -519,7 +585,10 @@
              "placeholder": "Mobile Phone",
              "options": null,
              "html": null,
-             "id": "field_de4504c"
+             "id": "field_de4504c",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Health/Hospitalization Plan",
@@ -528,7 +597,10 @@
              "placeholder": "Health/Hospitalization Plan",
              "options": null,
              "html": null,
-             "id": "field_3be0dfe"
+             "id": "field_3be0dfe",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Policy Number/Group Name",
@@ -537,7 +609,10 @@
              "placeholder": "Policy Number/Group Name",
              "options": null,
              "html": null,
-             "id": "field_42d7334"
+             "id": "field_42d7334",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Phone of Company or Agent",
@@ -546,7 +621,10 @@
              "placeholder": "Phone of Company or Agent",
              "options": null,
              "html": null,
-             "id": "field_ef68732"
+             "id": "field_ef68732",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Does the participant have valid overseas insurance/medical coverage?",
@@ -555,7 +633,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_c6a980d"
+             "id": "field_c6a980d",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Medical History",
@@ -564,7 +645,10 @@
              "placeholder": null,
              "options": null,
              "html": "Medical History",
-             "id": "field_27fc2f0"
+             "id": "field_27fc2f0",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "High Blood Pressure",
@@ -573,7 +657,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_e1fde14"
+             "id": "field_e1fde14",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Heart Disease",
@@ -582,7 +669,10 @@
              "placeholder": null,
              "options": "Yes \nNo",
              "html": null,
-             "id": "field_3f741df"
+             "id": "field_3f741df",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Heart Murmur",
@@ -591,7 +681,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_59c30fe"
+             "id": "field_59c30fe",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Irregular Heartbeat",
@@ -600,7 +693,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_ee7a5c4"
+             "id": "field_ee7a5c4",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Family History of Heart Attack",
@@ -609,7 +705,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_98f6a05"
+             "id": "field_98f6a05",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Tuberculosis",
@@ -618,7 +717,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_1470c8c"
+             "id": "field_1470c8c",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Recent Exposure to TB",
@@ -627,7 +729,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_17c9e73"
+             "id": "field_17c9e73",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Positive TB Test",
@@ -636,7 +741,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_099cde1"
+             "id": "field_099cde1",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Active Hepatitis",
@@ -645,7 +753,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_55d0d69"
+             "id": "field_55d0d69",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "History of Hepatitis",
@@ -654,7 +765,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_3873c0c"
+             "id": "field_3873c0c",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Seizure Disorder",
@@ -663,7 +777,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_4cf2be4"
+             "id": "field_4cf2be4",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Seizure with the Year",
@@ -672,7 +789,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_894d9df"
+             "id": "field_894d9df",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Bleeding Disorder",
@@ -681,7 +801,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_d10b242"
+             "id": "field_d10b242",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Anemia/Sickle Cell Trait",
@@ -690,7 +813,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_60bbfc7"
+             "id": "field_60bbfc7",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Chronic Cough",
@@ -699,7 +825,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_499515f"
+             "id": "field_499515f",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Asthma",
@@ -708,7 +837,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_0f62a24"
+             "id": "field_0f62a24",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Diabetes",
@@ -717,7 +849,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_8837fb9"
+             "id": "field_8837fb9",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Hypoglycemia",
@@ -726,7 +861,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_29ee835"
+             "id": "field_29ee835",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Anorexia",
@@ -735,7 +873,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_6ade879"
+             "id": "field_6ade879",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Bulimia",
@@ -744,7 +885,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_ff6f117"
+             "id": "field_ff6f117",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Cancer",
@@ -753,7 +897,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_76dca7c"
+             "id": "field_76dca7c",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Depression",
@@ -762,7 +909,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_7284f7f"
+             "id": "field_7284f7f",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Skin Problem",
@@ -771,7 +921,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_5d35b2b"
+             "id": "field_5d35b2b",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Circulation Problem",
@@ -780,7 +933,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_b459a33"
+             "id": "field_b459a33",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Headaches",
@@ -789,7 +945,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_17ed07f"
+             "id": "field_17ed07f",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Stomach Ulcers",
@@ -798,7 +957,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_534603e"
+             "id": "field_534603e",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Heatstroke",
@@ -807,7 +969,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_eb1ae55"
+             "id": "field_eb1ae55",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Bladder Infection",
@@ -816,7 +981,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_002c397"
+             "id": "field_002c397",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Kidney Problems",
@@ -825,7 +993,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_51e1c37"
+             "id": "field_51e1c37",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Thyroid Problems",
@@ -834,7 +1005,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_ce9c2e9"
+             "id": "field_ce9c2e9",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Hearing Impairment",
@@ -843,7 +1017,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_1c34797"
+             "id": "field_1c34797",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Vision Impairment",
@@ -852,7 +1029,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_430db12"
+             "id": "field_430db12",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Motion Sickness",
@@ -861,7 +1041,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_18df208"
+             "id": "field_18df208",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Sleep Walking",
@@ -870,7 +1053,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_68ec006"
+             "id": "field_68ec006",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Broken Bones",
@@ -879,7 +1065,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_fb13991"
+             "id": "field_fb13991",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Neck Problems",
@@ -888,7 +1077,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_94e1720"
+             "id": "field_94e1720",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Back Problems",
@@ -897,7 +1089,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_09fea0c"
+             "id": "field_09fea0c",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Knee Problems",
@@ -906,7 +1101,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_1f1dc50"
+             "id": "field_1f1dc50",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Special Diet",
@@ -915,7 +1113,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_75c89cc"
+             "id": "field_75c89cc",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Dyslexia",
@@ -924,7 +1125,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_d74b797"
+             "id": "field_d74b797",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "ADD/ADHD",
@@ -933,7 +1137,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_a6a70e0"
+             "id": "field_a6a70e0",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Turrets",
@@ -942,7 +1149,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_5fbcaa5"
+             "id": "field_5fbcaa5",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Medical Equipment Devices",
@@ -951,7 +1161,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_7e62210"
+             "id": "field_7e62210",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "PMS",
@@ -960,7 +1173,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_a8bf6b1"
+             "id": "field_a8bf6b1",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "If you have answered yes to any of the above items, please explain.",
@@ -969,7 +1185,10 @@
              "placeholder": "Please give a detailed description of specific conditions/symptoms (Including restrictions if any.). ",
              "options": null,
              "html": null,
-             "id": "field_e9277a9"
+             "id": "field_e9277a9",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Allergies",
@@ -978,7 +1197,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_1e10f54"
+             "id": "field_1e10f54",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -987,7 +1209,10 @@
              "placeholder": "Allergy",
              "options": null,
              "html": null,
-             "id": "field_480ea17"
+             "id": "field_480ea17",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -996,7 +1221,10 @@
              "placeholder": "Reaction",
              "options": null,
              "html": null,
-             "id": "field_9ac02d9"
+             "id": "field_9ac02d9",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1005,7 +1233,10 @@
              "placeholder": "Medication Required",
              "options": null,
              "html": null,
-             "id": "field_da7b0e1"
+             "id": "field_da7b0e1",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1014,7 +1245,10 @@
              "placeholder": "Allergy",
              "options": null,
              "html": null,
-             "id": "field_a887a3d"
+             "id": "field_a887a3d",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1023,7 +1257,10 @@
              "placeholder": "Reaction",
              "options": null,
              "html": null,
-             "id": "field_680a0e3"
+             "id": "field_680a0e3",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1032,7 +1269,10 @@
              "placeholder": "Medication Required",
              "options": null,
              "html": null,
-             "id": "field_98fcd8b"
+             "id": "field_98fcd8b",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1041,7 +1281,10 @@
              "placeholder": "Allergy",
              "options": null,
              "html": null,
-             "id": "field_47d7549"
+             "id": "field_47d7549",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1050,7 +1293,10 @@
              "placeholder": "Reaction",
              "options": null,
              "html": null,
-             "id": "field_01bb3a9"
+             "id": "field_01bb3a9",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1059,7 +1305,10 @@
              "placeholder": "Medication Required",
              "options": null,
              "html": null,
-             "id": "field_26961ac"
+             "id": "field_26961ac",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Additional Information",
@@ -1068,7 +1317,10 @@
              "placeholder": "Additional Information",
              "options": null,
              "html": null,
-             "id": "field_41a53ec"
+             "id": "field_41a53ec",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Medications",
@@ -1077,7 +1329,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_97828be"
+             "id": "field_97828be",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1086,7 +1341,10 @@
              "placeholder": "Medication",
              "options": null,
              "html": null,
-             "id": "field_9c04189"
+             "id": "field_9c04189",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1095,7 +1353,10 @@
              "placeholder": "Condition",
              "options": null,
              "html": null,
-             "id": "field_9285eb3"
+             "id": "field_9285eb3",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1104,7 +1365,10 @@
              "placeholder": "Dosage",
              "options": null,
              "html": null,
-             "id": "field_0948820"
+             "id": "field_0948820",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1113,7 +1377,10 @@
              "placeholder": "Side Effect",
              "options": null,
              "html": null,
-             "id": "field_4a6509a"
+             "id": "field_4a6509a",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1122,7 +1389,10 @@
              "placeholder": "Medication",
              "options": null,
              "html": null,
-             "id": "field_07459a8"
+             "id": "field_07459a8",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1131,7 +1401,10 @@
              "placeholder": "Condition",
              "options": null,
              "html": null,
-             "id": "field_94f535b"
+             "id": "field_94f535b",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1140,7 +1413,10 @@
              "placeholder": "Dosage",
              "options": null,
              "html": null,
-             "id": "field_39c6015"
+             "id": "field_39c6015",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1149,7 +1425,10 @@
              "placeholder": "Side Effect",
              "options": null,
              "html": null,
-             "id": "field_5d4c59e"
+             "id": "field_5d4c59e",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1158,7 +1437,10 @@
              "placeholder": "Medication",
              "options": null,
              "html": null,
-             "id": "field_4654844"
+             "id": "field_4654844",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1167,7 +1449,10 @@
              "placeholder": "Condition",
              "options": null,
              "html": null,
-             "id": "field_cd169ba"
+             "id": "field_cd169ba",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1176,7 +1461,10 @@
              "placeholder": "Dosage",
              "options": null,
              "html": null,
-             "id": "field_eee872c"
+             "id": "field_eee872c",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1185,7 +1473,10 @@
              "placeholder": "Side Effect",
              "options": null,
              "html": null,
-             "id": "field_bd427d3"
+             "id": "field_bd427d3",
+             "width": "25",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Additional Information",
@@ -1194,7 +1485,10 @@
              "placeholder": "Additional Information",
              "options": null,
              "html": null,
-             "id": "field_9ca7879"
+             "id": "field_9ca7879",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Tetanus Immunization",
@@ -1203,7 +1497,10 @@
              "placeholder": "Date",
              "options": null,
              "html": null,
-             "id": "field_b2c8632"
+             "id": "field_b2c8632",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Have you been in counseling with a psychiatrist, psychologist, or other counselor within the past two years?",
@@ -1212,7 +1509,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_2c3aa75"
+             "id": "field_2c3aa75",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Are you currently in counseling/treatment?",
@@ -1221,7 +1521,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_35745be"
+             "id": "field_35745be",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Reason for counseling/treatment?",
@@ -1230,7 +1533,10 @@
              "placeholder": null,
              "options": "Academic\nCancer\nDepression\nDivorce\nFamily Issues\nSubstance Abuse\nSuicide\nOther",
              "html": null,
-             "id": "field_e54561f"
+             "id": "field_e54561f",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "How long have you been seeing this counselor?",
@@ -1239,7 +1545,10 @@
              "placeholder": "Duration",
              "options": null,
              "html": null,
-             "id": "field_e779ce6"
+             "id": "field_e779ce6",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Please arrange for a release of information with your counselor so we may contact her/him.  Have you done so?",
@@ -1248,7 +1557,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_439b368"
+             "id": "field_439b368",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Counselor's Name",
@@ -1257,7 +1569,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "field_3385ab2"
+             "id": "field_3385ab2",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1266,7 +1581,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "field_1bcb22d"
+             "id": "field_1bcb22d",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1275,7 +1593,10 @@
              "placeholder": "Clinic/Hospital Name",
              "options": null,
              "html": null,
-             "id": "field_9fe0896"
+             "id": "field_9fe0896",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1284,7 +1605,10 @@
              "placeholder": "Phone Number",
              "options": null,
              "html": null,
-             "id": "field_6fd589d"
+             "id": "field_6fd589d",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Participant's Name",
@@ -1293,7 +1617,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "field_9515c8e"
+             "id": "field_9515c8e",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1302,7 +1629,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "field_9ef5a41"
+             "id": "field_9ef5a41",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1311,7 +1641,10 @@
              "placeholder": "Today's Date",
              "options": null,
              "html": null,
-             "id": "field_2dfe5e4"
+             "id": "field_2dfe5e4",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Parent's Name",
@@ -1320,7 +1653,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "field_84f3e97"
+             "id": "field_84f3e97",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1329,7 +1665,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "field_eee291e"
+             "id": "field_eee291e",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -1338,10 +1677,14 @@
              "placeholder": "Today's Date",
              "options": null,
              "html": null,
-             "id": "field_b91035a"
+             "id": "field_b91035a",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             }
            ],
-           "submit": "Submit"
+           "submit": "Submit",
+           "submitWidth": "25"
           }
          ],
          "width": 100

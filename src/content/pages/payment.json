@@ -302,7 +302,10 @@
          "placeholder": "First Name",
          "options": null,
          "html": null,
-         "id": "name"
+         "id": "name",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "Last Name",
@@ -311,7 +314,10 @@
          "placeholder": "Last Name",
          "options": null,
          "html": null,
-         "id": "field_a0e0761"
+         "id": "field_a0e0761",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "Address",
@@ -320,7 +326,10 @@
          "placeholder": "Address",
          "options": null,
          "html": null,
-         "id": "field_2b7c7e1"
+         "id": "field_2b7c7e1",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "City",
@@ -329,7 +338,10 @@
          "placeholder": "City",
          "options": null,
          "html": null,
-         "id": "field_d0f3f75"
+         "id": "field_d0f3f75",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "State",
@@ -338,7 +350,10 @@
          "placeholder": "State",
          "options": null,
          "html": null,
-         "id": "field_6b8a1b2"
+         "id": "field_6b8a1b2",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "Zip",
@@ -347,7 +362,10 @@
          "placeholder": "Zip",
          "options": null,
          "html": null,
-         "id": "field_db1e0ac"
+         "id": "field_db1e0ac",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "Mobile Phone",
@@ -356,7 +374,10 @@
          "placeholder": "Mobile Phone",
          "options": null,
          "html": null,
-         "id": "field_5f8be52"
+         "id": "field_5f8be52",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "E-Mail",
@@ -365,7 +386,10 @@
          "placeholder": "E-Mail",
          "options": null,
          "html": null,
-         "id": "email"
+         "id": "email",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "Credit Card Number",
@@ -374,7 +398,10 @@
          "placeholder": "Credit Card Number",
          "options": null,
          "html": null,
-         "id": "field_14abfb4"
+         "id": "field_14abfb4",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "Credit Card Exp.",
@@ -383,7 +410,10 @@
          "placeholder": "Credit Card Exp.",
          "options": null,
          "html": null,
-         "id": "field_5b3ab52"
+         "id": "field_5b3ab52",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "Security Code",
@@ -392,7 +422,10 @@
          "placeholder": "Security Code",
          "options": null,
          "html": null,
-         "id": "field_f4ec817"
+         "id": "field_f4ec817",
+         "width": "50",
+         "widthTablet": null,
+         "widthMobile": null
         },
         {
          "label": "Message",
@@ -401,10 +434,14 @@
          "placeholder": "Message",
          "options": null,
          "html": null,
-         "id": "message"
+         "id": "message",
+         "width": null,
+         "widthTablet": null,
+         "widthMobile": null
         }
        ],
-       "submit": "Submit"
+       "submit": "Submit",
+       "submitWidth": "25"
       }
      ],
      "width": 100

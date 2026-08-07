@@ -12,13 +12,15 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white shadow-sm">
       <div className="mx-auto flex max-w-[1210px] items-center justify-between gap-4 px-5 py-3">
         <Link href="/" className="shrink-0" aria-label={`${site.name} — home`}>
+          {/* The live header renders this at 252x106; the source file is
+              1400x586, the same 2.39 ratio. */}
           <Image
-            src="/images/logo-iaci.png"
-            alt="Irish American Cultural Institute"
-            width={140}
-            height={96}
+            src="/images/wp/2021/07/ILE-Logo-Transparent.png"
+            alt={site.name}
+            width={1400}
+            height={586}
             priority
-            className="h-16 w-auto lg:h-20"
+            className="h-[106px] w-auto"
           />
         </Link>
 

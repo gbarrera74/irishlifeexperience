@@ -268,7 +268,10 @@
              "placeholder": "Name",
              "options": null,
              "html": null,
-             "id": "Name"
+             "id": "Name",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Email",
@@ -277,7 +280,10 @@
              "placeholder": "Email",
              "options": null,
              "html": null,
-             "id": "Email"
+             "id": "Email",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Phone",
@@ -286,7 +292,10 @@
              "placeholder": "Phone",
              "options": null,
              "html": null,
-             "id": "Phone"
+             "id": "Phone",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Donation For",
@@ -295,7 +304,10 @@
              "placeholder": "Donation for...",
              "options": null,
              "html": null,
-             "id": "donation_for"
+             "id": "donation_for",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Amount",
@@ -304,7 +316,10 @@
              "placeholder": "Amount",
              "options": null,
              "html": null,
-             "id": "Amount"
+             "id": "Amount",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Stripe",
@@ -313,10 +328,14 @@
              "placeholder": null,
              "options": null,
              "html": null,
-             "id": "Stripe"
+             "id": "Stripe",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             }
            ],
-           "submit": "Make Donation"
+           "submit": "Make Donation",
+           "submitWidth": ""
           }
          ],
          "width": 100

@@ -321,7 +321,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "name"
+             "id": "name",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -330,7 +333,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "be51549"
+             "id": "be51549",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Do you wish to obtain credit for the Irish Life Experience?",
@@ -339,7 +345,10 @@
              "placeholder": null,
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_deee5f5"
+             "id": "field_deee5f5",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guidance Counselor's Name",
@@ -348,7 +357,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "field_4b4f8ac"
+             "id": "field_4b4f8ac",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -357,7 +369,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "field_3c46676"
+             "id": "field_3c46676",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guidance Counselor's E-Mail",
@@ -366,10 +381,14 @@
              "placeholder": "E-Mail Address",
              "options": null,
              "html": null,
-             "id": "email"
+             "id": "email",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             }
            ],
-           "submit": "Submit"
+           "submit": "Submit",
+           "submitWidth": "25"
           }
          ],
          "width": 100

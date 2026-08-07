@@ -4,6 +4,11 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { site } from "@/lib/site";
 import "./globals.css";
+// Real @font-face rules under the families the extracted CSS names literally
+// ("Nothing You Could Do", "Open Sans Condensed", …). next/font alone cannot
+// serve those: it registers its faces under generated names, so the literal
+// names in the inline styles resolved to a system fallback.
+import "./fonts.css";
 
 const quicksand = Quicksand({
   variable: "--font-quicksand",

@@ -212,7 +212,14 @@
         "/images/wp/2021/07/DSC04642-scaled.jpg",
         "/images/wp/2021/10/DSC01679-scaled.jpg"
        ],
-       "slidesPerView": null
+       "slidesPerView": "1",
+       "thumbSize": "medium_large",
+       "autoplay": true,
+       "autoplaySpeed": 5000,
+       "speed": 500,
+       "infinite": true,
+       "pauseOnHover": true,
+       "navigation": "arrows"
       }
      ],
      "width": 50

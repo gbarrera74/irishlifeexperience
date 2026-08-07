@@ -268,7 +268,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "name"
+             "id": "name",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Middle Name",
@@ -277,7 +280,10 @@
              "placeholder": "Middle Name",
              "options": null,
              "html": null,
-             "id": "field_d1f0ee7"
+             "id": "field_d1f0ee7",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Last Name",
@@ -286,7 +292,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "be51549"
+             "id": "be51549",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "E-Mail Address",
@@ -295,7 +304,10 @@
              "placeholder": "E-Mail Address",
              "options": null,
              "html": null,
-             "id": "email"
+             "id": "email",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Passport Number",
@@ -304,7 +316,10 @@
              "placeholder": "Passport Number",
              "options": null,
              "html": null,
-             "id": "field_44b5159"
+             "id": "field_44b5159",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Issuing Country",
@@ -313,7 +328,10 @@
              "placeholder": "Issuing Country",
              "options": null,
              "html": null,
-             "id": "passport_country"
+             "id": "passport_country",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Expiration Date",
@@ -322,7 +340,10 @@
              "placeholder": "Expiration Date",
              "options": null,
              "html": null,
-             "id": "expiration_date"
+             "id": "expiration_date",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Nationality",
@@ -331,10 +352,14 @@
              "placeholder": "Nationality",
              "options": null,
              "html": null,
-             "id": "field_9bb2a73"
+             "id": "field_9bb2a73",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             }
            ],
-           "submit": "Submit"
+           "submit": "Submit",
+           "submitWidth": "25"
           }
          ],
          "width": 100

@@ -339,7 +339,10 @@
              "placeholder": null,
              "options": null,
              "html": null,
-             "id": "field_3e1e0ad"
+             "id": "field_3e1e0ad",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "First Name",
@@ -348,7 +351,10 @@
              "placeholder": "First Name (As it appears on passport)",
              "options": null,
              "html": null,
-             "id": "name"
+             "id": "name",
+             "width": "40",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Middle Name",
@@ -357,7 +363,10 @@
              "placeholder": "Middle Name",
              "options": null,
              "html": null,
-             "id": "field_a0e0761"
+             "id": "field_a0e0761",
+             "width": "20",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Last Name",
@@ -366,7 +375,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "field_99b9ad8"
+             "id": "field_99b9ad8",
+             "width": "40",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Gender",
@@ -375,7 +387,10 @@
              "placeholder": "Name",
              "options": "Female\nMale",
              "html": null,
-             "id": "field_34c5d42"
+             "id": "field_34c5d42",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Date of Birth",
@@ -384,7 +399,10 @@
              "placeholder": "Date of Birth",
              "options": null,
              "html": null,
-             "id": "field_7a04790"
+             "id": "field_7a04790",
+             "width": "20",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Age by June",
@@ -393,7 +411,10 @@
              "placeholder": "Age by June",
              "options": "13\n14\n15\n16\n17\n18",
              "html": null,
-             "id": "email"
+             "id": "email",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Current Grade",
@@ -402,7 +423,10 @@
              "placeholder": "Current Grade",
              "options": "8\n9\n10\n11\n12",
              "html": null,
-             "id": "field_d83bfd5"
+             "id": "field_d83bfd5",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Address",
@@ -411,7 +435,10 @@
              "placeholder": "Address",
              "options": null,
              "html": null,
-             "id": "field_94dffe0"
+             "id": "field_94dffe0",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "City",
@@ -420,7 +447,10 @@
              "placeholder": "City",
              "options": null,
              "html": null,
-             "id": "field_4daa4bf"
+             "id": "field_4daa4bf",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "State",
@@ -429,7 +459,10 @@
              "placeholder": "State",
              "options": null,
              "html": null,
-             "id": "field_0afda0c"
+             "id": "field_0afda0c",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Zip",
@@ -438,7 +471,10 @@
              "placeholder": "Zip",
              "options": null,
              "html": null,
-             "id": "field_f499d7d"
+             "id": "field_f499d7d",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Cell Phone",
@@ -447,7 +483,10 @@
              "placeholder": "Cell Phone",
              "options": null,
              "html": null,
-             "id": "field_e83e4d0"
+             "id": "field_e83e4d0",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "E-Mail",
@@ -456,7 +495,10 @@
              "placeholder": "E-Mail",
              "options": null,
              "html": null,
-             "id": "field_4756912"
+             "id": "field_4756912",
+             "width": "33",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Specific Diet",
@@ -465,7 +507,10 @@
              "placeholder": "Message",
              "options": "Gluten\nLactose Intolerant\nVegan\nVegetarian\nOther",
              "html": null,
-             "id": "message"
+             "id": "message",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "T-Shirt Size",
@@ -474,7 +519,10 @@
              "placeholder": "T-",
              "options": "X-Small\nSmall\nMedium\nLarge\nX-Large\nXX-Large\nXXX-Large",
              "html": null,
-             "id": "field_307581f"
+             "id": "field_307581f",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Step 2:",
@@ -483,7 +531,10 @@
              "placeholder": null,
              "options": null,
              "html": null,
-             "id": "field_4a00c50"
+             "id": "field_4a00c50",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "What school do you attend?",
@@ -492,7 +543,10 @@
              "placeholder": "What school do you attend?",
              "options": null,
              "html": null,
-             "id": "field_fed0bdd"
+             "id": "field_fed0bdd",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Step 3: Guardian Info",
@@ -501,7 +555,10 @@
              "placeholder": null,
              "options": null,
              "html": null,
-             "id": "field_df5c660"
+             "id": "field_df5c660",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Custody",
@@ -510,7 +567,10 @@
              "placeholder": "I primarily live with (Mother, father, both, or other)",
              "options": null,
              "html": null,
-             "id": "field_d0a3a7c"
+             "id": "field_d0a3a7c",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #1 First Name",
@@ -519,7 +579,10 @@
              "placeholder": "Guardian #1 First Name",
              "options": null,
              "html": null,
-             "id": "field_01ab64f"
+             "id": "field_01ab64f",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #1 Last Name",
@@ -528,7 +591,10 @@
              "placeholder": "Guardian #1 Last Name",
              "options": null,
              "html": null,
-             "id": "field_15168d8"
+             "id": "field_15168d8",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #1 Cell Phone",
@@ -537,7 +603,10 @@
              "placeholder": "Guardian #1 Cell Phone",
              "options": null,
              "html": null,
-             "id": "field_9a1ae11"
+             "id": "field_9a1ae11",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #1 E-Mail",
@@ -546,7 +615,10 @@
              "placeholder": "Guardian #1 E-Mail",
              "options": null,
              "html": null,
-             "id": "field_82ddff8"
+             "id": "field_82ddff8",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #1 Occupation and Employer",
@@ -555,7 +627,10 @@
              "placeholder": "Guardian #1 Occupation and Employer",
              "options": null,
              "html": null,
-             "id": "field_0268c44"
+             "id": "field_0268c44",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #2 First Name",
@@ -564,7 +639,10 @@
              "placeholder": "Guardian #2 First Name",
              "options": null,
              "html": null,
-             "id": "field_39aef3f"
+             "id": "field_39aef3f",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #2 Last Name",
@@ -573,7 +651,10 @@
              "placeholder": "Guardian #2 Last Name",
              "options": null,
              "html": null,
-             "id": "field_bf8dd08"
+             "id": "field_bf8dd08",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #2 Cell Phone",
@@ -582,7 +663,10 @@
              "placeholder": "Guardian #2 Cell Phone",
              "options": null,
              "html": null,
-             "id": "field_c14b01d"
+             "id": "field_c14b01d",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #2 E-Mail",
@@ -591,7 +675,10 @@
              "placeholder": "Guardian #2 E-Mail",
              "options": null,
              "html": null,
-             "id": "field_8f6749d"
+             "id": "field_8f6749d",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guardian #2 Occupation and Employer",
@@ -600,7 +687,10 @@
              "placeholder": "Guardian #2 Occupation and Employer",
              "options": null,
              "html": null,
-             "id": "field_aa6537b"
+             "id": "field_aa6537b",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Step 4: Why ILE?",
@@ -609,7 +699,10 @@
              "placeholder": null,
              "options": null,
              "html": null,
-             "id": "field_ef61e29"
+             "id": "field_ef61e29",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Why do you want to participate in the Irish Life Experience?",
@@ -618,7 +711,10 @@
              "placeholder": "Why do you want to participate in the Irish Life Experience?",
              "options": null,
              "html": null,
-             "id": "field_5016da3"
+             "id": "field_5016da3",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Have you ever traveled or lived abroad?  If so, please elaborate?",
@@ -627,7 +723,10 @@
              "placeholder": "Have you ever traveled or lived abroad?  If so, please elaborate.",
              "options": null,
              "html": null,
-             "id": "field_60e39e5"
+             "id": "field_60e39e5",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "What experiences have you had adjusting to new people, places, and situations?",
@@ -636,7 +735,10 @@
              "placeholder": "What experiences have you had adjusting to new people, places, and situations?",
              "options": null,
              "html": null,
-             "id": "field_8a3bf0a"
+             "id": "field_8a3bf0a",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "What is your strongest personality trait?  Explain.",
@@ -645,7 +747,10 @@
              "placeholder": "What is your strongest personality trait?  Explain.",
              "options": null,
              "html": null,
-             "id": "field_b333b94"
+             "id": "field_b333b94",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "What is your weakest personality trait?  Explain.",
@@ -654,7 +759,10 @@
              "placeholder": "What is your weakest personality trait?  Explain.",
              "options": null,
              "html": null,
-             "id": "field_a8a0bfe"
+             "id": "field_a8a0bfe",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "What school subjects do you enjoy most?  Why?",
@@ -663,7 +771,10 @@
              "placeholder": "What school subjects do you enjoy most?  Why?",
              "options": null,
              "html": null,
-             "id": "field_00e833b"
+             "id": "field_00e833b",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Interests/Hobbies",
@@ -672,7 +783,10 @@
              "placeholder": "Describe your interests and hobbies.  List organizations and/or teams you belong to, sports in which you participate, instruments you play, etc.  ",
              "options": null,
              "html": null,
-             "id": "field_1dcc723"
+             "id": "field_1dcc723",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Family/Home Life",
@@ -681,7 +795,10 @@
              "placeholder": "Briefly describe your family and home life (Parents' work and interests, sibling/s' ages and interests, etc).",
              "options": null,
              "html": null,
-             "id": "field_12882d7"
+             "id": "field_12882d7",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "What are you looking forward to the most about being in Ireland?",
@@ -690,7 +807,10 @@
              "placeholder": "What are you looking forward to the most about being in Ireland?",
              "options": null,
              "html": null,
-             "id": "field_eb52edc"
+             "id": "field_eb52edc",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "What are you least looking forward to about being in Ireland?",
@@ -699,7 +819,10 @@
              "placeholder": "What are you least looking forward to about being in Ireland?",
              "options": null,
              "html": null,
-             "id": "field_751a3f1"
+             "id": "field_751a3f1",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Can you ride a bike?",
@@ -708,7 +831,10 @@
              "placeholder": "Can you ride a bike?",
              "options": "Yes\nNo",
              "html": null,
-             "id": "field_a23a167"
+             "id": "field_a23a167",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "What are two unusual fun facts about yourself?",
@@ -717,7 +843,10 @@
              "placeholder": "What are two unusual fun facts about yourself?",
              "options": null,
              "html": null,
-             "id": "field_71f4be3"
+             "id": "field_71f4be3",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "How did you hear about the Irish Life Experience?",
@@ -726,7 +855,10 @@
              "placeholder": "How did you hear about the Irish Life Experience?  ",
              "options": null,
              "html": null,
-             "id": "field_97d5be8"
+             "id": "field_97d5be8",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Teacher First Name",
@@ -735,7 +867,10 @@
              "placeholder": "Teacher First Name",
              "options": null,
              "html": null,
-             "id": "field_480278f"
+             "id": "field_480278f",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Teacher Last Name",
@@ -744,7 +879,10 @@
              "placeholder": "Teacher Last Name",
              "options": null,
              "html": null,
-             "id": "field_a972f0e"
+             "id": "field_a972f0e",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Teacher E-Mail",
@@ -753,7 +891,10 @@
              "placeholder": "Teacher E-Mail",
              "options": null,
              "html": null,
-             "id": "field_e4ec540"
+             "id": "field_e4ec540",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guidance Counselor First Name",
@@ -762,7 +903,10 @@
              "placeholder": "Guidance Counselor First Name",
              "options": null,
              "html": null,
-             "id": "field_f484397"
+             "id": "field_f484397",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guidance Counselor Last Name",
@@ -771,7 +915,10 @@
              "placeholder": "Guidance Counselor Last Name",
              "options": null,
              "html": null,
-             "id": "field_ca6de9b"
+             "id": "field_ca6de9b",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Guidance Counselor E-Mail",
@@ -780,10 +927,14 @@
              "placeholder": "Guidance Counselor E-Mail",
              "options": null,
              "html": null,
-             "id": "field_bec6a50"
+             "id": "field_bec6a50",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             }
            ],
-           "submit": "Send"
+           "submit": "Send",
+           "submitWidth": "25"
           }
          ],
          "width": 100

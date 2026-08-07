@@ -279,7 +279,10 @@
              "placeholder": "First Name",
              "options": null,
              "html": null,
-             "id": "firstname"
+             "id": "firstname",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Last Name",
@@ -288,7 +291,10 @@
              "placeholder": "Last Name",
              "options": null,
              "html": null,
-             "id": "lastname"
+             "id": "lastname",
+             "width": "50",
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "E-Mail Address",
@@ -297,7 +303,10 @@
              "placeholder": "E-Mail Address",
              "options": null,
              "html": null,
-             "id": "email"
+             "id": "email",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "Your Message",
@@ -306,7 +315,10 @@
              "placeholder": "Your Message",
              "options": null,
              "html": null,
-             "id": "your_message"
+             "id": "your_message",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -315,7 +327,10 @@
              "placeholder": null,
              "options": null,
              "html": null,
-             "id": "field_fbf12dc"
+             "id": "field_fbf12dc",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             },
             {
              "label": "",
@@ -324,10 +339,14 @@
              "placeholder": null,
              "options": null,
              "html": null,
-             "id": "field_b968edc"
+             "id": "field_b968edc",
+             "width": null,
+             "widthTablet": null,
+             "widthMobile": null
             }
            ],
-           "submit": "Submit"
+           "submit": "Submit",
+           "submitWidth": "25"
           }
          ],
          "width": 100
