@@ -63,3 +63,8 @@ next-env.d.ts
 
 # Built media — regenerate with the localize_* and optimize_* scripts
 /public/images/
+
+# Machine-local Claude Code settings — permissions and MCP servers for whoever
+# happens to be working here, not project configuration.
+settings.local.json
+.claude/settings.local.json
