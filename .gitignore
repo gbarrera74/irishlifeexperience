@@ -44,25 +44,9 @@ next-env.d.ts
 # project lives under a synced folder and will break the build if committed.
 * [0-9].*
 
-# WordPress source material — bulky and re-fetchable from the servers.
-# See MIGRATION.md for how to pull these down again.
-/export/uploads/
-/export/ile_uploads/
-/export/html/
-
-# Harvested source material — bulky and re-fetchable from the server.
-/export/uploads/
-/export/html/
-
 # Private key
 *.pem
 *.ppk
-
-# Rescued media from the sister site (re-fetchable; see MIGRATION.md)
-/export/iw_uploads/
-
-# Built media — regenerate with the localize_* and optimize_* scripts
-/public/images/
 
 # Machine-local Claude Code settings — permissions and MCP servers for whoever
 # happens to be working here, not project configuration.

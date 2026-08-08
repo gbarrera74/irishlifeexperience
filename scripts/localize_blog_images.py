@@ -23,8 +23,13 @@ MAX_DIM = "1600"
 refs = set()
 for f in BLOG.glob("*.mdx"):
     text = f.read_text(errors="replace")
-    # <Figure src="/images/..."> and <Gallery srcs="/images/a|/images/b">
-    for quoted in re.findall(r'"((?:/images/)[^"]*)"', text):
+    # <Figure src="/images/..."> and <Gallery srcs="/images/a|/images/b">.
+    #
+    # Match any quoted attribute, then filter — anchoring the pattern to a
+    # leading /images/ skipped every mixed gallery whose first entry is a
+    # remote URL, and with it the local paths later in the same list. Those
+    # files were then never copied and 404'd on the rendered page.
+    for quoted in re.findall(r'"([^"]*)"', text):
         refs.update(p for p in quoted.split("|") if p.startswith("/images/"))
 
 copied, missing, skipped = Counter(), [], 0
