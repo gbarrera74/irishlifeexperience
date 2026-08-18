@@ -41,12 +41,40 @@ function rateLimited(ip: string) {
   return rec.n > 5;
 }
 
-async function deliver(inquiry: Inquiry) {
-  const key = process.env.RESEND_API_KEY;
+/**
+ * The one place that talks to the mail provider. SendGrid already authenticates
+ * this domain — its DKIM CNAMEs predate the migration — so the transport reuses
+ * that account rather than introducing a second sender to verify.
+ */
+async function sendMail(opts: { subject: string; text: string; replyTo?: string }) {
+  const key = process.env.SENDGRID_API_KEY;
   if (!key || RECIPIENTS.length === 0) {
     throw new Error("MAIL_NOT_CONFIGURED");
   }
 
+  const res = await fetch("https://api.sendgrid.com/v3/mail/send", {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${key}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      personalizations: [{ to: RECIPIENTS.map((email) => ({ email })) }],
+      from: { email: process.env.INQUIRY_FROM ?? "website@irishlifeexperience.com" },
+      ...(opts.replyTo ? { reply_to: { email: opts.replyTo } } : {}),
+      subject: opts.subject,
+      content: [{ type: "text/plain", value: opts.text }],
+    }),
+  });
+
+  // SendGrid answers 202 Accepted and an empty body on success. On failure the
+  // body names the cause (unverified sender, bad key), which is worth logging.
+  if (!res.ok) {
+    throw new Error(`mail transport failed: ${res.status} ${await res.text()}`);
+  }
+}
+
+async function deliver(inquiry: Inquiry) {
   const lines = [
     `Source page: ${inquiry.source}`,
     `Name:        ${inquiry.firstName} ${inquiry.lastName}`,
@@ -57,44 +85,23 @@ async function deliver(inquiry: Inquiry) {
     inquiry.message ? `\nMessage:\n${inquiry.message}` : null,
   ].filter(Boolean);
 
-  const res = await fetch("https://api.resend.com/emails", {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${key}`,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      from: process.env.INQUIRY_FROM ?? "website@irishlifeexperience.com",
-      to: RECIPIENTS,
-      reply_to: inquiry.email,
-      subject: `Website inquiry — ${inquiry.firstName} ${inquiry.lastName}`,
-      text: lines.join("\n"),
-    }),
+  await sendMail({
+    subject: `Website inquiry — ${inquiry.firstName} ${inquiry.lastName}`,
+    text: lines.join("\n"),
+    replyTo: inquiry.email,
   });
-
-  if (!res.ok) throw new Error(`mail transport failed: ${res.status}`);
 }
 
 async function deliverRaw(formName: string, lines: string[], source: string) {
-  const key = process.env.RESEND_API_KEY;
-  if (!key || RECIPIENTS.length === 0) throw new Error("MAIL_NOT_CONFIGURED");
-
-  const res = await fetch("https://api.resend.com/emails", {
-    method: "POST",
-    headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" },
-    body: JSON.stringify({
-      from: process.env.INQUIRY_FROM ?? "website@irishlifeexperience.com",
-      to: RECIPIENTS,
-      subject: `${formName} — website submission`,
-      text: [`Form: ${formName}`, `Source page: ${source}`, "", ...lines].join("\n"),
-    }),
+  await sendMail({
+    subject: `${formName} — website submission`,
+    text: [`Form: ${formName}`, `Source page: ${source}`, "", ...lines].join("\n"),
   });
-  if (!res.ok) throw new Error(`mail transport failed: ${res.status}`);
 }
 
 function mailError(err: unknown) {
   if (err instanceof Error && err.message === "MAIL_NOT_CONFIGURED") {
-    console.error("Submission received but mail is not configured. Set RESEND_API_KEY and INQUIRY_TO.");
+    console.error("Submission received but mail is not configured. Set SENDGRID_API_KEY and INQUIRY_TO.");
     return NextResponse.json(
       { error: "The form isn't accepting messages yet. Please email us directly." },
       { status: 503 },
@@ -171,7 +178,7 @@ export async function POST(request: Request) {
   } catch (err) {
     if (err instanceof Error && err.message === "MAIL_NOT_CONFIGURED") {
       console.error(
-        "Inquiry received but mail is not configured. Set RESEND_API_KEY and INQUIRY_TO.",
+        "Inquiry received but mail is not configured. Set SENDGRID_API_KEY and INQUIRY_TO.",
       );
       return NextResponse.json(
         { error: "The form isn't accepting messages yet. Please email us directly." },
